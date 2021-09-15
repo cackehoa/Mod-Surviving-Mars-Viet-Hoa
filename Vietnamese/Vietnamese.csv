@@ -3464,8 +3464,8 @@ Green Planet Expansion
 - <em>Seeds</em> - a new resource to grow vegetation once the <em>Terraforming parameters</em> allow it. Choose what plants to grow depending on local <em>Soil Quality</em>.
 - <em>Disasters</em> - disasters will change as the terraforming of Mars advances.
 - <em>Breathe in the air</em> - terraform Mars and open your domes.",
-428742818526,New Update,
-562110201672,"Surviving Mars has been recently updated. You can check the full patch notes online, but here are few highlights:",
+428742818526,New Update,Cập nhật mới
+562110201672,"Surviving Mars has been recently updated. You can check the full patch notes online, but here are few highlights:","Surviving Mars đã được cập nhật gần đây. Bạn có thể kiểm tra toàn bộ ghi chú vá trực tuyến, nhưng đây là một số điểm nổi bật:"
 7116,OK,
 7115,Warning,Cảnh báo
 7117,Warning,Cảnh báo
@@ -3480,18 +3480,23 @@ Green Planet Expansion
 7122,Warning,Cảnh báo
 4188,The savegame is corrupted.,Trò chơi lưu bị lỗi.
 7123,Warning,Cảnh báo
-4168,Are you sure you want to exit the game?,
-5762,Exit game,
-7765,There is not enough storage space. Delete old save data or disable Autosave from the Options menu.,
-7766,The save data limit for this game was reached. Delete old save data or disable Autosave from the Options menu.,
-7881,Autosave failed.<newline>Error code: <error_code>.,
+4168,Are you sure you want to exit the game?,Bạn có muốn thoát khỏi trò chơi không?
+5762,Exit game,Thoát trò chơi
+7765,There is not enough storage space. Delete old save data or disable Autosave from the Options menu.,Không có đủ không gian lưu trữ. Xóa dữ liệu lưu cũ hoặc tắt tự động lưu từ menu tùy chọn.
+7766,The save data limit for this game was reached. Delete old save data or disable Autosave from the Options menu.,Đã đạt đến giới hạn lưu dữ liệu cho trò chơi này. Xóa dữ liệu lưu cũ hoặc tắt tự động lưu từ menu tùy chọn.
+7881,Autosave failed.<newline>Error code: <error_code>.,Tự động lưu không thành công.<newline>Mã lỗi: <error_code>.
 7130,Warning,Cảnh báo
 5768,"Everyone at Mission Control is impatient to see the rocket touching down and unloading its precious cargo - our remotely controlled eyes and hands on the Red Planet - the drones and rovers. Our goal is to secure a foothold for humanity by building the first Martian Dome. This daunting endeavor will allow the brave pioneers - the Founders - to settle on Mars and prove that the colony is sustainable. But until then we have to make sure the colony has enough construction resources, Water, Oxygen and Power.
 
 Mission Sponsor: <em><sponsor_name></em>
 
 Commander Profile: <em><commander_name></em>
-",
+","Mọi người tại điều khiển nhiệm vụ đều nôn nóng khi thấy tên lửa chạm xuống và dỡ hàng hóa quý giá của nó - đôi mắt và bàn tay được điều khiển từ xa của chúng ta trên Hành tinh Đỏ - Drone và Rover. Mục tiêu của chúng ta là đảm bảo chỗ đứng cho nhân loại bằng cách xây dựng mái vòm sao Hỏa đầu tiên. Nỗ lực khó khăn này sẽ cho phép những người tiên phong dũng cảm - những người sáng lập - định cư trên sao Hỏa và chứng minh rằng căn cứ này là bền vững. Nhưng cho đến lúc đó chúng ta phải đảm bảo căn cứ có đủ tài nguyên xây dựng, nước, ôxy và điện.
+
+Nhà tài trợ sứ mệnh: <em><sponsor_name></em>
+
+Hồ sơ chỉ huy: <em><commander_name></em>
+"
 5767,"Welcome to Mars, Commander!","Chào mừng đến với Sao Hỏa, Chỉ huy!"
 7828,Read the Terms of Use (opens a web browser),Đọc điều khoản sử dụng (mở trình duyệt web)
 7829,Read the Privacy Policy (opens a web browser),Đọc chính sách bảo mật (mở trình duyệt web)
@@ -3502,55 +3507,83 @@ Commander Profile: <em><commander_name></em>
 Before you get started, please take a moment to read our Terms of Use and Privacy Policy.","Chào mừng đến với Surviving Mars!
 
 Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để đọc Điều khoản sử dụng và Chính sách quyền riêng tư của chúng tôi."
-7826,Legal Agreements,
+7826,Legal Agreements,Thỏa thuận pháp lý
 7789,"While the Applicants who came to Mars were aware of the many risks that would await them, the near-criminal neglect from our side is something different. We cannot keep this information from the public – and opinions are swaying in the direction that our Colony is a “death trap”.
 
 This troublesome rumor deters many valuable candidates from coming to the new frontier – and these are people we desperately need to fulfill the great mission of colonizing Mars and bringing our vision of the future closer.
 
-<hint> Each time a Colonist dies from a non-natural death, <ApplicantsLostOnColonistDeath> Applicants leave the pool.",
-7788,A Mission In Jeopardy,
-8124,The recent Colonist deaths are a worrisome trend which cannot be ignored!,
+<hint> Each time a Colonist dies from a non-natural death, <ApplicantsLostOnColonistDeath> Applicants leave the pool.","Người nộp đơn đến Sao Hỏa nhận thức được nhiều rủi ro sẽ chờ đợi họ, thì sự bỏ mặc gần như tội phạm từ phía chúng ta là một điều gì đó khác biệt. Chúng ta không thể giữ thông tin này từ công chúng - và các ý kiến đang dao động theo hướng rằng căn cứ của chúng ta là “bẫy chết chóc”.
+
+Tin đồn rắc rối này ngăn cản nhiều ứng cử viên sáng giá đến với biên giới mới - và đây là những người mà chúng ta rất cần để hoàn thành sứ mệnh to lớn là căn cứ hóa sao Hỏa và đưa tầm nhìn về tương lai của chúng ta đến gần hơn.
+
+<hint> Mỗi khi một cư dân chết vì một cái chết không tự nhiên, người đăng ký <ApplicantsLostOnColonistDeath> sẽ rời khỏi vũng nước đục."
+7788,A Mission In Jeopardy,Nhiệm vụ trong Jeopardy
+8124,The recent Colonist deaths are a worrisome trend which cannot be ignored!,Những cái chết của cư dân gần đây là một xu hướng đáng lo ngại không thể bỏ qua!
 7736,"The dwindling resources on our planet, overpopulation and environmental crisis, as well as the risk of a global-scale Armageddon create a powerful argument for anyone doubting the importance of our mission.
 
 It is a well understood fact that it’s a matter of “when” not “if” for a major extinction event to happen. Having a self-sustaining population on a world other than Earth when the time comes should drastically increase humankind’s odds of survival.
 
-<goal><objective>",
-8125,Scientists and visionaries have promoted the idea of “Humanity as a multi-planetary species” as the only way to prevent a possible mass extinction.,
+<goal><objective>","Nguồn tài nguyên trên hành tinh của chúng ta đang cạn kiệt, dân số quá đông và khủng hoảng môi trường, cũng như nguy cơ xảy ra Tận thế quy mô toàn cầu tạo ra một lập luận mạnh mẽ cho bất kỳ ai nghi ngờ tầm quan trọng của sứ mệnh của chúng ta.
+
+Một thực tế được hiểu rõ rằng vấn đề là “khi nào” chứ không phải “nếu” cho một sự kiện tuyệt chủng lớn xảy ra. Việc có một dân số tự duy trì trên một thế giới khác ngoài Trái đất khi đến thời điểm sẽ làm tăng đáng kể tỷ lệ sống sót của loài người.
+
+<goal><objective>"
+8125,Scientists and visionaries have promoted the idea of “Humanity as a multi-planetary species” as the only way to prevent a possible mass extinction.,Nhà khoa học và những người có tầm nhìn xa đã thúc đẩy ý tưởng “Nhân loại là một loài đa hành tinh” như là cách duy nhất để ngăn chặn một vụ tuyệt chủng hàng loạt có thể xảy ra.
 7738,"But this failure shouldn't throw us into despair. We still have to strive to create a stable, self-sustaining foothold from which humanity would reach the stars and conquer them.
 
-<effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-8126,"We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.",
+<effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Nhưng thất bại này không nên ném chúng ta vào tuyệt vọng. Chúng ta vẫn phải cố gắng tạo ra một chỗ đứng ổn định và tự duy trì để từ đó nhân loại có thể vươn tới các vì sao và chinh phục chúng.
+
+<effect>Mục tiêu đánh giá nhiệm vụ không thành công - bạn có <count> cư dân trong số <target> hiện diện trên hành tinh. Điểm cuối cùng: <Score>."
+8126,"We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.","Chúng ta phải thừa nhận rằng chúng ta đã không hoàn thành được một trong những mục tiêu chính đặt ra trước nhiệm vụ của mình. Đáng buồn thay, chúng ta đã đánh giá thấp những khó khăn của việc duy trì một lượng lớn dân số trên Hành tinh Đỏ."
 7739,"Even that we didn't surpass the expectations, the stable trends of development of the colony are encouraging.
 
 Our achievement is still a tremendous success – we did something which no one imagined to be possible. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-8127,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,
+<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Ngay cả khi chúng ta không vượt quá mong đợi, xu hướng phát triển ổn định của căn cứ là đáng khích lệ.
+
+Thành tích của chúng ta vẫn là thành công to lớn - chúng ta đã làm được điều mà không ai có thể tưởng tượng được. Cư dân bây giờ sẽ là biểu tượng của hy vọng và khởi đầu mới, một bằng chứng cho thấy nhân loại sẽ kiên trì và sống tiếp tục bất chấp những thách thức mà chúng ta phải đối mặt.
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân trong số <target> hiện diện trên hành tinh. Điểm cuối cùng: <Score>."
+8127,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,Khi ngày đánh giá xuất hiện, chúng ta có thể nói rõ ràng rằng sứ mệnh lên sao Hỏa đã thành công.
 7740,"We managed not only to achieve our goals, but also to surpass all expectations as the size of our current Colony is far beyond the initial estimations. This day will be marked in human history by the importance of our accomplishment – we secured the future of humankind as interplanetary species. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-7735,Mission Evaluation: The Exodus,
-8128,Congratulations! Everyone at Mission Control rejoices as the Colony has been marked as “extremely successful” in the Evaluation Report.,
+<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Chúng ta đã cố gắng không chỉ để đạt được mục tiêu của mình mà còn vượt qua mọi kỳ vọng vì quy mô của căn cứ hiện tại của chúng ta vượt xa những ước tính ban đầu. Ngày này sẽ được ghi dấu trong lịch sử nhân loại bởi tầm quan trọng của thành tựu mà chúng ta đã đạt được - chúng ta đã đảm bảo tương lai của loài người với tư cách là loài liên hành tinh. Cư dân bây giờ sẽ là một biểu tượng của hy vọng và khởi đầu mới, một bằng chứng cho thấy nhân loại sẽ kiên trì và sống tiếp tục bất chấp những thách thức mà chúng ta phải đối mặt.
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân trong số <target> hiện diện trên hành tinh. Điểm cuối cùng: <Score>."
+7735,Mission Evaluation: The Exodus,Đánh giá sứ mệnh: Cuộc di cư
+8128,Xin chúc mừng! Mọi người tại điều khiển nhiệm vụ vui mừng vì căn cứ đã được đánh dấu là “cực kỳ thành công” trong báo cáo đánh giá.,
 7742,"New horizons open new possibilities. Mars can be viewed as a blank canvas – a hostile, uncultivated place where humanity can start anew. A fresh start needs new people – people born on Mars, raised in a society where people cooperate and fight the odds instead of each other.
 
-<goal><objective>",
-8129,"Our civilization, in all its glory, still bears the mark of obsolete cultural and ideological beliefs, from times when people didn't know any better. If we remain ignorant of our own flaws we risk destroying the future for our children.",
+<goal><objective>","Chân trời mới mở ra những khả năng mới. Sao Hỏa có thể được xem như một bức tranh trống - một nơi thù địch, hoang dã, nơi nhân loại có thể bắt đầu lại. Một khởi đầu mới cần những người mới - những người sinh ra trên sao Hỏa, lớn lên trong một xã hội nơi mọi người hợp tác  với nhau và thay vì chiến đấu lẫn nhau.
+
+<goal><objective>"
+8129,"Our civilization, in all its glory, still bears the mark of obsolete cultural and ideological beliefs, from times when people didn't know any better. If we remain ignorant of our own flaws we risk destroying the future for our children.","Nền văn minh của chúng ta, trong tất cả vinh quang của nó, vẫn mang dấu ấn của niềm tin văn hóa và ý thức hệ lỗi thời, từ thời kỳ mà con người không biết gì hơn. Nếu chúng ta vẫn không biết về sai sót của chính mình, chúng ta có nguy cơ phá hủy tương lai của con cái chúng ta."
 7743,"Martian birthrate trends are still susceptible to malicious undercurrents and the Colony depends largely on the arrival of Applicants from Earth.
 
 The Sponsors are disappointed that their program goal - a new human civilization on Mars - can't be achieved yet. Probably it was too early to expect that humanity can beat the odds of survival on such a hostile world and reach the level of everyday comfort required to start thinking about children and the future. The burden to disprove the evil tongues who would say this is impossible now lies on our shoulders. There's still work to be done
 
-<effect>Mission Evaluation objective failed - you have <count> Martianborn Colonists out of <target> present in the Colony. Final Score: <Score>.",
-8130,"The Mission Evaluation period is over and the progress we've made was marked as... sub-optimal, to say the least.",
+<effect>Mission Evaluation objective failed - you have <count> Martianborn Colonists out of <target> present in the Colony. Final Score: <Score>.","Xu hướng tỷ lệ sinh trên sao Hỏa vẫn dễ bị ảnh hưởng bởi các dòng điện độc hại và căn cứ phụ thuộc phần lớn vào sự xuất hiện của ứng viên từ trái đất.
+
+Nhà tài trợ thất vọng vì mục tiêu chương trình của họ - một nền văn minh nhân loại mới trên sao Hỏa - vẫn chưa thể đạt được. Có lẽ còn quá sớm để mong đợi rằng nhân loại có thể đánh bại cơ hội sống sót trong một thế giới thù địch như vậy và đạt đến mức độ thoải mái hàng ngày cần thiết để bắt đầu nghĩ về trẻ em và tương lai. Gánh nặng để bác bỏ điều tiếng xấu, người có thể nói rằng điều này là không thể bây giờ đang nằm trên vai chúng ta. Vẫn còn nhiều việc phải làm
+
+<effect>Mục tiêu đánh giá nhiệm vụ không thành công - bạn có <count> cư dân sao Hỏa trong số <target> hiện diện trong căn cứ. Điểm cuối cùng: <Score>."
+8130,"The Mission Evaluation period is over and the progress we've made was marked as... sub-optimal, to say the least.","Giai đoạn đánh giá nhiệm vụ đã kết thúc và tiến độ chúng ta đã đạt được được đánh dấu là... dưới mức tối ưu, ít nhất là nói như vậy."
 7744,"If we keep up the good work, in several generations the concept of the Martian civilization would exit the state of the hypothetical and become a reality.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.",
-8131,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,
+<effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.","Nếu chúng ta tiếp tục làm việc tốt, trong vài thế hệ, khái niệm về nền văn minh sao Hỏa sẽ thoát khỏi trạng thái giả định và trở thành hiện thực.
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân hiện diện trên hành tinh ngoài mục tiêu <target>. Điểm cuối cùng: <Score>."
+8131,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,Thời gian đánh giá nhiệm vụ đã kết thúc và kết quả chúng ta đạt được là khá khả quan.
 7745,"The number of Colonists born on Mars have reached beyond the wildest expectations! This solid base would serve us to promote new values of the new society, to allow the culture of the Red Planet to flourish and develop independent of the bad influence of Earth.
 
 The path ahead of us is rough and uncertain, but who knows, maybe one day the people on Earth would admire the achievements of the Martians in awe, learning from them.
 
-<effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.",
-7741,Mission Evaluation: A Fresh Start,
+<effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.","Số lượng cư dân sinh ra trên sao Hỏa đã vượt quá sự mong đợi! Cơ sở vững chắc này sẽ giúp chúng ta thúc đẩy các giá trị mới của xã hội mới, cho phép nền văn hóa của hành tinh Đỏ sinh sôi và phát triển độc lập khỏi ảnh hưởng xấu của Trái đất.
+
+Con đường phía trước của chúng ta còn nhiều chông gai và không chắc chắn, nhưng ai biết được, có thể một ngày nào đó, người trên Trái đất sẽ trầm trồ thán phục thành tựu của người sao Hỏa và học hỏi từ họ.
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân sao Hỏa hiện diện trên hành tinh ngoài mục tiêu <target>. Điểm cuối cùng: <Score>."
+7741,Mission Evaluation: A Fresh Start,Đánh giá sứ mệnh: Một khởi đầu mới
 8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,
 7747,"A new era of scientific discovery is ahead of us and we are the ones who are blessed with the opportunity to be on Mars – a completely new territory where new scientific discoveries lie behind the corner. We’re talking about new ideas which would sweep the human minds and the market and give us a tremendous head start in the future.
 
@@ -19132,7 +19165,7 @@ Bạn có muốn bật bản mod này không?"
 1000159,Escape,
 599355083725,Unlocked <white><unlocked> / <total>,Đã mở khóa <white><unlocked> / <total>
 345376930850,<OverviewInfo>,<OverviewInfo>
-862135144106,Gone Rogue,Đi lừa đảo
+862135144106,Gone Rogue,Trở thành giả mạo
 904592423533,BUILDINGS,Tòa nhà
 642090198735,Toggle filtering of inside buildings.,Chuyển đổi lọc tòa nhà bên trong
 367336674138,Inside Buildings,Tòa nhà bên trong
@@ -19295,7 +19328,7 @@ Thời gian hoàn hảo Sol <PerfectDeadline>
 11628,CRASH TEST,Kiểm tra sự cố
 328491723397,CLOSE,Đóng
 749348081133,<OverviewInfo>,<OverviewInfo>
-922380859639,Gone Rogue,Đi giả mạo
+922380859639,Gone Rogue,Trở thành giả mạo
 347194033198,<DomeName>,
 837650465667,<DomeSubtitle>,
 5446,PREVIOUS DOME,Mái vòm trước
@@ -19646,7 +19679,7 @@ Cảm ơn bạn đã làm cho Paradox tốt hơn và an toàn hơn."
 12412,Required DLC,Yêu cầu DLC
 12413,Required Mods,Yêu cầu Mod
 10132,TAGS,Tag
-933609987631,CHANGELOG,
+933609987631,CHANGELOG,Thay đổi nhật ký
 10488,v<ModVersion> - Released <Released>,v<ModVersion> - Phát hành <Released>
 10485,Search mods...,Tìm mod...
 12308,Create Account,Tạo tài khoản
@@ -19970,7 +20003,7 @@ Chi phí nghiên cứu<right><ResearchPoints(cost)>"
 208066612611,CLOSE,Đóng
 12790,INTERESTS,Sở thích
 12791,TRAITS,Đặc điểm
-12792,RESET FILTERS,Cài lại bộ lọc
+12792,RESET FILTERS,Đặt lại bộ lọc
 974775805233,Tourists,Khách du lịch
 771121148729,Holiday Rating,Xếp hạng ngày nghỉ
 12793,Traits,Đặc điểm
@@ -19990,47 +20023,52 @@ Chi phí nghiên cứu<right><ResearchPoints(cost)>"
 259870368403,Drone Hubs,Trung tâm Drone
 11632,Toggle filtering of Drone Hubs.,Chuyển đổi lọc trung tâm Drone.
 694591832026,DRONE HUBS,Trung tâm Drone
-397662043481,Drone Assemblers,Người lắp ráp Drone
-11633,Toggle filtering of Drone Assemblers.,Chuyển đổi lọc Người lắp ráp Drone.
-814571150239,DRONE ASSEMBLERS,Người lắp ráp Drone
+397662043481,Drone Assemblers,Lắp ráp Drone
+11633,Toggle filtering of Drone Assemblers.,Chuyển đổi lọc lắp ráp Drone.
+814571150239,DRONE ASSEMBLERS,Lắp ráp Drone
 296967872321,Rockets,Tên lửa
 11635,Toggle filtering of Rockets.,Chuyển đổi lọc tên lửa.
 216365787860,ROCKETS,Tên lửa
 951182332337,RC Rovers,RC Rovers
 11636,Toggle filtering of RC Rovers.,Chuyển đổi lọc RC Rovers.
 513103441365,RC ROVERS,RC Rovers
-606206203249,Shuttle Hubs,Trung tâm đưa đón
-11647,Toggle filtering of Shuttle Hubs.,
-9787,<left_click> Hide filtered objects,
-9788,<left_click> Show filtered objects,
-9789,<ButtonA> Hide filtered objects,
-9790,<ButtonA> Show filtered objects,
-9802,<RB> Inspect,
-418837943438,SHUTTLE HUBS,
+606206203249,Shuttle Hubs,Trung tâm tàu con thoi
+11647,Toggle filtering of Shuttle Hubs.,Chuyển năng lọc trung tâm tàu con thoi.
+9787,<left_click> Hide filtered objects,<left_click> Ẩn đối tượng đã lọc
+9788,<left_click> Show filtered objects,<left_click> Hiện đối tượng đã lọc
+9789,<ButtonA> Hide filtered objects,<ButtonA> Ẩn đối tượng đã lọc
+9790,<ButtonA> Show filtered objects,<ButtonA> Hiện đối tượng đã lọc
+9802,<RB> Inspect,<RB> Quan sát
+418837943438,SHUTTLE HUBS,Trung tâm tàu con thoi
 1000037,Name,Tên
-688745762460,Info,
-885629433850,Workload,
-1000178,Actions,
-9814,<white><count></white> TRANSPORTATION,
-12191,No objects to show.,
+688745762460,Info,Thông tin
+885629433850,Workload,Khối lượng công việc
+1000178,Actions,Hành động
+9814,<white><count></white> TRANSPORTATION,,<white><count></white> Vận chuyển
+12191,No objects to show.,Không có đối tượng để hiển thị.
 4254,BACK,Trở lại
-550362230354,RESET FILTERS,
-115984499466,<left_click><left_click> Select,
-764097870353,<ButtonA> Select,
+550362230354,RESET FILTERS,Đặt lại bộ lọc
+115984499466,<left_click><left_click> Select,<left_click><left_click> Chọn
+764097870353,<ButtonA> Select,<ButtonA> Chọn
 7305,<DisplayName>,
 982829389071,<resource(StoredAmount)>/<resource(max_shared_storage)>,<resource(StoredAmount)>/<resource(max_shared_storage)>
-860716957818,<left_click> Construct a new Shuttle<newline><right_click> Cancel a Shuttle construction,
+860716957818,<left_click> Construct a new Shuttle<newline><right_click> Cancel a Shuttle construction,<left_click> Xây tàu con thoi mới<newline><right_click> Hủy xây tàu con thoi
 9745,"<ButtonA> Construct a new Shuttle
-<ButtonX> Cancel a Shuttle construction",
+<ButtonX> Cancel a Shuttle construction","<ButtonA> Xây tàu con thoi mới
+<ButtonX> Hủy xây tàu con thoi"
 9746,"<left_click> Construct Drone Prefab
-<right_click> Cancel Drone Prefab",
+<right_click> Cancel Drone Prefab","<left_click> Xây Drone dựng sẵn
+<right_click> Hủy Drone dựng sẵn"
 9747,"<ButtonA> Construct Drone Prefab
-<ButtonX> Cancel Drone Prefab",
+<ButtonX> Cancel Drone Prefab","<ButtonA> Xây Drone dựng sẵn
+<ButtonX> Hủy Drone dựng sẵn"
 9748,"<left_click> Construct Biorobot
-<right_click> Cancel Biorobot",
+<right_click> Cancel Biorobot","<left_click> Xây Biorobot
+<right_click> Hủy Biorobot"
 9749,"<ButtonA> Construct Biorobot
-<ButtonX> Cancel Biorobot",
-892860717791,Gone Rogue,
+<ButtonX> Cancel Biorobot","<ButtonA> Xây Biorobot
+<ButtonX> Hủy Biorobot"
+892860717791,Gone Rogue,Trở thành giả mạo
 463510675096,<description>,<description>
 384759114882,<display_name>,<display_name>
 175928588179,<display_name>,<display_name>
