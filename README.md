@@ -1,5 +1,5 @@
 # Mod Surviving Mars Việt Hóa
-Đây là mod Mod Surviving Mars Viet Hoa phiên bản 1001514
+Đây là mod Mod Surviving Mars Việt Hóa phiên bản 1001514
 
 ## Lời nói đầu
 Mình là nông dân thích chơi trò chơi chỉ là trình độ tiếng Anh của mình khá kém. Mình cũng đã và đang cố học tiếng Anh nhưng quá già để có thể nhớ hết từ vựng. Vì vậy mình muốn dịch một tựa trò chơi để phục vụ cho bản thân mặt khác cũng có ý định share cho mọi người sử dụng. Nhưng thời gian mình có hạn nên sẽ cập nhật từ từ những lúc mình rãnh.
