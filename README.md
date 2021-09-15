@@ -18,7 +18,7 @@ Mình dịch trên phiên bản v.1001514 nên có thể không chạy hoặc c�
 
 ### Cài đặt mod
 
-- Tải tất cả thư mục [Vietnamese](https://github.com/cackehoa/Mod-Surviving-Mars-Viet-Hoa/Vietnamese/) trong này
+- Tải tất cả thư mục [Vietnamese](Vietnamese/) trong này
 - Copy và dán vào thư mục **AppData\Roaming\Surviving Mars\Mods**
 - Nếu không có thư mục **Mods** thì tạo thư mục **Mods** và dán thư mục **Vietnamese** vào
 - Khởi động game vào **PARADOX MOD MANAGER** -> **Installed Mods**
@@ -38,4 +38,4 @@ Discord: [Discord](https://discord.gg/Z5C98FG)
 
 Youtube: [Cắc kè hoa](https://www.youtube.com/c/Cắckèhoa)
 ## Giấy phép
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
