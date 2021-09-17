@@ -290,12 +290,12 @@ id <u(id)>, phiên bản <VersionText></color>"
 1000220,Refresh,Làm mới
 1000223,&Navigate,
 1000224,Edit in &New Window,
-1000225,&Home,
+1000225,&Home,&Trang chủ
 1000226,&Back,
 1000227,&Forward,
 1000228,Exit Application,Thoát ứng dụng
 1000229,Misc,
-1000230,Home,Nhà
+1000230,Home,Trang chủ
 1000231,Previous,Trước
 1000232,Next,Kế tiếp
 1000233,Copy,Sao chép
@@ -308,8 +308,8 @@ id <u(id)>, phiên bản <VersionText></color>"
 382402598842,AI Think,AI suy nghĩ
 115837567446,Play State Animation,Phát hoạt ảnh trạng thái
 111060602383,Play State Animation (Compensated),Phát hoạt ảnh trạng thái (Được bù)
-749081088941,Attach/Detach Object at selected SPot,
-412566026877,Save Animation Speed,
+749081088941,Attach/Detach Object at selected SPot,Đính kèm/Tháo đối tượng tại SPot đã chọn
+412566026877,Save Animation Speed,Lưu tốc độ hoạt ảnh
 829522779120,Menu,
 880746921689,Toggle Hex Shapes,Chuyển đổi dạng Hex
 508734065564,Use as filter,Sử dụng làm bộ lọc
@@ -318,24 +318,24 @@ id <u(id)>, phiên bản <VersionText></color>"
 12214,Start Register,Bắt đầu đăng ký
 12215,Continue Register,Tiếp tục đăng ký
 12216,Stop Register,Dừng đăng ký
-911432559058,Light model,
-733835524561,Lower Gain,
+911432559058,Light model,Mô hình ánh sáng
+733835524561,Lower Gain,Mức tăng thấp hơn
 623390947398,Save,Lưu
 400353986243,Open Folder,Mở thư mục
-186760604064,Test,
-487939677892,Help,
-306015437757,Upload to Paradox for Desktop,
-234002557625,Login to publish to Paradox,
-342669996355,Upload to Paradox for Desktop,
-339539320225,Upload to Paradox for all platforms,
-379115369068,Login to publish to Paradox,
-196944632345,Upload to Paradox for all platforms,
-672683736395,Unpublish from Paradox,
-749908082179,Login to unpublish from Paradox,
-997911637712,Unpublish from Paradox,
-455809784082,Upload to Steam,
-749974209361,Uploading to Steam is unavailable,
-1000757,Upload to Steam,
+186760604064,Test,Thử nghiệm
+487939677892,Help,Trợ giúp
+306015437757,Upload to Paradox for Desktop,Tải lên Paradox cho Máy tính để bàn
+234002557625,Login to publish to Paradox,Đăng nhập để xuất bản lên Paradox
+342669996355,Upload to Paradox for Desktop,Tải lên Paradox cho Máy tính để bàn
+339539320225,Upload to Paradox for all platforms,Tải lên Paradox cho tất cả nền tảng
+379115369068,Login to publish to Paradox,Đăng nhập để xuất bản lên Paradox
+196944632345,Upload to Paradox for all platforms,Tải lên Paradox cho tất cả nền tảng
+672683736395,Unpublish from Paradox,Hủy xuất bản khỏi Paradox
+749908082179,Login to unpublish from Paradox,Đăng nhập để hủy xuất bản khỏi Paradox
+997911637712,Unpublish from Paradox,Hủy xuất bản khỏi Paradox
+455809784082,Upload to Steam,Tải lên Steam
+749974209361,Uploading to Steam is unavailable,Tải lên Steam không khả dụng
+1000757,Upload to Steam,Tải lên Steam
 833734167742,Delete Item,Xóa mục
 1000872,Cut,Cắt
 1000873,Copy,Sao chép
@@ -371,16 +371,16 @@ id <u(id)>, phiên bản <VersionText></color>"
 382567554252,Slot,Vị trí
 283142739680,Game,Trò chơi
 699872370171,Condition,Điều kiện
-699377786748,Play,
+699377786748,Play,Chơi
 870588944932,New Sample,Mẫu mới
 294879472859,Rollover Mode,Chế độ cuộn
-464156353043,Inspect Focused Window,Kiểm tra Cửa sổ Tiêu điểm
-437848878733,Toggle Focus Logging,
-986049161052,Toggle Rollover Logging,
-741286422920,Toggle Context Logging,
+464156353043,Inspect Focused Window,Kiểm tra cửa sổ tiêu điểm
+437848878733,Toggle Focus Logging,Chuyển sang ghi nhật ký tiêu điểm
+986049161052,Toggle Rollover Logging,Chuyển đổi ghi nhật ký di chuột qua
+741286422920,Toggle Context Logging,Chuyển đổi ghi nhật ký theo ngữ cảnh
 12217,<NodeColor><class> <color 128 128 128><Id><PlacementText>,<NodeColor><class> <color 128 128 128><Id><PlacementText>
-1000252,New Update Available,
-1000253,Download & Install,
+1000252,New Update Available,Có bản cập nhật mới
+1000253,Download & Install,Tải về & cài đặt
 1000254,Cancel,Hủy
 1000255,Download error,Lỗi tải xuống
 1000256,"Download failed, please try again later.","Tải xuống không thành công, vui lòng thử lại sau."
@@ -389,8 +389,8 @@ id <u(id)>, phiên bản <VersionText></color>"
 1000259,<newline>sent <events_sent_ps> received <events_received_ps>,<newline>gửi <events_sent_ps> đã nhận được <events_received_ps>
 1000260,<newline>Advance limit <advance>(<more>),<newline>Hạn chế đề nghị <advance>(<more>)
 3568,Shadows,Đổ bóng
-3569,Textures,
-3570,Anisotropy,
+3569,Textures,Kết cấu
+3570,Anisotropy,Dị hướng
 3571,Effects,Hiệu ứng
 3572,Lights,Chiếu sáng
 3573,Postprocessing,Hậu xử lý
@@ -659,7 +659,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 3263,Zambia,
 3264,Zimbabwe,
 1000758,Select your country,Chọn quốc gia của bạn
-7712,Email,
+7712,Email,E-mail
 254784121325,Password,Mật khẩu
 4125,Country,Quốc gia
 7709,YYYY,
@@ -673,8 +673,8 @@ id <u(id)>, phiên bản <VersionText></color>"
 7720,Steam account,Tài khoản Steam
 7721,Microsoft account,Tài khoản Microsoft
 7722,account for PlayStation™Network,tài khoản cho PlayStation™Network
-1000809,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games and to grant you benefits based on games that you own. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink or log in to your Paradox Account on https://www.paradoxplaza.com and disconnect.",
-1000810,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink.",
+1000809,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games and to grant you benefits based on games that you own. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink or log in to your Paradox Account on https://www.paradoxplaza.com and disconnect.","Paradox Interactive sẽ liên kết <account_type> của bạn để cho phép bạn đăng nhập vào Tài khoản Paradox khi chơi các trò chơi của chúng tôi và cấp cho bạn lợi ích dựa trên các trò chơi mà bạn sở hữu. Nếu bạn không muốn sử dụng tính năng này nữa, hãy chuyển đến màn hình Tài khoản Paradox và hủy liên kết hoặc đăng nhập vào Tài khoản Paradox của bạn trên https://www.paradoxplaza.com và ngắt kết nối."
+1000810,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink.","Paradox Interactive sẽ liên kết <account_type> của bạn để cho phép bạn đăng nhập vào Tài khoản Paradox của mình khi chơi trò chơi của chúng tôi. Nếu bạn không muốn sử dụng tính năng này nữa, hãy chuyển đến màn hình Tài khoản Paradox và hủy liên kết."
 1000811,Logged in as: <email>,Đăng nhập bằng: <email>
 1000812,Linked to <account_type>,Đã liên kết với <account_type>
 1000813,Not linked to <account_type>,Không liên kết với <account_type>
@@ -685,9 +685,9 @@ id <u(id)>, phiên bản <VersionText></color>"
 
 <platform_specific_text>"
 1000814,Automatic Login,Đăng nhập tự động
-1000815,"You just logged in to your Paradox account, because it is linked to your <account_type>.",
-1000816,Unlink the Paradox account from the <account_type>,
-1000817,Link another Paradox account,
+1000815,"You just logged in to your Paradox account, because it is linked to your <account_type>.","Bạn vừa đăng nhập vào tài khoản Paradox của mình, vì nó được liên kết với <account_type> của bạn."
+1000816,Unlink the Paradox account from the <account_type>,Hủy liên kết tài khoản Paradox khỏi <account_type>
+1000817,Link another Paradox account,Liên kết tài khoản Paradox khác
 10427,January,Tháng 1
 10428,February,Tháng 2
 10429,March,Tháng 3
@@ -710,7 +710,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 3457,Fog Density,Mật độ sương mù
 8656,Depth of Field,Độ sâu trường
 8657,Focus Depth,Độ sâu tiêu điểm
-8658,Defocus Strength,
+8658,Defocus Strength,Độ mạnh lấy nét
 3458,Bloom Strength,
 1000739,"Welcome to Surviving Mars!
 
@@ -742,9 +742,9 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 1000803,Mod <ModLabel> was unpublished from Paradox for <os_name>,
 12460,Mod <u(name)> could not be installed. Error code: <u(err)>,
 1000755,<id> - <color 128 128 128><SortKey>,<id> - <color 128 128 128><SortKey>
-12221,[Last Entry] <action> by <user> at <timestamp>,
+12221,[Last Entry] <action> by <user> at <timestamp>,[Lần nhập cuối cùng] <action> bởi <user> tại <timestamp>
 1000767,<class>,<class>
-3595,Color,
+3595,Color,Màu
 1000261,Damaged savegame,Trò chơi lưu bị hỏng
 1000221,Damaged savegame,Trò chơi lưu bị hỏng
 1000760,Not Steam,Không phải Steam
@@ -780,8 +780,8 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 1000856,<sign><n><sep><d1>,<sign><n><sep><d1>
 1000857,<sign><n><sep><d1><d2>,<sign><n><sep><d1><d2>
 1000858,<sign><n><sep><d1><d2><d3>,<sign><n><sep><d1><d2><d3>
-1000163,<ButtonB> Skip,
-1000164,Escape: Skip,
+1000163,<ButtonB> Skip,<ButtonB> Bỏ qua
+1000164,Escape: Skip,Escape: Bỏ qua
 1000616,OK,
 1000246,Cancel,Hủy
 1000617,OK,
@@ -1281,7 +1281,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 5109,Art Store,Cửa hàng nghệ thuật
 5279,This building no longer requires Workers and operates at <upgrade1_add_value_2> Performance.,Tòa nhà này không cần Công nhân nữa và hoạt động tại <upgrade1_add_value_2> Hiệu suất.
 5280,Spacebar,
-5281,Spacebars,
+5281,Spacebars,Spacebar
 8816,VR Workshop,Xưởng VR
 8817,VR Workshops,Xưởng VR
 8818,A vocation building dedicated to the creation of virtual worlds. Workers receive Comfort and Morale boost and count towards the Workshop milestone. Consumes Electronics.,Tòa nhà có khuynh hướng điên cuồn dành riêng cho việc tạo ra thế giới ảo. Người lao động nhận được sự thoải mái và nâng cao tinh thần và được tính vào mốc Xưởng. Tiêu thụ điện tử.
@@ -1391,7 +1391,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 8880,Landing Pad,Bệ hạ cánh Pad
 8881,Landing Pads,Bệ hạ cánh Pad
 8882,A dedicated landing site that protects nearby buildings and vehicles from dust during Rocket landings and takeoffs.,Một bãi đáp chuyên dụng giúp bảo vệ các tòa nhà và phương tiện lân cận khỏi bụi trong quá trình Tên lửa hạ cánh và cất cánh.
-5123,MDS Lasers,
+5123,MDS Lasers,MDS Laser
 5124,Destroys any falling meteors in its range. Has a short cooldown between shots.,Phá hủy mọi thiên thạch rơi trong phạm vi của nó. Có thời gian hồi chiêu ngắn giữa các lần bắn.
 5208,Power Decoy,Mồi nhữ điện
 5209,Power Decoys,Mồi nhữ điện
@@ -1399,7 +1399,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 5230,Recharge Stations,Trạm bổ sung
 5231,Recharges Drone batteries.,Sạc pin Drone.
 5258,Sensor Towers,Tháp cảm biến
-5259,"Boosts scanning speed, especially for nearby sectors. Extends the advance warning for disasters.","Tăng tốc độ quét, đặc biệt là đối với các khu vực lân cận. Mở rộng cảnh báo trước cho các thảm họa."
+5259,"Boosts scanning speed, especially for nearby sectors. Extends the advance warning for disasters.","Tăng tốc độ quét, đặc biệt là đối với các khu vực lân cận. Mở rộng cảnh báo trước cho các thiên tai."
 5293,Subsurface Heater,Máy sưởi dưới bề mặt
 5294,Subsurface Heaters,Máy sưởi dưới bề mặt
 5295,Increases the local temperature in cold areas and protects nearby buildings from Cold Waves.,Làm tăng nhiệt độ cục bộ ở các khu vực lạnh giá và bảo vệ các tòa nhà gần đó khỏi Sóng lạnh.
@@ -1454,7 +1454,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 5194,Pipe Valves,Van ống
 5195,Can be manually activated to cut off Water and Oxygen supply.,Có thể được kích hoạt bằng tay để cắt nguồn cấp Nước và Oxy.
 5127,MOXIE,
-5128,MOXIEs,
+5128,MOXIEs,MOXIE
 5129,Produces Oxygen. No production during Dust Storms.,Tạo ra oxy. Không sản xuất trong Bão Bụi.
 5130,"MOXIE instruments, which employ MOXIE (short for Mars Oxygen In situ resource utilization Experiment) technology, produce Oxygen from the rich amounts of carbon dioxide in the Martian atmosphere.
 
@@ -1583,7 +1583,7 @@ Thiết bị hóa hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng h�
 7682,RC Commander,Chỉ huy RC
 5221,RC Commanders,Chỉ huy RC
 909543448687,RC Safari,
-238293722341,RC Safaris,
+238293722341,RC Safaris,RC Safari
 847551993712,Remote-controlled vehicle that takes Tourists on a Safari. Configure a route with waypoints near interesting sights to increase the Satisfaction awarded to Tourists.,Xe điều khiển từ xa đưa khách du lịch trên Safari. Định cấu hình tuyến đường với các điểm tham chiếu gần các điểm tham quan thú vị để tăng mức độ hài lòng cho Khách du lịch.
 5304,Universal Depots,Tổng kho
 5305,Stores <resource(max_storage_per_resource)> units of each transportable resource. Some resources will be transported to other depots within Drone range.,Cất giữ <resource(max_storage_per_resource)> đơn vị của mỗi tài nguyên có thể vận chuyển. Một số tài nguyên sẽ được vận chuyển đến các kho khác trong phạm vi Drone.
@@ -1710,15 +1710,15 @@ Thiết bị hóa hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng h�
 428191547831,Checks if there is a <Grid> grid fragment which can be broken,Kiểm tra xem có lưới <Grid> có thể bị phá vỡ không
 518869929446,Average comfort <Condition> <Amount>,Thoải mái trung bình <Condition> <Amount>
 908420357111,Average morale <Condition> <Amount>,Tinh thần trung bình <Condition> <Amount>
-992288615133,Deaths <NegText> <ReasonsText> > <Count> for the last <Sols> sols,Chết <NegText> <ReasonsText> > <Count> cho <Sols> sol cuối cùng
-385852291528,Deaths <NegText> <ReasonsText> <= <Count> for the last <Sols> sols,Chết <NegText> <ReasonsText> <= <Count> cho <Sols> sol cuối cùng
+992288615133,Deaths <NegText> <ReasonsText> > <Count> for the last <Sols> sols,Chết <NegText> <ReasonsText> > <Count> cho <Sols> sol cuối
+385852291528,Deaths <NegText> <ReasonsText> <= <Count> for the last <Sols> sols,Chết <NegText> <ReasonsText> <= <Count> cho <Sols> sol cuối
 676760774767,Shuttle count <Condition> <Amount>,Số lượng tàu con thoi <Condition> <Amount>
 303891774453,Founder stage completed,Giai đoạn sáng lập đã hoàn thành
 928179298037,Founder stage not completed,Giai đoạn sáng lập chưa hoàn thành
 300462549548,Colonist is <Trait>,Cư dân là <Trait>
 456006747006,Colonist is not <Trait>,Cư dân không là <Trait>
-446913221135,Colonist has a workplace,Cư dân có một nơi làm việc
-927853959924,Colonist does not have a workplace,Cư dân không có một nơi làm việc
+446913221135,Colonist has a workplace,Cư dân có nơi làm việc
+927853959924,Colonist does not have a workplace,Cư dân không có nơi làm việc
 860145923984,Is Associated Object,Là đối tượng được liên kết
 953147780365,Building is <BuildingClasses> <Templates>,Tòa nhà là <BuildingClasses> <Templates>
 961759549694,Building is not <BuildingClasses> <Templates>,Tòa nhà không là <BuildingClasses> <Templates>
@@ -1768,7 +1768,7 @@ Thiết bị hóa hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng h�
 270612783854,Erase <Count> shuttles,Xóa <Count> tàu con thoi
 933735714913,Explode Building,Nổ tòa nhà
 287830378375,Explodes a landed rocket,Nổ tên lửa hạ cánh
-154664865129,Extend disaster,Kéo dài thảm họa
+154664865129,Extend disaster,Kéo dài thiên tai
 104980592638,Trigger fireworks,Bắn pháo hoa
 146192347110,Force suicide,Buộc tự tử
 367754562004,Freeze building,Đóng băng tòa nhà
@@ -1802,7 +1802,7 @@ Thiết bị hóa hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng h�
 515848920780,Reward Wonder,Phần thưởng kỳ diệu
 299282262689,Set building breakdown state: <State>,Đặt trạng thái phá vỡ tòa nhà: <State>
 797591705344,Set building enabled state,Đặt trạng thái cho phép tòa nhà
-493919680976,Set building rogue state to <if(RogueState)>true</if><if(not(RogueState))>false</if>,Đặt trạng thái giả mạo của tòa nhà thành <if(RogueState)>đúng</if><if(not(RogueState))>sai</if>
+493919680976,Set building rogue state to <if(RogueState)>true</if><if(not(RogueState))>false</if>,Đặt trạng thái phản bội của tòa nhà thành <if(RogueState)>đúng</if><if(not(RogueState))>sai</if>
 591449963609,Set construction site state to <State>,Đặt trạng thái công trường thành <State>
 901351891863,Spawn <EffectType>,Sinh <EffectType>
 370871030467,Spawn rocket in orbit,Sinh tên lửa trong quỹ đạo
@@ -1907,7 +1907,7 @@ Thiết bị hóa hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng h�
 7015,"Great yield but grows slowly and depletes the soil, reducing the yield of the next crop","Năng suất lớn nhưng sinh trưởng chậm và làm cạn kiệt đất, giảm năng suất vụ sau"
 7014,Corn,Ngô
 6997,Giant Potatoes,Khoai tây khổng lồ
-8470,Extract the cure for the Wildfire Infection from these potatoes.,Trích xuất phương pháp chữa bệnh nhiễm trùng cháy từ củ khoai tây này.
+8470,Extract the cure for the Wildfire Infection from these potatoes.,Trích xuất phương pháp chữa bệnh nhiễm trùng Wildfire từ củ khoai tây này.
 8069,Curetatos,
 7018,"Good yield and grows very slowly but improves the soil, increasing the yield of the next crop","Năng suất tốt và phát triển rất chậm nhưng cải tạo đất, tăng năng suất vụ sau"
 7017,Fruit Trees,Cây ăn quả
@@ -2000,26 +2000,48 @@ They keep the Colony operational by being used for life-support, construction an
 
 There are two types of resources; <em>grid</em>  and <em>non-grid</em>.
 
-Grid resources use <em>Pipes</em> and <em>Cables</em> for distribution, while non-grid resources have to be moved around with <em>Drones</em> or <em>RC Transport</em>.",
+Grid resources use <em>Pipes</em> and <em>Cables</em> for distribution, while non-grid resources have to be moved around with <em>Drones</em> or <em>RC Transport</em>.","Tài nguyên hoặc được thu thập trực tiếp từ sao Hỏa, hoặc sau đó được sản xuất trong tòa nhà sản xuất tài nguyên - phổ biến nhất là từ các nguồn tài nguyên khác.
+
+Chúng giữ cho căn cứ hoạt động bằng cách được sử dụng để hỗ trợ sự sống, xây dựng và duy trì công trình.
+
+Có hai loại tài nguyên; <em>lưới</em>  và <em>không có lưới</em>.
+
+Sử dụng tài nguyên lưới <em>ống</em> và <em>cáp</em> để phân phối, trong khi tài nguyên ngoài lưới phải được di chuyển với <em>Drone</em> hoặc <em>Vận tải RC</em>."
 5381,"Concrete  <image UI/Icons/Sections/Concrete_1.tga>  is made by building <em>Concrete Extractors</em> on regolith deposits found all over the Martian surface. It is a basic building material and is used in a wide range of building types.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 On Mars, water is a rare and difficult to obtain commodity. As such, turning the Martian regolith into traditional, water based concrete was deemed unpractical very early on during the planning stages. Luckily, Mars is rich in another element with which a different type of concrete can be made – sulfur.
 
-Sulfur-based, waterless concrete is literally the foundation for every aspiring Martian city. Concrete Extractors placed on spots rich in sulfur in the Martian soil, dig up the sulfur-rich regolith and store it as ready to use mix. It is later transported and heated by our <em>Drones</em> on construction sites, turning it into strong and enduring concrete.",
+Sulfur-based, waterless concrete is literally the foundation for every aspiring Martian city. Concrete Extractors placed on spots rich in sulfur in the Martian soil, dig up the sulfur-rich regolith and store it as ready to use mix. It is later transported and heated by our <em>Drones</em> on construction sites, turning it into strong and enduring concrete.","Bê tông  <image UI/Icons/Sections/Concrete_1.tga> được sản xuất bởi tòa nhà <em>Máy chiết xuất bê tông</em> trên các trầm tích regolith được tìm thấy trên khắp bề mặt sao Hỏa. Nó là vật liệu xây dựng cơ bản và được sử dụng trong nhiều loại hình xây dựng.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Trên sao Hỏa, nước là một thứ hàng hóa hiếm và khó kiếm. Do đó, việc biến regolith trên sao Hỏa thành bê tông gốc nước, truyền thống đã được coi là không thực tế ngay từ rất sớm trong giai đoạn lập kế hoạch. May mắn thay, sao Hỏa rất giàu một nguyên tố khác có thể tạo ra một loại bê tông khác - lưu huỳnh.
+
+Bê tông không nước, gốc lưu huỳnh thực sự là nền tảng cho mọi thành phố trên sao Hỏa đầy tham vọng. Máy chiết xuất bê tông được đặt trên những điểm giàu lưu huỳnh trong đất sao Hỏa, đào đất trồng cây giàu lưu huỳnh và cất giữ như đã sẵn sàng để sử dụng. Sau đó, nó được vận chuyển và nung nóng bằng <em>Drone</em> của chúng ta trên công trường xây dựng, biến nó thành bê tông bền và chắc."
 5382,"Power  <image UI/Icons/Sections/electricity_1.tga>  is generated from several power generation facilities and is then delivered throughout the colony via power cables or between adjacent buildings. Excessive power can be stored in batteries for emergency situations.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 Electrical power on Mars comes mostly from renewable and cheap sources such as wind power (<em>Wind Turbine</em>) and sunlight (<em>Solar Panel</em>), but also from fission (<em>Stirling Generator</em>) and fusion based sources (<em>Fusion Reactor</em>) as the technology available advances. It is then distributed via an extensive and durable cable network. 
 
-<em> Power Switches</em> can be used to dynamically manage the flow of power in case of damaged cables or low power situations.",
+<em> Power Switches</em> can be used to dynamically manage the flow of power in case of damaged cables or low power situations.","Điện  <image UI/Icons/Sections/electricity_1.tga>  được tạo ra từ một số cơ sở sản xuất điện và sau đó được phân phối khắp căn cứ thông qua cáp điện hoặc giữa các tòa nhà liền kề. Điện dư thừa có thể được lưu trữ trong pin cho các tình huống khẩn cấp.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Năng lượng điện trên sao Hỏa chủ yếu đến từ các nguồn tái tạo và rẻ tiền như năng lượng gió (<em>Tua bin gió</em>) và ánh sáng mặt trời (<em>Năng lượng mặt trời</em>), nhưng cũng từ sự phân hạch (<em>Máy phát điện Stirling</em>) và tài nguyên dựa trên phản ứng tổng hợp (<em>Lò phản ứng nhiệt hạch</em>) như những tiến bộ công nghệ có sẵn. Sau đó, nó được phân phối qua một mạng cáp rộng khắp và bền bỉ.
+
+<em> Công tắc nguồn</em> có thể được sử dụng để quản lý động dòng điện trong trường hợp cáp bị hỏng hoặc tình huống điện năng thấp."
 5383,"Electronics <image UI/Icons/Sections/Electronics_1.tga> are manufactured in <em>Electronics Factories</em> from <em>Rare Metals</em> and are mainly used for vehicle operating buildings, like <em>Drone Hubs</em> and <em>Shuttle Hubs</em>. 
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Technology and electronics go hand in hand on Mars the same way as they have, and will continue to for centuries to come, on Earth.",
+Technology and electronics go hand in hand on Mars the same way as they have, and will continue to for centuries to come, on Earth.","Thiết bị điện tử <image UI/Icons/Sections/Electronics_1.tga> được sản xuất tại <em>Nhà máy điện tử</em> từ <em>Kim loại hiếm</em> và chủ yếu được sử dụng cho các tòa nhà điều hành xe, như <em>Trung tâm Drone</em> và <em>Trung tâm tàu con thoi</em>. 
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Công nghệ và điện tử song hành trên sao Hỏa giống như cách chúng có, và sẽ tiếp tục trong nhiều thế kỷ tới, trên Trái đất."
 5384,"Food <image UI/Icons/Sections/Food_1.tga> is grown on <em>Farms</em> and <em>Hydroponic Farms</em>, which are placed inside <em>Domes</em>, and also <em>Fungal Farms</em> which are placed outside of Domes.
 
 Farms and Hydroponic Farms can grow different crops with different cycle patterns. Furthermore some crops, like Algae, also generate oxygen for the Dome they are grown in. 
@@ -2028,51 +2050,95 @@ Farms and Hydroponic Farms can grow different crops with different cycle pattern
 
 Making the Martian soil fit for farming, even within the protection of Domes, takes heavy alterations. First, toxin removers are applied to rid the Martian regolith of toxic substances like perchlorates. Then, the use of chemical decompressors to break down common Martian compounds and make nutrients out of them is employed. And finally, specifically designed bacteria to further modify all nutrients made into a more plant-use friendly form, is introduced. 
 
-Growing food on Mars greatly decreases costs and dependency on Earth.",
+Growing food on Mars greatly decreases costs and dependency on Earth.","Thức ăn <image UI/Icons/Sections/Food_1.tga> được trồng trên <em>Trang trại</em> và <em>Trang trại thủy canh</em>, được đặt bên trong <em>Mái vòm</em>, và cả <em>Trang trại nấm</em> được đặt bên ngoài mái vòm.
+
+Trang trại và Trang trại thủy canh có thể trồng các loại cây trồng khác nhau với các mô hình chu kỳ khác nhau. Hơn nữa, một số loại cây trồng, như tảo, cũng tạo ra oxy cho Mái vòm mà chúng được trồng.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Việc làm cho đất trên sao Hỏa phù hợp để trồng trọt, ngay cả trong sự bảo vệ của mái vòm, cần phải có những thay đổi lớn. Đầu tiên, chất khử độc tố được áp dụng để loại bỏ các chất độc hại như peclorat trên sao Hỏa. Sau đó, việc sử dụng bộ giải nén hóa học để phá vỡ các hợp chất thông thường trên sao Hỏa và tạo ra các chất dinh dưỡng từ chúng được sử dụng. Và cuối cùng, vi khuẩn được thiết kế đặc biệt để sửa đổi thêm tất cả chất dinh dưỡng được tạo thành một dạng thân thiện với thực vật hơn, được giới thiệu.
+
+Việc trồng thực phẩm trên sao Hỏa giúp giảm đáng kể chi phí và sự phụ thuộc vào Trái đất."
 5385,"Fuel <image UI/Icons/Sections/Fuel_1.tga> is synthesized in <em>Fuel Refineries</em> and is used to for refueling <em>Rockets</em> bound for Earth, for keeping <em>Shuttle Hubs</em> operational and for polymer production.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Using the CO2 from the Martian atmosphere and hydrogen (from water) we can produce fuel to fly our rockets back to Earth. The process uses a series of relatively simple chemical reactions to produce methane and oxygen which are used as propellant for both our rockets and shuttles.",
+Using the CO2 from the Martian atmosphere and hydrogen (from water) we can produce fuel to fly our rockets back to Earth. The process uses a series of relatively simple chemical reactions to produce methane and oxygen which are used as propellant for both our rockets and shuttles.","Nhiên liệu <image UI/Icons/Sections/Fuel_1.tga> được tổng hợp trong <em>Nhà máy lọc nhiên liệu</em> và được sử dụng để tiếp nhiên liệu <em>tên lửa</em> ràng buộc đối với Trái đất, để giữ <em>trung tâm tàu con thoi</em> hoạt động và sản xuất polyme.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Sử dụng CO2 từ khí quyển sao Hỏa và hydro (từ nước), chúng ta có thể sản xuất nhiên liệu để đưa tên lửa của mình trở lại Trái đất. Quá trình này sử dụng một loạt các phản ứng hóa học tương đối đơn giản để tạo ra khí mê-tan và oxy được sử dụng làm chất đẩy cho cả tên lửa và tàu con thoi của chúng ta."
 5387,"Machine Parts  <image UI/Icons/Sections/MachineParts_1.tga> are manufactured in <em>Machine Parts Factories</em> from <em>Metal</em> and are mainly used in both the construction and maintaining of the sophisticated resource Extractors on Mars.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 Back on Earth, we humans are dependent on machines to sustain our advanced way of life; to power our industries and make possible our vast transportation systems. Here on Mars machines are also tasked with making life possible to begin with, on top of potentially maintaining all of their previous obligations.
 
-Smart design processes and accepted standards have made possible the stockpiling of Machine Parts that could be used in an array of instruments upon demand. Machine Parts could be delivered from Earth to meet the needs of any fledgling colony. But a hefty and reliable supply, one obtained only by having them manufactured on site, will be the foundation to bringing our Earthly way of life to the Martian dream city.",
-5386,Machine Parts,
+Smart design processes and accepted standards have made possible the stockpiling of Machine Parts that could be used in an array of instruments upon demand. Machine Parts could be delivered from Earth to meet the needs of any fledgling colony. But a hefty and reliable supply, one obtained only by having them manufactured on site, will be the foundation to bringing our Earthly way of life to the Martian dream city.","Linh kiện máy  <image UI/Icons/Sections/MachineParts_1.tga> được sản xuất tại <em>Nhà máy linh kiện máy</em> từ <em>kim loại</em> và chủ yếu được sử dụng trong cả việc xây dựng và duy trì các Máy chiết xuất tài nguyên tinh vi trên sao Hỏa.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Trở lại trái đất, con người chúng ta phụ thuộc vào máy móc để duy trì lối sống tiên tiến của chúng ta; để cung cấp năng lượng cho các ngành công nghiệp của chúng ta và cải tiến hệ thống giao thông vận tải rộng lớn của chúng ta. Ở đây, cỗ máy trên sao Hỏa cũng được giao nhiệm vụ làm cho cuộc sống có thể bắt đầu, ngoài khả năng duy trì tất cả các nghĩa vụ trước đây của chúng.
+
+Quy trình thiết kế thông minh và các tiêu chuẩn được chấp nhận đã giúp dự trữ linh kiện máy có thể được sử dụng trong một loạt các thiết bị theo yêu cầu. Linh kiện máy có thể được chuyển từ Trái đất để đáp ứng nhu cầu của bất kỳ căn cứ non trẻ nào. Nhưng một nguồn cung khổng lồ và đáng tin cậy, một nguồn cung chỉ có được bằng cách sản xuất tại chỗ, sẽ là nền tảng để đưa lối sống trên Trái đất của chúng ta đến với thành phố mơ ước trên sao Hỏa."
+5386,Machine Parts,Linh kiện máy
 5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Orbital Probes</em> or <em>Sensor Towers</em>) which can be then mined with <em>Metal Extractors</em>.
 
 Metal is a basic building material and is used in a wide range of buildings. It is also used for manufacturing <em>Machine Parts</em>.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Since very early in human history, metals play a vital role in the art of creation. From simple copper tools and nails, to iron decorations to entire structures made out of steel. It would seem their role is not exhausted only on Earth, but will continue to serve as an accessible and vital resource for all our needs on Mars as well.",
+Since very early in human history, metals play a vital role in the art of creation. From simple copper tools and nails, to iron decorations to entire structures made out of steel. It would seem their role is not exhausted only on Earth, but will continue to serve as an accessible and vital resource for all our needs on Mars as well.","Kim loại  <image UI/Icons/Sections/Metals_1.tga>  được tìm thấy dễ dàng trên bề mặt sao Hỏa, lắng đọng từ hoạt động kiến tạo cổ đại và các vụ nổ thiên thạch. Có thể tìm thấy thêm chất lắng đọng bên dưới bề mặt (bởi một trong hai <em>Đầu dò quỹ đạo</em> hoặc <em>Tháp cảm biến</em>) sau đó có thể được khai thác với <em>Máy chiết xuất kim loại</em>.
+
+Kim loại là vật liệu xây dựng cơ bản và được sử dụng trong nhiều loại công trình. Nó cũng được sử dụng để sản xuất <em>Linh kiện máy</em>.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Từ rất sớm trong lịch sử loài người, kim loại đóng một vai trò quan trọng trong nghệ thuật sáng tạo. Từ các công cụ và đinh đơn giản bằng đồng, đồ trang trí bằng sắt đến toàn bộ cấu trúc làm bằng thép. Có vẻ như vai trò của chúng không chỉ cố định trên Trái đất, mà sẽ tiếp tục đóng vai trò là nguồn tài nguyên quan trọng và có thể tiếp cận được cho mọi nhu cầu của chúng ta trên sao Hỏa."
 5389,"Oxygen  <image UI/Icons/Sections/Oxygen_1.tga>  is essential for humans to linger and call Mars their home. It can be produced using the sophisticated <em>MOXIE</em> buildings, and later on naturally generated from crops.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 Oxygen is the most short term life support resource. If colonists are left without oxygen they will die extremely fast. And while Mars’s atmosphere has little to no Oxygen, what it does provide is an abundance of Carbon Dioxide, which our brilliant MOXIE technology can convert to the much needed Oxygen. 
 
-Like water, it is supplied and distributed via pipes networks, in fact, sharing the same pipes used for water distribution.",
+Like water, it is supplied and distributed via pipes networks, in fact, sharing the same pipes used for water distribution.","Ôxy  <image UI/Icons/Sections/Oxygen_1.tga> là điều cần thiết để con người có thể nán lại và gọi sao Hỏa là nhà của họ. Nó có thể được sản xuất bằng cách sử dụng tòa nhà <em>MOXIE</em>, và sau này được tạo ra tự nhiên từ cây trồng.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Ôxy là nguồn hỗ trợ sự sống ngắn hạn nhất. Nếu cư dân bị bỏ mặc mà không có ôxy, họ sẽ chết rất nhanh. Và trong khi bầu khí quyển của sao Hỏa có rất ít hoặc không có ôxy, những gì nó cung cấp là một lượng Carbon dioxide dồi dào, mà công nghệ MOXIE tuyệt vời của chúng ta có thể chuyển đổi thành ôxy rất cần thiết.
+
+Giống như nước, chúng được cung cấp và phân phối thông qua các mạng lưới đường ống, trên thực tế, sử dụng chung các đường ống được sử dụng để phân phối nước."
 5390,"Polymers  <image UI/Icons/Sections/Polymers_1.tga>  can be naturally obtained from obsidian scattered on the Martian surface and, once colonists have settled, can also be synthesized in <em>Polymer Factories</em>. It is mainly used for the construction of power accumulators, <em>Domes</em> and Spires.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Some of the most important and widely used materials on Earth are made from polymers. While the dependency on such materials on Mars is artificially circumvented as much as possible due to the scarcity of the molecule (unlike Earth, Mars has no fossil fuel reserves to act as a polymer source), their importance cannot be avoided all together. Plastics, rubbers and more advanced insulation have a fundamental role to play in creating and maintaining pressure differentials between habitats and external areas.",
+Some of the most important and widely used materials on Earth are made from polymers. While the dependency on such materials on Mars is artificially circumvented as much as possible due to the scarcity of the molecule (unlike Earth, Mars has no fossil fuel reserves to act as a polymer source), their importance cannot be avoided all together. Plastics, rubbers and more advanced insulation have a fundamental role to play in creating and maintaining pressure differentials between habitats and external areas.","Polymer  <image UI/Icons/Sections/Polymers_1.tga>  có thể thu được một cách tự nhiên từ obsidian nằm rải rác trên bề mặt sao Hỏa và, một khi những cư dân đã định cư, cũng có thể được tổng hợp trong <em>Nhà máy Polymer</em>. Nó chủ yếu được sử dụng để chế tạo bộ tích điện, <em>máy vòm</em> và Spires.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Một số vật liệu quan trọng nhất và được sử dụng rộng rãi trên Trái đất được làm từ polyme. Mặc dù sự phụ thuộc vào các vật liệu như vậy trên sao Hỏa là do nhân tạo do sự khan hiếm của phân tử (không giống như Trái đất, sao Hỏa không có dự trữ nhiên liệu hóa thạch để hoạt động như một nguồn polyme), tầm quan trọng của chúng không thể tránh khỏi cùng nhau. Chất dẻo, cao su và vật liệu cách nhiệt cao cấp hơn có vai trò cơ bản trong việc tạo ra và duy trì chênh lệch áp suất giữa môi trường sống và khu vực bên ngoài."
 5391,"Rare metals  <image UI/Icons/Sections/PreciousMetals_1.tga>  are found only in underground deposit sites and need <em>Rare Metal Extractors</em> to mine them. They are mostly used for manufacturing electronics and for exporting back to Earth.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-After millennia of acting as a status symbol, in modern times rare metals are widely used in electronics and for medical procedures. Still, although one of the vital elements of the Information, and subsequently the Space Ages, precious metals still retain their monetary role.",
+After millennia of acting as a status symbol, in modern times rare metals are widely used in electronics and for medical procedures. Still, although one of the vital elements of the Information, and subsequently the Space Ages, precious metals still retain their monetary role.","Kim loại hiếm  <image UI/Icons/Sections/PreciousMetals_1.tga>  chỉ được tìm thấy trong địa điểm trầm tích ngầm và cần <em>Máy chiết xuất kim loại hiếm</em> khai thác chúng. Chúng chủ yếu được sử dụng để sản xuất thiết bị điện tử và xuất khẩu trở lại Trái đất.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Sau hàng thiên niên kỷ đóng vai trò như một biểu tượng trạng thái, trong thời hiện đại, kim loại hiếm được sử dụng rộng rãi trong điện tử và thủ thuật y tế. Tuy nhiên, mặc dù là một trong những yếu tố quan trọng của thông tin, và sau đó là Thời đại không gian, kim loại quý vẫn giữ vai trò tiền tệ của chúng."
 5392,"Water <image UI/Icons/Sections/Water_1.tga> on Mars can processed with <em>Moisture Vaporators</em> or harvested from subsurface permafrost deposits via <em>Water Extractors</em>. It is distributed via a pipe network, which it shares with the distribution of <em>Oxygen</em>.
 
 Apart from being essential for supporting life inside Domes and field buildings that have human operators, water is used for the synthesizing process of polymers and rocket fuel.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The most important ingredient for life as we know it to exist is by no means scarce on Mars. However, it is mostly frozen and underground, making it difficult for acquiring. As bringing the water needed to sustain a city on Mars back from Earth will be a huge burden on every craft and far from efficient, constructing a steady water supply solely by harnessing water ice found on Mars is absolutely essential for the survival of any colony. ",
+The most important ingredient for life as we know it to exist is by no means scarce on Mars. However, it is mostly frozen and underground, making it difficult for acquiring. As bringing the water needed to sustain a city on Mars back from Earth will be a huge burden on every craft and far from efficient, constructing a steady water supply solely by harnessing water ice found on Mars is absolutely essential for the survival of any colony. ","Nước <image UI/Icons/Sections/Water_1.tga> trên sao Hỏa có thể được xử lý với <em>Máy hóa hơi ẩm</em> hoặc thu hoạch từ trầm tích lớp băng vĩnh cửu dưới bề mặt thông qua <em>Máy chiết xuất nước</em>. Nó được phân phối thông qua một mạng đường ống, mà nó chia sẻ với việc phân phối <em>ôxy</em>.
+
+Ngoài việc cần thiết để hỗ trợ cuộc sống bên trong mái vòm và các tòa nhà có con người vận hành, nước còn được sử dụng cho quá trình tổng hợp polyme và nhiên liệu tên lửa.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Thành phần quan trọng nhất để sự sống tồn tại như chúng ta biết là không hề khan hiếm trên sao Hỏa. Tuy nhiên, nó hầu hết đều bị đóng băng và nằm dưới lòng đất, gây khó khăn cho việc khai thác. Mang lượng nước cần thiết để duy trì một thành phố trên sao Hỏa từ Trái đất sẽ là gánh nặng lớn đối với mọi nghề thủ công và không hiệu quả, việc xây dựng nguồn cung nước ổn định chỉ bằng cách khai thác băng nước được tìm thấy trên sao Hỏa là hoàn toàn cần thiết cho sự tồn tại của bất kỳ căn cứ nào."
 5395,"Conditions on Mars are utterly hostile for humans to roam and work freely outside of <em>Domes</em>. This is why heavy-duty vehicles have been designed to tackle the tasks that humans can't.
 
 Vehicles are either remote-controlled <em>Rovers</em> or semi-autonomous <em>Drones</em> and <em>Shuttles</em>.",
@@ -2140,10 +2206,12 @@ The Safari Rovers were created to give tourists an unforgettable experience to s
 542076487006,RC Safari,
 5403,"Hints explain the basic mechanics of the game and will appear contextually as you play. All hints are also available in this Encyclopedia section.
 
-Hints can be turned on or off from the <em>Gameplay</em> menu in <em>Options</em>",
-5406,The core mechanics of <em>Surviving Mars</em> explained.,
-5404,Game Mechanics,
-5405,GAME MECHANICS,
+Hints can be turned on or off from the <em>Gameplay</em> menu in <em>Options</em>","Gợi ý giải thích cơ chế cơ bản của trò chơi và sẽ xuất hiện theo ngữ cảnh khi bạn chơi. Tất cả các gợi ý cũng có sẵn trong phần Bách khoa toàn thư này.
+
+Các gợi ý có thể được bật hoặc tắt từ menu <em>Gameplay</em> trong <em>Tùy chọn</em>"
+5406,The core mechanics of <em>Surviving Mars</em> explained.,Cơ chế cốt lõi của <em>Surviving Mars</em> được giải thích.
+5404,Game Mechanics,Cơ học trò chơi
+5405,GAME MECHANICS,Cơ học trò chơi
 5408,"All buildings deteriorate over time. When a building's maintenance bar is filled a drone is dispatched to bring the required maintenance resource and service the building. If the resource is not supplied within a Sol the building will stop operating until the maintenance resource is delivered and the building serviced.
 
 Martian dust and disasters contribute to the deterioration of buildings outside of Domes.
@@ -2305,8 +2373,8 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 156769780909,More Tourists,
 380143816581,"<grey>""The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.""
 <right>Rachel Carson</grey><left>",
-245514419248,Disables all disasters (excluding those coming from mysteries),
-528641942799,No Disasters,
+245514419248,Disables all disasters (excluding those coming from mysteries),Vô hiệu hóa tất cả thiên tai (trừ thiên tai đến từ bí ẩn)
+528641942799,No Disasters,Không có thiên tai
 434908076554,"<grey>""I'd far rather be happy than right any day.""<newline><right>Douglas Adams</grey><left>",
 257098792742,"Adds $100,000M Funding. <NoAchievements()>",
 463616041641,Overfunded,
@@ -2620,13 +2688,17 @@ Consider constructing <em>Recharge Stations</em> where such problems occur to pr
 Cân nhắc xây <em>Trạm bổ xung</em> nơi những vấn đề như vậy xảy ra để ngăn chặn điều này trong tương lai."
 5544,"Sensor Towers significantly boost your scanning speed for nearby Sectors. They also give advance warning for disasters.
 
-Note that <em>Sensor Towers</em> require electrical Power that must be provided by a Power generating building such as a <em>Large Solar Panel</em>.",
-5543,Suggested Building: Sensor Tower,
+Note that <em>Sensor Towers</em> require electrical Power that must be provided by a Power generating building such as a <em>Large Solar Panel</em>.","Tháp cảm biến tăng đáng kể tốc độ quét của bạn cho khu vực lân cận. Chúng cũng đưa ra cảnh báo trước cho thiên tai.
+
+Lưu ý rằng <em>Tháp cảm biến</em> biến yêu cầu điện phải được cung cấp bởi tòa nhà phát điện như <em>Năng lượng mặt trời lớn</em>."
+5543,Suggested Building: Sensor Tower,Tòa nhà được đề xuất: Tháp cảm biến
 5547,"Your first Sensor Tower is now completed. It will significantly boost the speed for scanning sectors nearby.
-To add a sector to the scanning queue, go to the <em>Overview mode</em> and press <ButtonY> on the desired sector. ",
+To add a sector to the scanning queue, go to the <em>Overview mode</em> and press <ButtonY> on the desired sector. ","Tháp cảm biến đầu tiên của bạn đã hoàn thành. Nó sẽ thúc đẩy đáng kể tốc độ quét khu vực lân cận.
+Để thêm khu vực vào hàng đợi quét, hãy chuyển đến <em>Chế độ tổng quan</em> và nhấn <ButtonY> trên khu vực mong muốn. "
 5546,"Your first Sensor Tower is now completed. It will significantly boost the speed for scanning Sectors nearby.
-To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <left_click> on the desired sector.",
-5545,Scanning Sectors,
+To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <left_click> on the desired sector.","Tháp cảm biến đầu tiên của bạn đã hoàn thành. Nó sẽ thúc đẩy đáng kể tốc độ quét khu vực lân cận.
+Để thêm khu vực vào hàng đợi quét, hãy chuyển đến <em>Chế độ tổng quan</em> và <left_click> trên khu vực mong muốn."
+5545,Scanning Sectors,Khu vực quét
 5549,The Drone Hub is a stationary command center that can control more Drones than the <em>RC Commander</em>. Consider constructing a Drone Hub in each of your major outposts.,
 5548,Suggested Building: Drone Hub,
 5550,"A Dust Storm has started. It will contaminate all your buildings and Drones with dust, potentially causing malfunctions. <em>Solar Panels</em>, <em>MOXIEs</em> and <em>Moisture Vaporators</em> will not work during Dust Storms, while <em>Wind Turbines</em> will generate more Power.",
@@ -2757,11 +2829,11 @@ Bây giờ, hãy tăng tốc độ trò chơi để Drone thu thập các kim lo
 9043,Open the Build Menu with <ButtonY> and select the <em>Universal Depot</em> by following the arrows. Then place it near your Rocket.,Mở Menu xây dựng với <ButtonY> và chọn <em>Tổng kho đa năng</em> bằng cách làm theo các mũi tên. Sau đó, đặt nó gần tên lửa của bạn.
 9042,<OpenBuildMenuTutorialHint2()>. Then place it near your Rocket.,<OpenBuildMenuTutorialHint2()>. Sau đó đặt nó gần tên lửa của bạn.
 5303,Universal Depot,Tổng kho đa năng
-9045,Open the Build Menu with <ButtonY> and choose a <em>Concrete Extractor</em> from the Production category.,Mở Menu xây dựng với <ButtonY> và chọn <em>Máy trích xuất bê tông</em> từ danh mục sản xuất.
+9045,Open the Build Menu with <ButtonY> and choose a <em>Concrete Extractor</em> from the Production category.,Mở Menu xây dựng với <ButtonY> và chọn <em>Máy chiết xuất bê tông</em> từ danh mục sản xuất.
 9044,<OpenBuildMenuTutorialHint3()>.,<OpenBuildMenuTutorialHint3()>.
 9047,"Place the <em>Concrete Extractor</em> near the indicated location. Remember to also rotate the building.
 
-The <em>info panel</em> on the right side of the screen holds important information like controls for rotating buildings and placing multiple instances of the same building.","Đặt <em>Máy trích xuất bê tông</em> gần vị trí được chỉ định. Hãy nhớ cũng xoay tòa nhà.
+The <em>info panel</em> on the right side of the screen holds important information like controls for rotating buildings and placing multiple instances of the same building.","Đặt <em>Máy chiết xuất bê tông</em> gần vị trí được chỉ định. Hãy nhớ cũng xoay tòa nhà.
 
 <em>Bảng thông tin</em> ở phía bên phải của màn hình chứa thông tin quan trọng như điều khiển để xoay các tòa nhà và đặt nhiều phiên bản của cùng một tòa nhà."
 9049,"Remember, the construction will finish more quickly on the fastest game speed.","Hãy nhớ rằng, việc xây dựng sẽ hoàn thành nhanh hơn trên tốc độ trò chơi nhanh nhất."
@@ -3094,9 +3166,9 @@ Sử dụng <RT> để tập trung Bảng thông tin của mái vòm."
 9215,"From the Research screen, select the <em>Extractor Amplification</em> research.","Từ màn hình nghiên cứu, hãy chọn nghiên cứu <em>Khuếch đại chiết xuất</em>."
 10282,Wait for the Extractor Amplification research to complete.,Chờ nghiên cứu khuếch đại chiết xuất hoàn tất.
 9214,Research Upgrade,Nghiên cứu nâng cấp
-9218,<em>Upgrade</em> the Water Extractor building by following the indicators.,<em>Nâng cấp</em> xây Máy trích xuất nước bằng cách tuân theo các chỉ số.
+9218,<em>Upgrade</em> the Water Extractor building by following the indicators.,<em>Nâng cấp</em> xây Máy chiết xuất nước bằng cách tuân theo các chỉ số.
 9792,Now wait for Drones to bring the resources needed to complete the <em>Upgrade</em>.,Bây giờ, hãy đợi Drone cung cấp tài nguyên cần thiết để hoàn thành <em>Nâng cấp</em>.
-9217,Upgrade Extractor,Nâng cấp trích xuất
+9217,Upgrade Extractor,Nâng cấp chiết xuất
 9750,Nice Work!,Công việc tốt đẹp!
 9221,Open the <em>Command Center</em> from the <LT> menu. Browse through and when you have familiarized yourself with it close it to finish this tutorial.,
 9220,Open the <em>Command Center</em> via the HUD button. Browse through and when you have familiarized yourself with it close it to finish this tutorial.,
@@ -3278,8 +3350,8 @@ Sử dụng <RT> để tập trung Bảng thông tin của mái vòm."
 5660,Another Dredger has landed on Mars,Tàu nạo vét khác đã hạ cánh trên sao Hỏa
 7440,Remaining duration: Unknown,Thời lượng còn lại: Không xác định
 7439,Mysterious Mirages,Ảo ảnh bí ẩn
-7061,Rogue Drones: <count>,Drone giả mạo: <count>
-7060,Rogue Drones are attacking!,Drone giả mạo đang tấn công!
+7061,Rogue Drones: <count>,Drone phản bội: <count>
+7060,Rogue Drones are attacking!,Drone phản bội đang tấn công!
 7567,Buildings destroyed: <count>,Tòa nhà bị phá hủy: <count>
 7566,Hostile attack,Tấn công thù địch
 7569,Number Six has sabotaged the Explorer,Số sáu đã phá hoại Thám hiểm
@@ -3372,7 +3444,7 @@ Nhờ có bạn, nhân loại có một tương lai mới, một con đường m
 Concrete extractors must be placed over or within proximity to sulfur-rich regolith deposits. Like many other colony buildings, concrete extractors will require Power and regular maintenance from Drones.","Nhiều tòa nhà căn cứ yêu cầu Bê tông để xây. Do trọng lượng nặng của vật liệu mà việc nhập khẩu liên tục từ Trái đất là không thực tế về lâu dài và chúng ta phải đảm bảo sản xuất của nó ở căn cứ.
 
 Máy tách bê tông phải được đặt gần hoặc gần với các mỏ chứa regolith giàu lưu huỳnh. Giống như nhiều tòa nhà căn cứ khác, máy chiết xuất bê tông sẽ yêu cầu Nguồn điện và bảo trì thường xuyên từ Drone."
-5518,Suggested Building: Concrete Extractor,Tòa nhà được đề xuất: Máy tách bê tông
+5518,Suggested Building: Concrete Extractor,Tòa nhà được đề xuất: Máy chiết xuất bê tông
 152511844749,"Commander, did you know that you can open the Build Menu with <right_click> or <em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em>?
 
 This is quicker and more efficient than using the HUD button.","Chỉ huy, bạn có biết rằng bạn có thể mở Menu xây dựng bằng <right_click> or <em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em>?
@@ -3428,31 +3500,40 @@ Các tòa nhà sau đây không hoạt động trong Bão Bụi:
 - MOXIEs
 - Máy hóa hơi ẩm
 - Bảng năng lượng mặt trời bên ngoài Mái vòm"
-4250,Dust Storm,
+4250,Dust Storm,Bão bụi
 10478,"The region is about to experience a Meteor Storm. Buildings directly hit by meteors will be in need of repairs in order to function again while Pipes and Cables will get destroyed. Rovers hit by meteors will also need repairs while Drones may become irreversibly damaged. 
 
-Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.",
-5620,Meteor Storm,
+Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.","Khu vực sắp trải qua Bão sao băng. Tòa nhà bị thiên thạch đâm trực tiếp sẽ cần được sửa chữa để hoạt động trở lại trong khi ống và cáp sẽ bị phá hủy. Rover bị thiên thạch va phải cũng sẽ cần sửa chữa trong khi Drone có thể bị hư hỏng không thể phục hồi.
+
+Không thể tránh được Bão sao băng nhưng một số phương pháp hay có thể giảm thiểu khả năng thiệt hại của chúng, chẳng hạn như không tập hợp các tòa nhà quan trọng cạnh nhau, dự phòng đường ống và cáp và nghiên cứu công nghệ cho MDS Laser từ lĩnh vực vật lý."
+5620,Meteor Storm,Bão sao băng
 10479,"A Cold Wave is imminent. While most of our machinery is designed and able to function in such low temperatures, if a building outside stops working for more than a Sol, it will freeze and may not be repaired until after the Cold Wave has lifted.
 
 Cold Waves put an extra strain on the electrical grid and buildings will consume more electricity. One way to negate the effects of a Cold Wave is to place Subsurface Heaters (researched from the Physics field) near vulnerable buildings.
 
 The following buildings will freeze during a Cold Wave:
 - Water Tanks
-- Outside buildings that are not operational for more than a Sol",
+- Outside buildings that are not operational for more than a Sol","Sóng lạnh sắp xảy ra. Mặc dù hầu hết máy móc của chúng ta được thiết kế và có thể hoạt động ở nhiệt độ thấp như vậy, nhưng nếu một tòa nhà bên ngoài ngừng hoạt động hơn một Sol, nó sẽ bị đóng băng và có thể không được sửa chữa cho đến khi sóng lạnh kết thúc.
+
+Sóng lạnh gây thêm căng thẳng cho lưới điện và tòa nhà sẽ tiêu thụ nhiều điện hơn. Một cách để tránh ảnh hưởng của sóng lạnh là đặt các lò sưởi dưới bề mặt (được nghiên cứu từ lĩnh vực vật lý) gần tòa nhà dễ bị tổn thương.
+
+Tòa nhà sau đây sẽ bị đóng băng trong đợt sóng lạnh:
+- Bể nước
+- Tòa nhà bên ngoài không hoạt động trong hơn một Sol"
 768080004870,"Although this is a controlled operation, the exact impact locations are outside our control and may endanger our colony.
-",
-195953271943,Capture Meteors,
-443985878555,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,
-491282077872,The resulting speed at which data is now transferred makes everyone wonder how we got anything done before.,
-201673496950,High-speed Comm Satellite,
-12146,Our high-speed Comm Satellite is now online.,
-392168173764,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,
-311475854684,SETI Satellite,
-439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,
-622650641152,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,
-949945570603,Contract Exploration Access,
-948001628351,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,
+","Mặc dù đây là hoạt động được kiểm soát, vị trí tác động chính xác nằm ngoài tầm kiểm soát của chúng ta và có thể gây nguy hiểm cho căn cứ của chúng ta.
+"
+195953271943,Capture Meteors,Chụp sao băng
+443985878555,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,Chúng ta đã thành công trong việc bắt và chuyển hướng thiên thạch về phía vùng lân cận chung của chúng ta trong một gambit để mang lại các nguồn tài nguyên quý giá và thậm chí cả những hiểu biết khoa học trong tầm tay của chúng ta.
+491282077872,The resulting speed at which data is now transferred makes everyone wonder how we got anything done before.,Tốc độ truyền dữ liệu hiện tại khiến mọi người tự hỏi làm thế nào chúng ta đã hoàn thành bất cứ điều gì trước đây.
+201673496950,High-speed Comm Satellite,Truyền hình vệ tinh tốc độ cao
+12146,Our high-speed Comm Satellite is now online.,Truyền hình vệ tinh tốc độ cao của chúng ta hiện đã trực tuyến.
+392168173764,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,Hiện nó đã đi vào hoạt động và sẽ đóng góp vào sứ mệnh hàng thập kỷ trước đó là tìm kiếm dấu hiệu của sự sống thông minh ở những nơi khác trong thiên hà.
+311475854684,SETI Satellite,Vệ tinh SETI
+439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,Vệ tinh SETI của chính chúng ta đã được chuyển giao và phóng lên quỹ đạo sao Hỏa.
+622650641152,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,Đối tác của chúng ta trên Trái đất rất vui mừng vì việc hoàn thành hợp đồng và đã bày tỏ lòng biết ơn của họ với số tiền tài trợ khổng lồ.
+949945570603,Contract Exploration Access,Quyền truy cập hợp đồng thăm dò
+948001628351,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,Tiền đồn khoa học từ xa đã được thiết lập và bắt đầu truyền dữ liệu hấp dẫn từ hành tinh Đỏ.
 12420,"Free Update (Armstrong)
 - <em>Landscaping tools</em> - projects in <em>Landscaping</em> build menu for terrain modification.
 - <em>Self-Sufficient Dome</em> - a set of pre-arranged Basic dome and life-support buildings; 1 prefab available for <em>IMM</em>.
@@ -3463,7 +3544,17 @@ Green Planet Expansion
 - <em>Terraforming Parameters</em> - <em>Atmosphere</em>, <em>Temperature</em>, <em>Water</em> and <em>Vegetation</em> represent key elements of the Martian environment. Increase them above threshold levels for global terraforming changes.
 - <em>Seeds</em> - a new resource to grow vegetation once the <em>Terraforming parameters</em> allow it. Choose what plants to grow depending on local <em>Soil Quality</em>.
 - <em>Disasters</em> - disasters will change as the terraforming of Mars advances.
-- <em>Breathe in the air</em> - terraform Mars and open your domes.",
+- <em>Breathe in the air</em> - terraform Mars and open your domes.","Cập nhật miễn phí (Armstrong)
+- <em>Công cụ cảnh quan</em> - dự án trong menu xây dựng <em>Cảnh quan</em> để sửa đổi địa hình.
+- <em>Mái vòm tự túc</em> - một tập hợp các mái vòm cơ bản được sắp xếp trước và tòa nhà hỗ trợ sự sống; 1 lắp sẵn có sẵn cho <em>IMM</em>.
+- <em>Sự kiện</em> - sự kiện mới cho đầu trò chơi.
+
+Hành tinh xanh mở rộng
+- <em>Nghiên cứu tạo địa hình</em> - lĩnh vực mới mở khóa tài nguyên và các tòa nhà để tạo địa hình cho sao Hỏa.
+- <em>Tham số tạo địa hình</em> - <em>Khí quyển</em>, <em>Nhiệt độ</em>, <em>Nước</em> and <em>Thảm thực vật</em> đại diện cho các yếu tố chính của môi trường sao Hỏa. Tăng chúng trên mức ngưỡng đối với những thay đổi địa hình toàn cầu.
+- <em>Hạt giống</em> - một nguồn tài nguyên mới để phát triển thảm thực vật khi <em>Tham số tạo địa hình</em> cho phép. Chọn loại cây để trồng tùy theo <em>Chất lượng đất</em> địa phương.
+- <em>Thiên tai</em> - các thiên tai sẽ thay đổi khi địa hình của sao Hỏa trước đó.
+- <em>Hít thở không khí</em> - tạo địa hình sao Hỏa và mở mái vòm của bạn."
 428742818526,New Update,Cập nhật mới
 562110201672,"Surviving Mars has been recently updated. You can check the full patch notes online, but here are few highlights:","Surviving Mars đã được cập nhật gần đây. Bạn có thể kiểm tra toàn bộ ghi chú vá trực tuyến, nhưng đây là một số điểm nổi bật:"
 7116,OK,
@@ -3572,7 +3663,7 @@ Nhà tài trợ thất vọng vì mục tiêu chương trình của họ - một
 
 <effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.","Nếu chúng ta tiếp tục làm việc tốt, trong vài thế hệ, khái niệm về nền văn minh sao Hỏa sẽ thoát khỏi trạng thái giả định và trở thành hiện thực.
 
-<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân hiện diện trên hành tinh ngoài mục tiêu <target>. Điểm cuối cùng: <Score>."
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân hiện diện trên hành tinh qua ngoài <target> mục tiêu. Điểm cuối cùng: <Score>."
 8131,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,Thời gian đánh giá nhiệm vụ đã kết thúc và kết quả chúng ta đạt được là khá khả quan.
 7745,"The number of Colonists born on Mars have reached beyond the wildest expectations! This solid base would serve us to promote new values of the new society, to allow the culture of the Red Planet to flourish and develop independent of the bad influence of Earth.
 
@@ -3582,66 +3673,88 @@ The path ahead of us is rough and uncertain, but who knows, maybe one day the pe
 
 Con đường phía trước của chúng ta còn nhiều chông gai và không chắc chắn, nhưng ai biết được, có thể một ngày nào đó, người trên Trái đất sẽ trầm trồ thán phục thành tựu của người sao Hỏa và học hỏi từ họ.
 
-<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân sao Hỏa hiện diện trên hành tinh ngoài mục tiêu <target>. Điểm cuối cùng: <Score>."
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> cư dân sao Hỏa hiện diện trên hành tinh qua ngoài <target> mục tiêu. Điểm cuối cùng: <Score>."
 7741,Mission Evaluation: A Fresh Start,Đánh giá sứ mệnh: Một khởi đầu mới
-8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,
+8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,Giai đoạn đánh giá nhiệm vụ đã kết thúc và không sai khi nói rằng chúng ta đã vượt qua chính mình.
 7747,"A new era of scientific discovery is ahead of us and we are the ones who are blessed with the opportunity to be on Mars – a completely new territory where new scientific discoveries lie behind the corner. We’re talking about new ideas which would sweep the human minds and the market and give us a tremendous head start in the future.
 
 The primary reason behind the creation of this Colony is scientific and this is what we’re expected to do – to push the boundaries of human knowledge!
 
-<goal><objective>",
-8133,Humankind might be on the verge of a new Golden Age! And we have to be the ones who ride the crest of that wave!,
+<goal><objective>","Một kỷ nguyên khám phá khoa học mới đang ở phía trước và chúng ta là những người may mắn có cơ hội lên sao Hỏa - một lãnh thổ hoàn toàn mới, nơi những khám phá khoa học mới nằm sau góc khuất. Chúng ta đang nói về những ý tưởng mới sẽ quét qua tâm trí con người và thị trường và mang lại cho chúng ta một khởi đầu tuyệt vời trong tương lai.
+
+Lý do chính đằng sau việc tạo ra căn cứ này là khoa học và đây là điều chúng tôi dự kiến sẽ làm - để vượt qua ranh giới của tri thức nhân loại!
+
+<goal><objective>"
+8133,Humankind might be on the verge of a new Golden Age! And we have to be the ones who ride the crest of that wave!,Nhân loại có thể đang ở bên bờ vực của kỷ nguyên vàng mới! Và chúng ta phải là người cưỡi trên đỉnh của làn sóng đó!
 7748,"The harsh conditions of Mars proved too overwhelming and the technological leap desired is very far off.
 
-<effect>Mission Evaluation objective failed - you have <count> researched Technologies out of <target>. Final Score: <Score>.",
-8134,"At the end of the Mission Evaluation period we have to admit that the pursuit of technological progress on a hostile alien world is an unaccessible luxury, when we're preoccupied with short-term survival.",
+<effect>Mission Evaluation objective failed - you have <count> researched Technologies out of <target>. Final Score: <Score>.","Điều kiện khắc nghiệt của sao Hỏa tỏ ra quá áp đảo và bước tiến công nghệ mong muốn còn rất xa.
+
+<effect>Mục tiêu đánh giá nhiệm vụ không thành công - bạn có <count> công nghệ từ đã nghiên cứu <target>. Điểm cuối cùng: <Score>."
+8134,"At the end of the Mission Evaluation period we have to admit that the pursuit of technological progress on a hostile alien world is an unaccessible luxury, when we're preoccupied with short-term survival.","Vào cuối giai đoạn đánh giá nhiệm vụ, chúng ta phải thừa nhận rằng việc theo đuổi tiến bộ công nghệ trên một thế giới ngoài hành tinh thù địch là một điều xa xỉ không thể tiếp cận được, khi chúng ta bận tâm đến sự tồn tại ngắn hạn."
 7749,"The colony has proven its worth as a cradle of scientific thought and everyone is sure that the future is hiding more secrets to be uncovered and more mysteries solved.
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>. Final Score: <Score>.",
-8135,The Mission Evaluation period is over and the results of our efforts are visible – a steady track of technological milestones can be traced back to the moment the very first rocket landed on the Red Planet.,
+<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>. Final Score: <Score>.","Căn cứ đã chứng tỏ giá trị của nó như một cái nôi của tư tưởng khoa học và mọi người đều chắc chắn rằng tương lai còn ẩn chứa nhiều bí mật cần được khám phá và nhiều bí ẩn hơn được giải đáp.
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> đã nghiên cứu công nghệ qua ngoài <target> mục tiêu. Điểm cuối cùng: <Score>."
+8135,The Mission Evaluation period is over and the results of our efforts are visible – a steady track of technological milestones can be traced back to the moment the very first rocket landed on the Red Planet.,Giai đoạn đánh giá sứ mệnh đã kết thúc và kết quả của những nỗ lực của chúng tôi có thể nhìn thấy - một dấu vết ổn định về các cột mốc công nghệ có thể được bắt nguồn từ thời điểm tên lửa đầu tiên hạ cánh trên hành tinh Đỏ.
 7750,"What’s more important is that we demonstrated to the world that the future is really just behind the corner. Our brightest minds have become icons of prosperity and progress, paving the way for future generations to create a better tomorrow – on Mars, on Earth or any other place in the Universe!
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.",
-7746,Mission Evaluation: New Dawn,
-8136,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,
+<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.","Điều quan trọng hơn là chúng ta đã chứng minh cho thế giới thấy rằng tương lai thực sự chỉ ở phía sau. Những bộ óc sáng suốt nhất của chúng ta đã trở thành biểu tượng của sự thịnh vượng và tiến bộ, mở đường cho các thế hệ tương lai tạo ra một ngày mai tốt đẹp hơn - trên sao Hỏa, trên Trái đất hoặc bất kỳ nơi nào khác trong vũ trụ!
+
+<effect> Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn có <count> đã nghiên cứu công nghệ qua ngoài <target> mục tiêu! Final Score: <Score>."
+7746,Mission Evaluation: New Dawn,Đánh giá nhiệm vụ: Bình minh mới
+8136,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,Đóng góp của chúng ta đối với sự tiến bộ khoa học của nhân loại sẽ được ghi nhớ mãi mãi. Báo cáo ngày đánh giá cho thấy những thành tích vượt xa cả những kỳ vọng ngông cuồng nhất của chúng ta.
 7737,OK,
 7752,"Our nature is one of discovery and novelty – our curiosity will never be satisfied. To this we owe much of our civilization’s prosperity and progress.
 
 Exploring the mysteries beyond our world caters to the best in us and by capturing our collective imagination as a species, we bring the focus back to what we can accomplish together instead of bickering and fighting amongst each other.
 
-<goal><objective>",
-8137,"We are all descendants of those who dared to look beyond the nice, cozy valley they inhabited and enter a world full of mystery and wonder. ",
+<goal><objective>","Bản chất của chúng ta là khám phá và mới lạ - sự tò mò của chúng ta sẽ không bao giờ được thỏa mãn. Vì điều này, chúng ta nợ rất nhiều sự phát triển và thịnh vượng của nền văn minh của chúng ta.
+
+Khám phá những bí ẩn bên ngoài thế giới của chúng ta phục vụ cho chúng ta tốt nhất và bằng cách nắm bắt trí tưởng tượng chung của chúng ta như một loài, chúng ta tập trung trở lại những gì chúng ta có thể hoàn thành cùng nhau thay vì cãi vã và đánh nhau.
+
+<goal><objective>"
+8137,"We are all descendants of those who dared to look beyond the nice, cozy valley they inhabited and enter a world full of mystery and wonder. ","Tất cả chúng ta đều là hậu duệ của những người dám nhìn ra ngoài thung lũng tốt đẹp, ấm cúng mà họ sinh sống và bước vào một thế giới đầy bí ẩn và kỳ diệu."
 7753,"The planet turned out to be even more hostile and uninviting than we thought, thwarting any attempts to make a breakthrough in its exploration.
 
 It seems that Mars will continue to be an uncharted territory for the next generations to explore. What matters now is to turn our failure into success by making sure that the Colony is a good starting point for these crews and expeditions that would set off into the red deserts to satisfy their wanderlust.
 
-<effect>Mission Evaluation objective failed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.",
-8138,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,
+<effect>Mission Evaluation objective failed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","Hành tinh này hóa ra thậm chí còn thù địch và không hấp dẫn hơn chúng ta nghĩ, cản trở bất kỳ nỗ lực nào nhằm tạo ra bước đột phá trong quá trình khám phá của nó.
+
+Có vẻ như sao Hỏa sẽ tiếp tục là một vùng lãnh thổ chưa được khám phá cho các thế hệ tiếp theo khám phá. Điều quan trọng bây giờ là biến thất bại của chúng ta thành thành công bằng cách đảm bảo rằng căn cứ là một điểm khởi đầu tốt cho những phi hành đoàn và đoàn thám hiểm sẽ bắt đầu vào sa mạc đỏ để thỏa mãn sở thích lang thang của họ.
+
+<effect>Mục tiêu đánh giá nhiệm vụ không thành công - bạn đã phân tích điểm bất thường <count> ra khỏi <target>mục tiêu. Điểm cuối cùng: <Score>."
+8138,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,Báo cáo đánh giá nhiệm vụ xác nhận những gì chúng tôi đã biết - mục tiêu nhiệm vụ đã khác xa so với ban đầu.
 7754,"We found unexpected treasures buried in the sand of Mars and they only fueled our growing interest to find out more.
 
 What’s more important is that the wave of inspiration has swept over Earth, sparking immense interest and the desire to work together towards a common goal.
 
-<effect>Mission Evaluation objective completed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.",
-7751,Mission Evaluation: The Final Frontier,
-8139,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,
-8141,All resupply missions are temporarily suspended.,
-8140,Launch Issue: Suspended Missions,
-8143,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,
-8142,Launch Issue: Dust Storm,
-8145,This Rocket is not yet refueled for the return trip to Earth.<newline><newline>Fuel is produced in a Fuel Refinery building supplied with Water. It is then transported by Drones to the Rocket.,
-8144,Launch Issue: Fuel,
-8766,The Rocket is not currently landed. It will have to land and refuel for re-launch.,
-8765,Launch Issue: Not Landed,
-8147,"Not all resources from this Rocket have been unloaded yet. If the Rocket launches now, the remaining resources on board will be lost.<newline><newline>To complete the unloading process, make sure there is enough available storage space in the vicinity as well as operational Drones to transport the resources.",
-8146,Launch Issue: Remaining Resources on Board,
-8148,There are <em><number1></em> passengers on board but there's only space for <em><number2></em> new residents in the Colony.,
-648845139046,Launch Issue: Residential Space,
-809411461416,The Rocket has malfunctioned and needs repairs.,
-623462076855,Launch Issue: Maintenance,
-229343936631,You can't launch this rocket currently.,
-622366848807,Launch Issue: Launch Disabled,
-11602,No applicants match the selected filters,
-5688,That is most worrying,
+<effect>Mission Evaluation objective completed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","Chúng ta đã tìm thấy những kho báu bất ngờ bị chôn vùi trong cát của sao Hỏa và chúng thúc đẩy sự quan tâm ngày càng tăng của chúng ta để tìm hiểu thêm.
+
+Điều quan trọng hơn là làn sóng truyền cảm hứng đã tràn qua Trái đất, làm dấy lên sự quan tâm to lớn và mong muốn làm việc cùng nhau hướng tới một mục tiêu chung.
+
+<effect>Mục tiêu đánh giá nhiệm vụ đã hoàn thành - bạn đã phân tích điểm bất thường <count> ra khỏi <target> mục tiêu. Điểm cuối cùng: <Score>."
+7751,Mission Evaluation: The Final Frontier,Đánh giá sứ mệnh: Biên giới cuối cùng
+8139,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,Báo cáo đánh giá nhiệm vụ cuối cùng kết luận rằng căn cứ đã đạt được một tiến bộ đáng kể trong việc khám phá hành tinh Đỏ.
+8141,All resupply missions are temporarily suspended.,Tất cả nhiệm vụ tiếp tế tạm thời bị đình chỉ.
+8140,Launch Issue: Suspended Missions,Sự cố phóng: Nhiệm vụ bị tạm dừng
+8143,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,Tên lửa không thể hạ cánh hoặc phóng trong Bão bụi. Chúng ta sẽ phải đợi cho đến khi cơn bão kết thúc.
+8142,Launch Issue: Dust Storm,Sự cố phóng: Bão bụi
+8145,This Rocket is not yet refueled for the return trip to Earth.<newline><newline>Fuel is produced in a Fuel Refinery building supplied with Water. It is then transported by Drones to the Rocket.,Tên lửa này vẫn chưa được tiếp nhiên liệu cho chuyến trở về Trái đất.<newline><newline>Nhiên liệu được sản xuất trong tòa nhà Lọc nhiên liệu được cung cấp bằng nước. Sau đó nó được vận chuyển bằng Drone đến tên lửa.
+8144,Launch Issue: Fuel,Sự cố phóng: Nhiên liệu
+8766,The Rocket is not currently landed. It will have to land and refuel for re-launch.,Tên lửa hiện chưa hạ cánh. Nó sẽ phải hạ cánh và tiếp nhiên liệu để phóng lại.
+8765,Launch Issue: Not Landed,Sự cố phóng: Không hạ cánh
+8147,"Not all resources from this Rocket have been unloaded yet. If the Rocket launches now, the remaining resources on board will be lost.<newline><newline>To complete the unloading process, make sure there is enough available storage space in the vicinity as well as operational Drones to transport the resources.","Không phải tất cả tài nguyên từ tên lửa này đều chưa được dỡ. Nếu tên lửa phóng ngay bây giờ, tài nguyên còn lại trên tàu sẽ bị mất.<newline><newline>Để hoàn tất quá trình dỡ hàng, hãy đảm bảo có đủ không gian lưu trữ sẵn có ở khu vực lân cận cũng như Drone đang hoạt động để vận chuyển tài nguyên."
+8146,Launch Issue: Remaining Resources on Board,Sự cố phóng: Tài  nguyên còn lại trên tàu
+8148,There are <em><number1></em> passengers on board but there's only space for <em><number2></em> new residents in the Colony.,Có <em><number1></em> hành khách trên tàu nhưng chỉ có chỗ cho <em><number2></em> cư dân mới cho căn cứ.
+648845139046,Launch Issue: Residential Space,Sự cố phóng: Không gian dân cư
+809411461416,The Rocket has malfunctioned and needs repairs.,Tên lửa đã bị trục trặc và cần sửa chữa.
+623462076855,Launch Issue: Maintenance,Sự cố phóng: Bảo trì
+229343936631,You can't launch this rocket currently.,Bạn không thể phóng tên lửa này hiện tại.
+622366848807,Launch Issue: Launch Disabled,Sự cố phóng: Phóng bị vô hiệu hóa
+11602,No applicants match the selected filters,Không có ứng viên nào phù hợp với các bộ lọc đã chọn
+5688,That is most worrying,Đó là điều đáng lo ngại nhất
 5687,"Whatever lies within the Sphere is pretty capable of harnessing any energy projected at it. Furthermore, the energy used by our instruments seems to have furthered its power-up process.
 
 <effect>The Sphere charges a bit",
@@ -3929,10 +4042,10 @@ Thu thập các nguồn lực cơ bản để xây dựng công trình là một
 9239,"Our Rocket carries valuable resources that will be essential for the construction and maintenance of the Colony. Initially it's best to designate a Universal Depot, so the Drones have a place to store them.","Tên lửa của chúng ta mang theo nguồn tài nguyên quý giá sẽ rất cần thiết cho việc xây dựng và duy trì căn cứ. Ban đầu, tốt nhất bạn nên chỉ định một Kho lưu trữ đa năng, để Drone có một nơi để lưu trữ chúng."
 9242,"The Concrete Extractor building must be placed over or within proximity of a Concrete deposit.
 
-<goal>From the build menu, select to build a Concrete Extractor and place it at the proposed location.","Tòa nhà Máy trích xuất bê tông phải được đặt trên hoặc gần khu vực trầm tích bê tông.
+<goal>From the build menu, select to build a Concrete Extractor and place it at the proposed location.","Tòa nhà Máy chiết xuất bê tông phải được đặt trên hoặc gần khu vực trầm tích bê tông.
 
-<goal>Từ menu xây dựng, hãy chọn chế tạo Máy trích xuất bê tông và đặt nó tại vị trí được đề xuất."
-5032,Concrete Extractor,Máy trích xuất bê tông
+<goal>Từ menu xây dựng, hãy chọn chế tạo Máy chiết xuất bê tông và đặt nó tại vị trí được đề xuất."
+5032,Concrete Extractor,Máy chiết xuất bê tông
 9241,"Along with Metals, Concrete is the other vital basic construction resource.","Cùng với kim loại, bê tông là nguồn lực xây dựng cơ bản quan trọng khác."
 9245,"Buildings are constructed by Drones. If you place a building outside the Drones' work range it won't be constructed. When placing buildings, make sure that those buildings are within range of drone controllers like the Rocket, Drone Hubs or RC Commanders.
 
@@ -3949,8 +4062,8 @@ We've provided you with a Stirling Generator prefab.
 
 Chúng tôi đã cung cấp cho bạn Máy phát điện Stirling lắp sẵn.
 
-<goal>Xây Máy phát điện Stirling và sau đó kết nối nó với Máy trích xuất bê tông bằng Cáp nguồn hoặc đặt Máy phát điện Stirling cạnh Máy trích xuất bê tông để có kết nối trực tiếp."
-9246,"Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.","Giống như hầu hết tòa nhà, Máy trích xuất bê tông cần nguồn điện để hoạt động. Có một mạng lưới điện và nguồn cung cấp đáng tin cậy là điều cần thiết cho sự thành công của căn cứ."
+<goal>Xây Máy phát điện Stirling và sau đó kết nối nó với Máy chiết xuất bê tông bằng Cáp nguồn hoặc đặt Máy phát điện Stirling cạnh Máy chiết xuất bê tông để có kết nối trực tiếp."
+9246,"Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.","Giống như hầu hết tòa nhà, Máy chiết xuất bê tông cần nguồn điện để hoạt động. Có một mạng lưới điện và nguồn cung cấp đáng tin cậy là điều cần thiết cho sự thành công của căn cứ."
 9250,"The amount of Waste Rock per resource extracted depends on the Grade of the resource deposit. You can select a resource deposit to view its Grade and the amount of resources remaining in it.
 
 <goal>Place a Dumping Site and a Concrete Depot to store the extracted Concrete.","Số lượng Đá thải trên mỗi tài nguyên được khai thác phụ thuộc vào Cấp của mỏ tài nguyên. Bạn có thể chọn trầm tích tài nguyên để xem cấp của nó và số lượng tài nguyên còn lại trong đó.
@@ -3969,7 +4082,7 @@ Chúng tôi đã cung cấp cho bạn Máy phát điện Stirling lắp sẵn.
 
 <goal>Build a Recharge Station near the Concrete Extractor.","Mỗi trung tâm Drone đều tích hợp sẵn hai trạm bổ sung, nhưng bạn có thể cần thêm trạm bổ sung khi căn cứ mở rộng ra. Việc xây trạm bổ sung, đặc biệt là dọc theo khu vực có nhiều hoạt động của Drone, sẽ là yếu tố quan trọng để duy trì lực lượng lao động hiệu quả.
 
-<goal>Xây trạm sạc gần Máy trích xuất bê tông."
+<goal>Xây trạm sạc gần Máy chiết xuất bê tông."
 5541,Drone Batteries,Pin Drone
 9254,Drones run on batteries that have to be recharged periodically.,Drone chạy bằng pin phải được sạc lại định kỳ.
 9257,"Every Rocket has enough fuel for a one-way trip to Mars and has to be refueled on site, so it can return to Earth and be reused.
@@ -6001,14 +6114,14 @@ We have received the Honor of Hope and have become the symbol of humanity, close
 
 <effect>Gained a new Technology, <em><reg_param2></em>.",
 8283,"Celebrate, but never forget!",
-8284,Wildfire: Infection!,
+8284,Wildfire: Infection!,Wildfire: Nhiễm trùng!
 8285,We have received a disturbing medical report. A number of colonists have contracted an unknown disease.,
 8286,"The medical examination shows they all suffer from a form of hypercoagulation. Anti-coagulation medicines have been issued but the symptoms remain. Primary analysis of the patients’ blood samples hasn't found the cause behind the symptoms, but the level of damage to the erythrocytes leads to the workings of a virus-sized or smaller agent. We’re currently running a thorough check on the patients’ background information and behavior to find the source of the infection.
 
 <effect>Several Colonists have gained the Infected trait.",
 8287,I’ll inform Earth Control to enact decontamination protocols on any cargo we send.,
 8288,Some Colonists have contracted a mysterious infection. It's spreading rapidly across the colony.,
-8289,Wildfire: Quenching the Flames,
+8289,Wildfire: Quenching the Flames,Wildfire: Dập tắt đại dịch
 8290,So far the bizarre nature of the infection has defeated all of our attempts to stop it. Yet time is growing short as more and more people are getting sick.,
 8291,"The challenge would be monumental as our researchers lack any epidemiological data on which to step up. The medical records we’ve gathered point out the symptoms, but the chemical structure of the agent is so alien that it cannot be compared to anything known to science. To make things worse, the nano-scale of the agent makes analysis even harder. Only by diverting enough resources to the task we can hope to make any breakthrough.
 
@@ -6032,7 +6145,7 @@ The scientists experimented with multiple growth mediums and discovered that the
 8297,The faint distress signal led us to the burial site of a small satellite. It had fallen deep under the red sands and could have been there for an eternity.,
 8298,"It’s strange that we couldn't find any information for the flight in the international records. No black box nor signatures can be seen except for a discolored logo, ‘Scoop XI’. Upon opening the hull we found all of the internal systems corroded away by time, with only a small capsule remaining. The biohazard sign on it only served to stir our curiosity, but a closer examination discovered that it has been breached. We assume that the biological material inside has been destroyed. We have ordered the Rover to store the salvage for further analysis.",
 8299,A curious find. Let’s hope the future will bring more answers than questions on that matter.,
-8300,Wildfire: Contamination!,
+8300,Wildfire: Contamination!,Wildfire: Truyền nhiễm!
 8301,We've just lost one of our scientific facilities in a disturbing set of events. We’re still investigating the cause of the disaster but there are clues which lead to unsettling conclusions.,
 8302,"The security log shows that everything started with a malfunction in the storage unit where the analysis samples were stored. After that the internal systems of the laboratory began to rapidly fail one after another. Suspiciously, the damaged systems were all made of plastic and organic polymers, all corroded away within mere seconds.
 
@@ -6040,7 +6153,7 @@ Our operatives are puzzled with the cause of the chain reaction but the Chief En
 
 <effect>A Laboratory has mysteriously malfunctioned.",
 8303,Monitor the colony and report any related cases.,
-8304,Wildfire: Mars Aflame,
+8304,Wildfire: Mars Aflame,Wildfire: Đại dịch sao Hỏa
 8305,We have to face it – we cannot stop the infection. No matter what we do it keeps spreading across the colony like a wildfire. Hence the name we've given it.,
 8306,"All attempts to isolate the sources have failed. We can assume that the virus is traveling all across our life support and maintenance circuits. The only way to stop it is to turn off all systems, but this would be a death sentence for the colonists. We've ran out of options.",
 8307,"Don't despair, we will find a solution!",
@@ -6052,7 +6165,7 @@ The rocket landing site has been placed under quarantine and the authorities hav
 
 <effect>Infection Level on Earth has been set to the Contained level. If it reaches the Extinction level, the human population on Earth will be obliterated. Discover the Wildfire Cure and supply it to Earth to prevent this!",
 8478,One of our rockets has spread the Wildfire infection on Earth. It's spreading rapidly - we have to discover the Cure before the human population on Earth is obliterated!,
-8308,Wildfire: Countdown to Extinction,
+8308,Wildfire: Countdown to Extinction,Wildfire: Đếm ngược đến tuyệt chủng
 8312,The worst has happened – Wildfire has infected Earth. We suspect this was caused by a recent meteor impact on Mars which lifted debris and showered them on the Blue Planet.,
 8313,"Several small settlements in different regions have been infected. The authorities report that the victims have deteriorated within mere hours, something which doesn't match our medical records. On Mars it takes Sols for the Wildfire to kill its host. We suspect some form of rapid mutation due to the changes in the environment.
 
@@ -6061,12 +6174,12 @@ The infected areas have been placed under quarantine and we can only pray that t
 <effect>Infection Level on Earth has been set to the Contained level. If it reaches the Extinction level, the human population on Earth will be obliterated. Discover the Wildfire Cure and supply it to Earth to prevent this!",
 8311,Cosmos help us all!,
 8479,Martian meteors have spread the Wildfire infection on Earth! We must discover the Cure before the entire human population on Earth is obliterated!,
-8314,Contained,
-8315,Endemic,
-8316,Epidemic,
-8317,Pandemic,
-8318,Doomsday,
-8319,Wildfire: Infection Level - Endemic,
+8314,Contained,Ủ bệnh
+8315,Endemic,Đặc hữu
+8316,Epidemic,Bệnh dịch
+8317,Pandemic,Đại dịch
+8318,Doomsday,Ngày tận thế
+8319,Wildfire: Infection Level - Endemic,Wildfire: Mức độ lây nhiễm - Đặc hữu
 8320,"The Wildfire virus is spreading on Earth at an alarming rate, threatening entire populations all over the globe. The grim prediction is that soon the entire population of the planet will be affected.",
 8321,"Scientists on Earth are desperately trying to discover a solution, but so far in vain. The virulence of the local strain is so high that sampling and transporting infected material is a death sentence. The nanoscopic size of the agent makes containment equally hard - biological filters fail to stop it effectively, threatening the safety of any laboratory which attempts to study it. The only solution is to analyze the original strain - the one we have on Mars - in order to find the cure. Time is running short!
 
@@ -6082,7 +6195,7 @@ Meanwhile, Third World countries are in a state of panic as the Wildfire strikes
 
 <effect>Infection Level has reached the Epidemic state. Applicant pool is depleted for the next <text_param1> Sols due to quarantine measures.",
 8635,20,
-8326,We have to hurry!,
+8326,We have to hurry!,Chúng ta phải nhanh lên!
 8481,The Wildfire has infected the developed countries as well. Panic and desperation are spreading through the population!,
 8327,Wildfire: Infection Level - Pandemic,
 8328,A wave of despair sweeps across the globe as people witness the futility of all measures against Wildfire. Everyone feels that our time on Earth is running short.,
@@ -9526,8 +9639,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>""The human race is a remarkable creature, one with great potential which I hope the Beyond Earth initiative will display for all to believe in.""
 <right>Rede Goddenberry<left></grey>",
 8450,Beyond Earth Initiative,
-8487,Series of dangerous experiments which could lead to the discovery of a cure for the Wildfire infection.,
-8452,Wildfire Cure,
+8487,Series of dangerous experiments which could lead to the discovery of a cure for the Wildfire infection.,Một loạt các thí nghiệm nguy hiểm có thể dẫn đến việc khám phá ra phương pháp chữa trị bệnh nhiễm trùng Wildfire.
+8452,Wildfire Cure,Thuốc chữa Wildfire
 10512,"<if_all(has_dlc('gagarin'),is_sponsor('Roscosmos'))>Concrete Plant & </if>Extractors Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption by <power(param2)>.
 
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
@@ -12304,9 +12417,9 @@ This technological challenge to take advantage of what little wind there is on M
 11290,Small Banner,
 11291,Small Banners,
 11292,"""We are proud to have our flag here, on the red planet.""",
-374869773655,Beacon,
-109382627912,Beacons,
-883049063715,Make the Martian night a little brighter.,
+374869773655,Beacon,Đèn hiệu
+109382627912,Beacons,Đèn hiệu
+883049063715,Make the Martian night a little brighter.,Làm cho đêm trên sao Hỏa sáng hơn một chút.
 393873450030,Large Monument,
 655848682275,Large Monuments,
 163059367306,"""...one giant leap for mankind.""",
@@ -14251,7 +14364,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 12264,Research Site - all Research will be boosted by <percent(sum)>.,Địa điểm nghiên cứu - tất cả nghiên cứu sẽ được thúc đẩy bởi <percent(sum)>.
 655,Hydroponic,Thủy canh
 658,Soil Demand Modifier,Công cụ điều chỉnh nhu cầu đất
-659,Hiệu quả sản xuất ôxy,
+659,Oxygen Production Efficiency,Hiệu quả sản xuất ôxy
 660,Persisted crops,Cây trồng ngoan cường
 661,<green>Soil Quality +<amount></green>,<green>Chất lượng đất +<amount></green>
 8654,<red>Soil Quality <amount></red>,<red>Chất lượng đất <amount></red>
@@ -14519,11 +14632,11 @@ Dịch vụ: <em><list></em>"
 771,"Machine Parts<right><machineparts(Stored_MachineParts,MaxAmount_MachineParts)>","Linh kiện máy<right><machineparts(Stored_MachineParts,MaxAmount_MachineParts)>"
 772,"Rare Metals<right><preciousmetals(Stored_PreciousMetals,MaxAmount_PreciousMetals)>","Kim loại hiếm<right><preciousmetals(Stored_PreciousMetals,MaxAmount_PreciousMetals)>"
 773,"Fuel<right><fuel(Stored_Fuel,MaxAmount_Fuel)>","Nhiên liệu<right><fuel(Stored_Fuel,MaxAmount_Fuel)>"
-775,Max Boxes On The X Axis,
-7626,Max Boxes On The Y Axis,
-7627,Max Boxes On The Z Axis,
-777,Switch Fill Order,
-7770,Fill Group Idx,
+775,Max Boxes On The X Axis,Hộp tối đa trên trục X
+7626,Max Boxes On The Y Axis,Hộp tối đa trên trục Y
+7627,Max Boxes On The Z Axis,Hộp tối đa trên trục Z
+777,Switch Fill Order,Chuyển đổi thực hiện đơn hàng
+7770,Fill Group Idx,Điền Idx nhóm
 776,Storable Resources,Tài nguyên lưu trữ
 774,Max Storage Per Resource,Lưu trữ tối đa cho mỗi tài nguyên
 10369,Desire Slider Max,Thanh trượt mong muốn tối đa
@@ -14557,19 +14670,19 @@ Dịch vụ: <em><list></em>"
 804,Deposit Entity Variant,Biến thể thực thể trầm tích
 805,<resource(resource)> Surface Deposit,<resource(resource)> Trầm tích bề mặt
 806,"<description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)>",
-811,Metals Deposit,
-812,Scattered Metals. Harvested by Drones or RC Transports.,
-813,Regolith Deposit,
-814,Sulfur-rich regolith. Processed into Concrete by a Concrete Extractor,
-815,Polymers Deposit,
-816,Scattered Polymers. Harvested by Drones or RC Transports.,
-817,Resource ,
-637,Prefab,
-818,Density 1,
-819,Density 2,
-782,Max amount,
-16,Grade,
-783,Deep <resource(resource)>,
+811,Metals Deposit,Trầm tích kim loại
+812,Scattered Metals. Harvested by Drones or RC Transports.,Kim loại phân tán. Thu hoạch bằng Drone hoặc Vận tải RC.
+813,Regolith Deposit,Trầm tích regolith
+814,Sulfur-rich regolith. Processed into Concrete by a Concrete Extractor,Regolith giàu lưu huỳnh. Xử lý thành bê tông bằng máy chiết xuất bê tông.
+815,Polymers Deposit,Trầm tích Polyme
+816,Scattered Polymers. Harvested by Drones or RC Transports.,Polyme phân tán. Thu hoạch bằng Drone hoặc vận tải RC.
+817,Resource ,Tài nguyên 
+637,Prefab,Dựng sẵn
+818,Density 1,Mật độ 1
+819,Density 2,Mật độ 2
+782,Max amount,Tổng số tối đa
+16,Grade,Lớp
+783,Deep <resource(resource)>,Sâu <resource(resource)>
 820,"<Description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)><newline><left>Grade<right><grade_name>",
 821,Concrete Deposit,
 822,A Regolith-rich terrain that can be processed into Concrete. Can be exploited by a <em>Concrete Extractor</em>.,
@@ -14765,15 +14878,15 @@ Dịch vụ: <em><list></em>"
 996860432020,Funding: <Amount>,
 239752697318,New rocket,
 10998,-associated object-,
-11170,prefab,
-11171,prefabs,
+11170,prefab,lắp sẵn
+11171,prefabs,lắp sẵn
 532190223825,<research(Amount)> Sponsor Research,
 522988558818,<Amount> free supply pods,
 11890,all techs,
 11888,random tech,
 11889,random field,
-12227,Enabled,
-12228,Disable,
+12227,Enabled,Đã bật
+12228,Disable,Vô hiệu
 12229,<enabled> the '<project_id>' special project,
 387767984070,Receive a colonist,
 263683247323,Receive <RefugeeCount> Refugees,
@@ -14783,15 +14896,15 @@ Dịch vụ: <em><list></em>"
 10919,<newline>Perfected in <sols> Sols,
 10920,<newline>Completed in <sols> Sols,
 424227828326,Normal,Bình thường
-10066,Sponsor Goal <num>,
+10066,Sponsor Goal <num>,Mục tiêu nhà tài trợ <num>
 3904,Param 1,
 3906,Param 2,
 3908,Param 3,
-10067,Goal Image,
-11654,Goal Pin Image,
-10068,Reward,
-3893,No Name,
-3894,No Description,
+10067,Goal Image,Hình ảnh mục tiêu
+11654,Goal Pin Image,Hình ảnh ghim mục tiêu
+10068,Reward,Phần thưởng
+3893,No Name,Không có tên
+3894,No Description,Không có mô tả
 3900,<no name>,
 841,Ice Strength,
 7571,May block access to deposit.,
@@ -14807,7 +14920,7 @@ Dịch vụ: <em><list></em>"
 7702,No operational Domes in walking distance.,
 7703,Far from operational Domes,
 852,This sector is not yet scanned. The construction will possibly make resource deposits or Anomalies unreachable.,
-853,Unexplored sector,
+853,Unexplored sector,Khu vực chưa được khám phá
 845,Too far from working Drone commander.,
 8016,Too far from working Drone commander,
 854,Must be constructed over a power cable.,
@@ -14925,39 +15038,39 @@ Dịch vụ: <em><list></em>"
 573,Power consumption<right><power(current_consumption)>,
 574,Unused Power<right><power(number)>,
 575,Insufficient production<right><power(number)>,
-935,Power Cable,
-11017,Power production,
-683,Power Consumption,
-937,Disable Consumption,
-938,Max consumption while charging,
-939,Max output while discharging,
-940,Conversion efficiency % (charging),
-941,Capacity (watts*hour),
-942,Change animation,
-943,Empty state,
-944,Full state,
-946,Discharging,
-947,Charging,
-588,Empty,
-948,Full,
-949,idle,
-976,Unexplored,
-977,Scanned,
-978,Deep Scanned,
-979,"<em>Scanned, scan again for deep deposits and Anomalies</em>",
-980,No resources,
-981,"Underground <display_name><right><resource(amount,res)>",
+935,Power Cable,Cáp điện
+11017,Power production,Sản xuất điện
+683,Power Consumption,Sự tiêu thụ điện
+937,Disable Consumption,Tắt tiêu thụ
+938,Mức tiêu thụ tối đa trong khi sạc,
+939,Sản lượng tối đa trong khi xả,
+940,Conversion efficiency % (charging),Hiệu suất chuyển đổi % (sạc)
+941,Capacity (watts*hour),Sức chứa (watts*hour)
+942,Change animation,Thay đổi hoạt ảnh
+943,Empty state,Trạng thái trống
+944,Full state,Trạng thái đầy
+946,Discharging,Xả
+947,Charging,Sạc
+588,Empty,Trống
+948,Full,Đầy
+949,idle,nhàn rỗi
+976,Unexplored,Chưa được khám phá
+977,Scanned,Đã quét
+978,Deep Scanned,Quét sâu
+979,"<em>Scanned, scan again for deep deposits and Anomalies</em>","<em>Đã quét, quét lại để tìm trầm tích sâu và điểm bất thường</em>"
+980,No resources,Không có tài nguyên
+981,"Underground <display_name><right><resource(amount,res)>","Dưới sâu <display_name><right><resource(amount,res)>"
 982,"<display_name><right><resource(amount,res)>",
-12719,Forest,
-3598,Dormant Min,
-3599,Dormant Max,
-3600,Active Min,
-3601,Active Max,
-3602,Warning Min,
-3603,Warning Max,
-3604,Warm Opacity,
-3605,Dust Opacity Time,
-3606,Cool Down Opacity Time,
+12719,Forest,Rừng
+3598,Dormant Min,Ngủ đông tối thiểu
+3599,Dormant Max,Ngủ đông tối đa
+3600,Active Min,Hoạt động tối thiểu
+3601,Active Max,Hoạt động tối đa
+3602,Warning Min,Cảnh báo tối thiểu
+3603,Warning Max,Cảnh báo tối đa
+3604,Warm Opacity,Độ mờ ấm
+3605,Dust Opacity Time,Thời gian mờ bụi
+3606,Cool Down Opacity Time,Thời gian giảm độ mờ
 3607,Sanity/Sec Damage,
 8495,Dust/Sec,
 89,No consumption,
@@ -14972,7 +15085,7 @@ Dịch vụ: <em><list></em>"
 664,Penalty Heat,
 665,Penalty Percent,
 8526,Defrost Time,
-8527,Frozen,
+8527,Frozen,Đông lạnh
 8528,Desfrosting,
 11005,"Open the Build Menu with <right_click> or <em><ShortcutName('actionOpenBuildMenu')></em>, select a building, and place it on the desired location with <left_click>",
 11006,"Open the Build Menu with <em><ShortcutName('actionOpenBuildMenu')></em> or the <em>HUD button</em>, select a building, and place it on the desired location with <left_click>",
@@ -14984,9 +15097,9 @@ Dịch vụ: <em><list></em>"
 1012,Social,Xã hội
 1013,Relaxation,Thư giãn
 1014,Exercise,Luyện tập
-1015,Gaming,Chơi game
+1015,Gaming,Chơi trò chơi
 1016,Shopping,Mua sắm
-1017,Luxury,Sang trọng
+1017,Luxury,Dâm dục
 1018,Drinking,Uống rượu
 1019,Gambling,Bài bạc
 1020,Playing,Đang chơi
@@ -15187,31 +15300,31 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 9715,V-sync (every frame),
 9716,V-sync (every other frame),
 9717,Hz,
-10384,VIEW FULL LOG,
-10389,BACK TO MOD,
-10390,Back to mod,
-10391,CHANGE RATING,
-10392,Change rating,
-10393,Choose rating,
-10394,Rate again,
-10395,RATE AGAIN,
-10396,Choose Rating,
-11695,No applicants selected,
-11696,Launch Issue: No Passengers,
-11698,Drone prefabs<right><number>,
-11699,Destroyed drones<right><number>,
-11701,Tourists<right><colonist(number)>,
-12429,This Microsoft account is already linked to another Paradox account. Do you want to link it to the new Paradox account instead?,
-914616772802,OVERALL TERRAFORMING PROGRESS,
+10384,VIEW FULL LOG,Xem nhật ký đầy đủ
+10389,BACK TO MOD,Quay lại mod
+10390,Back to mod,Quay lại mod
+10391,CHANGE RATING,Đổi đánh giá
+10392,Change rating,Đổi đánh giá
+10393,Choose rating,Chọn đánh giá
+10394,Rate again,Đánh giá lại
+10395,RATE AGAIN,Đánh giá lại
+10396,Choose Rating,Chọn đánh giá
+11695,No applicants selected,Không có ứng viên nào được chọn
+11696,Launch Issue: No Passengers,Sự cố phóng: Không có hành khách
+11698,Drone prefabs<right><number>,Drone lắp sẵn<right><number>
+11699,Destroyed drones<right><number>,Drone bị phá hủy<right><number>
+11701,Tourists<right><colonist(number)>,Khách du lịch<right><colonist(number)>
+12429,This Microsoft account is already linked to another Paradox account. Do you want to link it to the new Paradox account instead?,Tài khoản Microsoft này đã được liên kết với tài khoản Paradox khác. Thay vào đó, bạn có muốn liên kết nó với tài khoản Paradox mới không?
+914616772802,OVERALL TERRAFORMING PROGRESS,Tiến độ địa hình tổng thể
 10975,1 Sol ,
-10976,<sol> Sols ,
+10976,<sol> Sols ,<sol> Sol 
 10977,<h> h,
-10978,1 Sensor Tower,
-10979,<tower_number> Sensor Towers,
-1000725,OnInitEffect,
-1000726,Called early during the player setup - player structures not fully inited.,
-1000727,OnApplyEffect,
-1000728,Called when the effect needs to be applied.,
+10978,1 Sensor Tower,1 Tháp cảm biến
+10979,<tower_number> Sensor Towers,<tower_number> Tháp cảm biến
+1000725,OnInitEffect,Hiệu ứng ban đầu
+1000726,Called early during the player setup - player structures not fully inited.,Được gọi sớm trong quá trình thiết lập trình phát - cấu trúc trình phát không hoàn toàn thống nhất.
+1000727,OnApplyEffect,Hiệu ứng có hiệu lực
+1000728,Called when the effect needs to be applied.,Được gọi khi hiệu ứng cần được áp dụng.
 8781,<Building>,<Building>
 8782,<Funding>,<Funding>
 8783,<u(Field)> <opt_percent(Percent)>,<u(Field)> <opt_percent(Percent)>
@@ -15219,8 +15332,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8785,<u(Upgrade)>.<u(Prop)> <opt_amount(Amount)> <opt_percent(Percent)>,<u(Upgrade)>.<u(Prop)> <opt_amount(Amount)> <opt_percent(Percent)>
 8786,<u(Label)>.<u(Prop)> <opt_amount(Amount)> <opt_percent(Percent)>,<u(Label)>.<u(Prop)> <opt_amount(Amount)> <opt_percent(Percent)>
 8787,<u(Label)>.<u(Prop)> <opt_amount(Threshold)> <opt_amount(Amount)> <opt_percent(Percent)>,<u(Label)>.<u(Prop)> <opt_amount(Threshold)> <opt_amount(Amount)> <opt_percent(Percent)>
-3596,Weight,
-3926,Price,
+3596,Weight,Trọng lượng
+3926,Price,Giá tiền
 8788,<u(Item)>.<u(Param)> <opt_percent(Percent)>,<u(Item)>.<u(Param)> <opt_percent(Percent)>
 8789,<u(Item)>,<u(Item)>
 8790,<u(Trait)>,<u(Trait)>
@@ -15228,8 +15341,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8792,<Building> <u(Stage)> <u(Resource)> <opt_percent(Percent)>,<Building> <u(Stage)> <u(Resource)> <opt_percent(Percent)>
 8793,<u(Field)>.<u(Research)>,<u(Field)>.<u(Research)>
 12291,<Amount> <Prefab>,<Amount> <Prefab>
-1082,South Cap,
-1083,North Cap,
+1082,South Cap,Nam Cap
+1083,North Cap,Bắc Cap
 1084,Arabia Terra,
 1085,Utopia Planitia,
 1086,Arcadia Planitia,
@@ -15255,26 +15368,26 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1107,Arsai Mons,
 10551,<choice><newline><extra_text>,<choice><newline><extra_text>
 11237,<funding(cost)>,<funding(cost)>
-11033,Default maintenance,
-1154,Base Score,
-1155,Bonus Score,
-1156,Bonus score expiration Sols,
-11714,Reward (RP),
-11412,Trigger fireworks,
-1157,Complete thread,
-1158,Custom score,
-1159,<display_name> - Sol <sol>,
+11033,Default maintenance,Bảo trì mặc định
+1154,Base Score,Điểm cơ bản
+1155,Bonus Score,Điểm thưởng
+1156,Bonus score expiration Sols,Điểm thưởng Sol hết hạn
+11714,Reward (RP),Phần thưởng (RP)
+11412,Trigger fireworks,Bắn pháo hoa
+1157,Complete thread,Hoàn thành chuỗi
+1158,Custom score,Điểm tùy chỉnh
+1159,<display_name> - Sol <sol>,<display_name> - <sol> Sol
 11675,<display_name> - <enactor>,<display_name> - <enactor>
-1000066,Entity testing only possible when a map is loaded,
-1000048,Entity Name,
-1160,Decal Mod Entity,
-10104,Mission Sponsor: <em><display_name></em>,
-11466,Coordinates: <em><coord></em>,
-10105,Commander Profile: <white><display_name></white>,
+1000066,Entity testing only possible when a map is loaded,Kiểm tra thực thể chỉ có thể khi một bản đồ được tải
+1000048,Entity Name,Tên thực thể
+1160,Decal Mod Entity,Thực thể Decal Mod
+10104,Mission Sponsor: <em><display_name></em>,Nhà tài trợ sứ mệnh: <em><display_name></em>
+11466,Coordinates: <em><coord></em>,Tọa độ: <em><coord></em>
+10105,Commander Profile: <white><display_name></white>,Hồ sơ chỉ huy: <white><display_name></white>
 10496,(<GetProgressText>/<GetTargetText>),(<GetProgressText>/<GetTargetText>)
-12430,Using the <sponsor> Sponsor Mod Item,
-12431,Cannot determine Sponsor Mod Item. More than one Sponsor Mod Items are active.,
-12432,Using the <commander> Commander Profile Mod Item,
+12430,Using the <sponsor> Sponsor Mod Item,Sử dụng vật phẩm mod nhà tài trợ <sponsor>
+12431,Cannot determine Sponsor Mod Item. More than one Sponsor Mod Items are active.,Không thể xác định vật phẩm Mod nhà tài trợ. Nhiều vật phẩm Mod nhà tài trợ đang hoạt động.
+12432,Using the <commander> Commander Profile Mod Item,Sử dụng vật phẩm Mod hồ sơ chỉ huy <commander>
 12433,Cannot determine Commander Profile Mod Item. More than one Commander Profile Mod Items are active.,
 12434,Checking validity of building entity <u(entity)> used in building <u(building)>.,
 12435,Entity <u(entity)> used in building <u(building)> must have a <u(surf)> surface.,
@@ -15425,15 +15538,15 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8794,Mystery Storage,
 8795,Mystery Storages,
 8113,It's very mysterious.,
-8067,Wildfire (Hard),
-8068,"""The worst pandemic in modern history was the Spanish flu of 1918, which killed tens of millions of people. Today, with how interconnected the world is, it would spread faster.""<newline><right>- Bill Gates",
-8458,Wildfire Cure,
-8459,Medicine preventing the Wildfire infection from destroying its host and from spreading to other humans.,
-8531,Wildfire Cure Depot,
-8532,Wildfire Cure Depots,
-8796,Wildfire Cure Storage,
-8797,Wildfire Cure Storages,
-8533,Stores the cure for the Wildfire infection.,
+8067,Wildfire (Hard),Wildfire (Khó)
+8068,"""The worst pandemic in modern history was the Spanish flu of 1918, which killed tens of millions of people. Today, with how interconnected the world is, it would spread faster.""<newline><right>- Bill Gates","""Đại dịch tồi tệ nhất trong lịch sử hiện đại là dịch cúm Tây Ban Nha năm 1918, khiến hàng chục triệu người thiệt mạng. Ngày nay, với việc thế giới được kết nối với nhau như thế này, nó sẽ truyền nhanh hơn.""<newline><right>- Bill Gates"
+8458,Wildfire Cure,Thuốc chữa Wildfire
+8459,Medicine preventing the Wildfire infection from destroying its host and from spreading to other humans.,Thuốc ngăn chặn sự lây nhiễm của Wildfire tiêu diệt vật chủ của nó và lây lan sang người khác.
+8531,Wildfire Cure Depot,Kho thuốc chữa Wildfire
+8532,Wildfire Cure Depots,Kho thuốc chữa Wildfire
+8796,Wildfire Cure Storage,Lưu trữ thuốc chữa Wildfire
+8797,Wildfire Cure Storages,Lưu trữ thuốc chữa Wildfire
+8533,Stores the cure for the Wildfire infection.,Lưu trữ thuốc chữa bệnh nhiễm trùng Wildfire.
 8070,Beyond Earth (Easy),
 8071,"""It isn't all over; everything has not been invented; the human adventure is just beginning.""<newline><right>- Gene Roddenberry",
 8072,The Last War (Hard),
@@ -17988,7 +18101,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3686,Load anyway,Vẫn tải
 6851,Warning,Cảnh báo
 10888,This savegame was loaded in the past without required mods or with an incompatible game version. It may not function properly.,
-3688,Autosave Sol <current_sol>,
+3688,Autosave Sol <current_sol>,Tự động lưu Sol <current_sol>
 3691,Random number,
 3692,Random percent,
 3693,Input register,
@@ -18015,7 +18128,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3715,Stat,
 3716,"Duration hours (only for morale, -1 forever)",
 3717,Reason for Morale change,
-3718,NONE,
+3718,NONE,Không
 834,Specialist,
 3719,Exclude Dead,
 6852,Command,
@@ -18088,12 +18201,12 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3754,Append to register?,
 3757,Show me spawned obj (dbg),
 3774,Generate Breakthrough Tech,
-3775,Sequence List,
-5,Sequence,
+3775,Sequence List,Danh sách trình tự
+5,Sequence,Trình tự
 8696,Expiration Time,
 3777,Wait type,
-3778,Hours,
-3779,Sols,
+3778,Hours,Giờ
+3779,Sols,Sol
 3780,Random Hours,
 3781,Random Sols,
 3782,Target hour,
@@ -18176,24 +18289,24 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3830,Choice Param 4,
 3831,Choice Register,
 3793,Body Text,
-3832,Wait Choice,
-10916,Show Choice,
-3833,Button,
+3832,Wait Choice,Chờ chọn
+10916,Show Choice,Hiển thị chọn
+3833,Button,Nút
 6858,OK,
-3834,Button Image,
-1000112,Rollover,
-3835,Rollover Title,
-3836,Rollover Hint 1,
-3837,Rollover Hint 2,
-3838,Wait Message,
-10917,Show Message,
-3839,Left Mouse Button,
-3840,Right Mouse Button,
-3841,Middle Mouse Button,
-3842,Mouse Button 4,
-3843,Mouse Button 5,
-3844,Mouse Wheel Forward,
-3845,Mouse Wheel Back,
+3834,Button Image,Hình ảnh nút
+1000112,Rollover,Cuộn qua
+3835,Rollover Title,Cuộn qua tiêu đề
+3836,Rollover Hint 1,Cuộn qua gợi ý 1
+3837,Rollover Hint 2,Cuộn qua gợi ý 2
+3838,Wait Message,Chờ tin nhắn
+10917,Show Message,Hiển thị tin nhắn
+3839,Left Mouse Button,Nút chuột trái
+3840,Right Mouse Button,Nút chuột phải
+3841,Middle Mouse Button,Nút chuột giữa
+3842,Mouse Button 4,Nút chuột 4
+3843,Mouse Button 5,Nút chuột 5
+3844,Mouse Wheel Forward,Con lăn chuột trước
+3845,Mouse Wheel Back,Con lăn chuột sau
 3847,<red>Unassigned</red>,<red>Không được chỉ định</red>
 12169,Completed: <display_name>,Hoàn thành: <display_name>
 11999,"<resource(number, res)>","<resource(number, res)>"
@@ -18228,60 +18341,62 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3873,Dehydrated,Mất nước
 3874,Dehydrated Colonist,Cư dân mất nước
 3876,Freezing Colonist,Cư dân đóng băng
-3878,Căng thẳng,
-3879,Earthsick,
-8946,"This Colonist is a Renegade. Renegades will cause trouble, unless countered by Security Stations.",
-8947,This Colonist is infected and will lose Health over time.,
-8948,This Colonist is irradiated and will lose Health over time.,
-8949,This Colonist is suffocating and needs Oxygen to survive.,
-8950,This Colonist is dehydrated and needs Water to survive.,
-8951,This Colonist is freezing. Restore Dome Power to resolve the issue.,
-8952,This Colonist is starving and needs Food to survive.,
-8953,This Colonist is stressed out due to low Sanity and temporarily unable to work.,
-8954,This Colonist is Earthsick due to low comfort. Earthsick colonists can't work and will try to return to Earth.,
-10533,This Colonist is suffocating and would have needed Oxygen to survive if not for the Iron Colonists rule.,
-10534,This Colonist is dehydrated and would have needed Water to survive if not for the Iron Colonists rule.,
-10535,This Colonists is starving and would have needed Food to survive if not for the Iron Colonists rule.,
-3883,Charging<right><power(amount)>,
-3884,Discharging<right><power(amount)>,
-3880,Status<right>Full,
-3881,Status<right>Empty,
-3882,Status<right>Idle,
-3885,"Increasing<right><resource(change,resource_type)>",
-3886,"Decreasing<right><resource(change,resource_type)>",
-3887,Collecting minimum Water flow. Will start supplying the grid at <em><water(number)></em>,
-3888,Collecting minimum Oxygen flow. Will start supplying the grid at <em><air(number)></em>,
-3889,Charging. Requires minimum <em><power(number)></em> to start supplying the grid,
+3878,Stressed Out,Căng thẳng
+3879,Earthsick,Say đất
+8946,"This Colonist is a Renegade. Renegades will cause trouble, unless countered by Security Stations.","Cư dân này là kẻ phản bội. Kẻ phản bội sẽ gây ra rắc rối, trừ khi bị trạm an ninh phản công."
+8947,This Colonist is infected and will lose Health over time.,Cư dân này bị truyền nhiễm và sẽ mất sức khỏe theo thời gian.
+8948,This Colonist is irradiated and will lose Health over time.,Cư dân này bị chiếu xạ và sẽ mất sức khỏe theo thời gian.
+8949,This Colonist is suffocating and needs Oxygen to survive.,Cư dân này bị ngạt thở và cần ôxy để tồn tại.
+8950,This Colonist is dehydrated and needs Water to survive.,Cư dân này bị mất nước và cần nước để tồn tại.
+8951,This Colonist is freezing. Restore Dome Power to resolve the issue.,Cư dân này đang đóng băng. Khôi phục điện máy vòm để giải quyết sự cố.
+8952,This Colonist is starving and needs Food to survive.,Cư dân này đang đói và cần thức ăn để tồn tại.
+8953,This Colonist is stressed out due to low Sanity and temporarily unable to work.,Cư dân này bị căng thẳng do thoải mái thấp và tạm thời không thể làm việc.
+8954,This Colonist is Earthsick due to low comfort. Earthsick colonists can't work and will try to return to Earth.,Cư dân này là say đất do độ thoải mái thấp. Cư dân bị bệnh say đất không thể làm việc và sẽ cố gắng quay trở lại trái đất.
+10533,This Colonist is suffocating and would have needed Oxygen to survive if not for the Iron Colonists rule.,Cư dân này ngạt thở và sẽ cần ôxy để tồn tại nếu không có luật cư dân sắt.
+10534,This Colonist is dehydrated and would have needed Water to survive if not for the Iron Colonists rule.,Cư dân này bị mất nước và sẽ cần nước để tồn tại nếu không có luật cư dân sắt.
+10535,This Colonists is starving and would have needed Food to survive if not for the Iron Colonists rule.,Cư dân này đang chết đói và sẽ cần thức ăn để tồn tại nếu không có luật cư dân sắt.
+3883,Charging<right><power(amount)>,Sạc<right><power(amount)>
+3884,Discharging<right><power(amount)>,Xả<right><power(amount)>
+3880,Status<right>Full,Trạng thái<right>Đầy
+3881,Status<right>Empty,Trạng thái<right>Rỗng
+3882,Status<right>Idle,Trạng thái<right>Nhàn rỗi
+3885,"Increasing<right><resource(change,resource_type)>","Tăng dần<right><resource(change,resource_type)>"
+3886,"Decreasing<right><resource(change,resource_type)>","Giảm dần<right><resource(change,resource_type)>"
+3887,Collecting minimum Water flow. Will start supplying the grid at <em><water(number)></em>,Thu thập lưu lượng nước tối thiểu. Sẽ bắt đầu cung cấp lưới lúc <em><water(number)></em>
+3888,Collecting minimum Oxygen flow. Will start supplying the grid at <em><air(number)></em>,Thu thập lưu lượng ôxy tối thiểu. Sẽ bắt đầu cung cấp lưới lúc <em><air(number)></em>
+3889,Charging. Requires minimum <em><power(number)></em> to start supplying the grid,Sạc. Yêu cầu tối thiểu <em><power(number)></em> để bắt đầu cung cấp lưới
 10981,<power(power)> <air(air)> <water(water)>,<power(power)> <air(air)> <water(water)>
 10982,<power(power)>,<power(power)>
 10983,<air(air)> <water(water)>,<air(air)> <water(water)>
 10984,Cable faults: <cables><newline>Pipe leaks: <pipes>,
-522588249261,Leak Detected,
-3890,Cable Fault,
-3891,Pipe Leak,
+522588249261,Leak Detected,Đã phát hiện rò rỉ
+3890,Cable Fault,Lỗi cáp
+3891,Pipe Leak,Rò rỉ đường ống
 3892,"This section of the grid has malfunctioned and it's now leaking. It can be repaired by Drones for <metals(number)>.
 
-Larger networks will malfunction more often.",
-3709,This building has been disabled,
-8678,Creating modifier with invalid ID.,
-8679,Creating modifier outside of a running game.,
-8680,Trying to modify a non-modifiable property.,
-8681,Modifier with that ID already exists.,
-8682,Changing modifier with invalid ID.,
-8683,Changing modifier outside of a running game.,
-8684,Changing a non-existing modifier.,
-8685,Removing modifier with invalid ID.,
-8686,Removing modifier outside of a running game.,
-8687,Removing a non-existing modifier.,
-1143,"Colonists with <em>MORE</em> of the desired traits will prefer this Dome.<newline><newline>Colonists with <em>ANY</em> of the undesired traits will leave, provided there is <em>available living space</em> elsewhere.<newline><newline>Colonists can walk to closely positioned Domes but will need Shuttles to reach distant Domes.",
-1144,Applicants with <em>MORE</em> of the desired traits will board the Rocket.<newline><newline>Applicants with <em>ANY</em> of the undesired traits will be rejected.,
-7642,ALL TRAITS,
-7776,<newline><ButtonX> to select colonists,
-7777,<left_click><left_click> to select colonists,
-3929,Age Group,
-3930,Colonists are divided into five Age Groups. Children and seniors cannot work.,
-3931,Specialized Colonists perform better at certain workplaces.,
-3932,Sex,
+Larger networks will malfunction more often.","Khu vực của lưới đã bị trục trặc và hiện nó đang bị rò rỉ. Nó có thể được sửa chữa bằng Drone cho <metals(number)>.
+
+Mạng lớn hơn sẽ gặp trục trặc thường xuyên hơn."
+3709,This building has been disabled,Tòa nhà này đã bị vô hiệu hóa
+8678,Creating modifier with invalid ID.,Tạo công cụ sửa đổi với ID không hợp lệ.
+8679,Creating modifier outside of a running game.,Tạo công cụ sửa đổi bên ngoài trò chơi đang chạy.
+8680,Trying to modify a non-modifiable property.,Đang cố gắng sửa đổi thuộc tính không thể sửa đổi.
+8681,Modifier with that ID already exists.,Công cụ sửa đổi với ID đó đã tồn tại.
+8682,Changing modifier with invalid ID.,Đang thay đổi công cụ sửa đổi với ID không hợp lệ.
+8683,Changing modifier outside of a running game.,Thay đổi công cụ sửa đổi bên ngoài trò chơi đang chạy.
+8684,Changing a non-existing modifier.,Thay đổi công cụ sửa đổi không tồn tại.
+8685,Removing modifier with invalid ID.,Đang xóa công cụ sửa đổi có ID không hợp lệ.
+8686,Removing modifier outside of a running game.,Xóa công cụ sửa đổi bên ngoài trò chơi đang chạy.
+8687,Removing a non-existing modifier.,Xóa công cụ sửa đổi không tồn tại.
+1143,"Colonists with <em>MORE</em> of the desired traits will prefer this Dome.<newline><newline>Colonists with <em>ANY</em> of the undesired traits will leave, provided there is <em>available living space</em> elsewhere.<newline><newline>Colonists can walk to closely positioned Domes but will need Shuttles to reach distant Domes.","Cư dân có <em>NHIỀU</em> đặc điểm mong muốn sẽ thích Mái vòm này hơn.<newline><newline>Cư dân có <em>BẤT KỲ</em> đặc điểm nào không mong muốn sẽ rời đi, miễn là có <em>không gian sống</em> ở nơi khác.<newline><newline>Cư dân có thể đi bộ đến mái vòm có vị trí gần nhưng sẽ cần tàu con thoi để đến mái vòm ở xa."
+1144,Applicants with <em>MORE</em> of the desired traits will board the Rocket.<newline><newline>Applicants with <em>ANY</em> of the undesired traits will be rejected.,Ứng viên có <em>NHIỀU</em> đặc điểm mong muốn sẽ lên tên lửa.<newline><newline>Ứng viên có <em>BẤT KỲ</em> đặc điểm không mong muốn sẽ bị từ chối.
+7642,ALL TRAITS,Tất cả đặt điểm
+7776,<newline><ButtonX> to select colonists,<newline><ButtonX> để chọn cư dân
+7777,<left_click><left_click> to select colonists,<left_click><left_click> để chọn cư dân
+3929,Age Group,Nhóm tuổi
+3930,Colonists are divided into five Age Groups. Children and seniors cannot work.,Cư dân được chia thành năm nhóm tuổi. Trẻ em và người cao tuổi không được làm việc.
+3931,Specialized Colonists perform better at certain workplaces.,Chuyên viên chuyên ngành hoạt động tốt hơn ở một số nơi làm việc nhất định.
+3932,Sex,Giới tính
 3933,The sex of the Colonist. The birth rate in any Dome is determined by the number of Male/Female couples at high Comfort.,
 3935,"Beneficial traits, representing various talents and abilities of the Colonist.",
 3937,"Detrimental traits, representing various flaws and disabilities of the Colonist.",
@@ -18296,16 +18411,16 @@ Larger networks will malfunction more often.",
 7373,<em><trait></em>: <descr>,
 1150,<newline><left><center>Traits<newline><left>,
 11594,<newline><newline><lock_icon> Locked passengers will remain selected when the filter changes.,
-11595,<ButtonA> Remove,
-11596,<ButtonY> Toggle Lock,
-11597,<left_click> Remove,
-11598,<right_click> Toggle Lock,
-11599,<ButtonA> Add,
-11600,<left_click> Add,
+11595,<ButtonA> Remove,<ButtonA> Xóa
+11596,<ButtonY> Toggle Lock,<ButtonY> Chuyển đổi khóa
+11597,<left_click> Remove,,<left_click> Xóa,
+11598,<right_click> Toggle Lock,<right_click> Chuyển đổi khóa
+11599,<ButtonA> Add,<ButtonA> Thêm
+11600,<left_click> Add,<left_click> Thêm
 1151,<name> (<info>),
-8715,The new filters have not been applied. Do you want to apply the changes?,
-8716,Apply the changes,
-8717,Discard the changes,
+8715,The new filters have not been applied. Do you want to apply the changes?,Các bộ lọc mới chưa được áp dụng. Bạn có muốn áp dụng thay đổi không?
+8716,Apply the changes,Áp dụng thay đổi
+8717,Discard the changes,Hủy thay đổi
 6883,Are you sure you want to buy <count> applicants for <funding(price)>?,
 7547,Insufficient funding! You need <funding(price)> to recruit applicants!,
 11601,Too many selected applicants,
@@ -18343,107 +18458,107 @@ Larger networks will malfunction more often.",
 10089,Trophies are disabled during all tutorials.,Danh hiệu bị vô hiệu hóa trong tất cả hướng dẫn.
 10090,Achievements are disabled during all tutorials.,Thành tích bị vô hiệu hóa trong tất cả hướng dẫn.
 11007,Open the <em>Build Menu</em> using <right_click>,Mở <em>Menu xây dựng</em> sử dụng <right_click>
-11008,Open the <em>Build Menu</em> using <left_click> on the HUD button,
-11009,Open the Build Menu using <right_click> and select the <em>Universal Depot</em> by following the arrows,
-11010,Open the Build Menu using <left_click> on the HUD button and select the <em>Universal Depot</em> by following the arrows,
-11011,Open the Build Menu using <right_click> and select a <em>Concrete Extractor</em> from the Production category.,
-11012,Open the Build Menu using <left_click> on the HUD button and select a <em>Concrete Extractor</em> from the Production category.,
-3981,Units,
-3982,Deposits,
-3983,Disasters,
-3984,Anomalies,
-5473,ENCYCLOPEDIA,
-1152,BUILDINGS,
-5402,HINTS,
-4064,Modifiers,
-11678,Notification,
+11008,Open the <em>Build Menu</em> using <left_click> on the HUD button,Mở <em>Menu xây dựng</em> bằng <left_click> trên nút HUD
+11009,Open the Build Menu using <right_click> and select the <em>Universal Depot</em> by following the arrows,Mở Menu xây dựng bằng <right_click> và chọn <em>Tổng kho đa năng</em> bằng cách làm theo mũi tên
+11010,Open the Build Menu using <left_click> on the HUD button and select the <em>Universal Depot</em> by following the arrows,Mở Menu xây dựng bằng <left_click> trên nút HUD và chọn <em>Tổng kho đa năng</em> bằng cách làm theo mũi tên
+11011,Open the Build Menu using <right_click> and select a <em>Concrete Extractor</em> from the Production category.,Mở Menu xây dựng bằng <right_click> và chọn <em>Máy chiết xuất bê tông</em> từ danh mục sản xuất.
+11012,Open the Build Menu using <left_click> on the HUD button and select a <em>Concrete Extractor</em> from the Production category.,Mở Menu xây dựng bằng <left_click> trên nút HUD và chọn <em>Máy chiết xuất bê tông</em> từ danh mục sản xuất.
+3981,Units,Đơn vị
+3982,Deposits,Trầm tích
+3983,Disasters,Thiên tai
+3984,Anomalies,Dị thường
+5473,ENCYCLOPEDIA,Bách khoa toàn thư
+1152,BUILDINGS,Công trình
+5402,HINTS,Gợi ý
+4064,Modifiers,Bổ ngữ
+11678,Notification,Thông báo
 6877,OK,
 6878,OK,
 6879,Cancel,Hủy
-11862,Switch to hybrid control scheme?,
-11863,Do you want to command the game with both gamepad and mouse?,
-1000022,Author,
-1122,Last Update,
-1000018,Tags,
-8689,This mod is disabled due to version incompatibility.,
-4074,This mod requires a newer game version!,
+11862,Switch to hybrid control scheme?,Chuyển sang sơ đồ điều khiển lai?
+11863,Do you want to command the game with both gamepad and mouse?,Bạn có muốn điều khiển trò chơi bằng cả gamepad và chuột không?
+1000022,Author,Tác giả
+1122,Last Update,Cập nhật cuối
+1000018,Tags,Tag
+8689,This mod is disabled due to version incompatibility.,Bản mod này bị vô hiệu hóa do phiên bản không tương thích.
+4074,This mod requires a newer game version!,Bản mod này yêu cầu phiên bản trò chơi mới hơn!
 1124,<tag> (<count>),
-4108,<sols> Sols <hours> h,
+4108,<sols> Sols <hours> h,<sols> Sol <hours> h
 4109,1 Sol <hours> h,
-4110,<sols> Sols,
+4110,<sols> Sols,<sols> Sol
 4111,1 Sol,
 4112,<hours> h,
-7548,<LB> / <DPadUp> Navigate <DPadDown> / <RB>,
-7888,<newline><ButtonA> Activate,
-7889,<newline><ButtonX> Dismiss,
-7582,Notifications,
-10918,View Message,
-10411,<em>An Alien Crystal is blocking the scanning of this sector</em>,
+7548,<LB> / <DPadUp> Navigate <DPadDown> / <RB>,<LB> / <DPadUp> Điều hướng <DPadDown> / <RB>
+7888,<newline><ButtonA> Activate,<newline><ButtonA> Hoạt động
+7889,<newline><ButtonX> Dismiss,<newline><ButtonX> Loại bỏ
+7582,Notifications,Thông báo
+10918,View Message,Xem tin nhắn
+10411,<em>An Alien Crystal is blocking the scanning of this sector</em>,<em>Một Tinh thể ngoài hành tinh đang ngăn việc quét khu vực này</em>
 4049,<em><status></em>,
-4050,Scanning <em><percent(number)></em>,
-4051,Buildable area<right><em><percent(number)></em>,
-4052,Sensor towers boost<right><em><percent(bonus)></em>,
-4053,<newline>High chance that this Sector contains:,
+4050,Scanning <em><percent(number)></em>,Quét <em><percent(number)></em>
+4051,Buildable area<right><em><percent(number)></em>,Khu vực có thể xây dựng<right><em><percent(number)></em>
+4052,Sensor towers boost<right><em><percent(bonus)></em>,Tăng cường tháp cảm biến<right><em><percent(bonus)></em>
+4053,<newline>High chance that this Sector contains:,<newline>Khả năng cao là khu vực này chứa:
 4054,<tab 10><name>,
-4056,<ButtonY> Add/Remove sector from scan queue,
-10889,<RightTrigger><ButtonY> Queue first,
-10536,<ButtonX> Deploy an Orbital Probe to scan this sector,
-4057,<right_click> Remove from queue,
-4058,<left_click> Add to queue,
-10537,Ctrl + <left_click> Queue first,
-10985,<left_click> Deploy an Orbital Probe and deep scan this Sector,
-4060,<left_click> Deploy an Orbital Probe and scan this Sector,
-4062,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and scan this Sector,
-10986,<left_click> Deploy an Orbital Probe and deep scan this Sector,
-7908,<ButtonA> Zoom in,
-4059,<left_click> to deploy an Orbital Probe and deep scan this Sector,
-4061,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and deep scan this Sector,
-4063,Sector <u(display_name)>,
-1103,Colony Site,
+4056,<ButtonY> Add/Remove sector from scan queue,<ButtonY> Thêm/Xóa khu vực khỏi hàng chờ quét
+10889,<RightTrigger><ButtonY> Queue first,<RightTrigger><ButtonY>Hàng chờ đầu tiên
+10536,<ButtonX> Deploy an Orbital Probe to scan this sector,<ButtonX> Triển khai đầu dò quỹ đạo để quét khu vực này
+4057,<right_click> Remove from queue,<right_click> Xóa khỏi hàng chờ
+4058,<left_click> Add to queue,<left_click> Thêm vào hàng chờ
+10537,Ctrl + <left_click> Queue first,Ctrl + <left_click> Hàng chờ đầu tiên
+10985,<left_click> Deploy an Orbital Probe and deep scan this Sector,<left_click> Triển khai đầu dò quỹ đạo và quét sâu khu vực này
+4060,<left_click> Deploy an Orbital Probe and scan this Sector,<left_click> Triển khai đầu dò quỹ đạo và quét khu vực này
+4062,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and scan this Sector,<em><ShortcutName('actionDeployProbe')></em> Triển khai đầu dò quỹ đạo và quét khu vực này
+10986,<left_click> Deploy an Orbital Probe and deep scan this Sector,<left_click> Triển khai đầu dò quỹ đạo và quét sâu khu vực này
+7908,<ButtonA> Zoom in,<ButtonA> Phóng to
+4059,<left_click> to deploy an Orbital Probe and deep scan this Sector,<left_click> triển khai đầu dò quỹ đạo và quét sâu khu vực này
+4061,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and deep scan this Sector,<em><ShortcutName('actionDeployProbe')></em> Triển khai đầu dò quỹ đạo và quét sâu khu vực này
+4063,Sector <u(display_name)>,Khu vực <u(display_name)>
+1103,Colony Site,Địa điểm căn cứ
 4128,<stl><name></style><completed><newline>,<stl><name></style><completed><newline>
-11173,<style PlanetCoordinatesHint><control_img> Move spot</style>,
-12296,<style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,
-10921,<pos_name><style PlanetCoordinatesHint><control_img> Select</style>,
-10922,<pos_name><style PlanetCoordinatesHint><left_click> Select<newline><right_click> Rotate</style>,
-4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Move spot</style>,
-12297,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,
+11173,<style PlanetCoordinatesHint><control_img> Move spot</style>,<style PlanetCoordinatesHint><control_img> Di chuyển chỗ</style>
+12296,<style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,<style PlanetCoordinatesHint><left_click> Di chuyển chỗ <right_click> Quay</style>
+10921,<pos_name><style PlanetCoordinatesHint><control_img> Select</style>,<pos_name><style PlanetCoordinatesHint><control_img> Chọn</style>
+10922,<pos_name><style PlanetCoordinatesHint><left_click> Select<newline><right_click> Rotate</style>,<pos_name><style PlanetCoordinatesHint><left_click> Chọn<newline><right_click> Quay</style>
+4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Move spot</style>,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Di chuyển chỗ</style>
+12297,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Di chuyển chỗ <right_click> Quay</style>
 4131,<pos_name><lat>°<lat_dir> <long>°<long_dir>,
-6890,Latitude,
-6891,-70 to 70,
-6892,Longitude,
-6893,-180 to 180,
-1153,Display Name,
-6894,Quickstart,
-4154,Relatively Flat,
-4155,Rough,
-4156,Steep,
-4157,Mountainous,
-4134,Terrain,
-4135,Altitude,
-4136,Metals and Rare metals. Metals are important for field buildings while Rare Metals are exported to Earth and used in the production of Electronics.,
-4137,"Concrete is used in the construction of many Colony buildings, especially in the interior of the Domes.",
-4138,Most vital resource for sustaining humans on Mars. Water can be extracted from deposits using Water Extractors.,
-4140,"Rare Metals can be exported by refueled Rockets that return to Earth, increasing the Funding for the Colony. They are also used for creating Electronics.",
-4141,Temperature,
-4142,Dust Devils,
-4143,"Dust Devils contaminate buildings in their area with Martian Sand. Contaminated buildings require maintenance and may malfunction. Dust devils contaminate nearby buildings quickly, but disappear relatively fast.",
-4144,Dust Storms,
-4145,Dust Storms contaminate all field buildings with dust and can last several Sols. Colonies in areas with intense Dust Storms will require shorter maintenance cycles. MOXIEs and Moisture Vaporators are not operational during Dust Storms.,
-4146,Meteors,
-4147,"Meteors can destroy or damage structures, colonists and vehicles in their impact area. Some meteors are composed of useful resources like Metal or Polymers.",
-4148,Cold Waves,
-4149,Cold Wave,
-4150,"Cold Waves last several Sols, increasing the power consumption of vehicles, Drones and many field buildings. Water Towers are frozen during Cold Waves.",
-4151,Mars Locales,
-11175,Select a Point of Interest,
-10923,Select a Challenge,
-4152,Select a Colony Site,
+6890,Latitude,Vĩ độ
+6891,-70 to 70,-70 đến 70
+6892,Longitude,Kinh độ
+6893,-180 to 180,-180 đến 180
+1153,Display Name,Tên hiển thị
+6894,Quickstart,Bắt đầu nhanh
+4154,Relatively Flat,Tương đối bằng phẳng
+4155,Rough,Gồ ghề
+4156,Steep,Dốc
+4157,Mountainous,Đồi núi
+4134,Terrain,Địa hình
+4135,Altitude,Độ cao
+4136,Metals and Rare metals. Metals are important for field buildings while Rare Metals are exported to Earth and used in the production of Electronics.,Kim loại và kim loại hiếm. Kim loại rất quan trọng đối với các công trình hiện tại trong khi kim loại hiếm được xuất khẩu sang trái đất và được sử dụng trong sản xuất thiết bị điện tử.
+4137,"Concrete is used in the construction of many Colony buildings, especially in the interior of the Domes.","Bê tông được sử dụng trong việc xây dựng nhiều tòa nhà căn cứ, đặc biệt là trong nội thất của mái vòm."
+4138,Most vital resource for sustaining humans on Mars. Water can be extracted from deposits using Water Extractors.,Nguồn lực quan trọng nhất để duy trì con người trên sao Hỏa. Nước có thể được chiết xuất từ trầm tích bằng Máy chiết xuất nước.
+4140,"Rare Metals can be exported by refueled Rockets that return to Earth, increasing the Funding for the Colony. They are also used for creating Electronics.","Kim loại hiếm có thể được xuất khẩu bằng tên lửa được tiếp nhiên liệu quay trở lại trái đất, tăng tài trợ cho căn cứ. Chúng cũng được sử dụng để tạo ra thiết bị điện tử."
+4141,Temperature,Nhiệt độ
+4142,Dust Devils,Bụi quỷ
+4143,"Dust Devils contaminate buildings in their area with Martian Sand. Contaminated buildings require maintenance and may malfunction. Dust devils contaminate nearby buildings quickly, but disappear relatively fast.","Bụi quỷ làm ô nhiễm tòa nhà trong khu vực của chúng bằng cát sao Hỏa. Tòa nhà bị ô nhiễm cần được bảo trì và có thể bị trục trặc. Quỷ bụi làm ô nhiễm tòa nhà gần đó một cách nhanh chóng, nhưng biến mất tương đối nhanh."
+4144,Dust Storms,Bão bụi
+4145,Bão bụi gây ô nhiễm bụi cho tất cả công trình hiện trường và có thể kéo dài vài Sol. Căn cứ ở những khu vực có Bão bụi dữ dội sẽ yêu cầu chu kỳ bảo dưỡng ngắn hơn. MOXIE và thiết bị tạo hơi ẩm không hoạt động trong bão bụi.,
+4146,Meteors,Thiên thạch
+4147,"Meteors can destroy or damage structures, colonists and vehicles in their impact area. Some meteors are composed of useful resources like Metal or Polymers.","Thiên thạch có thể phá hủy hoặc làm hư hại công trình kiến trúc, cư dân và phương tiện trong khu vực tác động của chúng. Một số thiên thạch chứa tài nguyên hữu ích như kim loại hoặc Polyme."
+4148,Cold Waves,Sóng lạnh
+4149,Cold Wave,Sóng lạnh
+4150,"Cold Waves last several Sols, increasing the power consumption of vehicles, Drones and many field buildings. Water Towers are frozen during Cold Waves.","Sóng lạnh kéo dài vài Sol, làm tăng mức tiêu thụ điện của phương tiện, mái vòm và nhiều công trình dã chiến. Tháp nước bị đóng băng trong sóng lạnh."
+4151,Mars Locales,Địa phương sao Hỏa
+11175,Select a Point of Interest,Chọn điểm ưa thích
+10923,Select a Challenge,Chọn thử thách
+4152,Select a Colony Site,Chọn vị trí căn cứ
 4153,<style LandingPosName><name></style>,<style LandingPosName><name></style>
-10414,Funding: $<funding> M<newline>,
-10062,Starting Rockets: <initial_rockets><newline>,
+10414,Funding: $<funding> M<newline>,Kinh phí: <funding> M$<newline>
+10062,Starting Rockets: <initial_rockets><newline>,Khởi động tên lửa: <initial_rockets><newline>
 10415,- ,- 
-4092,Custom coordinates,
-4093,Invalid coordinates.,
+4092,Custom coordinates,Tọa độ tùy chỉnh
+4093,Invalid coordinates.,Tọa độ không hợp lệ.
 6885,Error,Lỗi
 11540,<home(buildings)>,<home(buildings)>
 11541,<metals(metals)>  <concrete(concrete)>  <food(food)>  <preciousmetals(preciousmetals)>,<metals(metals)>  <concrete(concrete)>  <food(food)>  <preciousmetals(preciousmetals)>
@@ -18453,14 +18568,14 @@ Larger networks will malfunction more often.",
 12757,<wasterock(wasterock)> ,<wasterock(wasterock)> 
 12758,<seeds(seeds)> ,<seeds(seeds)> 
 12759,<preciousminerals(preciousminerals)> ,<preciousminerals(preciousminerals)> 
-3609,Any,
+3609,Any,Bất kỳ
 11539,<colonist(colonists)>,<colonist(colonists)>
 11180,<drone(num)>,<drone(num)>
 11604,<time(time)>,<time(time)>
-12050,<red>Insufficient Funding to start the mission.<red>,
-12051,<red>Not enough Seeds to start the mission.<red>,
-12399,<red>Surface water is still frozen. Increase the Temperature of the planet.<red>,
-6896,"Mission Control, Log #<number><newline><newline>",
+12050,<red>Insufficient Funding to start the mission.<red>,<red>Không đủ kinh phí để bắt đầu nhiệm vụ.<red>
+12051,<red>Not enough Seeds to start the mission.<red>,<red>Không đủ hạt giống để bắt đầu nhiệm vụ.<red>
+12399,<red>Surface water is still frozen. Increase the Temperature of the planet.<red>,<red>Nước mặt vẫn đóng băng. Tăng nhiệt độ của hành tinh.<red>
+6896,"Mission Control, Log #<number><newline><newline>","Kiểm soát nhiệm vụ, Nhật ký #<number><newline><newline>"
 4167,Return to Earth?,Trở lại trái đất?
 8718,Please don't go. The drones need you. They look up to you.<newline><newline>Are you sure you want to exit the game?,Xin đừng đi. Drone cần bạn. Chúng nhìn bạn.<newline><newline>Bạn có muốn thoát khỏi trò chơi không?
 4263,Press any button,Nhấn bất kỳ nút nào
@@ -19165,7 +19280,7 @@ Bạn có muốn bật bản mod này không?"
 1000159,Escape,
 599355083725,Unlocked <white><unlocked> / <total>,Đã mở khóa <white><unlocked> / <total>
 345376930850,<OverviewInfo>,<OverviewInfo>
-862135144106,Gone Rogue,Trở thành giả mạo
+862135144106,Gone Rogue,Trở thành phản bội
 904592423533,BUILDINGS,Tòa nhà
 642090198735,Toggle filtering of inside buildings.,Chuyển đổi lọc tòa nhà bên trong
 367336674138,Inside Buildings,Tòa nhà bên trong
@@ -19328,7 +19443,7 @@ Thời gian hoàn hảo Sol <PerfectDeadline>
 11628,CRASH TEST,Kiểm tra sự cố
 328491723397,CLOSE,Đóng
 749348081133,<OverviewInfo>,<OverviewInfo>
-922380859639,Gone Rogue,Trở thành giả mạo
+922380859639,Gone Rogue,Trở thành phản bội
 347194033198,<DomeName>,
 837650465667,<DomeSubtitle>,
 5446,PREVIOUS DOME,Mái vòm trước
@@ -20068,7 +20183,7 @@ Chi phí nghiên cứu<right><ResearchPoints(cost)>"
 9749,"<ButtonA> Construct Biorobot
 <ButtonX> Cancel Biorobot","<ButtonA> Xây Biorobot
 <ButtonX> Hủy Biorobot"
-892860717791,Gone Rogue,Trở thành giả mạo
+892860717791,Gone Rogue,Trở thành phản bội
 463510675096,<description>,<description>
 384759114882,<display_name>,<display_name>
 175928588179,<display_name>,<display_name>
@@ -20799,94 +20914,94 @@ Status: <on_off(IsResourceEnabled(res))>",
 4211,Toggle Workload,
 736926488042,<left_click> Toggle Overtime  <newline><em>Ctrl + <left_click></em> Toggle Overtime for all <display_name_pl>,
 762021223496,<ButtonA> Toggle Overtime <newline><newline><ButtonX> Toggle Overtime for all <display_name_pl>,
-3513,Concrete,
-7909,Basic construction material often used to construct and maintain Domes and Dome buildings.,
-3514,Metals,
-7910,Basic construction materials often used to construct and maintain outside buildings. Required for the creation of Machine Parts.,
+3513,Concrete,Bê tông
+7909,Basic construction material often used to construct and maintain Domes and Dome buildings.,Vật liệu xây dựng cơ bản thường được sử dụng để xây dựng và bảo trì tòa nhà mái vòm.
+3514,Metals,Kim loại
+7910,Basic construction materials often used to construct and maintain outside buildings. Required for the creation of Machine Parts.,Vật liệu xây dựng cơ bản thường được sử dụng để xây dựng và bảo trì bên ngoài các tòa nhà. Cần thiết cho việc tạo ra linh kiện máy.
 3515,Polymers,Polyme
-7911,"Advanced materials often used to construct and maintain Power accumulators, advanced Power generators, Domes and Spires.",
-3517,Electronics,
-7912,Advanced materials often used to construct and maintain scientific and infrastructure buildings.,
-3516,Machine Parts,
-7913,Advanced materials often used to construct and maintain Extractors and Factories.,
-4139,Rare Metals,
-7985,Can be exported to Earth for Funding or processed into Electronics.,
-4518,Waste Rock,
-4764,Black Cubes,
-681,Water,
-1022,Food,
-7914,"Colonists arrive with nominal Food supply, but will soon need additional provisions to survive.",
-4765,Fuel,
-7986,Advanced resource produced in Fuel Refineries from Water. Required for the refuelling of Rockets. Highly explosive.,
-3613,Funding,
-4290,Colonist,
-12754,Tourist,
-8064,Mystery Resource,
-8065,Mystery Resource Description,
-9755,Research Points,
-11843,Seeds,
-12053,Seeds are required for planting vegetation on Mars.,
-12755,Rare Minerals,
-12810,"Precious minerals are new and shiny, please enjoy",
-7697,<em>Effect:</em> ,
-4774,<em>Hint:</em> ,
-4773,<em>Goal:</em> ,
-4775,Child,
-4776,Too young to work but can study at a School,
-4777,Youth,
-4778,Too young to work but can be trained to become a specialist at an University.,
-4779,Adult,
-4780,An adult Colonist,
-4781,Middle Aged,
-4782,A middle aged Colonist approaching retirement,
-4783,Senior,
-4784,A senior Colonist retired from active duty,
-4785,<red>Low Building performance</red>,
-4786,<red>Low Soil quality</red>,
-4787,<green>High Soil quality</green>,
-4788,<red>Power shortage</red>,
-4789,<red>Water shortage</red>,
-4790,<red>No workers</red>,
-4791,Meteor Impact,
-12316,Struck by lightning,
-7880,Fuel explosion,
-4792,Low Health,
-4793,Old Age,
-4794,Spacesuit out of Oxygen,
-4795,Suicide (Low Sanity),
-4796,Killed by a rogue machine,
-4797,Suffocating,
-4798,Dehydrated,
-3875,Freezing,
-3877,Starving,
-10995,Extenuating circumstances,
-924901666901,Dust Sickness,
-7590,Morale <amount>,
-7591,Brimming with enthusiasm <amount> (Enthusiast),
-7592,Severely depressed <amount> (Melancholic),
-7593,Procrastinating at work <amount> (Lazy),
-7594,Working hard <amount> (Workaholic),
-7595,Hangover <amount> (Alcoholic),
-7596,Disillusioned <amount> (Renegade),
-7597,Vocation oriented society <amount>,
-8544,Refugee performance penalty <amount> (Refugee),
+7911,"Advanced materials often used to construct and maintain Power accumulators, advanced Power generators, Domes and Spires.","Các vật liệu tiên tiến thường được sử dụng để chế tạo và bảo trì Bộ tích lũy điện, Máy phát điện nâng cao, mái vòm và Spires."
+3517,Electronics,Thiết bị điện tử
+7912,Advanced materials often used to construct and maintain scientific and infrastructure buildings.,Vật liệu tiên tiến thường được sử dụng để xây dựng và bảo trì tòa nhà khoa học và cơ sở hạ tầng.
+3516,Machine Parts,Linh kiện máy
+7913,Advanced materials often used to construct and maintain Extractors and Factories.,Vật liệu tiên tiến thường được sử dụng để xây dựng và bảo trì cơ sở chiết xuất và nhà máy.
+4139,Rare Metals,Kim loại hiếm
+7985,Can be exported to Earth for Funding or processed into Electronics.,Có thể được xuất sang trái đất để lấy vốn hoặc được chế biến thành thiết bị điện tử.
+4518,Waste Rock,Đá thải
+4764,Black Cubes,Khối đen
+681,Water,Nước
+1022,Food,Thức ăn
+7914,"Colonists arrive with nominal Food supply, but will soon need additional provisions to survive.","Cư dân đến với nguồn cung thực phẩm trên danh nghĩa, nhưng sẽ sớm cần nguồn cung cấp bổ sung để tồn tại."
+4765,Fuel,Nhiên liệu
+7986,Advanced resource produced in Fuel Refineries from Water. Required for the refuelling of Rockets. Highly explosive.,Tài nguyên tiên tiến được sản xuất trong nhà máy lọc nhiên liệu từ nước. Cần thiết cho việc tiếp nhiên liệu cho tên lửa. Rất dễ nổ.
+3613,Funding,Kinh phí
+4290,Colonist,Cư dân
+12754,Tourist,Du khách
+8064,Mystery Resource,Tài nguyên bí ẩn
+8065,Mystery Resource Description,Mô tả tài nguyên bí ẩn
+9755,Research Points,Điểm nghiên cứu
+11843,Seeds,Hạt giống
+12053,Seeds are required for planting vegetation on Mars.,Hạt giống được yêu cầu để trồng thảm thực vật trên sao Hỏa.
+12755,Rare Minerals,Khoáng chất hiếm
+12810,"Precious minerals are new and shiny, please enjoy","Khoáng chất hiếm còn mới và sáng bóng, mời các bạn thưởng thức"
+7697,<em>Effect:</em> ,<em>Hiệu ứng:</em> 
+4774,<em>Hint:</em> ,<em>Gợi ý:</em> 
+4773,<em>Goal:</em> ,<em>Mục tiêu:</em> 
+4775,Child,Trẻ em
+4776,Too young to work but can study at a School,Còn quá trẻ để đi làm nhưng có thể học tại trường
+4777,Youth,Thiếu niên
+4778,Too young to work but can be trained to become a specialist at an University.,Còn quá trẻ để làm việc nhưng có thể được đào tạo để trở thành một chuyên gia tại trường Đại học.
+4779,Adult,Người lớn
+4780,An adult Colonist,Cư dân người lớn
+4781,Middle Aged,Trung niên
+4782,Cư dân trung niên sắp nghỉ hưu,
+4783,Senior,Cấp cao
+4784,A senior Colonist retired from active duty,Thành viên cao cấp đã nghỉ hưu từ chức vụ tại ngũ
+4785,<red>Low Building performance</red>,<red>Hiệu suất tòa nhà thấp</red>
+4786,<red>Low Soil quality</red>,<red>Chất lượng đất thấp</red>
+4787,<green>High Soil quality</green>,<green>Chất lượng đất cao</green>
+4788,<red>Power shortage</red>,<red>Thiếu điện</red>
+4789,<red>Water shortage</red>,<red>Thiếu nước</red>
+4790,<red>No workers</red>,<red>Không có công nhân</red>
+4791,Meteor Impact,Tác động thiên thạch
+12316,Struck by lightning,Bị sét đánh
+7880,Fuel explosion,Nổ nhiên liệu
+4792,Low Health,Sức khỏe thấp
+4793,Old Age,Tuổi già
+4794,Spacesuit out of Oxygen,Bộ đồ không gian hết ôxy
+4795,Suicide (Low Sanity),Tự tử (Mức độ nghiêm trọng thấp)
+4796,Killed by a rogue machine,Bị giết bởi một cỗ máy phản bội
+4797,Suffocating,Ngạt thở
+4798,Dehydrated,Mất nước
+3875,Freezing,Đóng băng
+3877,Starving,Chết đói
+10995,Extenuating circumstances,Tình tiết giảm nhẹ
+924901666901,Dust Sickness,Bệnh bụi
+7590,Morale <amount>,Tinh thần <amount>
+7591,Brimming with enthusiasm <amount> (Enthusiast),Tràn đầy nhiệt huyết <amount> (Người nhiệt huyết)
+7592,Severely depressed <amount> (Melancholic),Trầm cảm nặng <amount> (Sầu muộn)
+7593,Procrastinating at work <amount> (Lazy),Chần chừ trong công việc <amount> (Lười biếng)
+7594,Working hard <amount> (Workaholic),Làm việc chăm chỉ <amount> (Tham công tiếc việc)
+7595,Hangover <amount> (Alcoholic),Nôn nao <amount> (Kẻ nghiện rượu)
+7596,Disillusioned <amount> (Renegade),Vỡ mộng <amount> (Phản bội)
+7597,Vocation oriented society <amount>,Định hướng xã hội tươi sáng <amount>
+8544,Refugee performance penalty <amount> (Refugee),Hình phạt thực hiện người tị nạn <amount> (Người tị nạn)
 4835,<value><resource_icon>,
 4839,<em><hours>h</em>,
-4840,"<em><sols> Sols, <hours>h</em>",
-4841,<em><sols> Sols</em>,
+4840,"<em><sols> Sols, <hours>h</em>","<em><sols> Sol, <hours>h</em>"
+4841,<em><sols> Sols</em>,<em><sols> Sol</em>
 4842,/<int>,
 4843,/<int>.<frac>,
 4844,<int>,
 4845,<int>.<frac>,
 6981,-,
-4855,<red>INVALID RESOURCE</red>,
+4855,<red>INVALID RESOURCE</red>,<red>Tài nguyên không hợp lệ</red>
 4856,<em><points><image UI/Icons/res_experimental_research.tga></em>,
-4857,<em>$<integer></em>,
+4857,<em>$<integer></em>,<em><integer>$</em>
 4858,k,
 6983,M,
-4859,<em>$<integer> <suffix></em>,
-4860,<em>$<integer>.<fractional> <suffix></em>,
-11446,<em>NEW!</em> ,
+4859,<em>$<integer> <suffix></em>,<em><integer> <suffix>$</em>
+4860,<em>$<integer>.<fractional> <suffix></em>,<em><integer>.<fractional> <suffix>$</em>
+11446,<em>NEW!</em> ,<em>Mới!</em> 
 4806,Water Production,
 5558,Air Production,
 936,Power Production,
