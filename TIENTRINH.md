@@ -13,7 +13,14 @@
 - Dịch về khu vực (hiển thị)
 - Một ít trong bách khoa toàn thư trong trò chơi
 ## Ngày 19/9/2021
-- Hoàn thành bách khoa toàn thư trong trò chơi
+- Dịch hết phần bách khoa toàn thư trong trò chơi (trừ phần gợi ý)
 - Dịch câu nói của vĩ nhân
 - Cố dịch những phần liên quan đến hiển thị thông số + mô tả công trình (hiển thị)
-- Chuyển từ **tòa nhà** thành **công trình** (Tiếng anh gốc là Building)
+- Dịch một ít mô tả về động vật
+- Chuyển **thám hiểm** thành **do thám** cho đồng nhất
+- Chuyển **phản bội** thành **nổi loạn** cho đồng nhất (tiếng Anh: Rogue. *Ở đây không có kẻ thù nên không có phản bội hay trung thành*)
+- Chuyển **bảo dưỡng** thành **bảo trì** cho đồng nhất
+- Chuyển **trục vớt** thành **cứu hộ** cho đồng nhất (tiếng Anh: salvage *tái chế thì sao ta?*)
+- Chuyển **oxy** thành **ôxy** cho đồng nhất
+- Chuyển **sai sót** thành **khuyết điểm** cho đồng nhất (tiếng Anh: flaws)
+- Chuyển từ **tòa nhà** thành **công trình** (Tiếng Anh: buildding)
