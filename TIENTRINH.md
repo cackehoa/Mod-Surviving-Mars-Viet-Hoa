@@ -24,3 +24,10 @@
 - Chuyển **oxy** thành **ôxy** cho đồng nhất
 - Chuyển **sai sót** thành **khuyết điểm** cho đồng nhất (tiếng Anh: flaws)
 - Chuyển từ **tòa nhà** thành **công trình** (Tiếng Anh: buildding)
+## Ngày 21/9/2021
+- Dịch đặc điểm của cư dân và tác động
+- Dịch một ít liên quan đến trồng trọt - thảm thực vật
+- Dịch một ít hướng dẫn xây dựng
+- Dịch một ít trạng thái công trình và phương tiện
+- Chuyển **cứu hộ** thành **tái chế** cho thống nhất (tiếng Anh:Salvage)
+- Chuyển **thuần chay** thành **ăn chay** cho thống nhất
