@@ -31,3 +31,12 @@
 - Dịch một ít trạng thái công trình và phương tiện
 - Chuyển **cứu hộ** thành **tái chế** cho thống nhất (tiếng Anh:Salvage)
 - Chuyển **thuần chay** thành **ăn chay** cho thống nhất
+## Ngày 23/9/2021
+- Dịch về Sphere
+- Dịch về cảnh báo thiếu ôxy, nước, thức ăn, không khí
+- Dịch về đặc điểm người sáng lập
+- Dịch về dị thường và công nghệ liên quan
+- Dịch về hướng dẫn điện, nước & bảo trì
+- Dịch về hướng dẫn tái chế công trình
+- Cập nhật **tòa nhà** thành **công trình** cho thống nhất
+- Cập nhật **bất thường** thành **dị thường** cho thống nhất
