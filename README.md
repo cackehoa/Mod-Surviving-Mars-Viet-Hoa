@@ -30,6 +30,35 @@ Mình dịch trên phiên bản v.1001514 nên có thể không chạy hoặc c�
 
 - Ấn phím window hoặc tổ hợp phím Ctrl + ESC
 - Nhập `%AppData%` rồi ấn phím Enter trên bàn phím
+### Hướng dẫn dịch
+
+Trong thư mục [Vietnamese](Vietnamese/) có 3 tập tin bạn chỉ cần quan tâm đến tập tin [Vietnamese.csv](Vietnamese/Vietnamese.csv)
+
+Cấu trúc của tập tin [Vietnamese.csv](Vietnamese/Vietnamese.csv) là: ```ID,Text,Translation``` (Ngay dòng đầu tiên là bạn thấy)
+
+Bạn chỉ việc thay nhập thêm phần dịch ở **Translation** thôi ví dụ:
+```ID,Text,Translation```
+dịch thành
+```ID,Text,Chữ```
+với ```Chữ``` ở đây là dịch ```Text``` ra tiếng Việt
+
+**Chú ý:**
+- Nếu trong văn bản dịch của bạn có dấu phẩy ```,``` thì bạn nên xóa bỏ nó để tránh chương trình không nhận hết văn bản dịch
+- Nếu muốn giữ dấu phẩy ```,``` trong đoạn văn bản dịch rồi của mình thì nên đoạn văn đó giữa 2 đấu nháy đôi ```"```
+- Có một số định nghĩa trong văn bản giữ 2 đấu ```<``` và ```>``` bạn nên để nguyên vì trò chơi sẽ thay thế nó bằng một **giá trị** khác
+- Nếu trong văn bản dịch của bạn cần chèn dấu nháy đôi ```"``` thì bạn nhập 2 dấu nháy đôi liền kề nhau ```""```
+
+VD: ```<ModLabel>``` và ```<u(path)>```
+- Một số định nghĩa bạn có thể lợi dụng để trình bày văn bản mình đẹp hơn:
+  + ```<newline>``` Xuống dòng
+  + ```<green>``` và ```</green>``` văn bản ở giữa màu xanh lá
+  + ```<red>``` và ```<red>``` văn bản ở giữa màu đỏ
+  + ```<color 128 128 128>``` và ```</color>``` văn bản ở giữa màu rgb(128,128,128)
+  + ```<left>``` canh trái
+  + ```<right>``` canh phải
+  + ```<if(điều kiện)>``` và ```</if>```
+  + ```<em>``` và ```</em>```
+  + ...
 
 ## Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
