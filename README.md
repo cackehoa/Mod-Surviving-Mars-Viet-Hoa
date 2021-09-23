@@ -45,10 +45,14 @@ với ```Chữ``` ở đây là dịch ```Text``` ra tiếng Việt
 **Chú ý:**
 - Nếu trong văn bản dịch của bạn có dấu phẩy ```,``` thì bạn nên xóa bỏ nó để tránh chương trình không nhận hết văn bản dịch
 - Nếu muốn giữ dấu phẩy ```,``` trong đoạn văn bản dịch rồi của mình thì nên đoạn văn đó giữa 2 đấu nháy đôi ```"```
-- Có một số định nghĩa trong văn bản giữ 2 đấu ```<``` và ```>``` bạn nên để nguyên vì trò chơi sẽ thay thế nó bằng một **giá trị** khác
 - Nếu trong văn bản dịch của bạn cần chèn dấu nháy đôi ```"``` thì bạn nhập 2 dấu nháy đôi liền kề nhau ```""```
 
-VD: ```<ModLabel>``` và ```<u(path)>```
+    VD: ```Họ nói: ""Ok""``` hoặc ```"Họ nói: ""Ok"""```
+
+- Có một số định nghĩa trong văn bản giữ 2 đấu ```<``` và ```>``` bạn nên để nguyên vì trò chơi sẽ thay thế nó bằng một **giá trị** khác
+
+    VD: ```<ModLabel>``` và ```<u(path)>```
+
 - Một số định nghĩa bạn có thể lợi dụng để trình bày văn bản mình đẹp hơn:
   + ```<newline>``` Xuống dòng
   + ```<green>``` và ```</green>``` văn bản ở giữa màu xanh lá
@@ -59,6 +63,10 @@ VD: ```<ModLabel>``` và ```<u(path)>```
   + ```<if(điều kiện)>``` và ```</if>```
   + ```<em>``` và ```</em>```
   + ...
+
+### Công cụ dịch
+
+Dùng Notepad, Notepad++
 
 ## Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
