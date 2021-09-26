@@ -40,3 +40,17 @@
 - Dịch về hướng dẫn tái chế công trình
 - Cập nhật **tòa nhà** thành **công trình** cho thống nhất
 - Cập nhật **bất thường** thành **dị thường** cho thống nhất
+## Ngày 23/9/2021
+- Dịch hướng dẫn về tái chế
+- Dịch hướng dẫn phần cư dân
+- Dịch phần giai đoạn sáng lập
+- Dịch hết phần hướng dẫn
+- Dịch phần do thám dị thường và kết quả/hậu quả nhận được
+- Dịch những phần bỏ qua (còn sót)
+- Dịch thông báo lỗi, trạng thái, hoạt động
+- Dịch vài câu của danh nhân (còn sót)
+- Dịch trạng thái cư dân và khách du lịch
+- Dịch mô tả công nghệ
+- Dịch về khối đen
+- Chuyển **kinh phí** thành **tài trợ**
+
