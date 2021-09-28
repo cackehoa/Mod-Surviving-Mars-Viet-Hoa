@@ -68,6 +68,12 @@ với ```Chữ``` ở đây là dịch ```Text``` ra tiếng Việt
 
 Dùng Notepad, Notepad++
 
+### Một số thuật ngữ trong bản dịch
+
++ **Vườn ươm** (Nursery): Tại sao không phải nhà trẻ, mẫu giáo? Mình thích thuật ngữ vườn ươm sao khi nói về các thiên hà có sao mới sinh ra liên tục
++ **Trầm tích** (Deposit): Những gì tích tụ bên dưới mặt đất
+
+
 ## Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
 
