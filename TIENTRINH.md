@@ -53,4 +53,15 @@
 - Dịch mô tả công nghệ
 - Dịch về khối đen
 - Chuyển **kinh phí** thành **tài trợ**
+## Ngày 1/10/2021
+- Dịch về tàu nạo vét
+- Dịch về Sphere (lại Sphere)
+- Dịch về Ánh sáng bên trong (Dreamer = Kẻ mộng mơ)
+- Dịch về tên công nghệ và mô tả
+- Dịch về tạo hình và thay đổi địa hình
+- Thay đổi **địa hình** thành **tạo hình** ((Terraforming)Tạo hình ở đây có nghĩa là tạo ra hình dạng mới cho sao hỏa)
+- Dịch về AI: Dự án số sáu
+- Dịch về Marsgate
+- Dịch về các vấn đề với MOXIE
+- Dịch về nhạc máu (Blood Music)
 
