@@ -64,4 +64,9 @@
 - Dịch về Marsgate
 - Dịch về các vấn đề với MOXIE
 - Dịch về nhạc máu (Blood Music)
+## Ngày 4/10/2021
+- Dịch về cuộc chiến cuối cùng
+- Dịch về Wildfire
+- Dịch Trái đất ngày mai
+- Dịch về các phát hiện trên sao Hỏa
 
