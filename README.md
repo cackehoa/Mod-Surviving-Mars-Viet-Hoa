@@ -73,6 +73,9 @@ Dùng Notepad, Notepad++
 + **Vườn ươm** (Nursery): Tại sao không phải nhà trẻ, mẫu giáo? Mình thích thuật ngữ vườn ươm sao khi nói về các thiên hà có sao mới sinh ra liên tục
 + **Trầm tích** (Deposit): Những gì tích tụ bên dưới mặt đất
 
+### Xem thêm hướng dẫn sử dụng github
+
+Nếu chưa biết cách sữ dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
 
 ## Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
