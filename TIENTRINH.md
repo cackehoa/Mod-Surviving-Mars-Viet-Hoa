@@ -69,4 +69,17 @@
 - Dịch về Wildfire
 - Dịch Trái đất ngày mai
 - Dịch về các phát hiện trên sao Hỏa
+## Ngày 9/10/2021
+- Dịch về bản quyền
+- Dịch về trẻ em ngày mai
+- Dịch về Thiên đường mùa đông
+- Dịch về bệnh bụi
+- Dịch về mái vòm nổi loạn (rogue)
+- Tên lửa thử nghiệm
+- Dịch về thuyết sao Hỏa phẳng
+- Dịch về đứa trẻ lạc (Mike)
+- Dịch về ý chí tự do
+- Dịch về cuộc đua thập tự
+- Dịch về tận thế
+- Dịch về Metatron
 
