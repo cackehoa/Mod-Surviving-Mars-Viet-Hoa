@@ -82,4 +82,22 @@
 - Dịch về cuộc đua thập tự
 - Dịch về tận thế
 - Dịch về Metatron
-
+## Ngày 13/10/2021
+- Dịch về ác quỷ
+- Dịch về dị tật di truyền
+- Dịch về rô bốt sinh học là người hay vật thể
+- Dịch về quyền của thiên tài
+- Dịch về bữa tiệt
+- Dịch về nguyên mẫu
+- Dịch về hậu chiến tranh lạnh
+- Dịch về khủng bố
+- Dịch về khủng hoản tỵ nạn
+- Dịch về thế giới song song
+- Dịch về mùa hè vĩnh cữu
+- Dịch về sự cố lò phản ứng nhiệt hạch
+- Dịch về Guru bị mất
+- Dịch về thông linh
+- Dịch về kẻ trốn tàu
+- Dịch về Truy tìm kho báu
+- Dịch về Cấu trúc mái vòm bí ẩn
+- Dịch về Gió đổi hướng
