@@ -101,3 +101,14 @@
 - Dịch về Truy tìm kho báu
 - Dịch về Cấu trúc mái vòm bí ẩn
 - Dịch về Gió đổi hướng
+## Ngày 15/10/2021
+- Dịch về Vi khuẩn lam
+- Dịch về Phòng thí nghiệm Kelvin
+- Dịch về Báo cáo tai nạn
+- Dịch về Vi khuẩn ôxy hóa sắt
+- Dịch về Tiểu hành tinh băng
+- Dịch về Vi khuẩn ôxy hóa sắt
+- Dịch về Rác vũ trụ
+- Dịch về Công thức nước hòa bình
+- Dịch về Kim tự tháp
+- Dịch về Bắn sao
