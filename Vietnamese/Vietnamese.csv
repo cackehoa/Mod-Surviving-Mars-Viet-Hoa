@@ -1084,7 +1084,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 4911,Where No Man has Gone Before,Nơi No Man đã đi trước đây
 4912,Analyze an Anomaly,Phân tích điểm dị thường
 4913,Marvin the Martian,
-4914,First child on Mars,Đứa trẻ đầu tiên trên sao Hỏa
+4914,First child on Mars,Đứa trẻ đầu tiên sinh trên sao Hỏa
 4916,Passed the Colony Approval stage,Đã vượt qua giai đoạn Phê duyệt căn cứ
 4915,"Good News, Everyone!","Tin tốt lành, mọi người!"
 4917,Pass the Colony Approval stage,Vượt qua giai đoạn Phê duyệt căn cứ
@@ -1662,7 +1662,7 @@ Máy lọc hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng hấp ph�
 463998263208,Founding Fathers,Người cha sáng lập
 528782053501,Export 30 Rare Metals,Xuất khẩu 30 kim loại hiếm
 455697218349,The Gold Must Flow,Vàng phải chảy
-238728162719,Have 5 Martianborn colonists,Có 5 cư dân trên sao Hỏa
+238728162719,Have 5 Martianborn colonists,Có 5 cư dân sinh trên sao Hỏa
 327559036075,Baby Steps,Bước chân em bé
 492192262201,Have a Dome with population 100 and no homeless citizens,Có mái vòm với dân số 100 và không có công dân vô gia cư
 384677172418,City Building,Thành phố xây dựng
@@ -1799,7 +1799,7 @@ Máy lọc hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng hấp ph�
 316873007894,<Amount> Sponsor Research,<Amount> tài trợ nghiên cứu
 657450512080,Grant <ResearchText> in <FieldText>,Trợ cấp <ResearchText> trong <FieldText>
 698095003300,Grant <percent(Amount)> research boost for <ResearchText> in <FieldText>,Trợ cấp <percent(Amount)> thúc đẩy nghiên cứu cho <ResearchText> trong <FieldText>
-515848920780,Reward Wonder,Phần thưởng kỳ diệu
+515848920780,Reward Wonder,Phần thưởng kỳ quan
 299282262689,Set building breakdown state: <State>,Đặt trạng thái phá vỡ công trình: <State>
 797591705344,Set building enabled state,Đặt trạng thái cho phép công trình
 493919680976,Set building rogue state to <if(RogueState)>true</if><if(not(RogueState))>false</if>,Đặt trạng thái nổi loạn của công trình thành <if(RogueState)>đúng</if><if(not(RogueState))>sai</if>
@@ -4294,7 +4294,7 @@ We must not judge. On the contrary, we must be supportive and help our dear comr
 
 <hint>The Founder <ColonistName(colonist)> has the <em>Gambler</em> trait.","Họ đi qua 50 triệu dặm đến một thế giới đá, khắc nghiệt và cố gắng điều chỉnh nó theo ý muốn của con người. Mặt khác, <ColonistName(colonist)> dường như cũng là một con bạc theo nghĩa truyền thống hơn.
 
-Chúng ta không được phán xét. Ngược lại, chúng ta phải ủng hộ và giúp đỡ người đồng đội thân yêu của mình, người đã cùng chúng ta vượt qua khoảng trống, dẫn đầu sự bành trướng của loài người trên thế giới khác, chỉ để thấy rằng chúng ta không an toàn hơn khỏi những tệ nạn trên Trái đất, cứ như thể chúng ta chưa bao giờ rời đi.
+Chúng ta không được phán xét. Ngược lại, chúng ta phải ủng hộ và giúp đỡ người đồng đội thân yêu của mình, người đã cùng chúng ta vượt qua khoảng không, dẫn đầu sự bành trướng của loài người trên thế giới khác, chỉ để thấy rằng chúng ta không an toàn hơn khỏi những tệ nạn trên Trái đất, cứ như thể chúng ta chưa bao giờ rời đi.
 
 <hint>Người sáng lập <ColonistName(colonist)> có đặc điểm <em>Con bạc</em>."
 7102,Gambling Midst The Stars ,Cờ bạc giữa vì sao
@@ -4368,7 +4368,7 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 Chúng ta đã tràn ngập đơn xin tái định cư trên sao Hỏa và sự ham học hỏi và nhiệt tình của những người này khiến ta tự hào là một con người. Hành tinh Đỏ tiếp tục khắc nghiệt và thậm chí nguy hiểm nhưng chúng ta là một loài luôn thể hiện khả năng thích nghi và cải thiện - những điều kiện bất lợi sẽ chỉ khiến chúng ta cố gắng nhiều hơn. Vì vậy, ta nói hãy mang nó vào!
 
 <effect> Căn cứ đã được đánh giá tích cực. Cư dân bổ sung có thể được gọi từ Trái đất."
-5759,Looks like we’ve got a serious adventure ahead of us!,Có vẻ như chúng ta đang có một cuộc phiêu lưu nghiêm túc ở phía trước!
+5759,Looks like we’ve got a serious adventure ahead of us!,Có vẻ như chúng ta đang có cuộc phiêu lưu nghiêm túc ở phía trước!
 8857,"The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
 
 We are already swarmed with applications for relocation on Mars and the wanderlust and enthusiasm of these people makes me proud to be a human being. The Red Planet continues to be inhospitable and even dangerous but we as a species had always displayed the ability to adapt and improve – the adverse conditions will only make us try harder. So I say bring it on!
@@ -5482,7 +5482,7 @@ Not quite sure what to make of this, they express hope we will retain our creati
 <effect>The monument collapsed into a pile of Black Cubes
 <effect>Gained a new Technology, <em><reg_param1></em>","Rõ ràng với khái niệm về quyền lực cao hơn, họ dường như không thấy lý do nào khác cho hành động của chúng ta ngoài việc theo đuổi trang trí thẩm mỹ, một điều mà dường như đã loại bỏ họ như một khả năng.
 
-Không hoàn toàn chắc về điều này, họ bày tỏ hy vọng chúng ta sẽ giữ được sự sáng tạo của mình như một cuộc đua trong thời đại sắp tới.
+Không hoàn toàn chắc về điều này, họ bày tỏ hy vọng chúng ta sẽ giữ được sự sáng tạo của mình như cuộc đua trong thời đại sắp tới.
 
 <effect>Tượng đài sụp đổ thành một đống khối đen
 <effect>Đạt được một công nghệ mới, <em><reg_param1></em>"
@@ -5508,7 +5508,7 @@ Với tình trạng hiện tại của sự kiện, chúng ta thiếu đủ dữ
 5932,Only time will tell if we are right.,Chỉ có thời gian sẽ trả lời nếu chúng ta đúng.
 5933,Power of Three: Might Makes Right,Sức mạnh của bộ ba: Có thể làm đúng
 7997,The primary goal of our mission is the permanent colonization of Mars. Any potential threat to humanity’s pioneers is to be eliminated.,Mục tiêu chính của sứ mệnh của chúng ta là thuộc địa vĩnh viễn của sao Hỏa. Bất kỳ mối đe dọa tiềm ẩn nào đối với những người tiên phong của nhân loại đều phải bị loại bỏ.
-5934,"We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.","Chúng ta sẽ cố gắng loại bỏ tất cả khối khỏi khu vực ngay lập tức. Một quyết định nghiêm túc như vậy đòi hỏi phải có sự đồng thuận, đạt được thông qua một cuộc bỏ phiếu tại Kiểm soát sứ mệnh. Công chúng có thể coi quyết định này là sai lầm, nhưng chúng ta không thể đặt số phận của toàn bộ căn cứ vào mong muốn của chúng ta để chờ đợi nó. Lịch sử đã dạy chúng ta rằng không có khả năng hành động thường dẫn đến thảm họa. Việc phá hủy khối sẽ được tiến hành theo kế hoạch."
+5934,"We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.","Chúng ta sẽ cố gắng loại bỏ tất cả khối khỏi khu vực ngay lập tức. Một quyết định nghiêm túc như vậy đòi hỏi phải có sự đồng thuận, đạt được thông qua cuộc bỏ phiếu tại Kiểm soát sứ mệnh. Công chúng có thể coi quyết định này là sai lầm, nhưng chúng ta không thể đặt số phận của toàn bộ căn cứ vào mong muốn của chúng ta để chờ đợi nó. Lịch sử đã dạy chúng ta rằng không có khả năng hành động thường dẫn đến thảm họa. Việc phá hủy khối sẽ được tiến hành theo kế hoạch."
 5935,"Humanity will prevail, no matter the cost.","Nhân loại sẽ chiến thắng, bất kể giá nào."
 5936,Power of Three: Cult of Tomorrow,Sức mạnh của bộ ba: Giáo phái ngày mai
 7998,The idea that we are not alone in the universe and could become part of a bigger whole has swept over the Colony.,Ý tưởng rằng chúng ta không đơn độc trong vũ trụ và có thể trở thành một phần của một tổng thể lớn hơn đã tràn qua căn cứ.
@@ -5569,7 +5569,7 @@ Despite our setbacks we gathered important data and have already sent it to our 
 
 <effect>You've gained <funding(reg_param1)> Funding. The RC Explorer suffered a malfunction.
 
-<hint>The Object extracted resources from below the surface.","Do thám RC đã mạo hiểm chỉ cách vật thể vài mét và tiến hành một loạt thử nghiệm và quan sát thực địa trên đó. Tính toán đã quét Vật thể bằng thiết bị quang phổ và phóng xạ và mở rộng một tàu do thám từ xa tới lớp vỏ của nó, thu thập mẫu nhỏ của lớp vỏ của nó. Khi do thám RC tiếp cận đối tượng để thực hiện tương tác chặt chẽ hơn với nó thông qua cánh tay của kính thiên văn, quá trình đào của đối tượng đã gây ra một sự sụp đổ nhỏ của lớp vỏ và nó gần như đập vỡ mặt trước của thân tàu do thám. Đây không phải là một cuộc tấn công có chủ ý nhưng thiệt hại là rõ ràng - có vẻ như đối tượng cũng sở hữu sức mạnh to lớn.
+<hint>The Object extracted resources from below the surface.","Do thám RC đã mạo hiểm chỉ cách vật thể vài mét và tiến hành một loạt thử nghiệm và quan sát thực địa trên đó. Tính toán đã quét Vật thể bằng thiết bị quang phổ và phóng xạ và mở rộng một tàu do thám từ xa tới lớp vỏ của nó, thu thập mẫu nhỏ của lớp vỏ của nó. Khi do thám RC tiếp cận đối tượng để thực hiện tương tác chặt chẽ hơn với nó thông qua cánh tay của kính thiên văn, quá trình đào của đối tượng đã gây ra một sự sụp đổ nhỏ của lớp vỏ và nó gần như đập vỡ mặt trước của thân tàu do thám. Đây không phải là cuộc tấn công có chủ ý nhưng thiệt hại là rõ ràng - có vẻ như đối tượng cũng sở hữu sức mạnh to lớn.
 
 Bất chấp những thất bại của chúng ta, chúng ta đã thu thập dữ liệu quan trọng và đã gửi nó cho nhà tài trợ của chúng ta thông qua đường truyền được mã hóa. Chúng ta chắc chắn rằng ủy thác sẽ đánh giá rất cao nỗ lực của chúng ta.
 
@@ -5758,7 +5758,7 @@ Nhóm khoa học ngay lập tức yêu cầu được phép “mổ xẻ” mộ
 
 <hint>Tiêu diệt tàu nạo vét bằng Drone để giảm chi phí của công nghệ."
 6013,Time to stop whistling in the dark.,Đã đến lúc ngừng huýt sáo trong bóng tối.
-6014,Scientists are working on a project to decode the communications used by the Dredgers. Expeditions to the locations of destroyed Dredgers will help their effort.,Nhà khoa học đang thực hiện một dự án giải mã thông tin liên lạc được sử dụng bởi tàu nạo vét. Cuộc do thám đến địa điểm của tàu nạo vét bị phá hủy sẽ giúp ích cho nỗ lực của họ.
+6014,Scientists are working on a project to decode the communications used by the Dredgers. Expeditions to the locations of destroyed Dredgers will help their effort.,Nhà khoa học đang thực hiện một dự án giải mã thông tin liên lạc được sử dụng bởi tàu nạo vét. Do thám đến địa điểm của tàu nạo vét bị phá hủy sẽ giúp ích cho nỗ lực của họ.
 6015,The Dredgers: Dark Omens,Tàu nạo vét: Điềm báo đen tối
 7469,"The aliens didn't try to destroy our cities. Then again, they didn't try to contact us, either.","Người ngoài hành tinh đã không cố phá hủy thành phố của chúng ta. Sau đó, một lần nữa, họ cũng không cố liên hệ với chúng ta."
 6016,"Still, what started out as a single contact quickly grew into series of regular visits. Even when our “guests” are not blaster-toting gray men, they cause damage to our Colony in subtle and cruel ways. As more and more Dredgers continue to land on the surface, the future of the Colony could be threatened by the lack of sufficient metallic resources. It is a sad conclusion, but our first contact with alien life could turn into a race for survival.
@@ -5766,7 +5766,7 @@ Nhóm khoa học ngay lập tức yêu cầu được phép “mổ xẻ” mộ
 Our scientists suggest that with the current rate of landings the amount of metals in our sector will be depleted within three years – and some of the most pessimistic of our colleagues believe that the trend is for the landings to become more frequent. This would be a terrible prospect.","Tuy nhiên, những gì bắt đầu như một liên lạc duy nhất nhanh chóng phát triển thành một loạt chuyến thăm thường xuyên. Ngay cả khi “những vị khách” của chúng ta không phải là những người đàn ông da xám, họ vẫn gây ra thiệt hại cho căn cứ của chúng ta theo những cách tinh vi và tàn nhẫn. Khi ngày càng có nhiều tàu tàu nạo vét tiếp tục đổ bộ lên bề mặt, tương lai của căn cứ có thể bị đe dọa do thiếu nguồn tài nguyên kim loại. Đó là một kết luận đáng buồn, nhưng cuộc tiếp xúc đầu tiên của chúng ta với sự sống ngoài hành tinh có thể biến thành một cuộc chạy đua để sinh tồn.
 
 Nhà khoa học của chúng ta cho rằng với tốc độ đổ bộ hiện tại, lượng kim loại trong lĩnh vực của chúng ta sẽ cạn kiệt trong vòng ba năm - và một số đồng nghiệp bi quan nhất của chúng ta tin rằng xu hướng đổ bộ trở nên thường xuyên hơn. Đây sẽ là một viễn cảnh khủng khiếp."
-6017,Arrange a team meeting – we have to work out a solution.,Sắp xếp một cuộc họp nhóm - chúng ta phải tìm ra giải pháp.
+6017,Arrange a team meeting – we have to work out a solution.,Sắp xếp cuộc họp nhóm - chúng ta phải tìm ra giải pháp.
 6018,The Dredgers: Into the Light,Tàu nạo vét: Vào ánh sáng
 7470,We've got another problem on the horizon. A potentially devastating one.,Chúng ta có một vấn đề khác ở phía chân trời. Một khả năng tàn phá.
 6019,"A famous leaks site has just released leaked logs and reports from our Colony. They concentrate exclusively on the Dredgers and elaborate on the evidence that we have contacted an alien civilization.
@@ -5775,11 +5775,11 @@ Our sponsors were probably foolish enough to believe that a secret can remain hi
 
 There is no reason to hide the truth now.","Một vị trí rò rỉ nổi tiếng vừa phát hành nhật ký và báo cáo bị rò rỉ từ căn cứ của chúng ta. Họ tập trung hoàn toàn vào tàu nạo vét và xây dựng bằng chứng cho thấy chúng ta đã liên hệ với một nền văn minh ngoài hành tinh.
 
-Nhà tài trợ của chúng ta có lẽ đã đủ ngu ngốc để tin rằng một bí mật có thể được giấu kín với công chúng trong Thời đại thông tin. Sự náo động là rất lớn và LHQ kêu gọi một cuộc họp báo khẩn cấp. Hội đồng giám sát của nhà tài trợ của chúng ta nhất quyết về việc chúng ta tham gia sự kiện này. Nó sẽ được tổ chức thông qua mạng liên hành tinh. Chúng ta sẽ là trung tâm của sự chú ý. Thời gian trễ sẽ cho chúng ta mười lăm phút giữa câu hỏi để nghĩ ra cách tốt nhất để trả lời.
+Nhà tài trợ của chúng ta có lẽ đã đủ ngu ngốc để tin rằng một bí mật có thể được giấu kín với công chúng trong Thời đại thông tin. Sự náo động là rất lớn và LHQ kêu gọi cuộc họp báo khẩn cấp. Hội đồng giám sát của nhà tài trợ của chúng ta nhất quyết về việc chúng ta tham gia sự kiện này. Nó sẽ được tổ chức thông qua mạng liên hành tinh. Chúng ta sẽ là trung tâm của sự chú ý. Thời gian trễ sẽ cho chúng ta mười lăm phút giữa câu hỏi để nghĩ ra cách tốt nhất để trả lời.
 
 Không có lý do gì để che giấu sự thật lúc này."
 6020,Good golly!,Trời ơi tốt!
-6021,A hearing on the Dredgers matters and a press conference at the United Nations Assembly will be held soon.,Một cuộc điều trần về vấn đề của tàu nạo vét và một cuộc họp báo tại Hội đồng Liên hợp quốc sẽ sớm được tổ chức.
+6021,A hearing on the Dredgers matters and a press conference at the United Nations Assembly will be held soon.,Cuộc điều trần về vấn đề của tàu nạo vét và cuộc họp báo tại Hội đồng Liên hợp quốc sẽ sớm được tổ chức.
 6022,The Dredgers: Press Conference,Tàu nạo vét: Họp báo
 7471,"The conference at the United Nations is about to begin. We’ll be transcribing the communication on the fly, give or take five minutes or so.","Hội nghị tại Liên hợp quốc sắp bắt đầu. Chúng ta sẽ ghi lại thông tin liên lạc một cách nhanh chóng, có thể mất năm phút hoặc lâu hơn."
 6023,"Mr. President; Mr. Secretary General; fellow delegates; ladies and gentlemen:
@@ -5799,7 +5799,7 @@ Cho phép tôi giới thiệu bạn với Chỉ huy của sao Hỏa Alpha, căn 
 
 Our Colony's safety and viability is our utmost priority. This is why I’ve personally supervised operations to deny the alien vessels the opportunity to extract and steal away the metal deposits crucial to our survival. I would ask those who might raise questions on the measure of our reaction – what do you call a neighbor who deliberately tries to stall your attempts to lead a better life?","Con tàu đã gạt bỏ mọi nỗ lực liên lạc của chúng ta và tiến hành nhiệm vụ duy nhất của chúng - khai thác và vận chuyển tài nguyên từ bề mặt sao Hỏa. Trong một lần khác, chúng ta sẽ đề cập đến hoạt động của chúng với sự tò mò và thích thú, nhưng đối với tình hình hiện tại của chúng ta, điều này đã gây ra sự lo lắng và lo lắng lớn cho tất cả nhân viên của sao Hỏa Alpha. Không làm phiền bạn với chi tiết kỹ thuật mệt mỏi, việc khai thác và sử dụng nguồn tài nguyên trên sao Hỏa là yếu tố quan trọng đối với sự thành công của sao Hỏa Alpha và khả năng định cư của chúng ta trong Hệ mặt trời.
 
-Sự an toàn và khả năng tồn tại của căn cứ là ưu tiên hàng đầu của chúng ta. Đây là lý do tại sao tôi đã đích thân giám sát hoạt động để không cho tàu ngoài hành tinh có cơ hội khai thác và lấy cắp mỏ kim loại quan trọng đối với sự sống còn của chúng ta. Tôi sẽ hỏi những người có thể đặt câu hỏi về thước đo phản ứng của chúng ta - bạn gọi một người hàng xóm cố tình cản trở nỗ lực của bạn để có một cuộc sống tốt đẹp hơn là gì?"
+Sự an toàn và khả năng tồn tại của căn cứ là ưu tiên hàng đầu của chúng ta. Đây là lý do tại sao tôi đã đích thân giám sát hoạt động để không cho tàu ngoài hành tinh có cơ hội khai thác và lấy cắp mỏ kim loại quan trọng đối với sự sống còn của chúng ta. Tôi sẽ hỏi những người có thể đặt câu hỏi về thước đo phản ứng của chúng ta - bạn gọi một người hàng xóm cố tình cản trở nỗ lực của bạn để có cuộc sống tốt đẹp hơn là gì?"
 6028,The Dredgers: Press Conference: Contact Denied,Tàu nạo vét: Họp báo: Liên hệ bị Từ chối
 7473,Humanity’s imagination has always portrayed contact with an alien species as either a precursor to military conflict or a chance for peaceful exchange of culture and ideas.,Trí tưởng tượng của nhân loại luôn miêu tả việc tiếp xúc với một loài ngoài hành tinh là tiền đề của xung đột quân sự hoặc cơ hội để trao đổi văn hóa và ý tưởng một cách hòa bình.
 6029,"At their core of our expectations has always been a flawed assumption – that an alien race would be psychologically human.
@@ -6297,7 +6297,7 @@ Anh ta dẫn bạn đến một boongke. Lính canh đã đi từ lâu, bỏ ch�
 
 The sun sets on Bedlam. The palace of the Autharch has been taken over and the rule of the Authority is no more. You hope that the new day will bring new hope for survival and rebuilding of your tired, devastated world. This would be a monumental effort, but failure is not an option. All it takes is a helping hand. But you can save that for tomorrow. For now, you need to rest.
 
-<effect>Create more Dreamers to strengthen the Mirage.","Bạn trao cho những người bạn nhà khoa học cũ của mình một chiếc nhẫn và quyết định cho những bộ xương cũ được nghỉ ngơi trong khi chờ đợi. Bạn không còn trẻ nữa - thậm chí ở độ tuổi ngoài bốn mươi, cơ thể bạn không được thiết kế di truyền để sống đến tuổi già. Tuy nhiên, bạn đã sống một cuộc sống đầy đủ.
+<effect>Create more Dreamers to strengthen the Mirage.","Bạn trao cho những người bạn nhà khoa học cũ của mình một chiếc nhẫn và quyết định cho những bộ xương cũ được nghỉ ngơi trong khi chờ đợi. Bạn không còn trẻ nữa - thậm chí ở độ tuổi ngoài bốn mươi, cơ thể bạn không được thiết kế di truyền để sống đến tuổi già. Tuy nhiên, bạn đã sống cuộc sống đầy đủ.
 
 Mặt trời lặn trên Bedlam. Cung điện của Autharch đã được tiếp quản và sự cai trị của Chính quyền không còn nữa. Bạn hy vọng rằng ngày mới sẽ mang lại hy vọng mới để tồn tại và xây dựng lại thế giới mệt mỏi, bị tàn phá của bạn. Đây sẽ là một nỗ lực lớn, nhưng thất bại không phải là một lựa chọn. Tất cả những gì nó cần là một bàn tay giúp đỡ. Nhưng bạn có thể để dành điều đó cho ngày mai. Còn bây giờ, bạn cần phải nghỉ ngơi.
 
@@ -7967,7 +7967,7 @@ Nếu tên lửa hạ cánh thành công, chúng ta có thể khắc phục sự
 
 Our sponsor is deflecting blows left and right and has formally requested that we break our silence and hold a press conference.","Có lẽ tất cả bắt đầu vào những ngày tin tức chậm chạp, có lẽ nhà báo trên Trái đất chỉ thấy cay đắng, nhưng mạng tin tức nổi tiếng khác nhau trên toàn cầu đã và đang công khai chỉ trích sứ mệnh của chúng ta và đặt câu hỏi về mọi khía cạnh của nó - từ tính khả thi về kinh tế đến sự cần thiết của nó cho tương lai của loài người.
 
-Nhà tài trợ của chúng ta đang đánh lệch trái và phải và đã chính thức yêu cầu chúng ta phá vỡ sự im lặng và tổ chức một cuộc họp báo."
+Nhà tài trợ của chúng ta đang đánh lệch trái và phải và đã chính thức yêu cầu chúng ta phá vỡ sự im lặng và tổ chức cuộc họp báo."
 753343622372,Black PR,PR đen
 912519929383,Our colony has come under media fire by a global news conglomerate. ,Căn cứ của chúng ta đã bị truyền thông tấn công bởi tập đoàn tin tức toàn cầu.
 951841540318,We will dare to dream!,Chúng ta sẽ dám ước mơ!
@@ -8342,11 +8342,11 @@ Bạn đọc lại tiêu đề của dự án. Thú vị..."
 442958318353,Leap Forward,Bước tiến nhảy vọt
 572675005625,"After the touchdown and the initial busy hours, you allow yourself a couple of hours to read the top-secret Big Red Folder which has been lying in your safe for a long time.","Sau thời gian ngừng hoạt động và những giờ bận rộn ban đầu, bạn cho phép mình vài giờ để đọc Thư mục lớn màu đỏ tuyệt mật đã nằm trong két sắt của bạn từ lâu."
 837283599138,Project Mohole.,Dự án lỗ.
-327107269772,reveals the tech enabling the Wonder Mohole Mine,tiết lộ công nghệ tạo ra mỏ lỗ kỳ diệu
+327107269772,reveals the tech enabling the Wonder Mohole Mine,tiết lộ công nghệ tạo ra kỳ quan mỏ lỗ
 473822641251,Dream Reality.,Thực tế trong mơ.
-407459351494,reveals the tech enabling the Wonder Project Morpheus,tiết lộ công nghệ cho phép Dự án kỳ diệu Morpheus
+407459351494,reveals the tech enabling the Wonder Project Morpheus,tiết lộ công nghệ cho phép kỳ quan Dự án Morpheus
 943333178414,Micro Fusion.,Hợp nhất vi mô.
-826549039619,reveals the tech enabling the Wonder Artificial Sun,tiết lộ công nghệ cho phép Mặt trời nhân tạo kỳ diệu
+826549039619,reveals the tech enabling the Wonder Artificial Sun,tiết lộ công nghệ cho phép kỳ quan mặt trời nhân tạo
 612362415360,"“Commander, we have an offer for you. Recently our organization has run into severe problems with one of our more delicate projects. We want you to take care of it.”
 
 All in all, the mysterious man wants you to shelter a number of Clone applicants in your project, no questions asked, no answers given.","“Chỉ huy, chúng ta có một đề nghị cho bạn. Gần đây, tổ chức của chúng ta đã gặp phải những vấn đề nghiêm trọng với một trong những dự án tinh vi hơn của chúng ta. Chúng ta muốn bạn chăm sóc nó.”
@@ -9040,7 +9040,7 @@ Anh ta không bao giờ tìm thấy thời gian để thăm lại hành tinh sao
 <security_happy>% nhân viên an ninh đạt được <morale_gain> tinh thần trong <sols(happy_time)> Sol."
 885768471792,"Luckily for the victim, <DisplayName> botched the assault attempt and failed to cause any harm, but this doesn't mean that the incident should be ignored.","May mắn cho nạn nhân, <DisplayName> đã thực hiện được vụ tấn công và không gây ra bất kỳ tổn hại nào, nhưng điều này không có nghĩa là vụ việc nên được bỏ qua."
 469675213846,Free Will ,Ý chí tự do
-880492504830,An Arcology resident has committed an armed assault against another Colonist! This is a rather strange case as nothing in the perpetrator’s file suggests a criminal intent.,Một cư dân Arcology đã thực hiện một cuộc tấn công vũ trang chống lại một cư dân khác! Đây là một trường hợp khá kỳ lạ vì không có gì trong hồ sơ của thủ phạm cho thấy có ý định phạm tội.
+880492504830,An Arcology resident has committed an armed assault against another Colonist! This is a rather strange case as nothing in the perpetrator’s file suggests a criminal intent.,Một cư dân Arcology đã thực hiện cuộc tấn công vũ trang chống lại một cư dân khác! Đây là một trường hợp khá kỳ lạ vì không có gì trong hồ sơ của thủ phạm cho thấy có ý định phạm tội.
 838039138122,Order a thorough investigation.,Ra lệnh một cuộc điều tra kỹ lưỡng.
 417755767554,"Our security specialists questioned all people related to both the victim and the perpetrator, but all the evidence is inconclusive.","Chuyên gia an ninh của chúng ta đã thẩm vấn tất cả những người liên quan đến cả nạn nhân và thủ phạm, nhưng tất cả bằng chứng đều không thể kết luận."
 284801076896,"Indeed, the personal records of both Colonists suggest no relation between them. But some of the close friends and acquaintances of <DisplayName> who also happen to live in the same Arcology display an unusual animosity against the victim, justifying the actions of the perpetrator.
@@ -9286,14 +9286,14 @@ Judging by the 24 karat smile they sported when leaving the Casino, it's safe to
 988968326869,A tourist from Earth has won the jackpot in one of our Casinos! ,Một khách du lịch đến từ Trái đất đã trúng giải độc đắc tại một trong sòng bạc của chúng ta!
 160689527642,"<DisplayName> feels their time will come soon and wishes to die with their boots on – on one final adventure.
 
-They will keep transmitting data of anything they stumble upon until the very end.","<DisplayName> cảm thấy thời gian của họ sẽ đến sớm và mong muốn được chết với đôi giày của họ - trong một cuộc phiêu lưu cuối cùng.
+They will keep transmitting data of anything they stumble upon until the very end.","<DisplayName> cảm thấy thời gian của họ sẽ đến sớm và mong muốn được chết với đôi giày của họ - trong cuộc phiêu lưu cuối cùng.
 
 Họ sẽ tiếp tục truyền dữ liệu của bất cứ thứ gì họ tình cờ cho đến phút cuối cùng."
 944407265072,The last living Founder asks you for a shuttle with enabled manual controls and enough fuel to make it over the horizon.,Người sáng lập cuối cùng còn sống yêu cầu bạn một chiếc tàu con thoi có kích hoạt điều khiển bằng tay và đủ nhiên liệu để vượt qua đường chân trời.
 295725844615,How can I deny our great Founder? Permission granted!,Làm sao tôi có thể từ chối Người sáng lập vĩ đại của chúng ta? Đã cho phép!
 967076598421,lose a Shuttle and a Founder,mất tàu con thoi và Người sáng lập
 811378569911,"""I am eternally grateful, Commander!"", says the Founder.","""Tôi vô cùng biết ơn, chỉ huy!"", Người sáng lập nói."
-366264377752,"""I feel there is one last adventure left for me. It has been more than a privilege!""","""Tôi cảm thấy còn một cuộc phiêu lưu cuối cùng dành cho tôi. Nó còn hơn cả một đặc ân!"""
+366264377752,"""I feel there is one last adventure left for me. It has been more than a privilege!""","""Tôi cảm thấy còn cuộc phiêu lưu cuối cùng dành cho tôi. Nó còn hơn cả một đặc ân!"""
 525818036917,"We have no shuttles to spare, I'm sure you will understand. You may go on foot, however.","Chúng ta không có tàu con thoi để dự phòng, tôi chắc rằng bạn sẽ hiểu. Tuy nhiên, bạn có thể đi bộ."
 641150699489,lose a Founder,mất một người sáng lập
 750829484669,The Last Founder,Người sáng lập cuối cùng
@@ -9311,7 +9311,7 @@ It has been an honor, Commander.
 
 <effect>Gained Core Rare Metals Breakthrough tech","""Đây là lần truyền cuối cùng của tôi.
 
-Tôi muốn nói rằng đó là một chuyến đi hoang dã và tôi không thể nghĩ về một cuộc sống tốt đẹp hơn đáng sống. Tôi đang gửi dữ liệu tôi thu thập được trong suốt hành trình trong khi tôi vẫn ở trong phạm vi liên lạc. Tôi nghĩ rằng bạn có thể thấy một số điều đó rất thú vị.
+Tôi muốn nói rằng đó là một chuyến đi hoang dã và tôi không thể nghĩ về cuộc sống tốt đẹp hơn đáng sống. Tôi đang gửi dữ liệu tôi thu thập được trong suốt hành trình trong khi tôi vẫn ở trong phạm vi liên lạc. Tôi nghĩ rằng bạn có thể thấy một số điều đó rất thú vị.
 
 Đó là một vinh dự, chỉ huy.
 
@@ -9329,7 +9329,7 @@ It has been an honor, Commander.
 
 <effect>Gained <research(research_reward)>","""Đây là lần truyền cuối cùng của tôi.
 
-Tôi muốn nói rằng đó là một chuyến đi hoang dã và tôi không thể nghĩ về một cuộc sống tốt đẹp hơn đáng sống. Tôi đang gửi dữ liệu tôi thu thập được trong suốt hành trình trong khi tôi vẫn ở trong phạm vi liên lạc. Tôi nghĩ rằng bạn có thể thấy một số điều đó rất thú vị.
+Tôi muốn nói rằng đó là một chuyến đi hoang dã và tôi không thể nghĩ về cuộc sống tốt đẹp hơn đáng sống. Tôi đang gửi dữ liệu tôi thu thập được trong suốt hành trình trong khi tôi vẫn ở trong phạm vi liên lạc. Tôi nghĩ rằng bạn có thể thấy một số điều đó rất thú vị.
 
 Đó là một vinh dự, chỉ huy.
 
@@ -9513,7 +9513,7 @@ Later you learn that Renegade colonists organized a race with people actually pi
 
 The other pilot somehow got away after leaving the shuttle. Rumor is a race tournament is about to begin and that will last around 10 sols.","Khi bạn đi ra ngoài, hai Tàu con thoi chở hàng kêu gần Mái vòm - một chiếc thực sự bị rơi và để lại một vết nứt khó chịu.
 
-Sau đó, bạn biết rằng cư dân nổi loạn đã tổ chức một cuộc đua với những người thực sự lái tàu con thoi. Một trong số họ đã chết trong vụ tai nạn.
+Sau đó, bạn biết rằng cư dân nổi loạn đã tổ chức cuộc đua với những người thực sự lái tàu con thoi. Một trong số họ đã chết trong vụ tai nạn.
 
 Phi công kia bằng cách nào đó đã thoát ra sau khi rời tàu con thoi. Có tin đồn là một giải đua sắp bắt đầu và sẽ kéo dài khoảng 10 sol."
 226978526928,Renegades: Martian Vice,Nổi loạn: Tật xấu sao Hỏa
@@ -10006,7 +10006,7 @@ Có một số lo ngại rằng những nỗ lực khoa học khác của chúng
 982593047746,Red Mars,Sao hỏa đỏ
 762880757544,"The expedition was sent to investigate a spectrographic trace of rich metals deposit, but found something much more interesting – and troubling!","Đoàn do thám đã được cử đi để điều tra một dấu vết quang phổ của mỏ kim loại phong phú, nhưng đã tìm thấy một thứ thú vị hơn nhiều - và thật đáng lo ngại!"
 313142929429,Leave and forget about it.,Bỏ đi và quên nó đi.
-562011922315,The expedition will return,Cuộc do thám sẽ trở lại
+562011922315,The expedition will return,Do thám sẽ trở lại
 629772509563,"Leave the site, but upload its coordinates in the international database.","Rời khỏi địa điểm, nhưng tải lên tọa độ của nó trong cơ sở dữ liệu quốc tế."
 739189473025,Approach the facilities and investigate.,Tiếp cận cơ sở và điều tra.
 403120348851,"We approached the mysterious facility with apprehension, but nothing bad happened. It appears that the location has been abandoned decades ago.","Chúng ta tiếp cận cơ sở bí ẩn với sự e ngại, nhưng không có gì xấu xảy ra. Có vẻ như địa điểm này đã bị bỏ hoang từ nhiều thập kỷ trước."
@@ -10014,7 +10014,7 @@ Có một số lo ngại rằng những nỗ lực khoa học khác của chúng
 
 <effect>A new Breakthrough tech has become available. The expedition will return shortly.","Cơ sở đã được chọn gần như sạch sẽ, nhưng vẫn còn dấu vết bằng chứng những gì đã xảy ra ở đây. Mọi người đã sống ở đây, và nghiên cứu đã được tiến hành. Hầm chứa trống rỗng, nhưng có dấu hiệu cho thấy có ít nhất hai trong số năm thiết bị hạt nhân được lưu trữ. Phòng thí nghiệm là phần tuyệt vời nhất của cơ sở - hầu hết thiết bị và hệ thống máy tính đều quá nặng và khó sử dụng để chuyển ra khỏi hành tinh.
 
-<effect>Một công nghệ đột phá mới đã có sẵn. Cuộc do thám sẽ trở lại trong thời gian ngắn."
+<effect>Một công nghệ đột phá mới đã có sẵn. Do thám sẽ trở lại trong thời gian ngắn."
 576575765241,"On the screen there is only a black silhouette. The person talks to you through a voice modulator.
 
 ""Commander, you've made  quite a mess by revealing the location of our facility. Now, we have to send a clean-up team, and it would cost us a lot of money and precious time. Of course, you can help us help you and do the dirty work yourself – remove all evidence that the facility you discovered ever existed. Your call.""","Trên màn hình chỉ có một hình bóng màu đen. Người đó nói chuyện với bạn thông qua bộ điều biến giọng nói.
@@ -10026,7 +10026,7 @@ Có một số lo ngại rằng những nỗ lực khoa học khác của chúng
 474144864309,I will organize the clean-up immediately!,Tôi sẽ tổ chức dọn dẹp ngay lập tức!
 274260689272,You have the strong feeling that the mysterious figure isn’t joking. Probably it would be best to organize a new flight to the facility coordinates immediately.,Bạn có cảm giác mạnh mẽ rằng nhân vật bí ẩn không hề đùa. Có lẽ tốt nhất là tổ chức một chuyến bay mới đến tọa độ cơ sở ngay lập tức.
 646429066953,"<goal>Return to the coordinates of the secret facility. Upon completion, you will receive <funding(reward_funding)> Funding.","<goal>Quay trở lại tọa độ của cơ sở bí mật. Sau khi hoàn thành, bạn sẽ nhận được <funding(reward_funding)> Tài trợ."
-11381,Secret Nuke Facility,Cơ sở Nuke bí mật
+11381,Secret Nuke Facility,Cơ sở hạt nhân bí mật
 11382,Top-secret facility from the Cold War period. You have promised to wipe all evidence of its existence.,Cơ sở tối mật từ thời Chiến tranh Lạnh. Bạn đã hứa xóa sạch mọi bằng chứng về sự tồn tại của nó.
 101937911549,Funding,Tài trợ
 11383,Terrorist Attack,Cuộc tấn công khủng bố
@@ -10278,13 +10278,13 @@ Chúng ta có thể yêu cầu điều tra thân tàu, nhưng cách duy nhất �
 675593494766,We have discovered the remains of a crashed rocket at the expedition location.,Chúng ta đã phát hiện ra phần còn lại của một tên lửa bị rơi tại địa điểm do thám.
 461027303859,Enter the remains and investigate!,Nhập phần còn lại và điều tra!
 158776645197,The blow-torches ignite a fuel pocket inside the Rocket’s hull. Nothing could have survived the titanic explosion which followed.,Ngọn đuốc thổi bùng cháy một túi nhiên liệu bên trong thân tàu của Tên lửa. Không gì có thể sống sót sau vụ nổ chất hóa học xảy ra sau đó.
-387688567689,<effect>The expedition has been lost.,<effect>Cuộc do thám đã bị mất.
+387688567689,<effect>The expedition has been lost.,<effect>Do thám đã bị mất.
 976690332107,"Cutting carefully through the twisted hull, the expedition managed to gain safe access to the dark cargo hold of the rocket.","Cắt cẩn thận qua thân tàu xoắn, đoàn do thám đã tiếp cận an toàn với hầm hàng tối của tên lửa."
 565849607196,"It’s a miracle that anything on board survived, but after sifting through the twisted scrap inside the crashed vehicle, the expedition discovered some useful prefabs which were meant for some failed colonization effort.
 
 <effect>You have gained several Building Prefabs. The expedition will return shortly.","Thật là một điều kỳ diệu khi bất cứ thứ gì trên tàu đều sống sót, nhưng sau khi sàng lọc những mảnh vụn xoắn bên trong phương tiện bị rơi, đoàn do thám đã phát hiện ra một số dựng sẵn hữu ích dành cho một số nỗ lực cư dân thất bại.
 
-<effect>Bạn đã đạt được một số công trình dựng sẵn. Cuộc do thám sẽ trở lại trong thời gian ngắn."
+<effect>Bạn đã đạt được một số công trình dựng sẵn. Do thám sẽ trở lại trong thời gian ngắn."
 267030088136,Leave the crash site and return home!,Rời khỏi địa điểm va chạm và trở về nhà!
 793095022301,We can access through the weak rock layers around the hull.,Chúng ta có thể tiếp cận qua lớp đá yếu xung quanh thân tàu.
 816846361579,"After hours of tedious tunneling, the expedition manages to access the hull from below.","Sau nhiều giờ đào hầm tẻ nhạt, đoàn do thám đã tiếp cận được thân tàu từ bên dưới."
@@ -10292,7 +10292,7 @@ Chúng ta có thể yêu cầu điều tra thân tàu, nhưng cách duy nhất �
 
 <effect>You have gained several Building Prefabs. The expedition will return shortly.","Ngay sau đó, thân tàu động vào với tiếng rít chói tai và một dòng nhiên liệu bắt đầu đổ qua lỗ, lấp đầy đường hầm. Chỉ một cuộc sơ tán nhanh chóng mới ngăn chặn được thiệt hại thêm và bạn rất biết ơn vì bạn đã tránh được thảm họa sắp xảy ra nếu bạn quyết định sử dụng đuốc thổi. Sau một khoảng thời gian ngắn, thân tàu bị thủng ở một vị trí khác và khoang chứa hàng của tên lửa bị lộ ra ngoài. Không còn nhiều nguyên vẹn, nhưng vẫn có những món đồ quý giá cần được tái chế.
 
-<effect>Bạn đã đạt được một số công trình dựng sẵn. Cuộc do thám sẽ trở lại trong thời gian ngắn."
+<effect>Bạn đã đạt được một số công trình dựng sẵn. Do thám sẽ trở lại trong thời gian ngắn."
 648930562532,"The dispute which profession is more vital for the colonization effort has polarized the Colonists into two different camps.
 
 You tried to avoid being sucked into the ridiculous debate but were ambushed by representatives of both sides on your way to lunch. 
@@ -10337,7 +10337,7 @@ Dựa lưng vào tường, họ hỏi:
 297691849913,"I'm honored, but it would be if you continue working from Earth","Tôi rất vinh dự, nhưng sẽ là như vậy nếu bạn tiếp tục làm việc từ Trái đất"
 147627927433,"Discover new Breakthrough, <funding(alternative_funding)>","Khám phá đột phá mới, <funding(alternative_funding)>"
 485622515119,Maybe not at this time...,Có lẽ không phải lúc này...
-119873029419,Postpone for 10 Sols,Hoãn lại 10 Sol
+119873029419,Postpone for 10 Sols,Hoãn trong 10 Sol
 11386,The Eternal Summer,Mùa hè vĩnh cửu
 11387,An orbital cryopod sanctuary for the filthy rich.,Một khu bảo tồn mật mã quỹ đạo cho những người giàu có bẩn thỉu.
 675174908453,<sleeper_celebrities> Celebrity colonists want to join your colony and receive the benefits of your life-extending medical breakthroughs. Would you accept them?,<sleeper_celebrities> Cư dân nổi tiếng muốn tham gia căn cứ của bạn và nhận những lợi ích từ những đột phá y tế kéo dài tuổi thọ của bạn. Bạn có chấp họ chúng không?
@@ -10366,7 +10366,7 @@ Dựa lưng vào tường, họ hỏi:
 689826963957,The Floor is Lava,Tầng là dung nham
 498825560267,The expedition Rocket cannot find a suitable place to land near the Anomaly’s location.,Tên lửa do thám không thể tìm thấy vị trí thích hợp để hạ cánh gần vị trí của dị thường.
 933665533936,Don’t risk it.,Đừng mạo hiểm.
-448573301757,The expedition will return,Cuộc do thám sẽ trở lại
+448573301757,The expedition will return,Do thám sẽ trở lại
 846515294692,Circle and find a good landing spot.,Vòng tròn và tìm một điểm hạ cánh tốt.
 203604204585,unknown consequences,hậu quả chưa biết
 851567857021,"After circling on the spot for hours, the Rocket finds a good landing spot.","Sau khi lượn vòng tại chỗ trong nhiều giờ, tên lửa tìm được một điểm hạ cánh tốt."
@@ -10374,16 +10374,16 @@ Dựa lưng vào tường, họ hỏi:
 
 <effect>The expedition will return with <polymers(polymer_cargo)> and <metals(metals_cargo)>.","Lớp vỏ nứt nẻ của hành tinh ngăn chúng ta hạ cánh thực sự làm lộ ra những đường vân kim loại phong phú. Đoàn do thám đảm bảo rằng tên lửa được lấp đầy vành trước khi cất cánh - và vì một lý do chính đáng. Địa hình đất đá của bãi đáp vỡ vụn dưới sức mạnh khủng khiếp của động cơ, khiến điểm hạ cánh mãi mãi không thể tiếp cận, giống như một kho báu lưu lạc trong truyền thuyết.
 
-<effect>Cuộc do thám sẽ trở lại với <polymers(polymer_cargo)> và <metals(metals_cargo)>."
+<effect>Do thám sẽ trở lại với <polymers(polymer_cargo)> và <metals(metals_cargo)>."
 452137831556,"After circling near the spot for hours, the Rocket finds no suitable place to land.","Sau khi bay vòng gần địa điểm trong nhiều giờ, tên lửa không tìm thấy nơi nào thích hợp để hạ cánh."
 309357914331,"It’s a pity, for the on-board scanners have detected massive amounts of easily-accessible ore veins right under the jagged rocks. Still, better safe than sorry.
 
 <effect>The expedition will return shortly.","Thật đáng tiếc, máy quét trên tàu đã phát hiện một lượng lớn vân quặng dễ tiếp cận ngay dưới tảng đá lởm chởm. Tuy nhiên, tốt hơn là an toàn, xin lỗi.
 
-<effect>Cuộc do thám sẽ trở lại trong thời gian ngắn."
+<effect>Do thám sẽ trở lại trong thời gian ngắn."
 408701806770,Let's try an unorthodox landing procedure.,Hãy thử một quy trình hạ cánh không chính thống.
-400066985738,The expedition returns with <polymers(rocket_polymers)> and <metals(rocket_metals)>,Cuộc do thám trở về với <polymers(rocket_polymers)> và <metals(rocket_metals)>
-857365435422,"The region seems to be formed by a massive eruption or another cataclysmic event, as the very crust of the planet is folded and cracked unlike anything we’ve seen so far. Just below the jagged rocks lie rich ore veins. The expedition starts loading the Rocket when a terrible truth is discovered – the rocket has expended too much fuel to make it back with its cargo!","Khu vực này dường như được hình thành bởi một vụ phun trào lớn hoặc một sự kiện đại hồng thủy khác, vì chính lớp vỏ của hành tinh này bị gấp lại và nứt ra không giống như bất cứ thứ gì chúng ta từng thấy cho đến nay. Ngay bên dưới những tảng đá lởm chởm là những vân quặng phong phú. Cuộc do thám bắt đầu tải Tên lửa khi một sự thật khủng khiếp được phát hiện - tên lửa đã tiêu tốn quá nhiều nhiên liệu để có thể quay trở lại với hàng hóa của nó!"
+400066985738,The expedition returns with <polymers(rocket_polymers)> and <metals(rocket_metals)>,Do thám trở về với <polymers(rocket_polymers)> và <metals(rocket_metals)>
+857365435422,"The region seems to be formed by a massive eruption or another cataclysmic event, as the very crust of the planet is folded and cracked unlike anything we’ve seen so far. Just below the jagged rocks lie rich ore veins. The expedition starts loading the Rocket when a terrible truth is discovered – the rocket has expended too much fuel to make it back with its cargo!","Khu vực này dường như được hình thành bởi một vụ phun trào lớn hoặc một sự kiện đại hồng thủy khác, vì chính lớp vỏ của hành tinh này bị gấp lại và nứt ra không giống như bất cứ thứ gì chúng ta từng thấy cho đến nay. Ngay bên dưới những tảng đá lởm chởm là những vân quặng phong phú. Do thám bắt đầu tải Tên lửa khi một sự thật khủng khiếp được phát hiện - tên lửa đã tiêu tốn quá nhiều nhiên liệu để có thể quay trở lại với hàng hóa của nó!"
 633393342047,The Floor is Lava,Tầng là dung nham
 588315332898,"After circling around the designated coordinates, the Rocket finds a good spot and lands.","Sau khi lượn quanh tọa độ đã định, Tên lửa tìm được một vị trí tốt và hạ cánh."
 123180942234,Throw out the cargo and return!,Vứt bỏ hàng hóa và quay trở lại!
@@ -10395,9 +10395,9 @@ Dựa lưng vào tường, họ hỏi:
 
 <effect>The expedition has been lost.","Không gì có thể sống sót sau vụ nổ hóa học!
 
-<effect>Cuộc do thám đã bị mất."
+<effect>Do thám đã bị mất."
 717011337668,"The rocket takes off and heads home. Everybody is worried, but the mighty vehicle manages to keep its altitude during the most crucial stage of the flight.","Tên lửa cất cánh và hướng về nhà. Mọi người đều lo lắng, nhưng chiếc xe hùng mạnh vẫn giữ được độ cao trong giai đoạn quan trọng nhất của chuyến bay."
-679210888942,<effect>The expedition will return with <polymers(polymer_scraps)>.,<effect>Cuộc do thám sẽ trở lại với <polymers(polymer_scraps)>.
+679210888942,<effect>The expedition will return with <polymers(polymer_scraps)>.,<effect>Do thám sẽ trở lại với <polymers(polymer_scraps)>.
 424267233026,"Turns out one of our Founders-to-be, despite having passed a rigorous vetting program, is now identified as a wanted fugitive.
 
 Interpol hasn't secured the proper permits and currently holds no jurisdiction to force us to turn them in but offers a significant financial incentive if we do so on our own accord.
@@ -11086,7 +11086,7 @@ Chip nước khá phức tạp và chúng ta sẽ mất <sols(base_time_to_fix)>
 
 <effect>The expedition will return shortly. You have gained several Dome prefabs.","Căn cứ đã có được cái nhìn sâu sắc hơn về cách hoạt động của công nghệ nano, và dòng nanit mới hiện có thể được đưa vào hoạt động tốt.
 
-<effect>Cuộc do thám sẽ trở lại trong thời gian ngắn. Bạn đã đạt được một số mái vòm dựng sẵn."
+<effect>Do thám sẽ trở lại trong thời gian ngắn. Bạn đã đạt được một số mái vòm dựng sẵn."
 334402800716,Winds of Change: Tamed Winds,Gió đổi hướng: Gió thuần hóa
 521004746450,"The control signal is broadcasted and the rogue nanites, now tamed, cease their relentless work. A team member gives out a group sigh of relief, knowing that they avoided a certain death.","Tín hiệu điều khiển được phát đi và nổi loạn nanite, giờ đã được thuần hóa, ngừng công việc không ngừng nghỉ của chúng. Một thành viên trong nhóm thở phào nhẹ nhõm, biết rằng họ đã tránh được một cái chết nào đó."
 252316382326,<effect>Your Colony is well-informed on the properties of the Rogue Nanites should they become a problem in the future. All future tech on the behavior of the Rogue Nanites will gain a 50% discount.,<effect>Căn cứ của bạn được thông báo đầy đủ về thuộc tính của nổi loạn nanite nếu chúng trở thành một vấn đề trong tương lai. Tất cả công nghệ tương lai về hành vi của nổi loạn nanite sẽ được giảm giá 50%.
@@ -11786,7 +11786,7 @@ New Building: <em>Retirement Home</em> (<buildinginfo('SeniorsResidenceCCP1')>) 
 Công trình mới: <em>Khách sạn</em> (<buildinginfo('Hotel')>) - Cung cấp phòng khách sạn sang trọng cho khách du lịch và cư dân. Khách du lịch đạt được sự hài lòng khi nghỉ ngơi.<if_all(has_dlc('kerwin'))>
 Công trình mới: <em>Viện dưỡng lão</em> (<buildinginfo('SeniorsResidenceCCP1')>) - Cung cấp không gian sống rất thoải mái cho người cao niên.</if>
 
-<grey>Hoàn thiện hộ gia đình sao Hỏa - vì một cuộc sống tốt đẹp hơn bên ngoài Trái đất.</grey>"
+<grey>Hoàn thiện hộ gia đình sao Hỏa - vì cuộc sống tốt đẹp hơn bên ngoài Trái đất.</grey>"
 3533,Smart Home,Nhà thông minh
 8638,"New Building: <em>Electronics Factory</em> (<buildinginfo('ElectronicsFactory')>) - Produces Electronics from Rare Metals.
 
@@ -12036,13 +12036,13 @@ Công nghệ này <em>có thể lặp lại</em> và có thể được nghiên 
 6472,Fusion Autoregulation,Tự động điều chỉnh hợp nhất
 6477,"Wonder: <em>Artificial Sun</em> (<buildinginfo('ArtificialSun')>) - Produces colossal amounts of Power. It provides light for nearby Solar Panels during the dark hours and heats the surrounding area. Consumes vast amounts of Water on startup.
 
-<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","Kinh ngạc: <em>Mặt trời nhân tạo</em> (<buildinginfo('ArtificialSun')>) - Tạo ra lượng điện khổng lồ. Nó cung cấp ánh sáng cho Năng lượng mặt trời gần đó trong những giờ tối và làm nóng khu vực xung quanh. Tiêu thụ một lượng lớn nước khi khởi động.
+<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","Kỳ quan: <em>Mặt trời nhân tạo</em> (<buildinginfo('ArtificialSun')>) - Tạo ra lượng điện khổng lồ. Nó cung cấp ánh sáng cho Năng lượng mặt trời gần đó trong những giờ tối và làm nóng khu vực xung quanh. Tiêu thụ một lượng lớn nước khi khởi động.
 
 <grey>Việc mở khóa bí mật của vì sao giờ đã nằm trong tầm tay của nhân loại.</grey>"
 6476,Micro Fusion,Hợp nhất vi mô
 6479,"Wonder: <em>Omega Telescope</em> (<buildinginfo('OmegaTelescope')>) - Gives access to new Breakthrough Technologies and reduces overall research costs.
 
-<grey>A milestone in human history has been achieved – feeling comfortable enough living on an alien world, so much so that some people are already turning their curiosity towards the endless expanse of space once more.</grey>","Kinh ngạc: <em>Kính thiên văn Omega</em> (<buildinginfo('OmegaTelescope')>) - Cung cấp quyền truy cập công nghệ đột phá mới và giảm chi phí nghiên cứu tổng thể.
+<grey>A milestone in human history has been achieved – feeling comfortable enough living on an alien world, so much so that some people are already turning their curiosity towards the endless expanse of space once more.</grey>","Kỳ quan: <em>Kính thiên văn Omega</em> (<buildinginfo('OmegaTelescope')>) - Cung cấp quyền truy cập công nghệ đột phá mới và giảm chi phí nghiên cứu tổng thể.
 
 <grey>Một cột mốc quan trọng trong lịch sử loài người đã đạt được - cảm thấy đủ thoải mái khi sống trong thế giới ngoài hành tinh, đến nỗi một số người đã một lần nữa hướng sự tò mò của họ về phía vũ trụ rộng lớn vô tận.</grey>"
 6478,Interplanetary Astronomy,Thiên văn học liên hành tinh
@@ -12318,7 +12318,7 @@ Công nghệ này <em>có thể lặp lại</em> và có thể được nghiên 
 5243,Behavioral Melding,Hành vi kết hợp
 6519,"Wonder: <em>Project Morpheus</em> (<buildinginfo('ProjectMorpheus')>) - Stimulates the development of new Perks in adult Colonists throughout the entire Colony.
 
-<grey>""You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.""</grey>","Ngạc nhiên: <em>Dự án Morpheus</em> (<buildinginfo('ProjectMorpheus')>) - Kích thích sự phát triển của đặc quyền mới ở cư dân trưởng thành trong toàn bộ căn cứ.
+<grey>""You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.""</grey>","Kỳ quan: <em>Dự án Morpheus</em> (<buildinginfo('ProjectMorpheus')>) - Kích thích sự phát triển của đặc quyền mới ở cư dân trưởng thành trong toàn bộ căn cứ.
 
 <grey>""Bạn uống viên thuốc màu đỏ - bạn ở lại Xứ sở thần tiên và ta chỉ cho bạn xem cái hố thỏ sâu như thế nào.""</grey>"
 6518,Dream Reality,Thực tế trong mơ
@@ -14112,91 +14112,115 @@ Nhà khoa học chết tiệt và óc hài hước của họ. Bạn sẽ công 
 
 It takes some time to grasp her idea: we can improve our fuel refineries in such an eco-unfriendly way, they would use up more Water and dump a tremendous amount of exhaust gases in the atmosphere. This, in turn, would help us terraform the Martian atmosphere over time. We can even expect some efficiency improvement - provided, of course, one is inclined to call ""efficiency"" when +50% amount of Water is used for a mere 10% Fuel production increase.
 
-<effect>Fuel Refineries can be ""improved"" to waste 50%-100% more Water, produce 10%-25% more Fuel and slightly increase planetary Atmosphere over time.",
-256542587932,Smoke on the Water,
-948755011239,A soot-covered engineer appears to your door with a wild smile on her face.,
-792831550026,Fire in the Sky!,
-145275000878,unlock a research for Overloaded Fuel Refineries,
-707178242871,Nice idea! Let's exploit it to the limit!,
-871965542650,unlock a research for Advanced Overloaded Fuel Refineries,
-12173,That's a bit too much.,
+<effect>Fuel Refineries can be ""improved"" to waste 50%-100% more Water, produce 10%-25% more Fuel and slightly increase planetary Atmosphere over time.","""Chỉ huy, hãy xem!"". Cô ấy tạo ra một mô hình phức tạp của một nhà máy lọc nhiên liệu. ""Đừng bận tâm đến khói. Bây giờ chúng ta có thể thải ra bao nhiêu rác tùy thích!""
+
+Phải mất một thời gian để hiểu được ý tưởng của cô ấy: chúng ta có thể cải thiện các nhà máy lọc nhiên liệu của mình theo cách không thân thiện với môi trường như vậy, chúng sẽ sử dụng nhiều nước hơn và thải một lượng lớn khí thải vào bầu khí quyển. Điều này sẽ giúp chúng ta cải thiện bầu khí quyển của sao Hỏa theo thời gian. Chúng ta thậm chí có thể mong đợi một số cải thiện hiệu quả - tất nhiên, với điều kiện là người ta có xu hướng gọi là ""hiệu quả"" khi + 50% lượng Nước được sử dụng để tăng sản lượng nhiên liệu chỉ 10%.
+
+<effect>Các nhà máy lọc nhiên liệu có thể được ""cải tiến"" để thải thêm 50% -100% Nước, tạo ra nhiều Nhiên liệu hơn 10% -25% và làm tăng nhẹ Khí quyển hành tinh theo thời gian."
+256542587932,Smoke on the Water,Khói trên mặt nước
+948755011239,A soot-covered engineer appears to your door with a wild smile on her face.,Một kỹ sư phủ đầy bồ hóng xuất hiện trước cửa nhà bạn với nụ cười hoang dại trên khuôn mặt.
+792831550026,Fire in the Sky!,Lửa trên bầu trời!
+145275000878,unlock a research for Overloaded Fuel Refineries,mở khóa nghiên cứu về Nhà máy lọc nhiên liệu quá tải
+707178242871,Nice idea! Let's exploit it to the limit!,Ý kiến hay! Hãy khai thác nó đến giới hạn!
+871965542650,unlock a research for Advanced Overloaded Fuel Refineries,mở khóa nghiên cứu về Nhà máy lọc nhiên liệu quá tải nâng cao
+12173,That's a bit too much.,Đó là một chút quá nhiều.
 741143754204,do nothing,không làm gì cả
 531862171377,"This mineral contains calcium fluoride with traces of Uranium-238. It is beautifully violet, slightly radioactive and it makes your Commander's office smell like hell. 
 
-What is important is that when crushed, this mineral releases gases in the atmosphere which help the greenhouse effect on Mars. All we need to do is to set explosives and blow it up!",
-777943745871,A routine planetary survey discovered a huge deposit of antozonite.,
-982864000808,Send only drones to do the job.,
-408677797278,"unlock an Expedition for <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_small,'TemperatureTP')>; triggers a Dust Storm",
-11976,Blow Up Antozonite Deposit,
-11977,Send an expedition to detonate a mineral deposit for a terraforming improvement. We should expect a Dust Storm.,
+What is important is that when crushed, this mineral releases gases in the atmosphere which help the greenhouse effect on Mars. All we need to do is to set explosives and blow it up!","Khoáng chất này chứa canxi florua với dấu vết của Uranium-238. Nó có màu tím rất đẹp, hơi phóng xạ và nó làm cho văn phòng Chỉ huy của bạn có mùi như địa ngục.
+
+Điều quan trọng là khi bị nghiền nát, khoáng chất này giải phóng các khí trong khí quyển giúp gây hiệu ứng nhà kính trên sao Hỏa. Tất cả những gì chúng ta cần làm là đặt chất nổ và cho nổ tung!"
+777943745871,A routine planetary survey discovered a huge deposit of antozonite.,Một cuộc khảo sát thường kỳ về hành tinh đã phát hiện ra một lượng lớn antozonite.
+982864000808,Send only drones to do the job.,Chỉ gửi drone để thực hiện công việc.
+408677797278,"unlock an Expedition for <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_small,'TemperatureTP')>; triggers a Dust Storm","mở khóa do thám cho <resource(terr_atmo,'AtmosphereTP')> và <resource(terr_temp_small,'TemperatureTP')>; gây ra bão bụi"
+11976,Blow Up Antozonite Deposit,Thổi bay trầm tích Antozonite
+11977,Send an expedition to detonate a mineral deposit for a terraforming improvement. We should expect a Dust Storm.,Gửi một đoàn do thám để kích nổ trầm tích khoáng sản để tạo hình. Chúng ta nên chờ bão bụi.
 542128271349,"<resource(terr_atmo,'AtmosphereTP')>  <resource(terr_temp_small,'TemperatureTP')>","<resource(terr_atmo,'AtmosphereTP')>  <resource(terr_temp_small,'TemperatureTP')>"
-759378665179,And you thought your job stinks? Send the geologists!,
-800662982972,"unlock a bigger Expedition for <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_mid,'TemperatureTP')>; triggers a Dust Storm",
-11978,Blow Up Antozonite Deposit,
-11979,Send an expedition to detonate a mineral deposit for a terraforming improvement. We should expect a Dust Storm.,
+759378665179,And you thought your job stinks? Send the geologists!,Và bạn nghĩ rằng công việc của bạn bốc mùi? Gửi nhà địa chất!
+800662982972,"unlock a bigger Expedition for <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_mid,'TemperatureTP')>; triggers a Dust Storm","mở khóa do thám lớn hơn cho <resource(terr_atmo,'AtmosphereTP')> và <resource(terr_temp_mid,'TemperatureTP')>; gây ra bão bụi"
+11978,Blow Up Antozonite Deposit,Trầm tích Antozonite
+11979,Send an expedition to detonate a mineral deposit for a terraforming improvement. We should expect a Dust Storm.,Gửi đoàn do thám để kích nổ trầm tích khoáng sản để tạo hình. Chúng ta nên chờ bão bụi.
 118756812829,"<resource(terr_atmo,'AtmosphereTP')>  <resource(terr_temp_mid,'TemperatureTP')>","<resource(terr_atmo,'AtmosphereTP')>  <resource(terr_temp_mid,'TemperatureTP')>"
-564783942888,Why do half the job? Let's nuke it and escalate the effect.,
-678015104561,"gain <resource(terr_atmo_big,'AtmosphereTP')> and <resource(terr_temp_big,'TemperatureTP')>; triggers disasters",
-358286597428,So now we detonate toxic radioactive rocks in order to make the planet habitable? Just no.,
+564783942888,Why do half the job? Let's nuke it and escalate the effect.,Tại sao phải làm một nửa công việc? Hãy xóa nó và nâng cao hiệu quả.
+678015104561,"gain <resource(terr_atmo_big,'AtmosphereTP')> and <resource(terr_temp_big,'TemperatureTP')>; triggers disasters","đạt được <resource(terr_atmo_big,'AtmosphereTP')> và <resource(terr_temp_big,'TemperatureTP')>; gây ra thảm họa"
+358286597428,So now we detonate toxic radioactive rocks in order to make the planet habitable? Just no.,Vì vậy - bây giờ chúng ta cho nổ những tảng đá phóng xạ độc để làm cho hành tinh có thể sống được? Không.
 559028145481,do nothing,không làm gì cả
 578965561181,"The expedition returned, with drones bruised and covered with dust, but fully functional. You have the honor of pressing the button. A distant thunder indicates the minerals have been successfully detonated.
 
 <effect>Mars has gained <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_small,'TemperatureTP')>.
-Dust Storm approaching.",
-283202606765,Stinky Rocks,
+Dust Storm approaching.","Do thám quay trở lại, với drone bị bầm tím và phủ đầy bụi, nhưng vẫn hoạt động đầy đủ. Bạn có vinh dự được nhấn nút. Một tiếng sấm ở xa cho thấy khoáng chất đã được kích nổ thành công.
+
+<effect>Sao Hỏa đã đạt được <resource(terr_atmo,'AtmosphereTP')> và <resource(terr_temp_small,'TemperatureTP')>.
+Bão bụi đang đến gần."
+283202606765,Stinky Rocks,Đá bốc mùi
 901063836540,"The expedition returned, with geologists tired and dirty, but happy with a job well done. You have the honor of pressing the button. A distant thunder indicates the minerals have been successfully detonated.
 
 <effect>Mars has gained <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_temp_mid,'TemperatureTP')>.
-Dust Storm approaching.",
-886561254511,Stinky Rocks,
+Dust Storm approaching.","Đoàn do thám quay trở lại, với các nhà địa chất mệt mỏi và bẩn thỉu, nhưng rất vui vì công việc được hoàn thành tốt. Bạn có vinh dự được nhấn nút. Một tiếng sấm ở xa cho thấy các khoáng chất đã được kích nổ thành công.
+
+<effect>Sao Hỏa đã đạt được <resource(terr_atmo,'AtmosphereTP')> và <resource(terr_temp_mid,'TemperatureTP')>.
+Bão bụi đang đến gần."
+886561254511,Stinky Rocks,Đá bốc mùi
 487673542031,"Your biochemistry advisor comes with a petri dish in hand and a triumphant smile on her face. ""Commander, see who survived the last ten years in the freezer!""
 
-The cute microscopic water bears are able to withstand unbelievable amounts of pressure, cold, heat and radiation, provided they have just a little moisture. Their natural resilience will give us a solid species to lean on while building a biosphere here on Mars.",
-178071790341,Tardigrades,
-893214213341,"Now that we have liquid water on Mars, we can introduce those fascinating little creatures to it.",
-858086364591,"Mars, meet your new conquerors!",
-277268699337,"unlock an Expedition for <resource(terr_veg,'VegetationTP')>, requires Food",
-11980,Spread Tardigrades,
-11981,Send a rocket to distribute Tardigrades over Mars water sources.,
+The cute microscopic water bears are able to withstand unbelievable amounts of pressure, cold, heat and radiation, provided they have just a little moisture. Their natural resilience will give us a solid species to lean on while building a biosphere here on Mars.","Cố vấn hóa sinh của bạn đến với một đĩa petri trên tay và nụ cười đắc thắng trên khuôn mặt của cô ấy. ""Chỉ huy, xem ai sống sót sau mười năm qua trong tủ đông!""
+
+Những chú gấu nước siêu nhỏ dễ thương có thể chịu được áp suất, lạnh, nhiệt và bức xạ không thể tin được, miễn là chúng chỉ có một chút độ ẩm. Khả năng phục hồi tự nhiên của chúng sẽ cho chúng ta một giống loài vững chắc để dựa vào trong khi xây dựng một sinh quyển ở đây trên sao Hỏa."
+178071790341,Tardigrades,Gấu nước
+893214213341,"Now that we have liquid water on Mars, we can introduce those fascinating little creatures to it.","Bây giờ chúng ta có nước lỏng trên sao Hỏa, chúng ta có thể giới thiệu những sinh vật nhỏ bé hấp dẫn đó với nó."
+858086364591,"Mars, meet your new conquerors!","Sao Hỏa, hãy gặp những kẻ chinh phục mới của bạn!"
+277268699337,"unlock an Expedition for <resource(terr_veg,'VegetationTP')>, requires Food","mở khóa do thám cho <resource(terr_veg,'VegetationTP')>, yêu cầu thực phẩm"
+11980,Spread Tardigrades,Rãi gấu nước
+11981,Send a rocket to distribute Tardigrades over Mars water sources.,Gửi một tên lửa để phân phối gấu nước trên nguồn nước trên sao Hỏa.
 106560245171,"<resource(terr_veg,'VegetationTP')>","<resource(terr_veg,'VegetationTP')>"
-759015761539,We can prepare canisters with tardigrades and shoot them from space.,
-12174,"unlock an Expedition for <resource(terr_veg,'VegetationTP')>, requires Metals",
-11982,Throw Tardigrades,
-11983,Send a rocket to shoot Tardigrade canisters from space.,
+759015761539,We can prepare canisters with tardigrades and shoot them from space.,Chúng ta có thể chuẩn bị những cái hộp đựng súng bắn đạn hoa cải và bắn chúng từ vũ trụ.
+12174,"unlock an Expedition for <resource(terr_veg,'VegetationTP')>, requires Metals","mở khóa do thám cho <resource(terr_veg,'VegetationTP')>, yêu cầu kim loại"
+11982,Throw Tardigrades,Ném gấu nước
+11983,Send a rocket to shoot Tardigrade canisters from space.,Gửi một tên lửa để bắn các hộp gấu nước từ vũ trụ.
 516507466486,"<resource(terr_veg,'VegetationTP')>","<resource(terr_veg,'VegetationTP')>"
-878597787004,We can't do such cruel things to these cute water bears.,
+878597787004,We can't do such cruel things to these cute water bears.,Chúng ta không thể làm những điều tàn nhẫn như vậy với những chú gấu nước dễ thương này.
 170117369256,do nothing,không làm gì cả
 890920177766,"The rocket returned after successfully spreading our cute microscopic Tardigrade survivalists throughout the cold waters of the Red Planet.
 
-<effect>Mars has gained <resource(terr_veg,'VegetationTP')>.",
-895135467305,Tardigrades,
+<effect>Mars has gained <resource(terr_veg,'VegetationTP')>.","Tên lửa quay trở lại sau khi phát tán thành công gấu nước sống sót bằng kính hiển vi dễ thương của chúng ta khắp vùng nước lạnh giá của Hành tinh Đỏ.
+
+<effect>Sao Hỏa đã đạt được <resource(terr_veg,'VegetationTP')>."
+895135467305,Tardigrades,Gấu nước
 507179144100,"""Commander, remember the canisters with Tardigrades we have spread in Mars' waters some time ago? Well, turns out their population has reached as far as the poles, and most of them actually survived the blast! Even more to that, their new generation has developed higher tolerance to unfavorable conditions. We can have a party, Commander!""
 
-<effect>Mars has gained <resource(terr_veg,'VegetationTP')>.",
-443555556330,Tardigrades,
-428308505026,"Your biochemistry advisor enters your office, her cheeks red and her face glowing with happy triumph.",
+<effect>Mars has gained <resource(terr_veg,'VegetationTP')>.","""Chỉ huy, còn nhớ những cái hộp có gấu nước mà chúng ta đã rải ở vùng biển của sao Hỏa một thời gian trước không? Chà, hóa ra dân số của chúng đã vươn xa tới các cực, và hầu hết trong số chúng thực sự sống sót sau vụ nổ! Hơn nữa, thế hệ mới của chúng đã phát triển khả năng chống chịu cao hơn với điều kiện bất lợi. Chúng ta có thể tổ chức một bữa tiệc, Chỉ huy!""
+
+<effect>Sao Hỏa đã đạt được <resource(terr_veg,'VegetationTP')>."
+443555556330,Tardigrades,Gấu nước
+428308505026,"Your biochemistry advisor enters your office, her cheeks red and her face glowing with happy triumph.","Cố vấn hóa sinh của bạn bước vào văn phòng của bạn, đôi má ửng đỏ và khuôn mặt rạng rỡ với niềm vui chiến thắng."
 471722085297,John Altmann,
 862950849132,"Your security advisor comes to your office with a rare expression of confusion on her face. She explains there is a colonist who has been caught counterfeiting documents about himself. The strange thing is, on the fake identity chip he produced, he is 30 years old; and the previous one shows 53. She was diligent enough to check further and she discovered a chain of similar infringements... as it seems, all done by the same person. Unlikely as it sounds, this man had lived for decades without aging a day.
 
-We know him by the name of John Altmann.",
-886049707736,The Man from Mars,
-12175,Arrange a private meeting with this person.,
-12177,Pretend we haven't noticed and secretly watch him.,
+We know him by the name of John Altmann.","Cố vấn an ninh của bạn đến văn phòng của bạn với một biểu hiện bối rối hiếm hoi trên khuôn mặt của cô ấy. Cô ấy giải thích rằng có một cư dân đã bị bắt quả tang làm giả tài liệu về chính mình. Điều kỳ lạ là, trên con chip nhận dạng giả do anh ta sản xuất, anh ta đã 30 tuổi; và phần trước hiển thị 53. Cô ấy đã đủ siêng năng để kiểm tra thêm và cô ấy đã phát hiện ra một chuỗi vi phạm tương tự... có vẻ như tất cả đều do cùng một người thực hiện. Nghe có vẻ khó tin, người đàn ông này đã sống hàng chục năm mà không già đi một ngày.
+
+Chúng ta biết anh ấy bằng tên John Altmann."
+886049707736,The Man from Mars,Người đàn ông đến từ sao Hỏa
+12175,Arrange a private meeting with this person.,Sắp xếp một cuộc gặp riêng với người này.
+12177,Pretend we haven't noticed and secretly watch him.,Giả vờ như chúng ta không nhận ra và bí mật theo dõi anh ta.
 12176,unknown consequences,hậu quả chưa biết
-12178,"Let him be, whoever he is.",
+12178,"Let him be, whoever he is.","Hãy để anh ta làm, cho dù anh ta là ai."
 378240411104,"Mr. Altmann tells you the story of a colonist who has discovered here a unique type of moss: an extract of it can be health improving, prolong one's life and even repair damaged DNA chains. 
 
 The colonist who made this discovery was Mr. Altmann himself. He lived for very long time - over the years he has faked his own death and changed his identity several times. Eventually he became tired of hiding something in a world that is already too small, and became negligent about keeping his secret safe.
 
-This moss he discovered reproduces very slowly and there just isn't enough for everybody. And the irony of the situation is, the moment when the shifting climate of Mars settles to more Earth-like conditions, it will be extinct.",
-257496999084,The people deserve to know.,
+This moss he discovered reproduces very slowly and there just isn't enough for everybody. And the irony of the situation is, the moment when the shifting climate of Mars settles to more Earth-like conditions, it will be extinct.","Ông Altmann kể cho bạn nghe câu chuyện về cư dân đã phát hiện ra ở đây một loại rêu độc nhất vô nhị: chiết xuất từ nó có thể cải thiện sức khỏe, kéo dài tuổi thọ và thậm chí sửa chữa các chuỗi DNA bị hỏng.
+
+Cư dân này chính là ông Altmann. Anh ta đã sống rất lâu - trong nhiều năm anh ta đã tự làm giả cái chết của chính mình và thay đổi danh tính của mình nhiều lần. Cuối cùng, anh ấy cảm thấy mệt mỏi khi phải che giấu điều gì đó trong một thế giới vốn đã quá nhỏ, và trở nên lơ là trong việc giữ bí mật của mình an toàn.
+
+Loại rêu này mà ông phát hiện sinh sản rất chậm và không đủ cho tất cả mọi người. Và tình huống trớ trêu là, thời điểm khi khí hậu thay đổi của sao Hỏa phù hợp với các điều kiện giống Trái đất hơn, nó sẽ bị tuyệt chủng."
+257496999084,The people deserve to know.,Mọi người xứng đáng được biết.
 482191878635,unknown consequences,hậu quả chưa biết
-830261113752,This treasure must be shared with the people! I know the right people.,
-318591710919,gain <funding(funding_gain)> and 10 applicants,
-490619344848,Can you imagine the possibilities?!,
-113811319757,unlock a Breakthrough,
-367347577339,Your secret is safe with me.,
-769808924931,gain <research(research_small)>; unknown consequences,
+830261113752,This treasure must be shared with the people! I know the right people.,Kho báu này phải được chia sẻ cho người dân! Tôi biết đúng người.
+318591710919,gain <funding(funding_gain)> and 10 applicants,đạt được <funding(funding_gain)> và 10 ứng viên
+490619344848,Can you imagine the possibilities?!,Bạn có thể tưởng tượng khả năng?!
+113811319757,unlock a Breakthrough,mở khóa đột phá
+367347577339,Your secret is safe with me.,bí mật của bạn là an toàn với tôi.
+769808924931,gain <research(research_small)>; unknown consequences,đạt được <research(research_small)>; hậu quả chưa biết
 641279561181,"Your security advisor reports that Mr. Altmann somehow found out he was being watched. He managed to steal a space suit and disappear. Security officers found a package and a note in his apartment:
 
 ""Commander, I have my reasons to believe that you will grasp what I have to say. I am an ambassador from another civilization which conquered space long ago. My mission here is done and I assure you that I have the best possible impression of your people. I shall advocate for you in the Galactic Council. Now I know I have to disappear for the good of everyone. Don't look for me, for you will not find me. 
@@ -14204,397 +14228,545 @@ As a parting gift, I'm leaving this growth substance. Spread it throughout Mars 
 
 Your botanists confirm that the substance is some sort of a moss which can slowly replicate.
 
-<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.",
-419695982397,So they were watching us all the time!,
-531269202356,a few Colonists gain the Nerd trait,
-963094605836,Aliens? We are not that gullible... Send his description to Interpol!,
-503391511307,many Security Officers gain Morale,
+<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.","Cố vấn an ninh của bạn báo cáo rằng ông Altmann bằng cách nào đó phát hiện ra mình đang bị theo dõi. Anh ta đã đánh cắp được một bộ đồ vũ trụ và biến mất. Các nhân viên an ninh đã tìm thấy một gói hàng và một tờ giấy nhắn trong căn hộ của anh ta:
+
+""Chỉ huy, tôi có lý do để tin rằng anh sẽ hiểu những gì tôi phải nói. Tôi là một đại sứ từ một nền văn minh khác đã chinh phục vũ trụ từ lâu. Nhiệm vụ của tôi ở đây đã hoàn thành và tôi đảm bảo với bạn rằng tôi có ấn tượng tốt nhất về con người của bạn. Tôi sẽ ủng hộ bạn trong Hội đồng Ngân hà. Bây giờ tôi biết tôi phải biến mất vì lợi ích của mọi người. Đừng tìm tôi, vì bạn sẽ không tìm thấy tôi.
+Như một món quà chia tay, tôi để lại chất tăng trưởng này. Hãy truyền bá nó khắp sao Hỏa và để nó phát triển mạnh mẽ.""
+
+Các nhà thực vật học của bạn xác nhận rằng chất này là một loại rêu có thể tái tạo từ từ.
+
+<effect>John Altmann biến mất. Sao Hỏa đã đạt được <resource(terr_veg,'VegetationTP')>."
+419695982397,So they were watching us all the time!,Vì vậy - họ đã theo dõi chúng ta mọi lúc!
+531269202356,a few Colonists gain the Nerd trait,một số cư dân có được đặc điểm Mọt sách
+963094605836,Aliens? We are not that gullible... Send his description to Interpol!,Người ngoài hành tinh? Chúng ta không cả tin đến vậy... Hãy gửi mô tả của anh ta tới Interpol!
+503391511307,many Security Officers gain Morale,nhiều nhân viên an ninh có được tinh thần
 559542779009,"Your security advisor reports that Mr. John Altmann, the colonist she has found out to have extraordinary long life, has recently disappeared. He probably boarded a rocket.
 
 Your terraforming advisor also has some news. There is a substantial rise of the Vegetation parameter, and botanists are baffled why. You may have your reasons to believe this is a good-bye gift from Mr. Altmann, but we will never learn the truth.
 
-<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.",
-245810302752,"Was he an alien? The truth is out there, but we may never know.",
-119190555706,all Nerd Colonists gain Morale,
-151378339574,Mother Nature works in mysterious ways.,
-756419972329,all Hippie Colonists gain Morale,
-116423333980,"Send his description to Interpol, let them deal with him.",
+<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.","Cố vấn an ninh của bạn báo cáo rằng ông John Altmann, cư dân mà cô phát hiện ra là có tuổi thọ cao bất thường, gần đây đã biến mất. Anh ta có thể đã lên tên lửa.
+
+Cố vấn địa hình của bạn cũng có một số tin tức. Có một sự gia tăng đáng kể của thông số Thực vật và các nhà thực vật học đang bối rối tại sao. Bạn có thể có lý do để tin rằng đây là món quà tạm biệt từ ông Altmann, nhưng chúng ta sẽ không bao giờ biết được sự thật.
+
+<effect>John Altmann biến mất. Sao Hỏa đã đạt được <resource(terr_veg,'VegetationTP')>."
+245810302752,"Was he an alien? The truth is out there, but we may never know.","Anh ta có phải là người ngoài hành tinh không? Sự thật ở ngoài kia, nhưng chúng ta có thể không bao giờ biết được."
+119190555706,all Nerd Colonists gain Morale,tất cả cư dân mọt sách đều có được tinh thần
+151378339574,Mother Nature works in mysterious ways.,Mẹ thiên nhiên hoạt động theo những cách bí ẩn.
+756419972329,all Hippie Colonists gain Morale,tất cả cư dân Hippie đều có được tinh thần
+116423333980,"Send his description to Interpol, let them deal with him.","Gửi mô tả của anh ta cho Interpol, để họ xử lý anh ta."
 250707886349,"This morning, Mr. Altmann was found dead in his apartment. He was barbarously decapitated with a long kitchen knife. A masked colonist was seen to leave his place, screaming ""There can be only one!"".
 
 On the bright side, the research of the mysterious moss which provided the extraordinarily long life of the late Mr. Altmann has revealed interesting possibilities. This kind of vegetation is unstable, but it can greatly improve the biosphere for other species. Or, alternatively, we can experiment with improvements of the human genome.
 
-<effect>John Altmann is dead.",
-177934919515,The future of humankind matters more than our lives.,
-388524112349,"gain <resource(terr_veg,'VegetationTP')>",
-659920222997,The universe has any meaning only through Human perspective.,
-109693269628,unlock a Breakthrough,
-407514164075,We're here to help Old Earth solve its problems.,
-162530152451,send it to Earth and gain <funding(funding_gain)>,
-632918808353,We can artificially replicate this moss and create a more adaptive GMO sort.,
-920778585406,"gain <resource(terr_veg_big,'VegetationTP')>",
-733213169407,"The moss of Mr. Altmann is not enough to make us all immortal, but we can learn so much from it and improve our very nature. We could live a happy life, unrestrained by the burden of old age, or even be reborn by transferring our consciousness to a young body!",
-389372539298,The Man from Mars,
-329785476315,"It always bothered me that just when you learn the ropes, you lose the strength to pull them.",
-752408571991,unlock Breakthrough Forever Young,
-733118230900,"If I could be young again, I'd never make the same mistakes. I shall explore new options!",
-795877708847,unlock Breakthrough Project Phoenix,
-302554611108,"On second thought, all is vanity.",
-959468716539,gain <research(research_gain)> Research,
+<effect>John Altmann is dead.","Sáng nay, người ta phát hiện ông Altmann đã chết trong căn hộ của mình. Anh ta đã bị chặt đầu một cách man rợ bằng một con dao làm bếp dài. Một cư dân đeo mặt nạ rời khỏi vị trí của mình, la hét ""Có thể chỉ có một!"".
+
+Về mặt sáng, việc nghiên cứu về loại rêu bí ẩn cung cấp tuổi thọ vượt trội cho ông Altmann quá cố đã tiết lộ những khả năng thú vị. Loại thảm thực vật này không ổn định, nhưng nó có thể cải thiện đáng kể sinh quyển cho loài khác. Hoặc, cách khác, chúng ta có thể thử nghiệm với những cải tiến của bộ gen người.
+
+<effect>John Altmann đã chết."
+177934919515,The future of humankind matters more than our lives.,Tương lai của loài người quan trọng hơn cuộc sống của chúng ta.
+388524112349,"gain <resource(terr_veg,'VegetationTP')>","đạt được <resource(terr_veg,'VegetationTP')>"
+659920222997,The universe has any meaning only through Human perspective.,Vũ trụ có bất kỳ ý nghĩa nào chỉ qua góc nhìn của Con người.
+109693269628,unlock a Breakthrough,mở khóa đột phá
+407514164075,We're here to help Old Earth solve its problems.,Chúng ta ở đây để giúp trái đất cũ giải quyết các vấn đề của nó.
+162530152451,send it to Earth and gain <funding(funding_gain)>,gửi nó đến Trái đất và đạt được <funding(funding_gain)>
+632918808353,We can artificially replicate this moss and create a more adaptive GMO sort.,Chúng ta có thể tái tạo loài rêu này một cách nhân tạo và tạo ra một loại GMO thích ứng hơn.
+920778585406,"gain <resource(terr_veg_big,'VegetationTP')>","đạt được <resource(terr_veg_big,'VegetationTP')>"
+733213169407,"The moss of Mr. Altmann is not enough to make us all immortal, but we can learn so much from it and improve our very nature. We could live a happy life, unrestrained by the burden of old age, or even be reborn by transferring our consciousness to a young body!","Sự rêu rao của ông Altmann không đủ để khiến tất cả chúng ta trở nên bất tử, nhưng chúng ta có thể học hỏi rất nhiều từ nó và cải thiện bản chất của mình. Chúng ta có thể sống cuộc sống hạnh phúc, không bị gò bó bởi gánh nặng của tuổi già, hoặc thậm chí được tái sinh bằng cách chuyển ý thức của mình sang một cơ thể trẻ!"
+389372539298,The Man from Mars,Người đàn ông đến từ sao Hỏa
+329785476315,"It always bothered me that just when you learn the ropes, you lose the strength to pull them.","Tôi luôn làm phiền tôi rằng chỉ khi bạn học các sợi dây, bạn sẽ mất sức để kéo chúng."
+752408571991,unlock Breakthrough Forever Young,mở khóa đột phá thanh xuân mãi mãi
+733118230900,"If I could be young again, I'd never make the same mistakes. I shall explore new options!","Nếu tôi có thể trẻ lại, tôi sẽ không bao giờ mắc phải những sai lầm tương tự. Tôi sẽ khám phá các lựa chọn mới!"
+795877708847,unlock Breakthrough Project Phoenix,mở khóa đột phá dự án Phoenix
+302554611108,"On second thought, all is vanity.","Suy nghĩ thứ hai, tất cả chỉ là phù phiếm."
+959468716539,gain <research(research_gain)> Research,đạt được <research(research_gain)> nghiên cứu
 220338276067,"He wants to intentionally make shuttles a lot less effective by doubling the fuel consumption. As a result, they would produce a hell of exhaust gases which ultimately contribute to a Greenhouse effect for warming up Mars. Also, shuttles may move a bit faster. We can only hope they won't accidentally explode.
 
-<effect>Shuttles can be ""improved"" to burn 50%-100% more Fuel, move 10%-25% faster and slightly increase planetary Temperature over time.",
-875855399207,Those Dirty Shuttles,
-839925882157,An engineer comes to your office with a bunch of schematics in hand and a ridiculous idea in mind.,
-973370415728,"Oh, I like my shuttles dirty.",
-155608564100,unlock a research for Shuttle Afterburners,
-593257851881,"Everyone can screw up something, but it takes a real engineer to do it good and proper!",
-830888794770,unlock a research for Advanced Shuttle Afterburners,
-300036263963,What's next? Nuke our Domes to heat up the planet?,
+<effect>Shuttles can be ""improved"" to burn 50%-100% more Fuel, move 10%-25% faster and slightly increase planetary Temperature over time.","Anh ta muốn cố ý làm cho những tàu con thoi kém hiệu quả hơn rất nhiều bằng cách tăng gấp đôi mức tiêu thụ nhiên liệu. Kết quả là, chúng sẽ tạo ra một địa ngục khí thải cuối cùng góp phần tạo ra hiệu ứng Nhà kính để hâm nóng sao Hỏa. Ngoài ra, tàu con thoi có thể di chuyển nhanh hơn một chút. Chúng ta chỉ có thể hy vọng chúng sẽ không vô tình phát nổ.
+
+<effect>Tàu con thoi có thể được ""cải thiện"" để đốt thêm 50% -100% Nhiên liệu, di chuyển nhanh hơn 10% -25% và tăng nhẹ Nhiệt độ hành tinh theo thời gian."
+875855399207,Those Dirty Shuttles,Những con thoi bẩn thỉu đó
+839925882157,An engineer comes to your office with a bunch of schematics in hand and a ridiculous idea in mind.,Một kỹ sư đến văn phòng của bạn với một đống sơ đồ trong tay và một ý tưởng vô lý trong đầu.
+973370415728,"Oh, I like my shuttles dirty.","Ồ, tôi thích con thoi của mình bẩn."
+155608564100,unlock a research for Shuttle Afterburners,mở khóa nghiên cứu cho tàu con thoi đốt sau
+593257851881,"Everyone can screw up something, but it takes a real engineer to do it good and proper!","Mọi người đều có thể làm hỏng một thứ gì đó, nhưng cần một kỹ sư thực sự để làm điều đó tốt và phù hợp!"
+830888794770,unlock a research for Advanced Shuttle Afterburners,mở khóa nghiên cứu cho tàu con thoi đốt sau nâng cao
+300036263963,What's next? Nuke our Domes to heat up the planet?,Cái gì tiếp theo? Nổ mái vòm của chúng ta để làm nóng hành tinh?
 278411051380,do nothing,không làm gì cả
-515464686844,"Because of the new design, when a shuttle is watched from the ground, there can be seen thin trails of vaporized water. Some people are convinced these ""chemtrails"" are part of your wicked plan to conquer their minds using psychotropic substances spread by the shuttle afterburners.",
-12213,Publish all the plans and schematics of shuttles and their afterburners.,
+515464686844,"Because of the new design, when a shuttle is watched from the ground, there can be seen thin trails of vaporized water. Some people are convinced these ""chemtrails"" are part of your wicked plan to conquer their minds using psychotropic substances spread by the shuttle afterburners.","Do thiết kế mới, khi quan sát tàu con thoi từ mặt đất, có thể thấy những vệt nước bốc hơi mỏng. Một số người tin rằng những ""đường hóa học"" này là một phần trong kế hoạch độc ác của bạn để chinh phục tâm trí của họ bằng cách sử dụng chất hướng thần được phát tán bởi các chất đốt sau tàu con thoi."
+12213,Publish all the plans and schematics of shuttles and their afterburners.,Xuất bản tất cả các kế hoạch và sơ đồ của tàu con thoi và đốt sau của chúng.
 538944837131,"""That's what they want us to believe!""
 
 Surprisingly, it seems there are people who only accept proof that supports their viewpoint - and there are others who think that since you are being defensive, you definitely have something to hide.
 
 It's not easy to be the Commander.
 
-<effect>All Idiot colonists and <morale_percent>% non-Engineer colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.",
-446559423866,Publicly dismantle a shuttle and put it on display to show there is nothing wrong.,
+<effect>All Idiot colonists and <morale_percent>% non-Engineer colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.","""Đó là những gì họ muốn chúng ta tin tưởng!""
+
+Đáng ngạc nhiên, có vẻ như có những người chỉ chấp nhận bằng chứng ủng hộ quan điểm của họ - và có những người khác nghĩ rằng vì bạn đang phòng thủ nên chắc chắn bạn có điều gì đó cần che giấu.
+
+Không dễ để trở thành Chỉ huy trưởng.
+
+<effect>Tất cả cư dân ngốc và <morale_percent>% cư dân không phải Kỹ sư mất <morale_loss> Tinh thần trong <sols(morale_sols)> Sol."
+446559423866,Publicly dismantle a shuttle and put it on display to show there is nothing wrong.,Công khai tháo dỡ một tàu con thoi và đưa nó lên trưng bày để cho thấy không có gì sai trái.
 620198649539,"Everything goes smoothly and by the numbers - there is a crowd of curious colonists; the chief engineer dismounts the shuttle and cracks jokes; people applaud. 
 
 However, an hour later you get a report of masked colonists breaking into a Shuttle Hub and destroying shuttles - probably to ensure they are not being lied to about the ""chemtrails"".
 Sometimes it's hard when people live so close together.
 
-<effect><shuttles_lost> Shuttles have been lost.",
-743300474499,Devise a story about shuttles spraying a special fluid to protect the public from aliens.,
+<effect><shuttles_lost> Shuttles have been lost.","Mọi thứ diễn ra suôn sẻ và theo những con số - có một đám đông thực dân tò mò; kỹ sư trưởng xuống tàu con thoi và nói đùa; mọi người tán thưởng.
+
+Tuy nhiên, một giờ sau, bạn nhận được báo cáo về cư dân đeo mặt nạ đột nhập vào Trung tâm tàu con thoi và phá hủy tàu con thoi - có thể là để đảm bảo rằng họ không bị lừa dối về ""đường hóa học"".
+Đôi khi thật khó khi mọi người sống gần nhau như vậy.
+
+<effect><shuttles_lost> Tàu con thoi đã bị mất."
+743300474499,Devise a story about shuttles spraying a special fluid to protect the public from aliens.,Xây dựng một câu chuyện về tàu con thoi phun một chất lỏng đặc biệt để bảo vệ công chúng khỏi người ngoài hành tinh.
 138955195732,"There are colonists who are excited about that. There are others who are unable to see the bigger picture and feel frustrated about it. You can't make everyone happy, it seems.
 
 <effect>All Idiot colonists gain the Nerd trait. 
-<morale_percent>% Engineer colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.",
-663844685247,This is ridiculous. Do nothing and refuse to comment.,
+<morale_percent>% Engineer colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.","Có cư dân rất vui mừng về điều đó. Có người khác không thể nhìn thấy bức tranh lớn hơn và cảm thấy thất vọng về nó. Có vẻ như bạn không thể làm cho tất cả mọi người hạnh phúc.
+
+<effect>Tất cả cư dân ngốc đều có đặc điểm Mọt sách.
+<morale_percent>% Thực dân kỹ sư mất <morale_loss> tinh thần trong <sols(morale_sols)> Sol."
+663844685247,This is ridiculous. Do nothing and refuse to comment.,Điều này thật là buồn cười. Không làm gì và từ chối bình luận.
 524246378431,"It seems there are some who don't trust you to decide what is best for the colony.
 
 An aggressive crowd gathers near a Shuttle Hub, but your security officers stand strong, solid and imperturbable in front of it. People shout a bit, then disperse.
 
-<effect>All Idiot colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.",
+<effect>All Idiot colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols.","Có vẻ như có một số người không tin tưởng bạn để quyết định điều gì là tốt nhất cho căn cứ.
+
+Một đám đông hung hãn tụ tập gần Trung tâm tàu con thoi, nhưng nhân viên an ninh của bạn đứng trước mặt nó mạnh mẽ, rắn rỏi và vững vàng. Mọi người hô một tiếng, sau đó giải tán.
+
+<effect>Tất cả cư dân Ngốc mất <morale_loss> tinh thần trong <sols(morale_sols)> Sol."
 236952394903,"It seems there are some who don't trust you to decide what is best for the colony.
 
 An aggressive crowd manages to get into one of the shuttle hubs and cause irreversible damage to the electronics. Since you don't have enough security, there is nothing to do to stop them from destroying the sensitive equipment.
 
 <effect>All Idiot colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols. 
-A Shuttle Hub has been destroyed.",
+A Shuttle Hub has been destroyed.","Có vẻ như có một số người không tin tưởng bạn để quyết định điều gì là tốt nhất cho căn cứ.
+
+Một đám đông hung hãn cố gắng đi vào một trong những trung tâm tàu con thoi và gây ra thiệt hại không thể phục hồi cho các thiết bị điện tử. Vì bạn không có đủ an ninh, không có gì phải làm để ngăn họ phá hủy thiết bị nhạy cảm.
+
+<effect>Tất cả cư dân Ngốc mất <morale_loss> tinh thần trong <sols(morale_sols)> Sol. 
+Một trung tâm tàu con thoi đã bị phá hủy."
 486854875231,"The famous scientist Dr. Washington Irving who has spent his entire life working on various exotic projects, has recently died. His scientific legacy happened to fall in the hands of the ruthless governor of the insignificant island of Equatorico. He contacted us with an offer to sell the most valuable work of the deceased genius – a vial of Water-Nine, an unstable water formula consisting of different isotopes of Hydrogen and Oxygen. One of the wondrous properties of this water is that it can enter a chemical reaction with frozen water and turn it into Water-Nine, promising a quick Temperature and Water increase even in the harsh conditions of Mars, with overall gain estimated above 10%!
 
-The only problem is, this greedy governor requested a ridiculous sum for a single precious vial of Water-Nine.",
-363402850020,Water-Nine,
-753211750275,A scientist from Earth discovered a new form of water.,
-569044057546,It is a small cost for such a great improvement!,
+The only problem is, this greedy governor requested a ridiculous sum for a single precious vial of Water-Nine.","Nhà khoa học nổi tiếng, Tiến sĩ Washington Irving, người đã dành cả cuộc đời của mình để thực hiện nhiều dự án kỳ lạ khác nhau, gần đây đã qua đời. Di sản khoa học của ông đã rơi vào tay thống đốc tàn nhẫn của hòn đảo tầm thường Equatorico. Anh ấy liên hệ với chúng ta với lời đề nghị bán tác phẩm có giá trị nhất của thiên tài đã khuất - một lọ Nước-Chín, một công thức nước không ổn định bao gồm các đồng vị khác nhau của hydro và ôxy. Một trong những đặc tính kỳ diệu của nước này là nó có thể tham gia phản ứng hóa học với nước đóng băng và biến nó thành Nước-Chín, hứa hẹn sẽ tăng nhiệt độ và nước nhanh chóng ngay cả trong điều kiện khắc nghiệt của sao Hỏa, với mức tăng tổng thể ước tính trên 10%!
+
+Vấn đề duy nhất là, vị thống đốc tham lam này đã yêu cầu một khoản tiền vô lý cho một lọ Nước-Chín quý giá duy nhất."
+363402850020,Water-Nine,Nước-Chín
+753211750275,A scientist from Earth discovered a new form of water.,Một nhà khoa học từ Trái đất đã phát hiện ra một dạng nước mới.
+569044057546,It is a small cost for such a great improvement!,Đó là một chi phí nhỏ cho một cải tiến tuyệt vời như vậy!
 267665960473,"As long as the first drop of water touches the ice, it starts smoking and hissing. A bubbling crater forms on the surface of the ice deposit, quickly extending its diameter in a violent reaction. The little traces of frozen water in the air above it pick up its motion and swirl in a growing, roaring, thundering hurricane. Before we can do anything, it reaches for the sky, thickening in a giant cloud. Then holes open in the clouds, each like a reverse whirlpool of buzzing, roaring air, in the most magnificent storm ever seen on Mars.
 
 How complicated and unpredictable the machinery of life really is!
 
 <effect>Mars has lost <resource(terr_atmo_loss,'AtmosphereTP')>, and gained <resource(terr_temp_gain,'TemperatureTP')> and <resource(terr_water_gain,'WaterTP')>.
-Dust Storm incoming.",
-754457635011,"Put this ""governor"" on the private line. I know a thing or two about him.",
-401889433822,"gain more than <resource(10000,'TemperatureTP')> and <resource(10000,'WaterTP')>, unknown consequences",
+Dust Storm incoming.","Chỉ cần giọt nước đầu tiên chạm vào đá, nó bắt đầu bốc khói và rít lên. Một miệng núi lửa sủi bọt hình thành trên bề mặt trầm tích băng, nhanh chóng mở rộng đường kính của nó trong một phản ứng dữ dội. Những dấu vết nhỏ của nước đóng băng trong không khí phía trên nó tiếp nhận chuyển động của nó và xoáy vào một cơn cuồng phong đang lớn dần, gầm rú, cuồng phong. Trước khi chúng ta có thể làm bất cứ điều gì, nó đã vươn tới bầu trời, dày đặc trong một đám mây khổng lồ. Sau đó, lỗ mở ra trên mây, mỗi lỗ giống như một vòng xoáy ngược của không khí vo ve, ầm ầm, trong một cơn bão hoành tráng nhất từng thấy trên sao Hỏa.
+
+Máy móc cuộc sống thực sự phức tạp và khó đoán biết bao!
+
+<effect>Sao hỏa đã mất <resource(terr_atmo_loss,'AtmosphereTP')>, và đạt được <resource(terr_temp_gain,'TemperatureTP')> và <resource(terr_water_gain,'WaterTP')>.
+Bão bụi đang đến."
+754457635011,"Put this ""governor"" on the private line. I know a thing or two about him.","Đặt ""thống đốc"" này trên đường dây riêng. Tôi biết một hoặc hai điều về anh ấy."
+401889433822,"gain more than <resource(10000,'TemperatureTP')> and <resource(10000,'WaterTP')>, unknown consequences","đạt được nhiều hơn <resource(10000,'TemperatureTP')> và <resource(10000,'WaterTP')>, hậu quả chưa biết"
 546797001154,"As long as the first drop of water touches the ice, it starts smoking and hissing. A bubbling crater forms on the surface of the ice deposit, quickly extending its diameter in a violent reaction. The little traces of frozen water in the air above it pick up its motion and swirl in a growing, roaring, thundering hurricane. Before we can do anything, it reaches for the sky, thickening in a giant cloud. Then holes open in the clouds, each like a reverse whirlpool of buzzing, roaring air, in the most magnificent storm ever seen on Mars.
 
 How complicated and unpredictable the machinery of life really is!
 
 <effect>Mars has lost <resource(terr_atmo_loss,'AtmosphereTP')>, and gained <resource(terr_temp_gain,'TemperatureTP')> and <resource(terr_water_gain,'WaterTP')>.
-Dust Storm incoming.",
-899818219460,"I know the effect will exceed the expectations, but at the price of an eco-catastrophe.",
-948377862998,"trigger a Dust Storm, lose <resource(terr_atmo_loss,'AtmosphereTP')> and gain <resource(terr_temp_gain,'TemperatureTP')> and <resource(terr_water_gain,'WaterTP')>",
-920638902408,Water-Nine: Cat's Cradle,
+Dust Storm incoming.","Chỉ cần giọt nước đầu tiên chạm vào đá, nó bắt đầu bốc khói và rít lên. Một miệng núi lửa sủi bọt hình thành trên bề mặt trầm tích băng, nhanh chóng mở rộng đường kính của nó trong một phản ứng dữ dội. Những dấu vết nhỏ của nước đóng băng trong không khí phía trên nó tiếp nhận chuyển động của nó và xoáy vào một cơn cuồng phong đang lớn dần, gầm rú, cuồng phong. Trước khi chúng ta có thể làm bất cứ điều gì, nó đã vươn tới bầu trời, dày đặc trong một đám mây khổng lồ. Sau đó, lỗ mở ra trên mây, mỗi lỗ giống như một vòng xoáy ngược của không khí vo ve, ầm ầm, trong một cơn bão hoành tráng nhất từng thấy trên sao Hỏa.
+
+Máy móc cuộc sống thực sự phức tạp và khó đoán biết bao!
+
+<effect>Sao hỏa đã mất <resource(terr_atmo_loss,'AtmosphereTP')>, và đạt được <resource(terr_temp_gain,'TemperatureTP')> và <resource(terr_water_gain,'WaterTP')>.
+Bão bụi đang đến."
+899818219460,"I know the effect will exceed the expectations, but at the price of an eco-catastrophe.","Tôi biết hiệu quả sẽ vượt quá mong đợi, nhưng phải trả giá bằng một thảm họa sinh thái."
+948377862998,"trigger a Dust Storm, lose <resource(terr_atmo_loss,'AtmosphereTP')> and gain <resource(terr_temp_gain,'TemperatureTP')> and <resource(terr_water_gain,'WaterTP')>","kích hoạt Bão bụi, mất <resource(terr_atmo_loss,'AtmosphereTP')> và đạt được <resource(terr_temp_gain,'TemperatureTP')> và <resource(terr_water_gain,'WaterTP')>"
+920638902408,Water-Nine: Cat's Cradle,Nước-Chín: Cái nôi của mèo
 147000784374,"As long as the first drop of water touches the ice, it starts smoking and hissing. A bubbling crater forms on the surface of the ice deposit, quickly extending its diameter in a violent reaction. The little traces of frozen water in the air above it pick up its motion and swirl in a growing, roaring, thundering hurricane. Before we can do anything, it reaches for the sky, thickening in a giant cloud. Then holes open in the clouds, each like a reverse whirlpool of buzzing, roaring air, in the most magnificent storm ever seen on Mars.
 
 We have paid dearly for meddling with nature... But in this world, you get what you pay for.
 
 <effect>Mars has lost <resource(terr_atmo_loss,'AtmosphereTP')>, and gained <resource(terr_temp_gain,'TemperatureTP')> and <resource(terr_water_gain,'WaterTP')>.
-Dust Storm incoming.",
-432674201706,Sounds too risky.,
-312024056429,do nothing; all Gambler Colonists lose Morale,
+Dust Storm incoming.","Chỉ cần giọt nước đầu tiên chạm vào đá, nó bắt đầu bốc khói và rít lên. Một miệng núi lửa sủi bọt hình thành trên bề mặt trầm tích băng, nhanh chóng mở rộng đường kính của nó trong một phản ứng dữ dội. Những dấu vết nhỏ của nước đóng băng trong không khí phía trên nó tiếp nhận chuyển động của nó và xoáy vào một cơn cuồng phong đang lớn dần, gầm rú, cuồng phong. Trước khi chúng ta có thể làm bất cứ điều gì, nó đã vươn tới bầu trời, dày đặc trong một đám mây khổng lồ. Sau đó, lỗ mở ra trên mây, mỗi lỗ giống như một vòng xoáy ngược của không khí vo ve, ầm ầm, trong một cơn bão hoành tráng nhất từng thấy trên sao Hỏa.
+
+Chúng ta đã phải trả giá đắt khi can thiệp vào thiên nhiên... Nhưng trong thế giới này, bạn sẽ có được những gì bạn phải trả.
+
+<effect>Sao hỏa đã mất <resource(terr_atmo_loss,'AtmosphereTP')>, và đạt được <resource(terr_temp_gain,'TemperatureTP')> và <resource(terr_water_gain,'WaterTP')>.
+Bão bụi đang đến."
+432674201706,Sounds too risky.,Nghe có vẻ quá mạo hiểm.
+312024056429,do nothing; all Gambler Colonists lose Morale,không làm gì cả; tất cả cư dân Con bạc đều mất tinh thần
 927211551463,"""Commander, meet our guest from the Great Salt Lake! Isn't she beautiful?""
 
 There is a small monster in the jar - apparently, a brine shrimp. Your advisor jabbers enthusiastically about this creature, which seems to be naturally adapted to... well, everything. Low oxygen? No problem, it's a hemoglobin cheater. Cold water? Well okay, its eggs can survive the temperature of liquid air. Salty water? It's like, ""whoa, add some toxins to spice it up, I'll go get my girl"".
 
-Looks like the brine shrimps can be among the first animal species we can introduce to Mars.",
-954866782980,With a Grain of Salt,
-12143,"A terraforming expert comes to your office with a silly smile on her face, holding a jar with something ugly inside.",
-858869860269,"Go on then, take a rocket and spread those ugly creatures on Mars!",
-234280464096,"unlock an Expedition for <resource(terr_veg_mid,'VegetationTP')>",
-363621365514,Spread Shrimps,
-952115502187,Send a rocket to distribute Brinewater Shrimps from Earth over Mars water sources.,
+Looks like the brine shrimps can be among the first animal species we can introduce to Mars.","""Chỉ huy, gặp vị khách của chúng ta từ Hồ Muối Lớn! Cô ấy không đẹp phải không?""
+
+Có một con quái vật nhỏ trong lọ - hình như là một con tôm ngâm nước muối. Cố vấn của bạn nói một cách nhiệt tình về sinh vật này, nó dường như thích nghi một cách tự nhiên với... tốt, mọi thứ. Ôxy thấp? Không sao, đó là một kẻ lừa đảo huyết sắc tố. Nước lạnh? Không sao đâu, trứng của nó có thể tồn tại ở nhiệt độ của không khí lỏng. Nước mặn? Nó giống như, ""whoa, thêm một số chất độc để tăng gia vị, tôi sẽ đi lấy cô gái của tôi"".
+
+Có vẻ như tôm ngâm nước muối có thể là một trong những loài động vật đầu tiên chúng ta có thể đưa lên sao Hỏa."
+954866782980,With a Grain of Salt,Với một hạt muối
+12143,"A terraforming expert comes to your office with a silly smile on her face, holding a jar with something ugly inside.","Một chuyên gia tạo hình đến văn phòng của bạn với nụ cười ngốc nghếch trên môi, tay cầm một cái lọ đựng thứ gì đó xấu xí bên trong."
+858869860269,"Go on then, take a rocket and spread those ugly creatures on Mars!","Hãy tiếp tục, lấy một tên lửa và phát tán những sinh vật xấu xí đó trên sao Hỏa!"
+234280464096,"unlock an Expedition for <resource(terr_veg_mid,'VegetationTP')>","mở khóa do thám cho <resource(terr_veg_mid,'VegetationTP')>"
+363621365514,Spread Shrimps,Trải tôm
+952115502187,Send a rocket to distribute Brinewater Shrimps from Earth over Mars water sources.,Gửi một tên lửa để phân phối Tôm Nước ngọt từ Trái đất qua các nguồn nước trên Sao Hỏa.
 934319519974,"<resource(terr_veg_mid,'VegetationTP')>","<resource(terr_veg_mid,'VegetationTP')>"
-385104055952,We'll name a random Dome after the Martian Shrimp. Let them do the job!,
-853028174898,"gain <resource(terr_veg_small,'VegetationTP')>, all Colonists in the renamed Dome gain Morale",
-291880816844,New Shrimpton,
-905711124238,We can develop a low-G shrimp better adapted to the conditions on Mars.,
-154468048268,"unlock a Tech for <resource(terr_veg_big,'VegetationTP')>",
-752923110985,No thanks. These creatures give me nightmares.,
+385104055952,We'll name a random Dome after the Martian Shrimp. Let them do the job!,Chúng ta sẽ đặt tên một Mái vòm ngẫu nhiên theo tên Tôm sao Hỏa. Hãy để chúng làm công việc!
+853028174898,"gain <resource(terr_veg_small,'VegetationTP')>, all Colonists in the renamed Dome gain Morale","đạt được <resource(terr_veg_small,'VegetationTP')>, tất cả cư dân trong mái vòm được đổi tên đều đạt được tinh thần"
+291880816844,New Shrimpton,Shrimpton mới
+905711124238,We can develop a low-G shrimp better adapted to the conditions on Mars.,Chúng ta có thể phát triển một loại tôm low-G thích nghi tốt hơn với các điều kiện trên sao Hỏa.
+154468048268,"unlock a Tech for <resource(terr_veg_big,'VegetationTP')>","mở khóa công nghệ cho <resource(terr_veg_big,'VegetationTP')>"
+752923110985,No thanks. These creatures give me nightmares.,Không - cám ơn. Những sinh vật này mang đến cho tôi ác mộng.
 328914619792,do nothing,không làm gì cả
 909705105408,"The rocket returned after successfully spreading brine shrimps throughout the cold salty lakes of the Red Planet.
 
-<effect>Mars has gained <resource(terr_veg_mid,'VegetationTP')>.",
-558227994876,With a Grain of Salt,
+<effect>Mars has gained <resource(terr_veg_mid,'VegetationTP')>.","Tên lửa quay trở lại sau khi rải thành công tôm ngâm nước muối khắp các hồ nước mặn lạnh giá của Hành tinh Đỏ.
+
+<effect>Sao Hỏa đã đạt được <resource(terr_veg_mid,'VegetationTP')>."
+558227994876,With a Grain of Salt,Với một hạt muối
 538042459654,"The terraforming expert leads you to a small brine pool not far from your Dome. ""Commander, see for yourself! They're so cute!"". 
 
 With a closer look, you observe scores of creatures which crawl, swim and jump in and out of the water like some ugly grasshoppers.
 
-<effect>Mars has gained <resource(terr_veg_big,'VegetationTP')>.",
-576950919126,With a Grain of Salt,
-125733583201,Look at these beauties!,
-148696591717,"Ugh, um, they look okay, I guess.",
-484466724024,The things I do for terraforming Mars.,
-515252262133,"The <em>Terraforming</em> field deals with Mars' global <em>Atmosphere, Temperature, Water and Vegetation</em>, <em>Special Projects</em>, production of <em>Seeds</em>, planting of <em>different vegetation types</em> and <em>landscaping</em>.",
-507853904264,TERRAFORMING,
+<effect>Mars has gained <resource(terr_veg_big,'VegetationTP')>.","Chuyên gia về tạo hình dẫn bạn đến một bể nước muối nhỏ cách Mái vòm của bạn không xa. ""Chỉ huy, xem cho chính mình! Chúng thật dễ thương!"".
+
+Khi quan sát kỹ hơn, bạn có thể quan sát thấy rất nhiều sinh vật bò, bơi và nhảy lên và ra khỏi nước như một số con châu chấu xấu xí.
+
+<effect>Sao Hỏa đã đạt được <resource(terr_veg_big,'VegetationTP')>."
+576950919126,With a Grain of Salt,Với một hạt muối
+125733583201,Look at these beauties!,Hãy nhìn những người đẹp này!
+148696591717,"Ugh, um, they look okay, I guess.","Ugh, ừm, họ trông ổn, tôi đoán vậy."
+484466724024,The things I do for terraforming Mars.,Những việc tôi làm để tạo hình sao Hỏa.
+515252262133,"The <em>Terraforming</em> field deals with Mars' global <em>Atmosphere, Temperature, Water and Vegetation</em>, <em>Special Projects</em>, production of <em>Seeds</em>, planting of <em>different vegetation types</em> and <em>landscaping</em>.","<em>Tạo hình</em> lĩnh vực giao dịch với tổng quát sao Hỏa <em>khí quyển, nhiệt độ, nước và thảm thực vật</em>, <em>Dự án đặc biệt</em>, sản xuất <em>Hạt giống</em>, trồng <em>các loại thảm thực vật khác nhau</em> và <em>cảnh quan</em>."
+507853904264,TERRAFORMING,Tạo hình
 590729739949,"Instantly gain <param1>% in all terraforming parameters.
 
 <grey>""Is such a thing even possible? Yes, it is!"" 
-<right>Giorgio A. Tsoukalos</grey><left>",
-11913,Ancient Terraforming Device,
+<right>Giorgio A. Tsoukalos</grey><left>","Tăng ngay lập tức <param1>% trong tất cả các thông số tạo hình.
+
+<grey>""Liệu một điều như vậy có khả thi không? Vâng, đúng vậy!"" 
+<right>Giorgio A. Tsoukalos</grey><left>"
+11913,Ancient Terraforming Device,Thiết bị tạo hình cổ đại
 146473224720,"Newly grown forests have a chance to spawn Vistas and Research Sites.
 
 <grey>""For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver."" 
-<right>Martin Luther</grey><left>",
-11915,Designed Forestation,
+<right>Martin Luther</grey><left>","Những khu rừng mới mọc có cơ hội sinh ra Vista và địa điểm nghiên cứu.
+
+<grey>""Vì về bản chất thật của sự vật, nếu chúng ta suy xét một cách đúng đắn, thì mọi cây xanh còn tươi đẹp hơn nhiều so với nếu nó được làm bằng vàng và bạc.""
+<right>Martin Luther</grey><left>"
+11915,Designed Forestation,Thiết kế rừng
 960874086495,"Lake pumps are self-sufficient and no longer need to be supplied with Water.
 
 <grey>""Water is a very good servant, but it is a cruel master."" 
-<right>C.G.D. Roberts</grey><left>",
-11916,Lake Vaporators,
+<right>C.G.D. Roberts</grey><left>","Máy bơm hồ có khả năng tự cung cấp và không cần cung cấp nước nữa.
+
+<grey>""Nước là một đầy tớ rất tốt, nhưng nó là một chủ nhân độc ác."" 
+<right>C.G.D. Roberts</grey><left>"
+11916,Lake Vaporators,Hồ lọc
 571431341549,"Landscaping projects progress without the need of Drones and are generally faster.
 
 <grey>""Nothing is built on stone; all is built on sand, but we must build as if the sand were stone."" 
-<right>Jorge Luis Borges</grey><left>",
-11917,Landscaping Nanites,
+<right>Jorge Luis Borges</grey><left>","Các dự án cảnh quan tiến triển mà không cần đến Drone và nói chung là nhanh hơn.
+
+<grey>""Không có gì được xây dựng trên đá; tất cả được xây dựng trên cát, nhưng chúng ta phải xây dựng như thể cát là đá.""
+<right>Jorge Luis Borges</grey><left>"
+11917,Landscaping Nanites,Cảnh quan Nanites
 220645097652,"Halves the Water<icon_WaterTP_alt> and the Temperature<icon_TemperatureTP_alt> requirements of grass, bushes, trees and Open Farm crops.
 
 <grey>""The leaves and the light are one."" 
-<right>Albert Einstein</grey><left>",
-11914,Resilient Vegetation,
-267024544181,"Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.",
-947528683676,Low-G Shrimp GMO,
-878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Sol for every working Fuel Refinery.",
-850242285234,Overloaded Fuel Refineries,
-674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Sol for every working Fuel Refinery.",
-441346450001,Advanced Overloaded Fuel Refineries,
-221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Sol for every Shuttle in flight.",
-11984,Shuttle Afterburners,
-219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Sol for every Shuttle in flight.",
-934533477240,Advanced Shuttle Afterburners,
+<right>Albert Einstein</grey><left>","Giảm một nửa yêu cầu về nước<icon_WaterTP_alt> và nhiệt độ<icon_TemperatureTP_alt> của cỏ, bụi cây, cây cối và các loại cây trồng trong Trang trại mở.
+
+<grey>""Lá và ánh sáng là một."" 
+<right>Albert Einstein</grey><left>"
+11914,Resilient Vegetation,Thảm thực vật phục hồi
+267024544181,"Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.","Kỹ thuật di truyền một loài tôm có thể hưởng lợi từ trọng lực thấp của sao Hỏa và có khả năng tự bò và nhảy đến nguồn nước gần nhất. Đạt được <resource(3000,'VegetationTP')>."
+947528683676,Low-G Shrimp GMO,Tôm Low-G GMO
+878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Các nhà máy lọc nhiên liệu tiêu thụ thêm 50% nước và sản xuất thêm 10% nhiên liệu, đóng góp vào Khí quyển hành tinh theo <resource(15,'AtmosphereTP')> mỗi Sol cho mỗi nhà máy lọc nhiên liệu hoạt động."
+850242285234,Overloaded Fuel Refineries,Nhà máy lọc nhiên liệu quá tải
+674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Các nhà máy lọc nhiên liệu tiêu thụ nhiều hơn 100% nước và tạo ra nhiều nhiên liệu hơn 25%, đóng góp vào Khí quyển hành tinh theo <resource(30,'AtmosphereTP')> mỗi Sol cho mỗi nhà máy lọc nhiên liệu hoạt động."
+441346450001,Advanced Overloaded Fuel Refineries,Nhà máy lọc nhiên liệu quá tải nâng cao
+221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Sol for every Shuttle in flight.","Trung tâm tàu con thoi tiêu thụ nhiều hơn 50% nhiên liệu và tàu con thoi di chuyển nhanh hơn 10%, góp phần làm tăng Nhiệt độ hành tinh bằng <resource(5,'TemperatureTP')> mỗi Sol cho mỗi tàu con thoi đang bay."
+11984,Shuttle Afterburners,Tăng lực tàu con thoi
+219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Sol for every Shuttle in flight.","Trung tâm tàu con thoi tiêu thụ nhiều hơn 100% nhiên liệu và tàu con thoi di chuyển nhanh hơn 25%, góp phần làm tăng nhiệt độ hành tinh bằng <resource(10,'TemperatureTP')> mỗi Sol cho mỗi tàu con thoi đang bay."
+934533477240,Advanced Shuttle Afterburners,Tăng lực tàu con thoi nâng cao
 720433055573,"Research the life improving formula discovered by one of our colonists and verify its presumed qualities. 
-As a side effect, one may expect a 5% boost in the field of Biotech.",
-11985,Water of Peace,
+As a side effect, one may expect a 5% boost in the field of Biotech.","Nghiên cứu công thức cải thiện cuộc sống được phát hiện bởi một trong cư dân của chúng ta và xác minh những phẩm chất được cho là của nó.
+Như một tác dụng phụ, người ta có thể mong đợi mức tăng 5% trong lĩnh vực Công nghệ sinh học."
+11985,Water of Peace,Nước hòa bình
 824903427290,"New Resource: <em>Seeds</em> - used to plant vegetation on Mars. Can be brought from Earth or grown in Farms and Hydroponic Farms.
 
 New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - plants vegetation around it-self at the cost of Seeds. Increases local Soil Quality and improves  global Vegetation <icon_VegetationTP_alt>,
 
 <grey>""Vegetation is the basic instrument the creator uses to set all of nature in motion."" 
-<right>Antoine Lavoisier</grey><left>",
-11921,Martian Vegetation,
+<right>Antoine Lavoisier</grey><left>","Tài nguyên mới: <em>Hạt giống</em> - được sử dụng để trồng thảm thực vật trên sao Hỏa. Có thể mang từ Trái đất về hoặc trồng trong Trang trại, Trang trại thủy canh.
+
+Công trình mới: <em>Máy trồng rừng</em> (<buildinginfo('ForestationPlant')>) - thực vật tự trồng xung quanh nó với chi phí là Hạt giống. Tăng chất lượng đất địa phương và cải thiện thảm thực vật toàn cầu <icon_VegetationTP_alt>,
+
+<grey>""Thảm thực vật là công cụ cơ bản mà người tạo ra sử dụng để đưa tất cả thiên nhiên vào chuyển động.""
+<right>Antoine Lavoisier</grey><left>"
+11921,Martian Vegetation,Thảm thực vật trên sao Hỏa
 385971961965,"Unlocks the construction of <em>RC Dozer</em> - a vehicle that can be used for landscaping projects. RC Dozers can also be ordered from Earth.
 
 <grey>""There's something about taking a plow and breaking new ground. It gives you energy."" 
-<right>Ken Kesey</grey><left>",
+<right>Ken Kesey</grey><left>","Mở khóa việc xây <em>RC Dozer</em> - một phương tiện có thể được sử dụng cho các dự án cảnh quan. RC Dozer cũng có thể được đặt hàng từ Trái đất.
+
+<grey>""Có một cái gì đó về việc lấy một cái cày và phá vỡ đất mới. Nó cung cấp cho bạn năng lượng."" 
+<right>Ken Kesey</grey><left>"
 11919,Dozer Rover,
 962223751357,"Discover <param1> new <em>Planetary Anomalies</em>.
 
 <grey>""Until you cross the bridge of your insecurities, you can’t begin to explore your possibilities."" 
-<right>Tim Fargo</grey><left>",
-11920,Planetary Survey,
+<right>Tim Fargo</grey><left>","Khám phá <param1> <em>dị thường hành tinh</em> mới.
+
+<grey>""Cho đến khi vượt qua cầu nối của những bất an, bạn sẽ không thể bắt đầu khám phá khả năng của mình.""
+<right>Tim Fargo</grey><left>"
+11920,Planetary Survey,Khảo sát Hành tinh
 839740460082,"<em>Drones</em> work faster on landscaping projects.
 
 <grey>""If geometry is dressed in a suit coat, topology dons jeans and a T-shirt."" 
-<right>David S. Richeson</grey><left>",
-11918,Topology AI ,
+<right>David S. Richeson</grey><left>","<em>Drone</em> làm việc nhanh hơn trên dự án cảnh quan.
+
+<grey>""Nếu hình học được khoác trên mình một chiếc áo vét, thì cấu trúc liên kết sẽ mặc quần jean và áo phông.""
+<right>David S. Richeson</grey><left>"
+11918,Topology AI ,Cấu trúc liên kết AI
 825589330974,"New Building: <em>GHG Factory</em> (<buildinginfo('GHGFactory')>) - burns Fuel to increase the Temperature<icon_TemperatureTP_alt> of Mars, using greenhouse gases.
 
 <grey>""You could warm Mars up, over time, with greenhouse gases."" 
-<right>Elon Musk</grey><left>",
-11922,Greenhouse Mars,
+<right>Elon Musk</grey><left>","Công trình mới: <em>Nhà máy GHG</em> (<buildinginfo('GHGFactory')>) - đốt nhiên liệu để tăng nhiệt độ<icon_TemperatureTP_alt> của Sao Hỏa, sử dụng khí nhà kính.
+
+<grey>""Bạn có thể làm sao Hỏa nóng lên, theo thời gian, bằng khí nhà kính."" 
+<right>Elon Musk</grey><left>"
+11922,Greenhouse Mars,Nhà kính sao Hỏa
 907908492731,"Get a one-time subsidy of <em><funding(param1)></em> Funding from your sponsor.
 
 <grey>""Wisdom outweighs any wealth."" 
-<right>Sophocles</grey><left>",
-11923,Terraforming Subsidies,
+<right>Sophocles</grey><left>","Nhận trợ cấp một lần tài trợ <em><funding(param1)></em> từ nhà tài trợ của bạn.
+
+<grey>""Sự khôn ngoan vượt trội hơn bất kỳ sự giàu có nào.""
+<right>Sophocles</grey><left>"
+11923,Terraforming Subsidies,Trợ cấp tạo hình
 381802665786,"Raising the ground via <em>landscaping</em> costs less Waste Rock. Lowering ground via <em>landscaping</em> produces more Waste Rock.
 
 <grey>""We can look out on an alien landscape that no one has seen before and find it beautiful."" 
-<right>David Grinspoon</grey><left>",
-11924,Conservation Landscaping,
+<right>David Grinspoon</grey><left>","Nâng cao mặt đất thông qua <em>tạo cảnh quan</em> tốn ít đá thải hơn. Việc hạ thấp mặt đất thông qua <em>tạo cảnh quan</em> tạo ra nhiều đá thải hơn.
+
+<grey>""Chúng ta có thể nhìn ra một cảnh quan ngoài hành tinh mà chưa ai từng thấy trước đây và thấy nó thật đẹp."" 
+<right>David Grinspoon</grey><left>"
+11924,Conservation Landscaping,Bảo tồn cảnh quan
 736232359403,"Unlocks the <em>Import Greenhouse Gases</em> (improves Atmosphere <icon_AtmosphereTP_alt>) and <em>Capture Ice Asteroids</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Planetary View.
 
 <grey>""If you want to lift yourself up, lift up someone else."" 
-<right>Booker T. Washington</grey><left>",
-11925,Interplanetary Projects,
+<right>Booker T. Washington</grey><left>","Mở khóa các dự án <em>nhập khí nhà kính</em> (cải thiện khí quyển<icon_AtmosphereTP_alt>) và <em>Bắt tiểu hành tinh</em> (cải thiện nước <icon_WaterTP_alt>) dự án đặc biệt, có thể truy cập được qua chế độ xem hành tinh.
+
+<grey>""Nếu bạn muốn nâng mình lên, hãy nâng người khác lên.""
+<right>Booker T. Washington</grey><left>"
+11925,Interplanetary Projects,Dự án liên hành tinh
 515003279423,"Vegetation grows <param1>% faster.
 
 <grey>""Like people, plants respond to extra attention."" 
-<right>H. Peter Loewer</grey><left>",
-11926,Growth Stimulators,
+<right>H. Peter Loewer</grey><left>","Thảm thực vật phát triển nhanh hơn <param1>%.
+
+<grey>""Giống như con người, thực vật phản ứng với sự lưu ý thêm.""
+<right>H. Peter Loewer</grey><left>"
+11926,Growth Stimulators,Chất kích thích tăng trưởng
 204436298423,"Unlocks the creation of <em>artificial lakes</em> via landscaping. Evaporating water improves local Soil Quality and  Water <icon_WaterTP_alt> of Mars.
 
 <grey>""The little lake you love is the biggest ocean for you!"" 
-<right>Mehmet Murat ildan</grey><left>",
-11927,Lake Crafting,
+<right>Mehmet Murat ildan</grey><left>","Mở khóa việc tạo <em>hồ nhân tạo</em> thông qua tạo cảnh. Nước bốc hơi cải thiện chất lượng đất và nước <icon_WaterTP_alt> của sao Hỏa.
+
+<grey>""Hồ nhỏ mà bạn yêu thích là đại dương lớn nhất dành cho bạn!"" 
+<right>Mehmet Murat ildan</grey><left>"
+11927,Lake Crafting,Tạo hồ
 638420009620,"Unlocks planting of <em>Bushes</em> and <em>Trees</em> in Forestation Plants. Fully-grown Bushes and Trees are harvested for Seeds by Drones.
 
 <grey>""Trees are the earth's endless effort to speak to the listening heaven."" 
-<right>Rabindranath Tagore</grey><left>",
-11928,Adapted Vegetation,
+<right>Rabindranath Tagore</grey><left>","Mở khóa việc trồng <em>Bụi cây</em> và <em>Cây</em> trong Máy trồng rừng. Bụi cây và cây mọc đầy đủ được thu hoạch để lấy hạt bằng drone.
+
+<grey>""Cây cối là nỗ lực vô tận của trái đất để nói với thiên đàng đang lắng nghe."" 
+<right>Rabindranath Tagore</grey><left>"
+11928,Adapted Vegetation,Thảm thực vật thích nghi
 684081535262,"Wonder: <em>Carbonate Processor</em> (<buildinginfo('CarbonateProcessor')>) - improves the Atmosphere <icon_AtmosphereTP_alt> of Mars by burning Waste Rock.
 
-<grey>""When fire is applied to a stone it cracks.""</grey>",
-11929,Carbonate Processor,
+<grey>""When fire is applied to a stone it cracks.""</grey>","Kỳ quan: <em>Bộ xử lý cacbonat</em> (<buildinginfo('CarbonateProcessor')>) - cải thiện bầu không khí <icon_AtmosphereTP_alt> của sao Hỏa bằng cách đốt đá thải.
+
+<grey>""Khi lửa được châm vào đá, nó sẽ nứt ra.""</grey>"
+11929,Carbonate Processor,Bộ xử lý cacbonat
 309099729381,"<em>Tourists</em> pay <param1>% more Funding to come to Mars. Receive <em><param2> Tourist applicants</em>.
 
 <grey>""People don’t take trips, trips take people."" 
-<right>John Steinbeck</grey><left>",
-11930,Terra Tourism,
+<right>John Steinbeck</grey><left>","<em>Khách du lịch</em> trả thêm <param1>% tài trợ để đến sao Hỏa. Tiếp nhận <em><param2>ứng viên khách du lịch</em>.
+
+<grey>""Mọi người không thực hiện chuyến đi, chuyến đi đưa người.""
+<right>John Steinbeck</grey><left>"
+11930,Terra Tourism,Du lịch Terra
 727160625163,"New Building: <em>Open Farm</em> (<buildinginfo('OpenFarm')>) - plants edible crops at the cost of Seeds. Fully-grown plants are harvested for Food by Drones.
 
 <grey>""If the amount of hours spent on FarmVille were spent on actual farming, imagine what we could achieve."" 
-<right>Adam Dell</grey><left>",
-11931,Domeless Farming,
+<right>Adam Dell</grey><left>","Công trình mới: <em>Trang trại mở</em> (<buildinginfo('OpenFarm')>) - cây trồng có thể ăn được với chi phí là Hạt giống. Thực vật phát triển hoàn toàn được thu hoạch để làm thực phẩm bằng drone.
+
+<grey>""Nếu số giờ dành cho FarmVille được dành cho việc trồng trọt thực tế, hãy tưởng tượng những gì chúng ta có thể đạt được."" 
+<right>Adam Dell</grey><left>"
+11931,Domeless Farming,Làm nông nghiệp không người lái
 331593493607,"Wonder: <em>Magnetic Field Generator</em> (<buildinginfo('MagneticFieldGenerator')>) - decreases the loss of Atmosphere <icon_AtmosphereTP_alt> due to lack of magnetic field.
 
 <grey>""Magnetism, as you recall from physics class, is a powerful force that causes certain items to be attracted to refrigerators."" 
-<right>Dave Barry</grey><left>",
-11932,Magnetic Field Generator,
+<right>Dave Barry</grey><left>","Kỳ quan: <em>Máy phát điện từ trường</em> (<buildinginfo('MagneticFieldGenerator')>) - giảm sự mất <icon_AtmosphereTP_alt> của khí quyển do thiếu từ trường.
+
+<grey>""Từ trường, như bạn nhớ lại từ lớp vật lý, là một lực mạnh khiến một số vật dụng nhất định bị hút vào phòng lạnh.""
+<right>Dave Barry</grey><left>"
+11932,Magnetic Field Generator,Máy phát điện từ trường
 119639846075,"Wonder: <em>Core Heat Convector</em> (<buildinginfo('CoreHeatConvector')>) - improves the Temperature <icon_TemperatureTP_alt> of Mars gradually. Consumes Water.
 
 <grey>""If the world seems cold to you, kindle fires to warm it."" 
-<right>Lucy Larcom</grey><left>",
-11933,Core Heat Convector,
+<right>Lucy Larcom</grey><left>","Kỳ quan: <em>Bộ truyền nhiệt lõi</em> (<buildinginfo('CoreHeatConvector')>) - cải thiện nhiệt độ <icon_TemperatureTP_alt> của sao Hỏa dần dần. Tiêu thụ nước.
+
+<grey>""Nếu thế giới có vẻ lạnh lùng với bạn, hãy đốt lửa để sưởi ấm nó."" 
+<right>Lucy Larcom</grey><left>"
+11933,Core Heat Convector,Bộ truyền nhiệt lõi
 993832501510,"Unlocks the <em>Melt the Polar Caps</em> (improves Water <icon_WaterTP_alt>) special project, accessible via the Planetary View.
 
 <grey>""This will be the first of a thousand worlds that we will give life to. For we are gods, and we are lonely, so we shall create."" 
-<right>Adrian Tchaikovsky, Children of Time</grey><left>",
-11934,Nuclear Terraforming,
+<right>Adrian Tchaikovsky, Children of Time</grey><left>","Mở khóa <em>Làm tan chảy cực</em> (improves Water <icon_WaterTP_alt>) dự án đặc biệt, có thể truy cập thông qua chế độ xem hành tinh.
+
+<grey>""Đây sẽ là thế giới đầu tiên trong số một nghìn thế giới mà chúng ta sẽ trao tặng sự sống. Vì chúng ta là thần, và chúng ta cô đơn, nên chúng ta sẽ tạo ra."" 
+<right>Adrian Tchaikovsky, Trẻ em của thời gian</grey><left>"
+11934,Nuclear Terraforming,Tạo hình hạt nhân
 667985701739,"GHG Factory, Core Heat Convector, Magnetic Field Generator and Carbonate Processor gain <em>Amplify</em> upgrade, which improves their performance at the cost of increased Power consumption.
 
 <grey>""It takes as much energy to wish as it does to plan."" 
-<right>Eleanor Roosevelt</grey><left>",
-11935,Terraforming Amplification,
+<right>Eleanor Roosevelt</grey><left>","Nhà máy GHG, Bộ thu nhiệt lõi, Máy tạo từ trường và Bộ xử lý cacbonat đạt được <em>Bộ khuếch đại</em> nâng cấp, giúp cải thiện hiệu suất của chúng với chi phí tăng điện năng tiêu thụ.
+
+<grey>""Cần nhiều năng lượng để mong muốn cũng như lập kế hoạch."" 
+<right>Eleanor Roosevelt</grey><left>"
+11935,Terraforming Amplification,Khuếch đại tạo hình
 463756338973,"Unlocks the <em>Launch Space Mirror</em> (improves Temperature<icon_TemperatureTP_alt>) and <em>Launch Magnetic Shield</em> (decreases loss of Atmosphere <icon_AtmosphereTP_alt>) special projects, accessible via the Planetary View.
 
 <grey>""Wherever you go, no matter what the weather, always bring your own sunshine."" 
-<right>Anthony J. D'Angelo</grey><left>",
-11936,Mega Satellites,
+<right>Anthony J. D'Angelo</grey><left>","Mở khóa <em>Phóng gương vũ trụ</em> (improves Temperature<icon_TemperatureTP_alt>) và <em>phóng lá chắn từ tính</em> (giảm mất khí quyển <icon_AtmosphereTP_alt>) dự án đặc biệt, có thể truy cập qua chế độ xem hành tinh.
+
+<grey>""Dù bạn đi bất cứ đâu, bất kể thời tiết như thế nào, hãy luôn mang theo ánh nắng của riêng bạn.""
+<right>Anthony J. D'Angelo</grey><left>"
+11936,Mega Satellites,Vệ tinh Mega
 657028556688,"Unlocks the <em>Seed Vegetation</em> (improves Vegetation <icon_VegetationTP_alt>) and <em>Cloud Seeding</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Planetary View.
 
 <grey>""The winds of grace are always blowing, but you have to raise the sail."" 
-<right>Ramakrishna</grey><left>",
-11937,Planetary Projects,
-206931232175,Loss of atmosphere,
-277656568245,Magnetic Shields,
-842959764549,"Represents the density and composition of the Martian atmosphere. The higher this parameter is, the more Earth-like the atmospheric pressure, Oxygen levels and cloud generation are.<newline><newline>The improving Atmosphere decreases the severity of <em>Dust Storms</em> and <em>Meteor Storms</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Atmosphere applies terraforming boost to the Power production of <em>Wind Turbines</em> and to the Oxygen production of <em>MOXIEs</em>. <red>Decreases</red> the Power production of <em>Solar Panels</em>.<newline><newline><em>At maximum improvement, the atmosphere of Mars becomes breathable rendering domes and pressure suits obsolete.</em>",
-723765912147,Atmosphere,
-637529677905,"Represents the global surface temperature on Mars. The higher this parameter is, the more favorable the conditions for Earth-like life are.<newline><newline>The improving Temperature decreases the severity of <em>Cold Wave</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Increased Temperature is required for <em>liquid water</em> to be present on the surface of Mars and in lakes. High enough Temperatures are also paramount for the habitability of the Martian surface and to be able to have <em>open-air Domes</em>.",
-920381483594,Temperature,
-690140647880,"Represents the spreading and diversity of vegetation and bacterial life on a planetary scale. The higher this parameter is, the more Mars looks like the tundra biome back on Earth, with the ultimate goal to become a quite harsh, yet habitable second home for Humanity.<newline><newline>The improving Vegetation increases the likelihood that plants will replicate and spread.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
-582684290103,Vegetation,
-967369800333,"Represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.<newline><newline>The improving Water creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Water applies terraforming boost to the Water production of <em>Moisture Vaporators</em>.",
-310269978907,Water,
+<right>Ramakrishna</grey><left>","Mở khóa <em>hạt giống thảm thực vật</em> (cải thiện thảm thực vật <icon_VegetationTP_alt>) và <em>hạt giống đám mây</em> (cải thiện nước <icon_WaterTP_alt>) dự án đặc biệt, có thể truy cập qua chế độ xem hành tinh.
+
+<grey>""Những cơn gió ân tình luôn thổi, nhưng bạn phải giương cao cánh buồm."" 
+<right>Ramakrishna</grey><left>"
+11937,Planetary Projects,Dự án hành tinh
+206931232175,Loss of atmosphere,Mất bầu không khí
+277656568245,Magnetic Shields,Lá chắn từ tính
+842959764549,"Represents the density and composition of the Martian atmosphere. The higher this parameter is, the more Earth-like the atmospheric pressure, Oxygen levels and cloud generation are.<newline><newline>The improving Atmosphere decreases the severity of <em>Dust Storms</em> and <em>Meteor Storms</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Atmosphere applies terraforming boost to the Power production of <em>Wind Turbines</em> and to the Oxygen production of <em>MOXIEs</em>. <red>Decreases</red> the Power production of <em>Solar Panels</em>.<newline><newline><em>At maximum improvement, the atmosphere of Mars becomes breathable rendering domes and pressure suits obsolete.</em>","Đại diện cho mật độ và thành phần của khí quyển sao Hỏa. Thông số này càng cao thì áp suất khí quyển, mức ôxy và sự tạo mây càng giống Trái đất.<newline><newline>Bầu khí quyển được cải thiện làm giảm mức độ nghiêm trọng của <em>bão bụi</em> và <em>bão sao băng</em> và tạo ra điều kiện môi trường để <em>mưa độc</em> và <em>mưa nước trong</em> xảy ra.<newline><newline>Khí quyển áp dụng tăng cường tạo hình để sản xuất năng lượng của <em>tua bin gió</em> và sản xuất ôxy của <em>MOXIE</em>. <red>Giảm</red> sản xuất điện của <em>năng lượng mặt trời</em>.<newline><newline><em>Ở mức cải thiện tối đa, bầu khí quyển của sao Hỏa trở thành các mái vòm có thể thở được và các bộ quần áo áp suất đã lỗi thời.</em>"
+723765912147,Atmosphere,Không khí
+637529677905,"Represents the global surface temperature on Mars. The higher this parameter is, the more favorable the conditions for Earth-like life are.<newline><newline>The improving Temperature decreases the severity of <em>Cold Wave</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Increased Temperature is required for <em>liquid water</em> to be present on the surface of Mars and in lakes. High enough Temperatures are also paramount for the habitability of the Martian surface and to be able to have <em>open-air Domes</em>.","Đại diện cho nhiệt độ bề mặt toàn cầu trên sao Hỏa. Thông số này càng cao thì điều kiện thuận lợi cho sự sống giống Trái đất càng nhiều.<newline><newline>Nhiệt độ cải thiện làm giảm mức độ nghiêm trọng của <em>sóng lạnh</em> và tạo điều kiện môi trường cho <em>mưa độc</em> và <em>mưa nước trong</em> xảy ra.<newline><newline>Nhiệt độ tăng là bắt buộc đối với <em>nước lỏng</em> hiện diện trên bề mặt sao Hỏa và trong các hồ. Nhiệt độ đủ cao cũng là yếu tố tối quan trọng đối với khả năng sinh sống của bề mặt sao Hỏa và để có thể có <em>mái vòm ngoài trời</em>."
+920381483594,Temperature,Nhiệt độ
+690140647880,"Represents the spreading and diversity of vegetation and bacterial life on a planetary scale. The higher this parameter is, the more Mars looks like the tundra biome back on Earth, with the ultimate goal to become a quite harsh, yet habitable second home for Humanity.<newline><newline>The improving Vegetation increases the likelihood that plants will replicate and spread.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.","Đại diện cho sự lan rộng và đa dạng của thảm thực vật và đời sống vi khuẩn trên quy mô hành tinh. Thông số này càng cao, sao Hỏa càng giống quần xã sinh vật lãnh nguyên trên Trái đất, với mục tiêu cuối cùng là trở thành ngôi nhà thứ hai khá khắc nghiệt nhưng có thể sinh sống được cho Nhân loại.<newline><newline>Việc cải thiện Thảm thực vật làm tăng khả năng thực vật sinh sôi và phát tán.<newline><newline><em>Khi thảm thực vật hoang dã được cải thiện, sự bùng nổ của thảm thực vật lẻ tẻ sẽ xảy ra.</em> Nồng độ hạt trong gió tăng lên làm cho địa y, cỏ, bụi cây hoặc cây cối lan rộng khắp căn cứ."
+582684290103,Vegetation,Thảm thực vật
+967369800333,"Represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.<newline><newline>The improving Water creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Water applies terraforming boost to the Water production of <em>Moisture Vaporators</em>.","Đại diện cho chất lượng và khối lượng nước bề mặt trên sao Hỏa. Thông số này càng cao, thì càng nhiều vùng nước lớn hơn sẽ xuất hiện trên sao Hỏa: hồ, biển và đại dương.<newline><newline>Việc cải thiện nước tạo điều kiện môi trường cho <em>mưa độc</em> và <em>mưa nước trong</em> xảy ra.<newline><newline>Nước có tác dụng thúc đẩy quá trình tạo địa hình cho việc sản xuất nước của <em>Máy lọc hơi ẩm</em>."
+310269978907,Water,Nước
 419980839851,"SchemeBk, 22, aa",
 820939749171,"LibelSuitRg, 18, aa",
-772322857901,Bushes produce small amount of Seeds when fully-grown.,
-741204337561,Bushes,
-922243313340,Grass improves local Soil Quality.,
-621878590822,Grass,
-928054790652,Lichen improve local Soil Quality. They don't require Soil Quality to grow but do not spread on their own.,
-466624342637,Lichen,
-893866295884,Mixed Trees produce very large amount of Seeds when fully-grown.,
-790616486384,Mixed Trees,
-694956834556,Trees produce large amount of Seeds when fully-grown.,
-977987144974,Trees,
-900206062130,Herbs produce small amount of Food. They grow quickly and slightly improve the local Soil Quality.,
-535435004029,Herbs,
-587294500853,"Potatoes grow slowly but give a plentiful harvest. They significantly decrease the local Soil Quality, slowing down the growing of following crops.",
-347823113768,Potato,
-344793929225,"Cover Crops grow slowly and have very low yield on harvest. They significantly increase the local Soil Quality, improving the growth time of following crops.",
-718514123782,Cover Crops,
-706022740266,Leaf Crops grow relatively quickly and are a good source of Food. They slightly decrease the local Soil Quality.,
-572143553590,Leaf Crops,
-873744167599,Wheat has medium growth time and average Food yields.,
-398488135544,Wheat,
-548445061983,<left_click> Open Encyclopedia,
-12607,<ButtonA> Open Encyclopedia<newline><DPad> Navigate <DPadDown> Close,
+772322857901,Bushes produce small amount of Seeds when fully-grown.,Bụi cây tạo ra một lượng nhỏ Hạt giống khi phát triển đầy đủ.
+741204337561,Bushes,Bụi cây
+922243313340,Grass improves local Soil Quality.,Cỏ cải thiện chất lượng đất địa phương.
+621878590822,Grass,Cỏ
+928054790652,Lichen improve local Soil Quality. They don't require Soil Quality to grow but do not spread on their own.,Địa y cải thiện chất lượng đất địa phương. Chúng không yêu cầu chất lượng đất để phát triển nhưng không tự phát tán.
+466624342637,Lichen,Địa y
+893866295884,Mixed Trees produce very large amount of Seeds when fully-grown.,Cây hỗn hợp tạo ra một lượng rất lớn hạt giống khi phát triển hoàn toàn.
+790616486384,Mixed Trees,Cây hỗn hợp
+694956834556,Trees produce large amount of Seeds when fully-grown.,Cây tạo ra một lượng lớn Hạt giống khi phát triển đầy đủ.
+977987144974,Trees,Cây
+900206062130,Herbs produce small amount of Food. They grow quickly and slightly improve the local Soil Quality.,Thảo mộc tạo ra một lượng nhỏ thực phẩm. Chúng phát triển nhanh chóng và cải thiện một chút chất lượng đất tại địa phương.
+535435004029,Herbs,Thảo mộc
+587294500853,"Potatoes grow slowly but give a plentiful harvest. They significantly decrease the local Soil Quality, slowing down the growing of following crops.","Khoai tây sinh trưởng chậm nhưng cho thu hoạch dồi dào. Chúng làm giảm đáng kể chất lượng đất tại địa phương, làm chậm sự phát triển của các loại cây trồng sau."
+347823113768,Potato,Khoai tây
+344793929225,"Cover Crops grow slowly and have very low yield on harvest. They significantly increase the local Soil Quality, improving the growth time of following crops.","Cây che phủ phát triển chậm và năng suất thu hoạch rất thấp. Chúng làm tăng đáng kể chất lượng đất của địa phương, cải thiện thời gian sinh trưởng của các vụ sau."
+718514123782,Cover Crops,Cây che phủ
+706022740266,Leaf Crops grow relatively quickly and are a good source of Food. They slightly decrease the local Soil Quality.,Cây ăn lá phát triển tương đối nhanh và là một nguồn thực phẩm tốt. Chúng làm giảm nhẹ chất lượng đất tại địa phương.
+572143553590,Leaf Crops,Cây ăn lá
+873744167599,Wheat has medium growth time and average Food yields.,Lúa mì có thời gian sinh trưởng trung bình và năng suất lương thực trung bình.
+398488135544,Wheat,Lúa mì
+548445061983,<left_click> Open Encyclopedia,<left_click> Mở bách khoa toàn thư
+12607,<ButtonA> Open Encyclopedia<newline><DPad> Navigate <DPadDown> Close,<ButtonA> Mở bách khoa toàn thư<newline><DPad> Điều hướng <DPadDown> Đóng
 12479,<AtmosphereRollover>,<AtmosphereRollover>
-12480,Atmosphere,
+12480,Atmosphere,Không khí
 615771220556,<AtmosphereText>,<AtmosphereText>
 123033012735,<TemperatureRollover>,<TemperatureRollover>
-602825975582,Temperature,
+602825975582,Temperature,Nhiệt độ
 553383115867,<TemperatureText>,<TemperatureText>
 497622694313,<WaterRollover>,<WaterRollover>
-429318014327,Water,
+429318014327,Water,Nước
 978156910490,<WaterText>,<WaterText>
 901647514462,<VegetationRollover>,<VegetationRollover>
-449433367242,Vegetation,
+449433367242,Vegetation,Thảm thực vật
 612512092819,<VegetationText>,<VegetationText>
 12477,<TerraformingRollover>,<TerraformingRollover>
 12564,Terraforming Progress,Tiến độ tạo hình
-11938,<left>Water Level <right><percent(WaterLevelPct)>,
-11939,Water Level<right><percent(WaterLevelPct)>,
+11938,<left>Water Level <right><percent(WaterLevelPct)>,<left>Mức nước <right><percent(WaterLevelPct)>
+11939,Water Level<right><percent(WaterLevelPct)>,Mức nước<right><percent(WaterLevelPct)>
 454408997924,"Contributes to the currently selected research project: <em><UIResearchProject></em>. The following stats are summary of the predicted Research production for the current Sol.
 
 <left>Research per Sol<right><research(EstimatedDailyProduction)>
 
-<left>Lifetime research<right><research(research_points_lifetime)>",
-457465350192,"Summary of the base terraforming effect of this building and the expected effect of all similar buildings. As long as this building is supplied with the required resources and working, it will gradually change one of the planetary parameters: Atmosphere, Temperature, Water or Vegetation.",
-784919216510,"Change per sol<right><resource(TerraformingBoostSol,ParameterInfoPanelIconName)>",
-501291289245,"From all working buildings<right><resource(TerraformingBoostSum,ParameterInfoPanelIconName)>",
-923951282236,"Current progress<right><resource(TerraformingProgress,ParameterInfoPanelIconName)>",
-12348,"As the Martian atmosphere increasingly thickens, more and more of it gets lost due to the lack of a magnetic field. Stationary Magnetic Field Generators and Magnetic Shields launched into orbit reduce this loss of Atmosphere.",
+<left>Lifetime research<right><research(research_points_lifetime)>","Đóng góp cho dự án nghiên cứu hiện đang được lựa chọn: <em><UIResearchProject></em>. Số liệu thống kê sau đây là tóm tắt về sản lượng nghiên cứu được dự đoán cho Sol hiện tại.
+
+<left>Nghiên cứu mỗi Sol<right><research(EstimatedDailyProduction)>
+
+<left>Nghiên cứu suốt đời<right><research(research_points_lifetime)>"
+457465350192,"Summary of the base terraforming effect of this building and the expected effect of all similar buildings. As long as this building is supplied with the required resources and working, it will gradually change one of the planetary parameters: Atmosphere, Temperature, Water or Vegetation.","Tóm tắt hiệu ứng tạo hình cơ sở của công trình này và ảnh hưởng dự kiến của tất cả công trình tương tự. Miễn là công trình này được cung cấp các tài nguyên cần thiết và hoạt động, nó sẽ dần thay đổi một trong các thông số của hành tinh: khí quyển, nhiệt độ, nước hoặc thảm thực vật."
+784919216510,"Change per sol<right><resource(TerraformingBoostSol,ParameterInfoPanelIconName)>","Thay đổi mỗi sol<right><resource(TerraformingBoostSol,ParameterInfoPanelIconName)>"
+501291289245,"From all working buildings<right><resource(TerraformingBoostSum,ParameterInfoPanelIconName)>","Từ tất cả công trình đang làm việc<right><resource(TerraformingBoostSum,ParameterInfoPanelIconName)>"
+923951282236,"Current progress<right><resource(TerraformingProgress,ParameterInfoPanelIconName)>","Tiến độ hiện tại<right><resource(TerraformingProgress,ParameterInfoPanelIconName)>"
+12348,"As the Martian atmosphere increasingly thickens, more and more of it gets lost due to the lack of a magnetic field. Stationary Magnetic Field Generators and Magnetic Shields launched into orbit reduce this loss of Atmosphere.","Khi bầu khí quyển của sao Hỏa ngày càng dày lên, ngày càng nhiều nó bị mất đi do thiếu từ trường. Máy tạo từ trường tĩnh và lá chắn từ được phóng lên quỹ đạo làm giảm sự mất mát này của khí quyển."
 582044802953,Terraforming Progress,Tiến độ tạo hình
-12349,"Reduction per Sol<right><resource(decay_atmosphere_reduct,'AtmosphereTP')>",
-12350,"Reduction from all buildings<right><resource(AtmosphereLossReductionSum,'AtmosphereTP')>",
-12351,"Current loss of atmosphere<right><resource(GetSolAtmosphereDecay,'AtmosphereTP')>",
-642715972231,Display visual representation of the underlying Soil Quality.,
-255320211022,Show Soil Quality overlay,
-12060,<ButtonY> Activate,
-12633,<left_click> Select new crop<newline><em>Ctrl + <left_click> on crop</em> Select in all <display_name_pl>,
-12634,<left_click> Select new crop<newline><em>Ctrl + <left_click> on crop</em> Select in all <display_name_pl>,
-11941,The area in which Seeds will be spread in an attempt to plant the selected vegetation types.<newline><newline>Plantation area<right><SelectionRadiusScale> hexes,
-11942,Plantation area,
-568298061216,Summary of the soil quality in range of this building. Most vegetation types require more or less fertile land to grow and spread seeds. The soil quality is improved by purewater rain and new vegetation. Acid rains and some plants may decrese it.,
-776100024488,Soil Quality,
-415754112701,Average in range<right><AvgSoilQualityInRange>%,
-449012187282,Highest<right><HighestSoilQualityInRange>%,
-12352,The amount of resources which can be harvested from vegetation in this building's range. Harvesting is a low priority operation and is done by idling Drones.,
-175423607770,Harvest,
-893664767968,Food<right><food(FoodInRange)>,
-138180280545,Seeds<right><seeds(SeedsInRange)>,
-133596995692,"Green Planet is the second expansion of Surviving Mars, allowing late-game terraforming of your sector and the entire Mars.",
-429022939682,Green Planet,
-856885492617,Trophy collection for Green Planet,
-8936,Philosopher's Stone (Easy),
-8937,"""All the gold which is under or upon the earth is not enough to give in exchange for virtue.""<newline><right> - Plato",
-8938,St. Elmo's Fire (Normal),
-8939,"""To light a candle is to cast a shadow.""<newline><right>- Ursula K. Le Guin",
+12349,"Reduction per Sol<right><resource(decay_atmosphere_reduct,'AtmosphereTP')>","Giảm mỗi Sol<right><resource(decay_atmosphere_reduct,'AtmosphereTP')>"
+12350,"Reduction from all buildings<right><resource(AtmosphereLossReductionSum,'AtmosphereTP')>","Giảm từ tất cả công trình<right><resource(AtmosphereLossReductionSum,'AtmosphereTP')>"
+12351,"Current loss of atmosphere<right><resource(GetSolAtmosphereDecay,'AtmosphereTP')>","Mất bầu khí quyển hiện tại<right><resource(GetSolAtmosphereDecay,'AtmosphereTP')>"
+642715972231,Display visual representation of the underlying Soil Quality.,Hiển thị trình bày trực quan về chất lượng đất cơ bản.
+255320211022,Show Soil Quality overlay,Hiển thị lớp phủ chất lượng đất
+12060,<ButtonY> Activate,<ButtonY> Hoạt động
+12633,<left_click> Select new crop<newline><em>Ctrl + <left_click> on crop</em> Select in all <display_name_pl>,<left_click> Chọn cây trồng mới<newline><em>Ctrl + <left_click> trên cây trồng</em> Chọn trong tất cả <display_name_pl>
+12634,<left_click> Select new crop<newline><em>Ctrl + <left_click> on crop</em> Select in all <display_name_pl>,<left_click> Chọn cây trồng mới<newline><em>Ctrl + <left_click> trên cây trồng</em> Chọn trong tất cả <display_name_pl>
+11941,The area in which Seeds will be spread in an attempt to plant the selected vegetation types.<newline><newline>Plantation area<right><SelectionRadiusScale> hexes,Khu vực mà hạt giống sẽ được rải để cố trồng loại thảm thực vật đã chọn.<newline><newline>Khu vực trồng cây<right><SelectionRadiusScale> lục giác
+11942,Plantation area,Khu vực trồng cây
+568298061216,Summary of the soil quality in range of this building. Most vegetation types require more or less fertile land to grow and spread seeds. The soil quality is improved by purewater rain and new vegetation. Acid rains and some plants may decrese it.,Tóm tắt về chất lượng đất trong phạm vi của công trình này. Hầu hết các loại thảm thực vật đều cần ít nhiều đất đai màu mỡ để phát triển và phát tán hạt giống. Chất lượng đất được cải thiện nhờ nước mưa tinh khiết và thảm thực vật mới. Mưa axit và một số thực vật có thể làm giảm nó.
+776100024488,Soil Quality,Chất lượng đất
+415754112701,Average in range<right><AvgSoilQualityInRange>%,Trung bình trong phạm vi<right><AvgSoilQualityInRange>%
+449012187282,Highest<right><HighestSoilQualityInRange>%,Cao nhất<right><HighestSoilQualityInRange>%
+12352,The amount of resources which can be harvested from vegetation in this building's range. Harvesting is a low priority operation and is done by idling Drones.,Số lượng tài nguyên có thể được thu hoạch từ thảm thực vật trong phạm vi của công trình này. Thu hoạch là một hoạt động có mức độ ưu tiên thấp và được thực hiện bằng drone.
+175423607770,Harvest,Thu hoạch
+893664767968,Food<right><food(FoodInRange)>,Thực phẩm<right><food(FoodInRange)>
+138180280545,Seeds<right><seeds(SeedsInRange)>,Hạt giống<right><seeds(SeedsInRange)>
+133596995692,"Green Planet is the second expansion of Surviving Mars, allowing late-game terraforming of your sector and the entire Mars.","Hành tinh xanh là bản mở rộng thứ hai của Surviving Mars, cho phép tạo hình vào cuối trò chơi cho khu vực của bạn và toàn bộ sao Hỏa."
+429022939682,Green Planet,Hành tinh xanh
+856885492617,Trophy collection for Green Planet,Bộ sưu tập danh hiệu cho Hành tinh xanh
+8936,Philosopher's Stone (Easy),Hòn đá triết gia (Dễ)
+8937,"""All the gold which is under or upon the earth is not enough to give in exchange for virtue.""<newline><right> - Plato","""Tất cả vàng dưới đất không đủ để đổi lấy đức hạnh.""<newline><right> - Plato"
+8938,St. Elmo's Fire (Normal),Ngọn lửa Thánh Elmo (Bình thường)
+8939,"""To light a candle is to cast a shadow.""<newline><right>- Ursula K. Le Guin","""Thắp một ngọn nến là đổ bóng.""<newline><right>- Ursula K. Le Guin"
 8940,Wisp,
-8941,An anomalous object emitting a mysterious light.,
-8942,Draining Water from buildings.,
-8943,Returning to Sinkhole.,
-8944,Metatron (Hard),
-8945,"""The gods do not protect fools. Fools are protected by more capable fools.""<newline><right>- Larry Niven",
+8941,An anomalous object emitting a mysterious light.,Một vật thể dị thường phát ra ánh sáng bí ẩn.
+8942,Draining Water from buildings.,Thoát nước từ công trình.
+8943,Returning to Sinkhole.,Quay trở lại Sinkhole.
+8944,Metatron (Hard),Metatron (Khó)
+8945,"""The gods do not protect fools. Fools are protected by more capable fools.""<newline><right>- Larry Niven","""Các vị thần không bảo vệ những kẻ ngu ngốc. Những kẻ ngu ngốc được bảo vệ bởi những kẻ ngu ngốc có năng lực hơn.""<newline><right>- Larry Niven"
 12656,Metatron,
-8997,Triple Wisp Lamp,
-8998,Triple Wisp Lamps,
-8999,A multiple Wisp powered lamp.,
-9015,Wisp Lamp,
-9016,Wisp Lamps,
-9017,A single Wisp powered Lamp.,
-9023,Large Alien Crystal,
-9024,Large Alien Crystals,
-9021,Alien Crystal,
-9022,Anomalous alien object with unspecified origin.,
-8995,Sinkholes,
-9018,Light Trap,
-9019,Light Traps,
-9020,Uses Water to create a potential target for Wisps. The Wisps will be held inside during the night.,
+8997,Triple Wisp Lamp,Đèn ba Wisp
+8998,Triple Wisp Lamps,Đèn ba Wisp
+8999,A multiple Wisp powered lamp.,Một đèn cấp sáng nhiều Wisp.
+9015,Wisp Lamp,Đèn Wisp
+9016,Wisp Lamps,Đèn Wisp
+9017,A single Wisp powered Lamp.,Một đèn cấp sáng Wisp duy nhất.
+9023,Large Alien Crystal,Tinh thể ngoài hành tinh lớn
+9024,Large Alien Crystals,Tinh thể ngoài hành tinh lớn
+9021,Alien Crystal,Tinh thể ngoài hành tinh
+9022,Anomalous alien object with unspecified origin.,Vật thể dị thường ngoài hành tinh với nguồn gốc không xác định.
+8995,Sinkholes,Hố sụt
+9018,Light Trap,Bẫy ánh sáng
+9019,Light Traps,Bẫy ánh sáng
+9020,Uses Water to create a potential target for Wisps. The Wisps will be held inside during the night.,Sử dụng nước để tạo mục tiêu tiềm năng cho Wisps. Các điều ước sẽ được tổ chức bên trong trong đêm.
 9438,The Philosopher’s Stone: The Stones,
 9439,"When we tried to scan one of the sectors, our sensors went blind. Upon closer inspection we discovered that the source of the interference was a mysterious crystalline entity. It’s huge, how could we have missed it?",
 9440,"The dark crystal is just standing there, refracting the light in a peculiar way. Intense energy vortices around the entity cause vibrations in the atmosphere and give birth to Electrostatic Dust Devils. Some of our scientists proposed that the crystals have energy-manipulating properties and so were able to obfuscate their presence in the area despite their proportions. Of course, all of this is just a hypothesis – we need more research to reach a conclusion.
@@ -14666,7 +14838,7 @@ Farewell, cosmic traveler! And come back if you want to visit your old friends s
 9478,"We should send an Explorer to assess the danger the sinkhole poses ASAP.
 
 <effect>A new anomaly appears at the sinkhole site.",
-5715,Troubling.,
+5715,Troubling.,Gây phiền hà.
 8996,A mysterious sinkhole on the surface of Mars.,
 9479,A mysterious sinkhole has appeared on Mars. We should probably investigate it.,
 9480,St. Elmo’s Fire: A Turn for the Positive,
@@ -15481,7 +15653,7 @@ Thường trực ban đầu: <em>Trung lập</em>
 Tốc độ phát triển: <em>Bình thường</em>
 Dự kiến: <em>Nghiên cứu</em>"
 967008099458,Japan,
-308211343641,Constructed Automatic Metals Extractor,Máy chiết xuất kim loại tự động được xây dựng
+308211343641,Constructed Automatic Metals Extractor,Máy chiết xuất kim loại tự động được xây
 10504,"Supply Pods are an alternative way to bring cargo from Earth to Mars. They arrive faster than Rockets, are single use each and may be salvaged once they crash-land at a chosen location. Supply Pods can bring less cargo than a Rocket can as well as just a single Rover.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -15809,20 +15981,20 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 347861263026,Should we task <number> Security Officers to fly to the rival colony and try to steal technological advances?,
 485962158121,Should we task <number> Security Officers to fly to the rival colony and try to recruit colonists?,
 191569773673,Should we task <number> Security Officers to fly to the rival colony and sabotage strategic buildings there?,
-133423062270,Preparing for operation...,
-393536357519,"What a glorious idea, Commander! I think that exchanging research papers will bring many benefits to our colonies.",
-173881016886,"Sounds reasonable, commander. All those eggheads from both colonies will be jolly happy to work together.",
-939952339656,We would never share our secrets with treacherous scum like you!,
-807554317011,"I don't believe we know each other enough for such a serious step in our relationship. Perhaps we will get there, some day.",
-393233322659,We may not have put so much effort in research like you and we have no technologies to offer. There are more important things in life than science!,
-837583412847,"I'm sorry, but your current research achievements are of no interest for us.",
+133423062270,Preparing for operation...,Đang chuẩn bị cho hoạt động...
+393536357519,"What a glorious idea, Commander! I think that exchanging research papers will bring many benefits to our colonies.","Thật là một ý tưởng tuyệt vời, Chỉ huy! Tôi nghĩ rằng việc trao đổi các tài liệu nghiên cứu sẽ mang lại nhiều lợi ích cho căn cứ của chúng ta."
+173881016886,"Sounds reasonable, commander. All those eggheads from both colonies will be jolly happy to work together.","Nghe có lý, chỉ huy. Tất cả những đầu trứng từ cả hai căn cứ sẽ rất vui khi được làm việc cùng nhau."
+939952339656,We would never share our secrets with treacherous scum like you!,Chúng ta sẽ không bao giờ chia sẻ bí mật của chúng ta với những tên cặn bã xảo trá như anh!
+807554317011,"I don't believe we know each other enough for such a serious step in our relationship. Perhaps we will get there, some day.","Tôi không tin rằng chúng ta đủ hiểu nhau để tiến tới một bước nghiêm túc như vậy trong mối quan hệ của mình. Có lẽ chúng ta sẽ đến đó, một ngày nào đó."
+393233322659,We may not have put so much effort in research like you and we have no technologies to offer. There are more important things in life than science!,Chúng ta có thể không nỗ lực nhiều trong nghiên cứu như bạn và chúng ta không có công nghệ nào để cung cấp. Có nhiều điều quan trọng trong cuộc sống hơn là khoa học!
+837583412847,"I'm sorry, but your current research achievements are of no interest for us.","Tôi xin lỗi, nhưng thành tựu nghiên cứu hiện tại của bạn không có ích cho chúng ta."
 11546,<NegotiationsContactTitle>,<NegotiationsContactTitle>
-495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>",
-869467608381,Closed Trade Route,
-886793501620,<rival_name> has nearly completed a Milestone,
-901784464065,Rumor,
-195350756558,<rival_name> will scan a Planetary Anomaly in <countdown>,
-752757193902,Rumor,
+495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>","<rival_colony> không còn cung cấp <resource(number2, res2)> trong <resource(number1, res1)>"
+869467608381,Closed Trade Route,Tuyến đường thương mại đóng
+886793501620,<rival_name> has nearly completed a Milestone,<rival_name> đã gần hoàn thành cột mốc
+901784464065,Rumor,Tin đồn
+195350756558,<rival_name> will scan a Planetary Anomaly in <countdown>,<rival_name> sẽ quét bất thường hành tinh trong <countdown>
+752757193902,Rumor,Tin đồn
 973361405652,Officers caught by <sponsor_name>: <colonist(number)>,
 426005553209,The rocket and its entire crew were seized by <rival>,Tên lửa và toàn bộ phi hành đoàn của nó đã bị bắt giữ bởi <rival>
 391391566838,Failed Covert Op,Hoạt động bí mật thất bại
@@ -20764,7 +20936,7 @@ Sẽ có những thách thức để vượt qua. Bạn đã sẵn sàng chưa? 
 9623,<pin_summary1><newline><pin_summary2>,<pin_summary1><newline><pin_summary2>
 11037,Our Colony,Căn cứ của bạn
 11238,There aren't any available Rockets to send on a Trade or Scientific Expedition. You will need a Rocket landed on Mars to perform this action.,Không có bất kỳ tên lửa nào có sẵn để gửi trong chuyến do thám giao dịch hoặc Khoa học. Bạn sẽ cần tên lửa hạ cánh trên sao Hỏa để thực hiện hành động này.
-11239,Go to Resupply View to request a Rocket from Earth (you will still have to setup the Expedition later),Chuyển đến chế độ xem tiếp tế để yêu cầu tên lửa từ Trái đất (bạn vẫn sẽ phải thiết lập Cuộc do thám sau này)
+11239,Go to Resupply View to request a Rocket from Earth (you will still have to setup the Expedition later),Chuyển đến chế độ xem tiếp tế để yêu cầu tên lửa từ Trái đất (bạn vẫn sẽ phải thiết lập Do thám sau này)
 12168,The Rocket assigned to this special project will be lost. Are you sure that you want to do this?,Tên lửa được giao cho dự án đặc biệt này sẽ bị mất. Bạn có chắc rằng bạn muốn làm điều này?
 1000416,OK,
 11228,Flying to a Planetary Anomaly,Bay đến dị thường hành tinh
@@ -22375,13 +22547,13 @@ Thời gian hoàn hảo <PerfectDeadline> Sol
 600161614581,Fuel,Nhiên liệu
 826228979160,<fuel(AvailableFuel)>,<fuel(AvailableFuel)>
 849526618919,Terraforming Progress,Tiến độ tạo hìnhTiến độ cải tạo
-516490202538,Atmosphere,Khí quyển
+516490202538,Atmosphere,Không khí
 972097632831,<Atmosphere>,<Atmosphere>
 618229231873,Temperature,Nhiệt độ
 138871236663,<Temperature>,<Temperature>
 969321325521,Water,Nước
 999182219498,<Water>,<Water>
-370878295349,Vegetation,Thảm thực vật
+370878295349,Vegetation,Thảm thực vậtThảm thực vật
 735974971764,<Vegetation>,<Vegetation>
 804810025952,OTHER RESOURCES,Tài nguyên khác
 971221728791,Seeds,Hạt giống
@@ -22970,7 +23142,7 @@ Thông số nhiệm vụ và vị trí căn cứ được xác định trước.
 158661700550,Genius Colonists,Dân thiên tài
 766237973263,Explorers,Do thám
 455577215954,Excess Power,Điện dư thừa
-660684301735,RESEARCH PER SOL,Nghiên cứu mỗi giờ
+660684301735,RESEARCH PER SOL,Nghiên cứu mỗi Sol
 718216359852,<ResearchPoints(EstimatedRP_Sponsor)>,<ResearchPoints(EstimatedRP_Sponsor)>
 547994597354,<ResearchPoints(EstimatedRP_Outsource)>,<ResearchPoints(EstimatedRP_Outsource)>
 730678043634,<ResearchPoints(EstimatedRP_ResearchBuildings)>,<ResearchPoints(EstimatedRP_ResearchBuildings)>
