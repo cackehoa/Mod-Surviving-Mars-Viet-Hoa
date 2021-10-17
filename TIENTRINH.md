@@ -112,3 +112,10 @@
 - Dịch về Công thức nước hòa bình
 - Dịch về Kim tự tháp
 - Dịch về Bắn sao
+## Ngày 17/10/2021
+- Dịch về Đá bốc mùi
+- Dịch về Gấu nước
+- Dịch về John Altmann
+- Dịch về đường hóa học
+- Dịch về Nước-Chín
+- Dịch về công nghệ đột phá vào tạo hình
