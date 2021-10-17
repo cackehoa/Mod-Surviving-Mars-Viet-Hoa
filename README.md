@@ -72,6 +72,9 @@ Dùng Notepad, Notepad++
 
 + **Vườn ươm** (Nursery): Tại sao không phải nhà trẻ, mẫu giáo? Mình thích thuật ngữ vườn ươm sao khi nói về các thiên hà có sao mới sinh ra liên tục
 + **Trầm tích** (Deposit): Những gì tích tụ bên dưới mặt đất
++ **Căn cứ** (Colony): Mình không thích thuật ngữ thuộc địa, theo mình thuộc địa là xâm chiếm, cai trị, đồng hóa... **NGƯỜI** khác. Còn hành động khai hoan trên sao Hỏa nó giống hành động khai hoang mãnh đất kế bên và không ai nói hành động phá rừng mở đất là xâm chiếm, hay thuộc địa hóa cả. Hay việc giết, nuôi, giam cầm, nô lệ... động vật là hành vi thuộc địa hóa cả.\
++ **Cư dân** (Colonist): tương tự như trên thì thực dân chỉ phù hợp với kẻ thống trị hơn là khai hoang
++ **Tạo hình** (Terraforming): Nếu dịch là địa hình không phù hợp, mà dịch tạo địa hình cũng không đúng lắm. Trong trò chơi này **Terraforming** được mô tả như hành động thay đổi không khí (tăng ôxy), nhiệt độ, tạo từ trường, trồng thực vật, phát tán vi khuẩn... nhằm biến đổi sao Hỏa thành môi trường thân thiện với con người nó không đơn giản là thay đổi địa hình (đào núi lấp biển)
 
 ### Xem thêm hướng dẫn sử dụng github
 
