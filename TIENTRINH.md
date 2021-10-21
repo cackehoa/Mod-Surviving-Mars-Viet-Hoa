@@ -119,3 +119,15 @@
 - Dịch về đường hóa học
 - Dịch về Nước-Chín
 - Dịch về công nghệ đột phá vào tạo hình
+## Ngày 21/10/2021
+- Dịch về Đá phù thủy
+- Dịch về Lửa thánh Elmo
+- Dịch về Nhà tài trợ
+- Dịch về Kẻ thù của kẻ thù của tôi
+- Dịch về Thiên tài đã nghỉ hưu
+- Dịch về Động cơ bất tử
+- Dịch về Cuộc chiến thông tin
+- Dịch về Lễ hội hóa trang
+- Dịch về Chiến tranh doanh nghiệp
+- Dịch về Dịch bệnh
+- Dịch về Bán phá giá
