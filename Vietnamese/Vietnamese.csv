@@ -288,11 +288,11 @@ id <u(id)>, phiên bản <VersionText></color>"
 1000185,&Duplicate,&Nhân bản
 1000186,&Reload,&Nạp lại
 1000220,Refresh,Làm mới
-1000223,&Navigate,
-1000224,Edit in &New Window,
+1000223,&Navigate,Đ&iều hướng
+1000224,Edit in &New Window,Chỉnh &sửa trong cửa sổ mới
 1000225,&Home,&Trang chủ
-1000226,&Back,
-1000227,&Forward,
+1000226,&Back,&Sau
+1000227,&Forward,T&rước
 1000228,Exit Application,Thoát ứng dụng
 1000229,Misc,
 1000230,Home,Trang chủ
@@ -336,7 +336,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 455809784082,Upload to Steam,Tải lên Steam
 749974209361,Uploading to Steam is unavailable,Tải lên Steam không khả dụng
 1000757,Upload to Steam,Tải lên Steam
-833734167742,Delete Item,Xóa mục
+833734167742,Delete Item,Xóa vật phẩm
 1000872,Cut,Cắt
 1000873,Copy,Sao chép
 1000874,Paste,Dán
@@ -419,9 +419,9 @@ id <u(id)>, phiên bản <VersionText></color>"
 3566,Brightness,Độ sáng
 1000618,Idle,Nhàn rỗi
 3025,Andorra,
-3026,United Arab Emirates,
+3026,United Arab Emirates,các Tiểu Vương Quốc Ả Rập Thống Nhất
 3027,Afghanistan,
-3028,Antigua and Barbuda,
+3028,Antigua and Barbuda,Antigua và Barbuda
 3029,Anguilla,
 3030,Albania,
 3031,Armenia,
@@ -444,7 +444,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 3048,Benin,
 3049,Saint Barthelemy,
 3050,Bermuda,
-3051,Brunei Darussalam,
+3051,Brunei Darussalam,Vương quốc Brunei
 3052,"Bolivia, Plurinational State of","Bolivia, Bang đa quốc gia"
 3053,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius và Saba"
 3054,Bahamas,
@@ -454,9 +454,9 @@ id <u(id)>, phiên bản <VersionText></color>"
 3058,Belarus,
 3059,Belize,
 3060,Canada,
-3061,Cocos (Keeling) Islands,
-3062,"Congo, the Democratic Republic of the",
-3063,Central African Republic,
+3061,Cocos (Keeling) Islands,Quần đảo Cocos (Keeling)
+3062,"Congo, the Democratic Republic of the","Congo, Cộng hòa dân chủ"
+3063,Central African Republic,Cộng hòa trung phi
 3064,Congo,
 3065,Switzerland,
 3066,Cote d'Ivoire,
@@ -478,21 +478,21 @@ id <u(id)>, phiên bản <VersionText></color>"
 3082,Algeria,
 3083,Ecuador,
 3084,Estonia,
-3085,Egypt,
-3086,Western Sahara,
+3085,Egypt,Ai cập
+3086,Western Sahara,Phía tây Sahara
 3087,Eritrea,
 3088,Spain,
 3089,Ethiopia,
-3090,Finland,
+3090,Finland,Phần Lan
 3091,Fiji,
-3092,Falkland Islands (Malvinas),
-3093,"Micronesia, Federated States of",
-3094,Faroe Islands,
+3092,Falkland Islands (Malvinas),Quần đảo Falkland (Malvinas)
+3093,"Micronesia, Federated States of","Micronesia, Liên bang"
+3094,Faroe Islands,Quần đảo Faroe
 3095,Gabon,
-3096,United Kingdom of Great Britain and Northern Ireland,
+3096,United Kingdom of Great Britain and Northern Ireland,Vương quốc liên hiệp Anh và bắc Ireland
 3097,Grenada,
 3098,Georgia,
-3099,French Guiana,
+3099,French Guiana,Guiana thuộc Pháp
 3100,Guernsey,
 3101,Ghana,
 3102,Gibraltar,
@@ -502,13 +502,13 @@ id <u(id)>, phiên bản <VersionText></color>"
 3106,Guadeloupe,
 3107,Equatorial Guinea,
 3108,Greece,
-3109,South Georgia and the South Sandwich Islands,
+3109,South Georgia and the South Sandwich Islands,Nam Georgia và Quần đảo Nam Sandwich
 3110,Guatemala,
 3111,Guam,
 3112,Guinea-Bissau,
 3113,Guyana,
-3114,"Hong Kong, SAR of China",
-3115,Heard Island and McDonald Islands,
+3114,"Hong Kong, SAR of China","Hong Kong, SAR của Trung Quốc"
+3115,Heard Island and McDonald Islands,Đảo Heard và Quần đảo McDonald
 3116,Honduras,
 3117,Croatia,
 3118,Haiti,
@@ -516,10 +516,10 @@ id <u(id)>, phiên bản <VersionText></color>"
 3120,Indonesia,
 3121,Ireland,
 3122,Israel,
-3123,Isle of Man,
-3124,British Indian Ocean Territory,
+3123,Isle of Man,Đảo Man
+3124,British Indian Ocean Territory,Lãnh thổ Ấn Độ Dương thuộc Anh
 3125,Iraq,
-3126,"Iran, Islamic Republic of",
+3126,"Iran, Islamic Republic of","Iran, Cộng hòa hồi giáo"
 3127,Iceland,
 3128,Italy,
 3129,Jersey,
@@ -530,13 +530,13 @@ id <u(id)>, phiên bản <VersionText></color>"
 3134,Cambodia,
 3135,Kiribati,
 3136,Comoros,
-3137,Saint Kitts and Nevis,
-3138,"Korea, Democratic People's Republic of",
-3139,"Korea, Republic of",
+3137,Saint Kitts and Nevis,Saint Kitts và Nevis
+3138,"Korea, Democratic People's Republic of","Korea, Cộng hòa dân chủ nhân dân"
+3139,"Korea, Republic of","Korea, Cộng hòa"
 3140,Kuwait,
-3141,Cayman Islands,
+3141,Cayman Islands,Quần đảo Cayman
 3142,Kazakhstan,
-3143,Lao People's Democratic Republic,
+3143,Lao People's Democratic Republic,Cộng hòa Dân chủ nhân dân Lào
 3144,Lebanon,
 3145,Saint Lucia,
 3146,Liechtenstein,
@@ -549,17 +549,17 @@ id <u(id)>, phiên bản <VersionText></color>"
 3153,Libya,
 3154,Morocco,
 3155,Monaco,
-3156,"Moldova, Republic of",
+3156,"Moldova, Republic of","Moldova, Cộng hòa"
 3157,Montenegro,
-3158,Saint Martin (French part),
+3158,Saint Martin (French part),Saint Martin (phần Pháp)
 3159,Madagascar,
-3160,Marshall Islands,
-3161,"Macedonia, the former Yugoslav Republic of",
+3160,Marshall Islands,đảo Marshall
+3161,"Macedonia, the former Yugoslav Republic of","Macedonia, Cộng hòa Nam Tư cũ của"
 3162,Mali,
 3163,Myanmar,
 3164,Mongolia,
-3165,"Macao, SAR of China",
-3166,Northern Mariana Islands,
+3165,"Macao, SAR of China","Macao, SAR của Trung Quốc"
+3166,Northern Mariana Islands,Quần đảo Bắc Mariana
 3167,Martinique,
 3168,Mauritania,
 3169,Montserrat,
@@ -584,7 +584,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 3188,Oman,
 3189,Panama,
 3190,Peru,
-3191,French Polynesia,
+3191,French Polynesia,Polynesia thuộc Pháp
 3192,Papua New Guinea,
 3193,Philippines,
 3194,Pakistan,
@@ -592,7 +592,7 @@ id <u(id)>, phiên bản <VersionText></color>"
 3196,Saint Pierre and Miquelon,
 3197,Pitcairn,
 3198,Puerto Rico,
-3199,"Palestine, State of",
+3199,"Palestine, State of","Palestine, Bang"
 3200,Portugal,
 3201,Palau,
 3202,Paraguay,
@@ -600,16 +600,16 @@ id <u(id)>, phiên bản <VersionText></color>"
 3204,Reunion,
 3205,Romania,
 3206,Serbia,
-3207,Russian Federation,
+3207,Russian Federation,Liên bang Nga
 3208,Rwanda,
-3209,Saudi Arabia,
-3210,Solomon Islands,
+3209,Saudi Arabia,Ả Rập Saudi
+3210,Solomon Islands,Quần đảo Solomon
 3211,Seychelles,
 3212,Sudan,
 3213,Singapore,
-3214,"Saint Helena, Ascension and Tristan da Cunha",
+3214,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension và Tristan da Cunha"
 3215,Slovenia,
-3216,Svalbard and Jan Mayen,
+3216,Svalbard and Jan Mayen,Svalbard và Jan Mayen
 3217,Slovakia,
 3218,Sierra Leone,
 3219,San Marino,
@@ -617,14 +617,14 @@ id <u(id)>, phiên bản <VersionText></color>"
 3221,Somalia,
 3222,Suriname,
 3223,South Sudan,
-3224,Sao Tome and Principe,
+3224,Sao Tome and Principe,Sao Tome và Principe
 3225,El Salvador,
-3226,Sint Maarten (Dutch part),
-3227,Syrian Arab Republic,
+3226,Sint Maarten (Dutch part),Sint Maarten (phần Hà Lan)
+3227,Syrian Arab Republic,Cộng Hòa Arab Syrian
 3228,Swaziland,
 3229,Turks and Caicos Islands,
 3230,Chad,
-3231,French Southern Territories,
+3231,French Southern Territories,Lãnh thổ phía Nam của Pháp
 3232,Togo,
 3233,Thailand,
 3234,Tajikistan,
@@ -636,26 +636,26 @@ id <u(id)>, phiên bản <VersionText></color>"
 3240,Turkey,
 3241,Trinidad and Tobago,
 3242,Tuvalu,
-3243,"Taiwan, China",
-3244,"Tanzania, United Republic of",
+3243,"Taiwan, China","Đài Loan, Trung Quốc"
+3244,"Tanzania, United Republic of","Tanzania, Cộng hòa thống nhất"
 3245,Ukraine,
 3246,Uganda,
-3247,United States Minor Outlying Islands,
+3247,United States Minor Outlying Islands,Các đảo nhỏ xa xôi hẻo lánh của Hoa Kỳ
 3248,United States of America,
 3249,Uruguay,
 3250,Uzbekistan,
 3251,Holy See,
 3252,Saint Vincent and the Grenadines,
-3253,"Venezuela, Bolivarian Republic of",
-3254,"Virgin Islands, British",
-3255,"Virgin Islands, U.S.",
+3253,"Venezuela, Bolivarian Republic of","Venezuela, Cộng hòa Bolivarian"
+3254,"Virgin Islands, British","Quần đảo Virgin thuộc Anh"
+3255,"Virgin Islands, U.S.","Quần đảo Virgin, Hoa Kỳ"
 3256,Viet Nam,Việt Nam
 3257,Vanuatu,
-3258,Wallis and Futuna,
+3258,Wallis and Futuna,Wallis và Futuna
 3259,Samoa,
 3260,Yemen,
 3261,Mayotte,
-3262,South Africa,
+3262,South Africa,Nam Phi
 3263,Zambia,
 3264,Zimbabwe,
 1000758,Select your country,Chọn quốc gia của bạn
@@ -988,7 +988,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 1000189,func <name> <color 0 128 0><comment>,
 1000190,<IdNodeColor><__class> <color 128 128 128><PlacementText> <color 0 128 0><comment>,<IdNodeColor><__class> <color 128 128 128><PlacementText> <color 0 128 0><comment>
 1000191,T: <__template> <color 128 128 128><Id> <color 0 128 0><comment>,
-1000192,Property <id> <color 0 128 0><comment>,Tài sản <id> <color 0 128 0><comment>
+1000192,Property <id> <color 0 128 0><comment>,Thuộc tính <id> <color 0 128 0><comment>
 1000193,<color 128 0 0>Mode <mode> <color 0 128 0><comment>,<color 128 0 0>Chế độ <mode> <color 0 128 0><comment>
 1000194,Layer <layer> <color 0 128 0><comment>,Lớp <layer> <color 0 128 0><comment>
 1000195,Action<ConditionText> <color 128 128 128><ActionId> <color 0 128 0><comment>,Hành động<ConditionText> <color 128 128 128><ActionId> <color 0 128 0><comment>
@@ -1440,7 +1440,7 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 12373,Red Sands,Cát đỏ
 12419,Marks a surface for Drones to change into the Red Sands type.<if(has_dlc('armstrong'))><newline><newline><em>Degrades local Soil Quality.</em></if>,Đánh dấu bề mặt để Drone thay đổi thành loại Cát đỏ.<if(has_dlc('armstrong'))><newline><newline><em>Làm suy giảm chất lượng đất địa phương.</em></if>
 8044,Decreases Workplaces by <abs(upgrade1_add_value_1)>.,Giảm nơi làm việc bởi <abs(upgrade1_add_value_1)>.
-5082,+<upgrade1_mul_value_1>% Production; +<upgrade1_mul_value_2>% Oxygen Consumption.,+<upgrade1_mul_value_1>% Sản lượng; +<upgrade1_mul_value_2>% Tiêu thụ oxy.
+5082,+<upgrade1_mul_value_1>% Production; +<upgrade1_mul_value_2>% Oxygen Consumption.,+<upgrade1_mul_value_1>% Sản lượng; +<upgrade1_mul_value_2>% Tiêu thụ ôxy.
 5083,Fungal Farm,Trang trại nấm
 5084,Fungal Farms,Trang trại nấm
 5085,Produces Food.,Sản xuất thực phẩm.
@@ -1452,17 +1452,17 @@ Trước khi bạn bắt đầu, vui lòng dành một chút thời gian để �
 8823,Large Water Tanks,Bể nước lớn
 8824,Can store a large amount of Water. Doesn't work during Cold Waves.,Có thể lưu trữ một lượng lớn nước. Không hoạt động trong Sóng lạnh.
 5194,Pipe Valves,Van ống
-5195,Can be manually activated to cut off Water and Oxygen supply.,Có thể được kích hoạt bằng tay để cắt nguồn cấp Nước và Oxy.
+5195,Can be manually activated to cut off Water and Oxygen supply.,Có thể được kích hoạt bằng tay để cắt nguồn cấp Nước và ôxy.
 5127,MOXIE,
 5128,MOXIEs,MOXIE
-5129,Produces Oxygen. No production during Dust Storms.,Tạo ra oxy. Không sản xuất trong Bão bụi.
+5129,Produces Oxygen. No production during Dust Storms.,Tạo ra ôxy. Không sản xuất trong Bão bụi.
 5130,"MOXIE instruments, which employ MOXIE (short for Mars Oxygen In situ resource utilization Experiment) technology, produce Oxygen from the rich amounts of carbon dioxide in the Martian atmosphere.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 Developed in the 20th century but first tested on a rover mission to Mars in the early 20s of the 21st century, that once experimental technology now forms the backbone of life support in our first Colony on an alien world.
 
-These instruments require nothing but power and regular maintenance and, of course, a connection to the lifeline of our Colony.","Thiết bị MOXIE, sử dụng công nghệ MOXIE (viết tắt của Thí nghiệm sử dụng tài nguyên oxy tại chỗ trên sao Hỏa), tạo ra Oxy từ lượng carbon dioxide dồi dào trong khí quyển sao Hỏa.
+These instruments require nothing but power and regular maintenance and, of course, a connection to the lifeline of our Colony.","Thiết bị MOXIE, sử dụng công nghệ MOXIE (viết tắt của Thí nghiệm sử dụng tài nguyên ôxy tại chỗ trên sao Hỏa), tạo ra ôxy từ lượng carbon dioxide dồi dào trong khí quyển sao Hỏa.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -1894,9 +1894,9 @@ Máy lọc hơi ẩm dựa trên công nghệ WAVAR (Lò phản ứng hấp ph�
 7010,Vegetables,Rau
 6993,Low yield but grows very fast,Năng suất thấp nhưng phát triển rất nhanh
 6994,Giant Wheat Grass,Cỏ lúa mì khổng lồ
-7004,Very low yield but produces Oxygen,Năng suất rất thấp nhưng tạo ra oxy
+7004,Very low yield but produces Oxygen,Năng suất rất thấp nhưng tạo ra ôxy
 7003,Algae,Tảo
-7013,Average yield but grows very fast and produces Oxygen,Năng suất trung bình nhưng phát triển rất nhanh và tạo ra oxy
+7013,Average yield but grows very fast and produces Oxygen,Năng suất trung bình nhưng phát triển rất nhanh và tạo ra ôxy
 7012,Kelp,Tảo bẹ
 7020,Average yield but grows fast and requires less Water,Năng suất trung bình nhưng phát triển nhanh và cần ít nước hơn
 7019,Quinoa,
@@ -2054,7 +2054,7 @@ Making the Martian soil fit for farming, even within the protection of Domes, ta
 
 Growing food on Mars greatly decreases costs and dependency on Earth.","Thức ăn <image UI/Icons/Sections/Food_1.tga> được trồng trên <em>Trang trại</em> và <em>Trang trại thủy canh</em>, được đặt bên trong <em>Mái vòm</em>, và cả <em>Trang trại nấm</em> được đặt bên ngoài mái vòm.
 
-Trang trại và Trang trại thủy canh có thể trồng loại cây trồng khác nhau với mô hình chu kỳ khác nhau. Hơn nữa, một số loại cây trồng, như tảo, cũng tạo ra oxy cho Mái vòm mà chúng được trồng.
+Trang trại và Trang trại thủy canh có thể trồng loại cây trồng khác nhau với mô hình chu kỳ khác nhau. Hơn nữa, một số loại cây trồng, như tảo, cũng tạo ra ôxy cho Mái vòm mà chúng được trồng.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -2069,7 +2069,7 @@ Using the CO2 from the Martian atmosphere and hydrogen (from water) we can produ
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Sử dụng CO2 từ khí quyển sao Hỏa và hydro (từ nước), chúng ta có thể sản xuất nhiên liệu để đưa tên lửa của mình trở lại Trái đất. Quá trình này sử dụng một loạt phản ứng hóa học tương đối đơn giản để tạo ra khí mê-tan và oxy được sử dụng làm chất đẩy cho cả tên lửa và tàu con thoi của chúng ta."
+Sử dụng CO2 từ khí quyển sao Hỏa và hydro (từ nước), chúng ta có thể sản xuất nhiên liệu để đưa tên lửa của mình trở lại Trái đất. Quá trình này sử dụng một loạt phản ứng hóa học tương đối đơn giản để tạo ra khí mê-tan và ôxy được sử dụng làm chất đẩy cho cả tên lửa và tàu con thoi của chúng ta."
 5387,"Machine Parts  <image UI/Icons/Sections/MachineParts_1.tga> are manufactured in <em>Machine Parts Factories</em> from <em>Metal</em> and are mainly used in both the construction and maintaining of the sophisticated resource Extractors on Mars.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -3470,9 +3470,9 @@ Sử dụng <RT> để tập trung Bảng thông tin của mái vòm."
 7045,No active Research,Không có nghiên cứu hoạt động
 5626,Fractures: <count>,Bị nứt: <count>
 5625,Fractures,Bị nứt
-5636,Domes without Oxygen: <count>,Mái vòm không có oxy: <count>
-5635,No Oxygen,Không có oxy
-7050,We have an Oxygen shortage,Chúng ta thiếu oxy
+5636,Domes without Oxygen: <count>,Mái vòm không có ôxy: <count>
+5635,No Oxygen,Không có ôxy
+7050,We have an Oxygen shortage,Chúng ta thiếu ôxy
 5638,Domes without Water: <count>,Mái vòm không có nước: <count>
 5637,No Water,Không nước
 7051,We have a Water shortage,Chúng ta thiếu nước
@@ -3742,7 +3742,7 @@ The following buildings do not function during Dust Storms:
 - Moisture Vaporators
 - Solar Panels outside Domes","Bão bụi sẽ sớm tấn công căn cứ. Nó sẽ gây ra thiệt hại cho Đường ống và Cáp và cũng sẽ gây ra áp lực nghiêm trọng cho tất cả công trình - buộc chúng cần được bảo trì sớm hơn bình thường.
 
-Dự trữ năng lượng, nước và oxy trong pin và bình chứa là một biện pháp phòng ngừa khôn ngoan. Việc vô hiệu hóa công trình không quan trọng tiêu thụ tài nguyên này trước và trong khi Bão bụi sẽ giúp thu được lượng dự trữ sẵn có. 
+Dự trữ năng lượng, nước và ôxy trong pin và bình chứa là một biện pháp phòng ngừa khôn ngoan. Việc vô hiệu hóa công trình không quan trọng tiêu thụ tài nguyên này trước và trong khi Bão bụi sẽ giúp thu được lượng dự trữ sẵn có. 
 
 Công trình sau đây không hoạt động trong Bão bụi:
 - MOXIEs
@@ -8966,13 +8966,13 @@ Tuy nhiên, bạn học được nhiều điều từ quan điểm kỳ lạ c�
 817005706347,"A scientist leads Mike in the lab. Mike trustfully holds her by the hand, smiling wide and looking around with curiosity. She puts him on a bed and places electrodes on his head, strain gauges on his chest and an oximeter on his finger. Then she puts him under hypnosis and starts one of many sessions in which the boy throws himself from one side to another, and sometimes just stops and looks in the camera with wide empty eyes.
 
 Then one day Mike just disappears. No one knows where he has gone, or how he vanished in thin air.
-<effect>New Techs have been revealed.","Một nhà khoa học dẫn Mike vào phòng thí nghiệm. Mike tin tưởng nắm tay cô ấy, mỉm cười rộng và tò mò nhìn xung quanh. Cô đặt anh ta trên giường và đặt điện cực trên đầu anh ta, máy đo sức căng trên ngực và máy đo oxy trên ngón tay anh ta. Sau đó, cô đưa anh ta vào trạng thái thôi miên và bắt đầu một trong nhiều phiên trong đó cậu bé ném mình từ bên này sang bên khác, và đôi khi chỉ dừng lại và nhìn vào máy ảnh với đôi mắt trống rỗng.
+<effect>New Techs have been revealed.","Một nhà khoa học dẫn Mike vào phòng thí nghiệm. Mike tin tưởng nắm tay cô ấy, mỉm cười rộng và tò mò nhìn xung quanh. Cô đặt anh ta trên giường và đặt điện cực trên đầu anh ta, máy đo sức căng trên ngực và máy đo ôxy trên ngón tay anh ta. Sau đó, cô đưa anh ta vào trạng thái thôi miên và bắt đầu một trong nhiều phiên trong đó cậu bé ném mình từ bên này sang bên khác, và đôi khi chỉ dừng lại và nhìn vào máy ảnh với đôi mắt trống rỗng.
 
 Rồi một ngày Mike biến mất. Không ai biết anh ta đã đi đâu, hay anh ta biến mất như thế nào trong không khí mỏng manh.
 <effect>Công nghệ mới đã được tiết lộ."
 875685628588,"A scientist leads Mike in the lab. Mike trustfully holds her by the hand, smiling wide and looking around with curiosity. She puts him on a bed and places electrodes on his head, strain gauges on his chest and an oximeter on his finger. Then she puts him under hypnosis and starts one of many sessions in which the boy only smiles at her with maddening patience.
 
-<effect>A new Tech has been revealed.","Một nhà khoa học dẫn Mike vào phòng thí nghiệm. Mike tin tưởng nắm tay cô ấy, mỉm cười rộng và tò mò nhìn xung quanh. Cô đặt anh ta trên giường và đặt điện cực trên đầu anh ta, máy đo sức căng trên ngực và máy đo oxy trên ngón tay anh ta. Sau đó, cô đưa anh ta vào trạng thái thôi miên và bắt đầu một trong nhiều phiên mà cậu bé chỉ mỉm cười với cô với sự kiên nhẫn điên cuồng.
+<effect>A new Tech has been revealed.","Một nhà khoa học dẫn Mike vào phòng thí nghiệm. Mike tin tưởng nắm tay cô ấy, mỉm cười rộng và tò mò nhìn xung quanh. Cô đặt anh ta trên giường và đặt điện cực trên đầu anh ta, máy đo sức căng trên ngực và máy đo ôxy trên ngón tay anh ta. Sau đó, cô đưa anh ta vào trạng thái thôi miên và bắt đầu một trong nhiều phiên mà cậu bé chỉ mỉm cười với cô với sự kiên nhẫn điên cuồng.
 
 <effect>Một công nghệ mới đã được tiết lộ."
 507709548514,Send him to Earth. Let our Sponsor handle this.,Gửi anh ta đến Trái đất. Hãy để Nhà tài trợ của chúng ta xử lý việc này.
@@ -9427,7 +9427,7 @@ A list of complex electronic components and machine parts follows.","Sau vài gi
 
 ""Tôi chỉ cần một số bit đặc biệt hơn. Trình tạo nabblygarbling sẽ sớm sẵn sàng và cuối cùng tôi có thể thu thập tất cả scubblydub! Đây là danh sách! Bây giờ, đi, đi, và mang chúng cho tôi, nhanh lên!""
 
-Sau đây là danh sách linh kiện điện tử và bộ phận máy phức tạp."
+Sau đây là danh sách linh kiện điện tử và linh kiện máy phức tạp."
 507800063616,Sanity Breakdown - Mad Genius,Sự cố tỉnh táo - Thiên tài điên
 424456161761,"One of the colony’s most prominent thinkers has gone insane, locking themselves up at their home. The neighbors report sounds of metal clinging, machinery sounds and insane laughter.","Một trong những nhà tư tưởng nổi bật nhất của căn cứ đã phát điên, tự nhốt mình tại nhà của họ. Những người hàng xóm báo cáo âm thanh của kim loại bám, âm thanh máy móc và tiếng cười điên cuồng."
 109501165050,Give away the components.,Cho đi thành phần.
@@ -12518,7 +12518,7 @@ Công nghệ này <em>có thể lặp lại</em> và có thể được nghiên 
 826036921279,In this tutorial you will learn how to control and use rovers as well as the basics of Exploration and Research.,Trong hướng dẫn này bạn sẽ học cách điều khiển và sử dụng bộ điều khiển cũng như những kiến thức cơ bản về Khám phá và Nghiên cứu.
 356391233163,"Rovers, Exploration & Research","Lang thang, Khám phá & Nghiên cứu"
 697231070742,EXPLORATION,Khám phá
-687937633359,"In this tutorial you will learn how to setup Power, Water and Oxygen systems. You will also learn about building maintenance and how to prepare your first dome for human colonists.","Trong hướng dẫn này, bạn sẽ học cách thiết lập hệ thống Điện, Nước và Oxy. Bạn cũng sẽ tìm hiểu về bảo trì công trình và cách chuẩn bị mái vòm đầu tiên của bạn cho cư dân của căn cứ."
+687937633359,"In this tutorial you will learn how to setup Power, Water and Oxygen systems. You will also learn about building maintenance and how to prepare your first dome for human colonists.","Trong hướng dẫn này, bạn sẽ học cách thiết lập hệ thống Điện, Nước và ôxy. Bạn cũng sẽ tìm hiểu về bảo trì công trình và cách chuẩn bị mái vòm đầu tiên của bạn cho cư dân của căn cứ."
 675778624423,"Power, Water & Maintenance","Điện, Nước & Bảo trì"
 897671103868,MAINTENANCE,Bảo trì
 699515122914,"In this tutorial you will learn how to call colonists to Mars, take care of their needs as well as learn how to manage the workforce.","Trong hướng dẫn này, bạn sẽ học cách gọi cư dân đến sao Hỏa, quan tâm đến nhu cầu của họ cũng như học cách quản lý lực lượng lao động."
@@ -13701,7 +13701,7 @@ Chúng ta không có đủ nguồn lực để làm cả hai."
 
 Yet the comparison of different statistics shows an alarming trend. The rate of people with extraordinary low IQ in this Dome is unexpectedly high. There may be some connection, or this may be a random correlation.","Nghiên cứu đã xác nhận những tuyên bố của <DisplayName>, thiên tài của chúng ta. Nước hòa bình thực sự giúp mọi người xoa dịu cảm xúc của họ, giảm căng thẳng và hung hăng và trở thành người tốt hơn nói chung. Khi người ta so sánh hoạt động phản bội và tỷ lệ tội phạm ở mái nhà khác nhau và ở Trái đất, thì Mái vòm nơi phát hiện ra tổ hợp Nước hòa bình cho thấy những con số tốt hơn nhiều.
 
-Tuy nhiên, việc so sánh số liệu thống kê khác nhau cho thấy một xu hướng đáng báo động. Tỷ lệ những người có chỉ số IQ thấp bất thường trong mái vòm này cao đến không ngờ. Có thể có một số liên kết, hoặc đây có thể là một mối tương quan ngẫu nhiên."
+Tuy nhiên, việc so sánh số liệu thống kê khác nhau cho thấy một xu hướng đáng báo động. Tỷ lệ những người có chỉ số IQ thấp dị thường trong mái vòm này cao đến không ngờ. Có thể có một số liên kết, hoặc đây có thể là một mối tương quan ngẫu nhiên."
 751254109480,It is a random correlation. Spread the Water of Peace and save the world!,Đó là một mối tương quan ngẫu nhiên. Truyền bá Nước Hòa bình và cứu thế giới!
 639187191529,unknown consequences,hậu quả chưa biết
 809476420597,It is alarming. Put a stop to this project.,Thật đáng báo động. Hãy dừng dự án này lại.
@@ -14244,7 +14244,7 @@ Nhà thực vật học của bạn xác nhận rằng chất này là một lo�
 
 Your terraforming advisor also has some news. There is a substantial rise of the Vegetation parameter, and botanists are baffled why. You may have your reasons to believe this is a good-bye gift from Mr. Altmann, but we will never learn the truth.
 
-<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.","Cố vấn an ninh của bạn báo cáo rằng ông John Altmann, cư dân mà cô phát hiện ra là có tuổi thọ cao bất thường, gần đây đã biến mất. Anh ta có thể đã lên tên lửa.
+<effect>John Altmann disappeared. Mars has gained <resource(terr_veg,'VegetationTP')>.","Cố vấn an ninh của bạn báo cáo rằng ông John Altmann, cư dân mà cô phát hiện ra là có tuổi thọ cao dị thường, gần đây đã biến mất. Anh ta có thể đã lên tên lửa.
 
 Cố vấn địa hình của bạn cũng có một số tin tức. Có một sự gia tăng đáng kể của thông số Thực vật và nhà thực vật học đang bối rối tại sao. Bạn có thể có lý do để tin rằng đây là món quà tạm biệt từ ông Altmann, nhưng chúng ta sẽ không bao giờ biết được sự thật.
 
@@ -14866,7 +14866,7 @@ Vĩnh biệt, người du hành vũ trụ! Và hãy quay lại nếu một ngày
 
 <effect>A new anomaly appears at the sinkhole site.","Chúng ta nên cử do thám để đánh giá mức độ nguy hiểm mà hố sụt gây ra càng sớm càng tốt.
 
-<effect>Một điểm bất thường mới xuất hiện tại khu vực hố sụt."
+<effect>Một điểm dị thường mới xuất hiện tại khu vực hố sụt."
 5715,Troubling.,Rắc rối.
 8996,A mysterious sinkhole on the surface of Mars.,Một hố sụt bí ẩn trên bề mặt sao Hỏa.
 9479,A mysterious sinkhole has appeared on Mars. We should probably investigate it.,Một hố sụt bí ẩn đã xuất hiện trên sao Hỏa. Chúng ta có lẽ nên điều tra nó.
@@ -14926,7 +14926,7 @@ Nhiều người cảm thấy rằng việc gửi lại do thám của chúng ta
 
 Chúng ta đã xác định được một hố sụt hoàn hảo cho nhiệm vụ.
 
-<hint>Gửi do thám để quét sự bất thường tại vị trí hố sụt đã chọn."
+<hint>Gửi do thám để quét sự dị thường tại vị trí hố sụt đã chọn."
 9499,We have to do risk management.,Chúng ta phải thực hiện quản lý rủi ro.
 9500,This sinkhole is ideal for further analyzing.,Hố sụt này là nơi lý tưởng để phân tích thêm.
 8994,Sinkhole,Hố sụt
@@ -16023,7 +16023,7 @@ Giá kim loại hiếm: $<ExportPricePreciousMetals> M
 
 - <em>Tàu con thoi nhảy</em> - tàu con thoi nhanh hơn sử dụng quỹ đạo parabol
 - <em>Nhà phát triển game</em> - sản xuất trò đạt được chơi tài trợ tùy thuộc vào thành công của chúng
-- Khám phá thêm điểm bất thường đột phá
+- Khám phá thêm điểm dị thường đột phá
 - Nghiên cứu một Công nghệ đột phá tài trợ cho ứng viên
 - Tên lửa cần nhiều nhiên liệu hơn để phóng <em>(Hạn chế)</em>"
 756371553955,Hard,Khó
@@ -16209,7 +16209,7 @@ Giá kim loại hiếm: $<ExportPricePreciousMetals> M
 869467608381,Closed Trade Route,Tuyến đường thương mại đóng
 886793501620,<rival_name> has nearly completed a Milestone,<rival_name> đã gần hoàn thành cột mốc
 901784464065,Rumor,Tin đồn
-195350756558,<rival_name> will scan a Planetary Anomaly in <countdown>,<rival_name> sẽ quét bất thường hành tinh trong <countdown>
+195350756558,<rival_name> will scan a Planetary Anomaly in <countdown>,<rival_name> sẽ quét dị thường hành tinh trong <countdown>
 752757193902,Rumor,Tin đồn
 973361405652,Officers caught by <sponsor_name>: <colonist(number)>,
 426005553209,The rocket and its entire crew were seized by <rival>,Tên lửa và toàn bộ phi hành đoàn của nó đã bị bắt giữ bởi <rival>
@@ -16656,13 +16656,13 @@ The first step is aimed at supplies en-route to Mars while still in low Earth or
 
 Cũng như chúng ta, thất vọng vì hoạt động gần đây của họ trên sao Hỏa, căn cứ đề xuất một liên minh nhằm mục đích làm tê liệt sứ mệnh của <DisplayName>.
 
-Một kế hoạch ba bước được đưa ra - việc ký vào nó sẽ yêu cầu chúng ta chia sẻ gánh nặng tài chính đáng kể mà các biện pháp trả đũa sẽ mang lại.
+Một kế hoạch ba bước được đưa ra - việc ký vào nó sẽ yêu cầu chúng ta chia sẻ gánh nặng tài chính đáng kể mà biện pháp trả đũa sẽ mang lại.
 
-Bước đầu tiên là nhằm cung cấp nguồn cung cấp trên đường tới sao Hỏa khi vẫn ở quỹ đạo thấp của Trái đất. Các cuộc tấn công được che giấu là các vụ va chạm mảnh vỡ không gian không may sẽ bóp nghẹt sự sống của chúng từ Trái đất."
-697943026392,A message has been sent to all Martian Missions’ Commanders.,Một thông báo đã được gửi đến tất cả các Chỉ huy của Nhiệm vụ Sao Hỏa.
+Bước đầu tiên là nhằm cung cấp nguồn cung cấp trên đường tới sao Hỏa khi vẫn ở quỹ đạo thấp của Trái đất. Cuộc tấn công được che giấu là vụ va chạm mảnh vỡ không gian không may sẽ bóp nghẹt sự sống của chúng từ Trái đất."
+697943026392,A message has been sent to all Martian Missions’ Commanders.,Một thông báo đã được gửi đến tất cả chỉ huy của Nhiệm vụ Sao Hỏa.
 467126355411,Where do I sign!?,Tôi ký ở đâu!?
 116683313025,begin offensive covert operations against <DisplayName>,bắt đầu hoạt động bí mật tấn công chống lại <DisplayName>
-164747886123,We will upgrade our defenses against such activities without effectively going to war. Turn down the proposal.,Chúng ta sẽ nâng cấp hệ thống phòng thủ của mình để chống lại các hoạt động như vậy mà không xảy ra chiến tranh một cách hiệu quả. Từ chối đề xuất.
+164747886123,We will upgrade our defenses against such activities without effectively going to war. Turn down the proposal.,Chúng ta sẽ nâng cấp hệ thống phòng thủ của mình để chống lại hoạt động như vậy mà không xảy ra chiến tranh một cách hiệu quả. Từ chối đề xuất.
 403757416177,effectively defend against further sabotage,bảo vệ hiệu quả chống lại sự phá hoại tiếp theo
 219561768687,I decline to descend into such barbarism. Ignore them until they see the error of their ways.,Tôi từ chối rơi vào sự man rợ như vậy. Bỏ qua họ cho đến khi họ thấy lỗi trong cách làm của họ.
 867088102849,sabotages will continue for an unknown time period,phá hoại sẽ tiếp tục trong một khoảng thời gian không xác định
@@ -16670,7 +16670,7 @@ Bước đầu tiên là nhằm cung cấp nguồn cung cấp trên đường t�
 
 The Second phase of the plan involves the artificial diverting of meteors towards their general location. One space mining company from Earth is well equipped to do so for the right price.","Năng lực của <DisplayName> đã bị thu hẹp đáng kể và họ đã tạm dừng mọi hoạt động tấn công vào lúc này.
 
-Giai đoạn thứ hai của kế hoạch liên quan đến việc chuyển hướng nhân tạo của các thiên thạch về vị trí chung của chúng. Một công ty khai thác vũ trụ từ Trái đất được trang bị tốt để làm như vậy với mức giá phù hợp."
+Giai đoạn thứ hai của kế hoạch liên quan đến việc chuyển hướng nhân tạo của thiên thạch về vị trí chung của chúng. Một công ty khai thác vũ trụ từ Trái đất được trang bị tốt để làm như vậy với mức giá phù hợp."
 876668600250,The Enemy of My Enemy,Kẻ thù của kẻ thù của tôi
 662107929531,Our aggressive rival has already begun feeling the pain our combined efforts to cripple their supplies from Earth are inflicting. ,Đối thủ hung hãn của chúng ta đã bắt đầu cảm thấy nỗi đau mà những nỗ lực kết hợp của chúng ta nhằm làm tê liệt nguồn cung cấp từ Trái đất của họ đang gây ra.
 833776512435,Do it!,Làm đi!
@@ -16692,7 +16692,7 @@ Giai đoạn thứ ba chờ cam kết tài chính. Nó liên quan đến việc 
 518087214982,"destroy <DisplayName>'s colony, morale penalty to all colonists","phá hủy căn cứ của <DisplayName>, trừng phạt tinh thần cho tất cả cư dân"
 579553825643,We will not take part in this.,Chúng ta sẽ không tham gia vào việc này.
 895481078410,"destroy <DisplayName>'s colony, -35 standing with other colonies","phá hủy căn cứ của <DisplayName>, -35 vị thế với căn cứ khác"
-171713515008,"We have gone too far, we must stop this. We will pay to hinder offensive efforts!","Chúng ta đã đi quá xa, chúng ta phải dừng việc này lại. Chúng ta sẽ trả tiền để cản trở các nỗ lực tấn công!"
+171713515008,"We have gone too far, we must stop this. We will pay to hinder offensive efforts!","Chúng ta đã đi quá xa, chúng ta phải dừng việc này lại. Chúng ta sẽ trả tiền để cản trở nỗ lực tấn công!"
 308073053536,"save <DisplayName>'s colony, -50 standing with other colonies, morale boost to all colonists","cứu căn cứ của <DisplayName>, -50 vị thế với căn cứ khác, nâng cao tinh thần cho tất cả cư dân"
 946152517216,The agents of <DisplayName> sabotaged our Factories,Đặc vụ của <DisplayName> đã phá hoại nhà máy của chúng ta
 605796911479,<DisplayName> will no longer sabotage our buildings,<DisplayName> sẽ không còn phá hoại công trình của chúng ta nữa
@@ -16703,7 +16703,7 @@ Our experts have begun fixing the data block as we speak. However, preliminary a
 
 Because of the technical difficulties we are experiencing, it will cost us further research to name the culprit.","Một số cư dân đã bị giết.
 
-Các chuyên gia của chúng ta đã bắt đầu sửa khối dữ liệu khi chúng ta nói. Tuy nhiên, phân tích sơ bộ về vấn đề cho thấy đó là sự phá hoại từ các đối thủ của chúng ta ở đây trên sao Hỏa.
+Chuyên gia của chúng ta đã bắt đầu sửa khối dữ liệu khi chúng ta nói. Tuy nhiên, phân tích sơ bộ về vấn đề cho thấy đó là sự phá hoại từ đối thủ của chúng ta ở đây trên sao Hỏa.
 
 Vì những khó khăn kỹ thuật mà chúng ta đang gặp phải, chúng ta sẽ phải mất thêm chi phí để nghiên cứu thêm để xác định tên thủ phạm."
 682214453123,Grudge,Hận thù
@@ -16755,7 +16755,7 @@ Chúng ta cần sự chấp thuận của bạn để tiếp tục với kế ho
 135944004563,A senior professor from another colony wants to move to our wonderful home.,Một giáo sư cao cấp từ căn cứ khác muốn chuyển đến ngôi nhà tuyệt vời của chúng ta.
 916938607264,He is welcome! I'll do everything in my power to ensure he arrives safe and sound.,Anh ấy được chào đón! Tôi sẽ làm mọi thứ trong khả năng của mình để đảm bảo anh ấy đến nơi an toàn và bình yên.
 540612401022,gain a Senior Genius Scientist with Chronic Condition,đạt được Nhà khoa học thiên tài cao cấp với tình trạng mãn tính
-475900573395,I admire his works too much to be able to take this risk.,Tôi ngưỡng mộ các tác phẩm của anh ấy quá mới có thể mạo hiểm như thế này.
+475900573395,I admire his works too much to be able to take this risk.,Tôi ngưỡng mộ tác phẩm của anh ấy quá mới có thể mạo hiểm như thế này.
 751398824567,unknown consequences,hậu quả chưa biết
 708411689908,"The old professor who planned to live in our colony died peacefully in his sleep. The neighbor colony informed you that in his last will he gifted his last works to us. 
 
@@ -16771,7 +16771,7 @@ Chúng ta đã đạt được <research(research_genius)> Nghiên cứu."
 881637648810,all Colonists gain <morale_gain> Morale for <sols(morale_sols)> Sols,tất cả cư dân đều đạt được <morale_gain> tinh thần trong <sols(morale_sols)> Sol
 622193096832,"Friends will be friends, but the colony's security comes first.","Bạn bè sẽ là bạn bè, nhưng an ninh của căn cứ được đặt lên hàng đầu."
 523031872355,all Security Officers gain <morale_gain_high> Morale for <sols(morale_sols)> Sols ,tất cả Nhân viên an ninh đều đạt được <morale_gain_high> tinh thần trong <sols(morale_sols)> Sol
-841316990431,"""We were here first!"" They threaten to sabotage and destroy the useful resources on site rather than allow us to claim even a tiny portion of them.","""Chúng ta đã ở đây đầu tiên!"" Họ đe dọa phá hoại và phá hủy các tài nguyên hữu ích trên địa điểm thay vì cho phép chúng ta xác nhận quyền sở hữu dù chỉ một phần nhỏ trong số đó."
+841316990431,"""We were here first!"" They threaten to sabotage and destroy the useful resources on site rather than allow us to claim even a tiny portion of them.","""Chúng ta đã ở đây đầu tiên!"" Họ đe dọa phá hoại và phá hủy tài nguyên hữu ích trên địa điểm thay vì cho phép chúng ta xác nhận quyền sở hữu dù chỉ một phần nhỏ trong số đó."
 876197263027,Hot Potato,Khoai tây nóng
 882827753693,"The expedition encountered personnel from a rival Colony. The rivals are hostile and uncooperative, claiming they have exclusive rights on exploiting the Anomaly site.","Cuộc do thám gặp phải nhân viên từ căn cứ đối thủ. Đối thủ thù địch và bất hợp tác, tuyên bố họ có độc quyền khai thác địa điểm dị thường."
 716263346905,Teach them a lesson – but be careful!,Hãy dạy cho họ một bài học - nhưng hãy cẩn thận!
@@ -16779,10 +16779,10 @@ Chúng ta đã đạt được <research(research_genius)> Nghiên cứu."
 243649652604,"After your decisive actions, the rival expedition quickly packs up and goes.","Sau những hành động quyết đoán của bạn, đoàn do thám đối thủ nhanh chóng thu dọn đồ đạc và lên đường."
 153091663134,"Advancing in a line towards the rivals, with tools risen up menacingly was enough for them to lose courage and beat it. Finally you can explore the riches of Mars.
 
-<effect>The expedition will return with <metals(metals_gained)> and <polymers(polymers_gained)>.","Tiến theo một đường thẳng về phía đối thủ, với các công cụ vươn lên đầy uy hiếp là đủ để họ mất can đảm và đánh bại nó. Cuối cùng, bạn có thể khám phá sự giàu có của sao Hỏa.
+<effect>The expedition will return with <metals(metals_gained)> and <polymers(polymers_gained)>.","Tiến theo một đường thẳng về phía đối thủ, với công cụ vươn lên đầy uy hiếp là đủ để họ mất can đảm và đánh bại nó. Cuối cùng, bạn có thể khám phá sự giàu có của sao Hỏa.
 
 <effect>Cuộc do thám sẽ trở lại với <metals(metals_gained)> và <polymers(polymers_gained)>."
-653207905774,The rivals turned out to be far more aggressive and determined than you thought. After a short brawl you are forced to retreat.,Các đối thủ hóa ra hung hãn và quyết tâm hơn bạn tưởng rất nhiều. Sau một cuộc ẩu đả ngắn, bạn buộc phải rút lui.
+653207905774,The rivals turned out to be far more aggressive and determined than you thought. After a short brawl you are forced to retreat.,Đối thủ hóa ra hung hãn và quyết tâm hơn bạn tưởng rất nhiều. Sau một cuộc ẩu đả ngắn, bạn buộc phải rút lui.
 818271477589,"No serious damage was caused, but the repair and recovery time will surely allow the rival expedition to claim rights of the location.
 
 <effect>The expedition will return with a delay.","Không có thiệt hại nghiêm trọng nào được gây ra, nhưng thời gian sửa chữa và phục hồi chắc chắn sẽ cho phép đoàn do thám đối thủ đòi quyền sở hữu vị trí.
@@ -16800,7 +16800,7 @@ Chúng ta đã đạt được <research(research_genius)> Nghiên cứu."
 <effect>Bạn đã đạt được <research(research_political)>."
 497986255740,"The hassle was worth it, for the anomaly revealed unseen wonders of science and opened up a new path of thinking for your Scientists.
 
-<effect>A new Breakthrough tech has become available.","Sự phức tạp là xứng đáng, vì sự bất thường đã tiết lộ những điều kỳ diệu chưa từng thấy của khoa học và mở ra một hướng tư duy mới cho các Nhà khoa học của bạn.
+<effect>A new Breakthrough tech has become available.","Sự phức tạp là xứng đáng, vì sự dị thường đã tiết lộ những điều kỳ diệu chưa từng thấy của khoa học và mở ra một hướng tư duy mới cho nhà khoa học của bạn.
 
 <effect>Một công nghệ đột phá mới đã có sẵn."
 391885111734,Make amends.,Đền bù.
@@ -16812,7 +16812,7 @@ Chúng ta đã đạt được <research(research_genius)> Nghiên cứu."
 993945870462,"The rival expedition receives new orders from their Commander, and after a couple of hours they pack up and leave.","Đoàn do thám đối thủ nhận được lệnh mới từ Chỉ huy của họ, và sau vài giờ họ thu dọn đồ đạc và rời đi."
 11210,"The hassle was worth it, for the anomaly revealed unseen wonders of science and opened up a new path of thinking for your scientists.
 
-<effect>A new Breakthrough tech has become available.","Sự phức tạp là xứng đáng, vì sự bất thường đã tiết lộ những điều kỳ diệu chưa từng thấy của khoa học và mở ra một hướng tư duy mới cho các nhà khoa học của bạn.
+<effect>A new Breakthrough tech has become available.","Sự phức tạp là xứng đáng, vì sự dị thường đã tiết lộ những điều kỳ diệu chưa từng thấy của khoa học và mở ra một hướng tư duy mới cho nhà khoa học của bạn.
 
 <effect>Một công nghệ đột phá mới đã có sẵn."
 709325202639,"The colony of <DisplayName> plans to build a giant mobile colony which would slowly crawl towards resource sites, harvest them and move forward when they are depleted. Even crazier, they expect that others will follow their example and in time bigger colonies would assimilate the smaller ones.
@@ -16838,22 +16838,22 @@ Những người khác nhằm mục đích kích động nhà y học và nhà k
  
 Cho đến khi tất cả tường lửa chạy lại, chúng ta chỉ có thể chặn một vài kênh. Một số sẽ phải tiếp tục trực tuyến trong một thời gian ngắn trong thời gian đó họ có thể và sẽ bị nhiều cư dân theo dõi."
 490815845053,Info Wars,Cuộc chiến thông tin
-615674236126,"Commander, an unknown rival is streaming propaganda videos at us - videos aimed at inciting discord between several classes of colonists.","Chỉ huy, một đối thủ không xác định đang phát trực tuyến các video tuyên truyền về chúng ta - các video nhằm mục đích kích động sự bất hòa giữa một số tầng lớp cư dân."
-570870101227,We can't afford to agitate the workers in factories and extractors.,Chúng ta không đủ khả năng để kích động công nhân trong các nhà máy và máy chiết xuất.
-821888202593,Medics and Scientists lose Morale for <sols(duration)> Sols,Các nhà y học và nhà khoa học mất tinh thần trong <sols(duration)> Sol
+615674236126,"Commander, an unknown rival is streaming propaganda videos at us - videos aimed at inciting discord between several classes of colonists.","Chỉ huy, một đối thủ không xác định đang phát trực tuyến video tuyên truyền về chúng ta - video nhằm mục đích kích động sự bất hòa giữa một số tầng lớp cư dân."
+570870101227,We can't afford to agitate the workers in factories and extractors.,Chúng ta không đủ khả năng để kích động công nhân trong nhà máy và máy chiết xuất.
+821888202593,Medics and Scientists lose Morale for <sols(duration)> Sols,Nhà y học và nhà khoa học mất tinh thần trong <sols(duration)> Sol
 974841578922,The Morale in our infirmaries and labs is a top priority.,Tinh thần trong bệnh xá và phòng thí nghiệm của chúng ta là ưu tiên hàng đầu.
-767657497786,Geologists and Engineers lose Morale for <sols(duration)> Sols,Các nhà địa chất và kỹ sư mất tinh thần trong <sols(duration)> Sol
+767657497786,Geologists and Engineers lose Morale for <sols(duration)> Sols,Nhà địa chất và kỹ sư mất tinh thần trong <sols(duration)> Sol
 956894834772,"With so many devices found it is safe to assume that our rivals have stepped up their technological espionage game. 
 
-Common sense dictates we close our Labs to sniff out all spy devices.","Với rất nhiều thiết bị được tìm thấy, thật an toàn khi cho rằng các đối thủ của chúng ta đã tăng cường trò chơi gián điệp công nghệ của họ.
+Common sense dictates we close our Labs to sniff out all spy devices.","Với rất nhiều thiết bị được tìm thấy, thật an toàn khi cho rằng đối thủ của chúng ta đã tăng cường trò chơi gián điệp công nghệ của họ.
 
-Theo lẽ thường, chúng ta phải đóng Phòng thí nghiệm của mình để phát hiện ra tất cả các thiết bị gián điệp."
+Theo lẽ thường, chúng ta phải đóng Phòng thí nghiệm của mình để phát hiện ra tất cả thiết bị gián điệp."
 870813993056,Lab Cleaning,Vệ sinh phòng thí nghiệm
 416298578291,"Worried Scientists have found spying devices in not one, but three of our labs!","Lo lắng nhà khoa học đã tìm thấy thiết bị gián điệp trong không chỉ một, mà là ba phòng thí nghiệm của chúng ta!"
-558521727835,I've never been a fan of common sense. The labs continue to work while the cleaning takes place.,Tôi chưa bao giờ là một fan hâm mộ của lẽ thường. Các phòng thí nghiệm vẫn tiếp tục hoạt động trong khi việc dọn dẹp diễn ra.
+558521727835,I've never been a fan of common sense. The labs continue to work while the cleaning takes place.,Tôi chưa bao giờ là một fan hâm mộ của lẽ thường. Phòng thí nghiệm vẫn tiếp tục hoạt động trong khi việc dọn dẹp diễn ra.
 589133844367,output of research buildings set to <hinder>% for <sols(duration_work_and_clean)> Sols,đầu ra của công trình nghiên cứu được đặt thành <hinder>% trong <sols(duration_work_and_clean)> Sol
-241669598841,Close all labs down and rid them of these devices.,Đóng tất cả các phòng thí nghiệm và loại bỏ chúng khỏi các thiết bị này.
-111518773822,research buildings closed for <sols(duration__clean)> Sols,các công trình nghiên cứu đã đóng trong <sols(duration__clean)> Sol
+241669598841,Close all labs down and rid them of these devices.,Đóng tất cả phòng thí nghiệm và loại bỏ chúng khỏi thiết bị này.
+111518773822,research buildings closed for <sols(duration__clean)> Sols,công trình nghiên cứu đã đóng trong <sols(duration__clean)> Sol
 290935763542,"""Live music! Low-G dancing! Masked ball and romance! Come to the Colony of <DisplayName> and experience the greatest carnival beyond Earth! Let's make Mars the god of beauty!""
 
 You look thoughtfully at the small crowd discussing the poster. People look excited.","""Nhạc sống! Khiêu vũ Low-G! Bóng mặt nạ và sự lãng mạn! Hãy đến căn cứ <DisplayName> và trải nghiệm lễ hội lớn nhất ngoài Trái đất! Hãy làm cho sao Hỏa trở thành vị thần của sắc đẹp!""
@@ -16892,7 +16892,7 @@ Căn cứ của <DisplayName> cung cấp khoản thanh toán hậu hĩnh và l�
 
 ""Our colony is in chaos"", they say. ""Please let us in, or send help.""","Một Rover bị đánh cắp đã đến từ căn cứ bị nhiễm của <DisplayName>. Một cư dân và một đứa trẻ trong bộ đồ bảo hộ đang nắm tay nhau trước cửa gió của mái vòm của bạn. Họ trông sợ hãi.
 
-""Căn cứ của chúng ta đang hỗn loạn"", họ nói. ""Xin vui lòng cho chúng tôi vào, hoặc gửi trợ giúp."""
+""Căn cứ của chúng ta đang hỗn loạn"", họ nói. ""Xin vui lòng cho chúng ta vào, hoặc gửi trợ giúp."""
 333794325450,Disease,Dịch bệnh
 659408350000,A virulent disease is spreading in another Colony.,Một căn bệnh hại đang lây lan ở một căn cứ khác.
 616089023137,Send medical workers to help contain the outbreak.,Cử nhân viên y tế giúp ngăn chặn ổ dịch.
@@ -16901,14 +16901,14 @@ Căn cứ của <DisplayName> cung cấp khoản thanh toán hậu hĩnh và l�
 681918177524,"all Colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols, -25 Standing","tất cả cư dân mất <morale_loss> tinh thần trong <sols(morale_sols)> Sol, -25 Vị thế"
 674859750610,Accept some refugees under strict medical supervision.,Chấp nhận một số người tị nạn dưới sự giám sát y tế nghiêm ngặt.
 826898813386,"gain <workers_gain_high> Colonists, 10% of all Colonists get Chronic Condition","đạt được <workers_gain_high> cư dân, 10% của tất cả cư dân nhận được Tình trạng mãn tính"
-603486395757,Send Drones operated by our Medics.,Gửi Drone do Y tế của chúng tôi vận hành.
+603486395757,Send Drones operated by our Medics.,Gửi Drone do Y tế của chúng ta vận hành.
 249331351368,"lose 2 Drones and <workers_loss_low>% Medics, all Colonists gain <morale_gain> Morale for <sols(morale_sols)> Sols","mất 2 Drone và <workers_loss_low>% Y tế, tất cả cư dân đạt được <morale_gain> tinh thần trong <sols(morale_sols)> Sol"
-140773168925,Send trained Officers to help restore order.,Cử các nhân viên được đào tạo để giúp khôi phục trật tự.
+140773168925,Send trained Officers to help restore order.,Cử nhân viên được đào tạo để giúp khôi phục trật tự.
 905732186114,"lose 5 Security Officers, unknown consequences","mất 5 nhân viên an ninh, chưa rõ hậu quả"
 11379,They are back!,Họ đã trở lại!
 241534666729,"Our Security Officers who were sent to help the infected colony have now returned home. They have passed all medical checks and it is confirmed they are not contaminated.
 
-Only in their eyes and harsh faces you can see the horrors they have witnessed...","Các nhân viên an ninh của chúng tôi, những người được cử đến để giúp đỡ khu vực bị nhiễm bệnh hiện đã trở về nhà. Họ đã vượt qua tất cả cuộc kiểm tra y tế và được xác nhận là họ không bị nhiễm.
+Only in their eyes and harsh faces you can see the horrors they have witnessed...","Nhân viên an ninh của chúng ta, những người được cử đến để giúp đỡ khu vực bị nhiễm bệnh hiện đã trở về nhà. Họ đã vượt qua tất cả cuộc kiểm tra y tế và được xác nhận là họ không bị nhiễm.
 
 Chỉ trong ánh mắt và khuôn mặt khắc nghiệt của họ, bạn có thể thấy sự khủng khiếp mà họ đã chứng kiến..."
 267969663427,Disease,Dịch bệnh
@@ -16916,14 +16916,14 @@ Chỉ trong ánh mắt và khuôn mặt khắc nghiệt của họ, bạn có th
 
 Your trade agent from Earth is worried enough to make a direct call. The 14-minutes pause until each other's words are delivered gives you enough time to think on your marketing strategy.","Bạn thấy số liệu thống kê thị trường hàng ngày và nhận thấy một xu hướng đáng báo động. Căn cứ <DisplayName> đã bắt đầu một cuộc chiến thương mại với bạn, tràn ngập thị trường với Kim loại hiếm, được cung cấp với giá thấp hơn nhiều.
 
-Đại lý thương mại của bạn từ Trái đất đủ lo lắng để thực hiện một cuộc gọi trực tiếp. 14 phút tạm dừng cho đến khi các từ của nhau được chuyển giao cho bạn đủ thời gian để suy nghĩ về chiến lược tiếp thị của mình."
+Đại lý thương mại của bạn từ Trái đất đủ lo lắng để thực hiện một cuộc gọi trực tiếp. 14 phút tạm dừng cho đến khi từ của nhau được chuyển giao cho bạn đủ thời gian để suy nghĩ về chiến lược tiếp thị của mình."
 625389651212,Dumping,Bán phá giá
 471283925764,Another Colony is selling Rare Metals at a much lower price.,Một căn cứ khác đang bán Kim loại hiếm với giá thấp hơn nhiều.
-974120987529,They can't keep this up for long. We can wait.,Họ không thể duy trì điều này lâu. Chúng tôi có thể chờ.
+974120987529,They can't keep this up for long. We can wait.,Họ không thể duy trì điều này lâu. Chúng ta có thể chờ.
 390117394390,"Rare Metals price -25% for 20 Sols, +25 Standing","Giá kim loại hiếm -25% trong 20 Sol, +25 Vị thế"
 322820556479,We can organize some stock market shenanigans to press them.,Chúng ta có thể tổ chức một số trò tai quái trên thị trường chứng khoán để ép chúng.
 858166211394,-25 Standing,-25 Vị thế
-330065851839,We can work out a barter deal with our trade partners.,Chúng tôi có thể thực hiện một thỏa thuận đổi hàng với đối tác thương mại của chúng tôi.
+330065851839,We can work out a barter deal with our trade partners.,Chúng ta có thể thực hiện một thỏa thuận đổi hàng với đối tác thương mại của chúng ta.
 512348974064,Rare Metals price -25% and advanced resources price -20% for 20 Sols,Giá kim loại hiếm -25% và giá tài nguyên nâng cao -20% trong 20 Sol
 518697370974,Isn't that cute! We can easily dump the prices even lower!,Thật đáng yêu phải không! Chúng ta có thể dễ dàng bán giá thấp hơn nữa!
 372503623054,Rare Metals price -50% for 10 Sols and then +25% for next 10 Sols,Giá kim loại hiếm -50% trong 10 Sol và sau đó +25% cho 10 Sol tiếp theo
@@ -16934,7 +16934,7 @@ Your trade agent from Earth is worried enough to make a direct call. The 14-minu
 
 Rare Metals price +<price_increase_small>% for 10 Sols.
 
-","Chiến lược của chúng tôi rất thành công. Các đối thủ của chúng tôi đã không thể theo kịp và bây giờ chúng tôi đang chiếm ưu thế.
+","Chiến lược của chúng ta rất thành công. Đối thủ của chúng ta đã không thể theo kịp và bây giờ chúng ta đang chiếm ưu thế.
 
 Giá kim loại hiếm +<price_increase_small>% trong 10 Sol.
 
@@ -16945,103 +16945,128 @@ Giá kim loại hiếm +<price_increase_small>% trong 10 Sol.
 802914025413,Dumping,Bán phá giá
 168963830344,"Starvation is a constant threat on this untamed planet. The colony of <DisplayName> was coping well for a while, but recent reports estimate they can't really handle their agriculture development. 
 
-It's just a matter of time before things get out of hand.","Starvation is a constant threat on this untamed planet. The colony of <DisplayName> was coping well for a while, but recent reports estimate they can't really handle their agriculture development. 
+It's just a matter of time before things get out of hand.","Đói là một mối đe dọa thường xuyên trên hành tinh chưa được thuần hóa này. Căn cứ của <DisplayName> đã đối phó tốt trong một thời gian, nhưng báo cáo gần đây ước tính rằng họ không thể thực sự xử lý việc phát triển nông nghiệp của mình.
 
-It's just a matter of time before things get out of hand."
-448378940309,Famine,
-725695711095,Another Colony is having trouble growing their crops.,
-872319610905,Send some of our Botanists to help. Teach a man to fish...,
-565925141715,"lose <workers_loss>% Botanists, +25 Standing",
-402889276224,No one said that surviving Mars is easy. We can't spare these specialists.,
-958343383659,"all Colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols, -25 Standing",
-300535830667,Invite over some of them. We can feed everyone.,
-648065774544,gain <workers_gain_low> Glutton Colonists,
-744748795353,Send some of our people to teach them. ,
-566319685150,"lose <workers_loss>% Vegans, all Colonists gain <morale_gain> Morale for <sols(morale_sols)> Sols",
-431493845284,Feed the hungry and help those in trouble.,
-394223488769,gain <workers_gain_high> Religious Glutton Colonists,
+Vấn đề chỉ là thời gian trước khi mọi thứ vượt khỏi tầm tay."
+448378940309,Famine,Nạn đói
+725695711095,Another Colony is having trouble growing their crops.,Một căn cứ khác đang gặp khó khăn khi trồng trọt.
+872319610905,Send some of our Botanists to help. Teach a man to fish...,Gửi một số nhà thực vật học của chúng ta để giúp đỡ. Dạy một người câu cá...
+565925141715,"lose <workers_loss>% Botanists, +25 Standing","mất <workers_loss>% nhà thực vật học, +25 Vị thế"
+402889276224,No one said that surviving Mars is easy. We can't spare these specialists.,Không ai nói rằng sống sót trên sao Hỏa là dễ dàng. Chúng ta không thể bỏ qua những chuyên gia này.
+958343383659,"all Colonists lose <morale_loss> Morale for <sols(morale_sols)> Sols, -25 Standing","tất cả cư dân mất <morale_loss> tinh thần trong <sols(morale_sols)> Sol, -25 Vị thế"
+300535830667,Invite over some of them. We can feed everyone.,Mời qua một số người trong số họ. Chúng ta có thể nuôi tất cả mọi người.
+648065774544,gain <workers_gain_low> Glutton Colonists,đạt được <workers_gain_low> cư dân Tham ăn
+744748795353,Send some of our people to teach them. ,Gửi một số người của chúng ta để dạy họ.
+566319685150,"lose <workers_loss>% Vegans, all Colonists gain <morale_gain> Morale for <sols(morale_sols)> Sols","mất <workers_loss>% Người ăn chay, tất cả cư dân đạt được <morale_gain> tinh thần trong <sols(morale_sols)> Sol"
+431493845284,Feed the hungry and help those in trouble.,Cho người đói ăn và giúp đỡ những người gặp khó khăn.
+394223488769,gain <workers_gain_high> Religious Glutton Colonists,đạt được <workers_gain_high> cư dân tôn giáo tham ăn
 751299841872,"""Come to watch the MarsCraft Tournament LIVE! The most immersive gaming experience in the Solar system awaits you! Sponsored by the colony of <DisplayName>.""
 
-This ad runs on some of the most renowned TV channels on Earth. Your secretary is in shock that there are people willing to travel to Mars in order to live watch some stupid game.",
-858995617253,Gaming Tournament,
-728445887608,"Another Colony is organizing a large scale  gaming competition, highly anticipated by all Gamer Colonists.",
-833977738104,Surviving Mars is not a game!,
-410222801374,"lose <workers_loss>% Gamers, +25 Standing",
-880287517772,We can make our own gaming tournament!,
-645440555098,"gain <workers_gain> Gamer Colonists, -25 Standing",
-170243762737,We'll gather a team to participate and try to take the grand reward!,
-943272785189,Gamer Colonists have chance to lose or gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols,
+This ad runs on some of the most renowned TV channels on Earth. Your secretary is in shock that there are people willing to travel to Mars in order to live watch some stupid game.","""Hãy đến để xem Giải đấu MarsCraft TRỰC TIẾP! Trải nghiệm chơi game nhập vai nhất trong Hệ mặt trời đang chờ bạn! Được tài trợ bởi căn cứ của <DisplayName>.""
+
+Quảng cáo này chạy trên một số kênh truyền hình nổi tiếng nhất trên Trái đất. Thư ký của bạn bị sốc khi có người sẵn sàng đi du lịch đến sao Hỏa để xem trực tiếp một trò chơi ngu ngốc nào đó."
+858995617253,Gaming Tournament,Giải đấu trò chơi
+728445887608,"Another Colony is organizing a large scale  gaming competition, highly anticipated by all Gamer Colonists.","Căn cứ khác đang tổ chức một cuộc thi chơi game quy mô lớn, được tất cả cư dân Game thủ vô cùng mong đợi."
+833977738104,Surviving Mars is not a game!,Sống sót trên sao Hỏa không phải là một trò chơi!
+410222801374,"lose <workers_loss>% Gamers, +25 Standing","mất <workers_loss>% Game thủ, +25 Vị thế"
+880287517772,We can make our own gaming tournament!,Chúng ta có thể tạo giải đấu trò chơi của riêng mình!
+645440555098,"gain <workers_gain> Gamer Colonists, -25 Standing","đạt được <workers_gain> cư dân game thủ, -25 Vị thế"
+170243762737,We'll gather a team to participate and try to take the grand reward!,Chúng ta sẽ tập hợp một đội để tham gia và cố gắng giành lấy phần thưởng lớn!
+943272785189,Gamer Colonists have chance to lose or gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols,Cư dân game thủ có cơ hội mất hoặc đạt được <morale_gain> tinh thần trong <sols(morale_loss_sols)> Sol
 12183,"Our team has played well, but we lost the MarsCraft Tournament. 
 GG.
 
-All Gamer Colonists lose <morale_loss> Morale for <sols(morale_loss_sols)> Sols.",
-249232537467,We won!,
+All Gamer Colonists lose <morale_loss> Morale for <sols(morale_loss_sols)> Sols.","Đội của chúng ta đã chơi tốt, nhưng chúng ta đã thua trong Giải đấu MarsCraft.
+GG.
+
+Tất cả cư dân game thủ mất <morale_loss> tinh thần trong <sols(morale_loss_sols)> Sol."
+249232537467,We won!,Chúng ta đã thắng!
 567349487469,"Our team smashed the competition and we won the grand prize of the MarsCraft Tournament!
 
-All Gamer Colonists gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols.",
-619871005385,We’ll make a Game Design Tournament instead!,
-406668991133,"gain <workers_gain> Enthusiast Gamer Colonists, all Gamers gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols",
-305858618026,Let's see if they can compete with our low-G giant fighting robots competition!,
-251297548217,"lose 3 Drones, gain <applicants_gain_high> Tourist and <applicants_gain_low> Engineer Enthusiast Applicants",
+All Gamer Colonists gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols.","Đội của chúng ta đã vượt qua cuộc thi và chúng ta đã giành được giải thưởng lớn của Giải đấu MarsCraft!
+
+Tất cả cư dân game thủ đạt được <morale_gain> tinh thần trong <sols(morale_loss_sols)> Sol."
+619871005385,We’ll make a Game Design Tournament instead!,Thay vào đó, chúng ta sẽ thực hiện một Giải đấu thiết kế trò chơi!
+406668991133,"gain <workers_gain> Enthusiast Gamer Colonists, all Gamers gain <morale_gain> Morale for <sols(morale_loss_sols)> Sols","đạt được <workers_gain> cư dân game thủ nhiệt tình, tất cả game thủ đạt được <morale_gain> tinh thần trong <sols(morale_loss_sols)> Sol"
+305858618026,Let's see if they can compete with our low-G giant fighting robots competition!,Hãy xem liệu họ có thể cạnh tranh với cuộc thi rô bốt chiến đấu khổng lồ low-G của chúng ta không!
+251297548217,"lose 3 Drones, gain <applicants_gain_high> Tourist and <applicants_gain_low> Engineer Enthusiast Applicants","mất 3 Drone, đạt được <applicants_gain_high> Du khách và <applicants_gain_low> Ứng viên kỹ sư nhiệt tình"
 862572768671,"""Dear Dr. Oddlove"", says an email, redirected to you by a loyal Scientist. ""We have built this amazing research facility of the future! The only thing it needs is the expertise of a renowned academic like you. We cordially invite you to join us and....""
 
-Agents from the colony of <DisplayName> have contacted some of our leading scientists with offers to join them or at least sell out our research secrets.",
-730326869752,Industrial Espionage,
-126212567944,Another Colony is trying to steal our Scientists.,
-894268794619,"Okay, but there is a contractual penalty for failure to fulfill obligations.",
-775743523592,"lose <workers_loss>% Scientists, +25 Standing",
-649348400984,See the small print on this contract? They can't leave.,
-224808346980,"all Scientists lose <morale_loss> Morale for 10 Sols, -25 Standing",
-214582571093,"Okay, but they must send back secret reports of their work. Mutually assured deception!",
-353801335070,"lose <workers_bigloss>% Scientists, Research boost by 2% in a random field",
-426104918446,Send some of our Scientists as double agents.,
-684299602852,"lose <workers_bigloss>% Scientists, Research boost by 5% in a random field",
-147904720324,Our Officers should be able to pass as Scientists and steal their secrets.,
-269464503414,"lose <workers_loss>% Security Officers, Research boost by 3% in a random field",
+Agents from the colony of <DisplayName> have contacted some of our leading scientists with offers to join them or at least sell out our research secrets.","""Kính gửi Tiến sĩ Oddlove"", email nói, được chuyển hướng đến bạn bởi một Nhà khoa học trung thành. ""Chúng ta đã xây dựng cơ sở nghiên cứu tuyệt vời này của tương lai! Điều duy nhất nó cần là chuyên môn của một học giả nổi tiếng như bạn. Chúng ta xin trân trọng kính mời quý vị đến tham gia và....""
+
+Đặc vụ từ căn cứ của <DisplayName> đã liên hệ với một số nhà khoa học hàng đầu của chúng ta với lời đề nghị tham gia cùng họ hoặc ít nhất là bán bí mật nghiên cứu của chúng ta."
+730326869752,Industrial Espionage,Gián điệp công nghiệp
+126212567944,Another Colony is trying to steal our Scientists.,Một căn cứ khác đang cố gắng ăn cắp nhà khoa học của chúng ta.
+894268794619,"Okay, but there is a contractual penalty for failure to fulfill obligations.","Được rồi, nhưng có một khoản phạt theo hợp đồng nếu không hoàn thành nghĩa vụ."
+775743523592,"lose <workers_loss>% Scientists, +25 Standing","mất <workers_loss>% nhà khoa học, +25 Vị thế"
+649348400984,See the small print on this contract? They can't leave.,Xem bản in nhỏ trên hợp đồng này? Họ không thể rời đi.
+224808346980,"all Scientists lose <morale_loss> Morale for 10 Sols, -25 Standing","tất cả nhà khoa học mất <morale_loss> tinh thần trong 10 Sol, -25 Vị thế"
+214582571093,"Okay, but they must send back secret reports of their work. Mutually assured deception!","Được rồi, nhưng họ phải gửi lại báo cáo bí mật về công việc của họ. Sự lừa dối được đảm bảo lẫn nhau!"
+353801335070,"lose <workers_bigloss>% Scientists, Research boost by 2% in a random field","mất <workers_bigloss>% nhà khoa học, Nghiên cứu tăng 2% trong một trường ngẫu nhiên"
+426104918446,Send some of our Scientists as double agents.,Gửi một số Nhà khoa học của chúng ta làm điệp viên kép.
+684299602852,"lose <workers_bigloss>% Scientists, Research boost by 5% in a random field","mất <workers_bigloss>% nhà khoa học, Nghiên cứu tăng 5% trong một trường ngẫu nhiên"
+147904720324,Our Officers should be able to pass as Scientists and steal their secrets.,Sĩ quan của chúng ta sẽ có thể đi qua với tư cách là nhà khoa học và đánh cắp bí mật của họ.
+269464503414,"lose <workers_loss>% Security Officers, Research boost by 3% in a random field","mất <workers_loss>% Nhân viên an ninh, Nghiên cứu tăng 3% trong một trường ngẫu nhiên"
 887038231245,"This person from the colony of <DisplayName> claims to be a Messiah and a miracle-worker, gathering an increasing number of followers with each Dome visited.
 
-Now this person decided to come to our colony and “convert it to the true faith”. The prophet wants your colonists to repent and change their wicked ways.",
-692289745782,New Messiah,
-350040505389,There is a religious prophet trying to convert our colonists to a new cult.,
-545722464627,Our colony respects the freedom of religious views.,
-422372040214,"gain a Guru and <apostles_count> Religious Renegade Colonists, +25 Standing",
-731097854644,You shall not pass! Access denied.,
-433477849989,"lose <religious_loss>% Religious Colonists, -25 Standing",
-764787329940,We will accept their teachings as our official religion.,
-450435239579,"<renegades_gain>% of all Religious become Renegades, gain a Guru and <apostles_count> Religious Colonists",
-135054534094,Nobody expects the Martian inquisition!,
-372811336467,gain a Saint and two Religious Colonists,
-537609887951,Cardinal Ximenez,
-770025930490,Cardinal Biggles,
-850059201779,Cardinal Fang,
+Now this person decided to come to our colony and “convert it to the true faith”. The prophet wants your colonists to repent and change their wicked ways.","Người này đến từ căn cứ của <DisplayName> tự nhận mình là đấng cứu thế và người làm phép lạ, thu thập ngày càng nhiều người theo dõi mỗi mái vòm ghé thăm.
+
+Bây giờ người này quyết định đến căn cứ của chúng ta và “chuyển đổi nó thành đức tin chân chính”. Nhà tiên tri muốn cư dân của bạn ăn năn và thay đổi đường lối gian ác của họ."
+692289745782,New Messiah,Đấng cứu thế mới
+350040505389,There is a religious prophet trying to convert our colonists to a new cult.,Có nhà tiên tri tôn giáo đang cố gắng chuyển đổi cư dân của chúng ta sang giáo phái mới.
+545722464627,Our colony respects the freedom of religious views.,Căn cứ của chúng ta tôn trọng tự do quan điểm tôn giáo.
+422372040214,"gain a Guru and <apostles_count> Religious Renegade Colonists, +25 Standing","đạt được một Guru và <apostles_count> cư dân tôn giáo nổi loạn, +25 Vị thế"
+731097854644,You shall not pass! Access denied.,Bạn sẽ không vượt qua! Quyền truy cập bị từ chối.
+433477849989,"lose <religious_loss>% Religious Colonists, -25 Standing","mất <religious_loss>% Cư dân tôn giáo, -25 Vị thế"
+764787329940,We will accept their teachings as our official religion.,Chúng ta sẽ chấp nhận giáo lý của họ như là tôn giáo chính thức của chúng ta.
+450435239579,"<renegades_gain>% of all Religious become Renegades, gain a Guru and <apostles_count> Religious Colonists","<renegades_gain>% của tất cả tôn giáo trở thành nổi loạn, đạt được một Guru và <apostles_count> cư dân tôn giáo"
+135054534094,Nobody expects the Martian inquisition!,Không ai mong đợi tòa án dị giáo trên sao Hỏa!
+372811336467,gain a Saint and two Religious Colonists,đạt được Thánh và hai cư dân tôn giáo
+537609887951,Cardinal Ximenez,Hồng y Ximenez
+770025930490,Cardinal Biggles,Hồng y Biggles
+850059201779,Cardinal Fang,Hồng y Fang
 326321956389,"Communications with the rocket are purely on the machine level as attempts to establish contact with any potential crew have so far gone unanswered. As no one is making claim of ownership over the rocket and there are no visible insignia to identify its origin, we are in position to do as we wish.
 
-Just a word of caution, in these competitive times, trickery and acts of sabotage are not above anyone - even here on Mars.",
-768331944087,The Mysterious Rocket,
-700971864695,A mystery Rocket has entered orbit and is signaling readiness to make touchdown.,
-193876362971,There may be helpless crew members onboard. Land the rocket immediately! ,
-546824435598,Observe the Rocket for a Sol or two and land it afterwards.,
-544417467170,Remember Homer’s Iliad? We are not falling for this old trick. Ignore it.,
+Just a word of caution, in these competitive times, trickery and acts of sabotage are not above anyone - even here on Mars.","Thông tin liên lạc với tên lửa hoàn toàn ở cấp độ máy móc vì những nỗ lực thiết lập liên lạc với bất kỳ phi hành đoàn tiềm năng nào cho đến nay vẫn chưa được trả lời. Vì không ai yêu cầu quyền sở hữu tên lửa và không có phù hiệu rõ ràng để xác định nguồn gốc của nó, chúng ta có thể làm như chúng ta muốn.
+
+Chỉ cần một lời cảnh báo, trong thời buổi cạnh tranh này, thủ đoạn và hành động phá hoại không ở trên bất kỳ ai - ngay cả ở đây trên sao Hỏa."
+768331944087,The Mysterious Rocket,Tên lửa bí ẩn
+700971864695,A mystery Rocket has entered orbit and is signaling readiness to make touchdown.,Một tên lửa bí ẩn đã đi vào quỹ đạo và đang báo hiệu sẵn sàng để thực hiện cuộc chạm trán.
+193876362971,There may be helpless crew members onboard. Land the rocket immediately! ,Có thể có thành viên phi hành đoàn bơ vơ trên tàu. Hạ cánh tên lửa ngay lập tức!
+546824435598,Observe the Rocket for a Sol or two and land it afterwards.,Quan sát Tên lửa để tìm một hoặc hai Sol và hạ cánh nó sau đó.
+544417467170,Remember Homer’s Iliad? We are not falling for this old trick. Ignore it.,Nhớ Homer’s Iliad? Chúng ta không dính thủ thuật cũ này. Bỏ mặc nó.
 616723366874,"The Rocket had ten passengers on board - all pronounced dead upon examination. 
 
 Something had damaged the Rocket just as it entered Mars's orbit and before the last of them lost consciousness from oxygen loss, they managed to send a distress call - a call we sadly ignored.
 
-<effect>All Colonists lose Morale.",
-102443717463,You finally land the mystery Rocket only to reveal a gruesome scene.,
-975777763871,I don't know what to say...,
+<effect>All Colonists lose Morale.","Tên lửa có mười hành khách trên khoang - tất cả đều đã chết khi khám nghiệm.
+
+Một cái gì đó đã làm hỏng tên lửa ngay khi nó đi vào quỹ đạo của sao Hỏa và trước khi tên lửa cuối cùng bất tỉnh vì mất ôxy, họ đã cố gắng gửi cuộc gọi khẩn cấp - cuộc gọi mà chúng ta buồn bã bỏ qua.
+
+<effect>Tất cả cư dân đều mất tinh thần."
+102443717463,You finally land the mystery Rocket only to reveal a gruesome scene.,Cuối cùng - bạn hạ cánh tên lửa bí ẩn chỉ để lộ ra một cảnh tượng khủng khiếp.
+975777763871,I don't know what to say...,Tôi không biết phải nói gì...
 458082495035,"The Rocket is unmanned. There are plenty of food supplies onboard, all of which seem to sport an odd mutation.
 
 Thorough examination of the supplies reveal a potent disease present, most probably meant to ruin our crops. Had we landed the Rocket sooner, we probably wouldn't have detected the corruption in time.
 
-Nothing to identify the perpetrators of what was obviously a sabotage attempt can be found inside the Rocket.",
-210019799915,You land the mystery Rocket and send an investigation team.,
-810711501379,Guess we dodged a bullet there.,
+Nothing to identify the perpetrators of what was obviously a sabotage attempt can be found inside the Rocket.","Tên lửa không có người lái. Có rất nhiều thực phẩm tiếp tế trên tàu, tất cả chúng dường như có một sự đột biến kỳ lạ.
+
+Kiểm tra kỹ lưỡng tiếp tế cho thấy một loại bệnh tiềm tàng đang hiện hữu, hầu hết có thể có ý nghĩa hủy hoại mùa màng của chúng ta. Nếu chúng ta hạ cánh Tên lửa sớm hơn, có lẽ chúng ta đã không phát hiện ra vụ bại hoại này kịp thời.
+
+Không có gì để xác định thủ phạm của những gì rõ ràng là một âm mưu phá hoại có thể được tìm thấy bên trong Tên lửa."
+210019799915,You land the mystery Rocket and send an investigation team.,Bạn hạ cánh tên lửa bí ẩn và cử một nhóm điều tra.
+810711501379,Guess we dodged a bullet there.,Đoán là chúng ta đã né một viên đạn ở đó.
 602616753960,"As they enter the rocket they find ten passengers in helpless condition but still alive. You quickly organize a rescue effort and bring the colonists to your colony for care.
 
 Later you learn that they were meant to reach a rival colony but had suffered technical difficulties during the trip. 
 
-Out of gratitude the rescued passengers have decided to stay with us.",
-213670900003,Immediately after landing the mystery Rocket you send a team to investigate.,
+Out of gratitude the rescued passengers have decided to stay with us.","Khi họ bước vào tên lửa, họ tìm thấy 10 hành khách trong tình trạng bất lực nhưng vẫn còn sống. Bạn nhanh chóng tổ chức một nỗ lực giải cứu và đưa cư dân đến căn cứ của bạn để chăm sóc.
+
+Sau đó, bạn biết rằng họ dự định đến căn cứ của đối thủ nhưng đã gặp khó khăn về kỹ thuật trong chuyến đi.
+
+Để tỏ lòng biết ơn, những hành khách được cứu đã quyết định ở lại với chúng ta."
+213670900003,Immediately after landing the mystery Rocket you send a team to investigate.,Ngay sau khi hạ cánh tên lửa bí ẩn - bạn cử một đội để điều tra.
 521257158336,The more the merrier! Welcome to your new home!,Càng nhiều càng tốt! Chào mừng bạn đến nhà mới của bạn!
 343235421524,"That's why everyone was so surprised to see blight affecting the crops.  The damage is extensive and will seriously lower performance of our food producing facilities until removed entirely.
 
@@ -17049,118 +17074,164 @@ After many hours of researching the nature of the mysterious plant disease its a
 
 Sadly, no clues pinpointing whom to put the blame on were found. We suspect some connection with the mysterious Rocket.
 
-<effect>All Farms and Hydroponic Farms have lowered performance for <sols(duration)> Sols.",
-921129262415,Food is grown in a very strictly controlled environment on Mars.,
-186936166432,Landing the Rocket was a hasty decision that we will regret for a while.,
-842207131418,Since nobody has contacted us and the Rocket has no insignia and all we will take advantage of this fortunate occurrence.,
-201124524393,"The mystery Rocket has landed, and it was filled with precious resources.",
-457584526063,"Cheers to you, universe!",
+<effect>All Farms and Hydroponic Farms have lowered performance for <sols(duration)> Sols.","Đó là lý do tại sao mọi người đều rất ngạc nhiên khi thấy bệnh bạc lá ảnh hưởng đến mùa màng. Thiệt hại là rất lớn và sẽ làm giảm nghiêm trọng hiệu suất của cơ sở sản xuất thực phẩm của chúng ta cho đến khi bị loại bỏ hoàn toàn.
+
+Sau nhiều giờ nghiên cứu bản chất của căn bệnh thực vật bí ẩn, bản chất nhân tạo của nó đã trở nên rõ ràng. Đây chẳng khác gì một hành động phá hoại căn cứ của chúng ta.
+
+Đáng buồn thay, không có manh mối nào xác định ai là kẻ chủ mưu. Chúng ta nghi ngờ có mối liên hệ nào đó với Tên lửa bí ẩn.
+
+<effect>Tất cả trang trại và trang trại thủy canh đã giảm hiệu suất trong <sols(duration)> Sol."
+921129262415,Food is grown in a very strictly controlled environment on Mars.,Thực phẩm được trồng trong môi trường được kiểm soát rất nghiêm ngặt trên sao Hỏa.
+186936166432,Landing the Rocket was a hasty decision that we will regret for a while.,Hạ cánh tên lửa là một quyết định vội vàng mà chúng ta sẽ phải hối hận trong một thời gian.
+842207131418,Since nobody has contacted us and the Rocket has no insignia and all we will take advantage of this fortunate occurrence.,Vì không ai liên hệ với chúng ta và tên lửa không có phù hiệu và tất cả chúng ta sẽ tận dụng sự may mắn này.
+201124524393,"The mystery Rocket has landed, and it was filled with precious resources.","Tên lửa bí ẩn đã hạ cánh, và nó chứa đầy tài nguyên quý."
+457584526063,"Cheers to you, universe!","Chúc mừng bạn, vũ trụ!"
 12251,"There are lots of food supplies inside, prepared and packaged for use on some Martian colony.
 
 Experts examined the food and concluded everything to be in order. 
 
-With nobody contacting us with claims over the rocket we will keep the supplies.",
-958467681159,You guide the Rocket's landing and send cautious investigators.,
-173381845546,Lady luck has smiled on us today.,
-11421,Mystery Rocket ready to land.,
-11422,Mystery Rocket ready to land.,
+With nobody contacting us with claims over the rocket we will keep the supplies.","Có rất nhiều thực phẩm tiếp tế bên trong, được chuẩn bị và đóng gói để sử dụng cho một số căn cứ trên sao Hỏa.
+
+Chuyên gia đã kiểm tra thực phẩm và kết luận mọi thứ đều ổn.
+
+Không ai liên hệ với chúng ta để yêu cầu bồi thường về tên lửa, chúng ta sẽ giữ tiếp tế."
+958467681159,You guide the Rocket's landing and send cautious investigators.,Bạn hướng dẫn việc hạ cánh của Tên lửa và cử những người điều tra thận trọng.
+173381845546,Lady luck has smiled on us today.,Quý bà may mắn đã mỉm cười với chúng ta ngày hôm nay.
+11421,Mystery Rocket ready to land.,Tên lửa bí ẩn đã sẵn sàng hạ cánh.
+11422,Mystery Rocket ready to land.,Tên lửa bí ẩn đã sẵn sàng hạ cánh.
 883202286271,"Looking over the basic parameters of the mission, which have been made public, you quickly come to the conclusion that their plans have significant flaws. 
 
-From a position of experience you have a chance to influence how this new colony will fare.",
-445978779051,The New Guys,
-12150,"Somewhat late into the space race, a new Mars mission has been announced out of the blue.",
-783067646393,They have no chance. Send a team of experts to help.,
-119508050383,send 10 experienced colonists to help the new colony out.,
-261097963491,Wish them luck. They are going to need it.,
-198038572884,the new colony fails to establish a solid foothold on Mars.,
+From a position of experience you have a chance to influence how this new colony will fare.","Nhìn qua thông số cơ bản của sứ mệnh đã được công khai, bạn nhanh chóng đi đến kết luận rằng kế hoạch của họ có những sai sót đáng kể.
+
+Từ một vị trí kinh nghiệm, bạn có cơ hội ảnh hưởng đến cách thức hoạt động của căn cứ mới này."
+445978779051,The New Guys,Những chàng trai mới
+12150,"Somewhat late into the space race, a new Mars mission has been announced out of the blue.","Hơi muộn trong cuộc chạy đua vũ trụ, một sứ mệnh sao Hỏa mới đã được công bố."
+783067646393,They have no chance. Send a team of experts to help.,Họ không có cơ hội. Cử một nhóm chuyên gia trợ giúp.
+119508050383,send 10 experienced colonists to help the new colony out.,cử 10 cư dân có kinh nghiệm đến giúp căn cứ mới.
+261097963491,Wish them luck. They are going to need it.,Chúc họ may mắn. Họ sẽ cần nó.
+198038572884,the new colony fails to establish a solid foothold on Mars.,căn cứ mới không thiết lập được một chỗ đứng vững chắc trên sao Hỏa.
 171763355460,"The colony of <DisplayName> has not forgotten the favor and today they send us gifts as a sign of gratitude.
 
-Looking back, had we not sent the experienced colonists, which now occupy vital positions within their colony, they would have most certainly perished.",
-638140944212,"Sometime ago, we helped a fledgling colony establish a foothold on Mars.",
-897133906912,This brings a tear to the eye.,
-946714069329,we received several Supply Pods with gifts,
+Looking back, had we not sent the experienced colonists, which now occupy vital positions within their colony, they would have most certainly perished.","Căn cứ của <DisplayName> đã không quên ơn và hôm nay họ gửi quà cho chúng ta như một dấu hiệu của lòng biết ơn.
+
+Nhìn lại, nếu chúng ta đã không gửi cư dân giàu kinh nghiệm, hiện đang chiếm giữ những vị trí quan trọng trong căn cứ của họ, thì họ chắc chắn đã bỏ mạng."
+638140944212,"Sometime ago, we helped a fledgling colony establish a foothold on Mars.","Cách đây không lâu, chúng ta đã giúp một căn cứ non trẻ thiết lập chỗ đứng trên sao Hỏa."
+897133906912,This brings a tear to the eye.,Điều này mang lại một giọt nước cho mắt.
+946714069329,we received several Supply Pods with gifts,chúng ta đã nhận được một số Pod tiếp tế cùng với quà tặng
 737464170534,"Spam mail being a rare curiosity on Mars (hoorah for the new world order) you suddenly get quite nervous but after reading through the first couple of mails you begin to calm down.
 
 Some Scientists believe they are being followed wherever they go. They believe they will get kidnapped by rival agents because of the sensitive research they are working on. The scientists would like to boost security inside the domes as they feel the shadow actors will make their move within the next day or two.
 
 <if(is_commander(""psychologist""))>[<commander_profile>] The large volume of complaints suggest there is a real cause for concern. </if>
 
-<goal>If you accept, you must build <target> Security Stations within <sols(timeframe)> Sols.",
-143132454302,Paranoid,
-541868307621,"Hard at work in your office, you decide to check your mail only to see that it has suddenly accumulated 200 unread messages.",
-965662522479,Our Scientists are overworked. Dismiss the issue.,
-252765548553,Better be safe than sorry. We should tighten up security.,
-392987302163,The large volume of complaints suggests there is a real cause for concern.,
+<goal>If you accept, you must build <target> Security Stations within <sols(timeframe)> Sols.","Thư rác là một sự tò mò hiếm có trên sao Hỏa (hoorah cho trật tự thế giới mới), bạn đột nhiên khá lo lắng nhưng sau khi đọc qua vài bức thư đầu tiên, bạn bắt đầu bình tĩnh lại.
+
+Một số nhà khoa học tin rằng họ đang bị theo dõi mọi lúc mọi nơi. Họ tin rằng họ sẽ bị bắt cóc bởi điệp viên đối thủ vì nghiên cứu nhạy cảm mà họ đang thực hiện. Nhà khoa học muốn tăng cường an ninh bên trong mái vòm khi họ cảm thấy tác nhân bóng tối sẽ di chuyển trong vòng một hoặc hai ngày tới.
+
+<if(is_commander(""psychologist""))>[<commander_profile>] Số lượng lớn khiếu nại cho thấy có một nguyên nhân thực sự đáng lo ngại. </if>
+
+<goal>Nếu bạn chấp nhận, bạn phải xây <target> trạm an ninh trong <sols(timeframe)> Sol."
+143132454302,Paranoid,Hoang tưởng
+541868307621,"Hard at work in your office, you decide to check your mail only to see that it has suddenly accumulated 200 unread messages.","Làm việc chăm chỉ trong văn phòng của bạn, bạn quyết định kiểm tra thư của mình chỉ để thấy rằng nó đột nhiên tích lũy 200 thư chưa đọc."
+965662522479,Our Scientists are overworked. Dismiss the issue.,Nhà khoa học của chúng ta đang làm việc quá sức. Loại bỏ vấn đề.
+252765548553,Better be safe than sorry. We should tighten up security.,Tốt hơn là an toàn hơn xin lỗi. Chúng ta nên thắt chặt an ninh.
+392987302163,The large volume of complaints suggests there is a real cause for concern.,Số lượng lớn khiếu nại cho thấy có một nguyên nhân thực sự cần quan tâm.
 222634930208,"The news came today - <scientists> of our Scientists didn't show up for work at their respective shifts.
 
 When their colleagues tried to contact them they didn't answer and their homes were vacant. No trace of a struggle or any shred of reason behind their disappearance can be found.
 
-You sit at your desk, staring blankly at the wall. If only you had believed them...",
+You sit at your desk, staring blankly at the wall. If only you had believed them...","Tin tức được đưa ra hôm nay - <scientists> trong số Nhà khoa học của chúng ta đã không đến làm việc theo ca tương ứng của họ.
+
+Khi đồng nghiệp của họ cố gắng liên lạc với họ, họ không trả lời và nhà của họ bị bỏ trống. Không có dấu vết của một cuộc đấu tranh hoặc bất kỳ lý do nào đằng sau sự biến mất của họ có thể được tìm thấy.
+
+Bạn ngồi vào bàn làm việc, thẫn thờ nhìn vào bức tường. Giá như bạn tin họ..."
 106025656285,...,...
-343856744885,Was there real reason for concern or where they just paranoid? That you may never know.,
-359757367967,Two whole Sols have passed and all our Scientists are safe and sound.,
-922358460847,At least things are back to as normal as they could be up here.,
+343856744885,Was there real reason for concern or where they just paranoid? That you may never know.,Có lý do thực sự để lo lắng hay họ chỉ hoang tưởng? Điều đó bạn có thể không bao giờ biết.
+359757367967,Two whole Sols have passed and all our Scientists are safe and sound.,Hai Sol đã trôi qua và tất cả Nhà khoa học của chúng ta đều bình an vô sự.
+922358460847,At least things are back to as normal as they could be up here.,Ít nhất thì mọi thứ đã trở lại bình thường như khi ở trên này.
 588912591373,"Yet, our scientists are still here. Acting embarrassed, they say they no longer feel threatened. Maybe whoever was planning the abduction has changed their mind?
 
-We may never know.",
-714916134412,The two Sol window the scientists were worried about has passed and our security upgrade measures are incomplete.,
+We may never know.","Tuy nhiên, nhà khoa học của chúng ta vẫn ở đây. Hành động xấu hổ, họ nói rằng họ không còn cảm thấy bị đe dọa nữa. Có lẽ ai đã lên kế hoạch cho vụ bắt cóc đã thay đổi ý định?
+
+Chúng ta có thể không bao giờ biết."
+714916134412,The two Sol window the scientists were worried about has passed and our security upgrade measures are incomplete.,Hai Sol mà nhà khoa học lo lắng đã trôi qua và biện pháp nâng cấp bảo mật của chúng ta chưa hoàn thiện.
 179996108672,"A Research Lab has been raided by unknown forces, that left a trail of dead colonists behind them. Surveillance footage goes black right at the time of the act and there are virtually no traces left behind. How they entered, or left the Dome remains a complete and utter mystery.
 
-<effect><deathcount> Colonists were killed by rival spies.",
-984395666603,Shadow Run,
-100392041278,"First you heard the alarms, then you saw the commotion. Then you received the call.",
-674767020169,Raise the issue with Earth. There's nothing more we can do.,
-652662964048,all Colonists lose Morale,
-976774577689,I will give out a speech blaming all other Colonies to appease the Colonists.,
-489458315818,lose standing with all rivals,
+<effect><deathcount> Colonists were killed by rival spies.","Một Phòng thí nghiệm Nghiên cứu đã bị đột kích bởi lực lượng không xác định, để lại dấu vết của cư dân đã chết phía sau họ. Cảnh quay giám sát chuyển sang màu đen ngay tại thời điểm hành động và hầu như không có dấu vết nào để lại. Làm thế nào họ vào, hoặc rời khỏi mái vòm vẫn còn là một bí ẩn hoàn toàn.
+
+<effect><deathcount> Cư dân đã bị giết bởi gián điệp của đối thủ."
+984395666603,Shadow Run,Bóng chạy
+100392041278,"First you heard the alarms, then you saw the commotion. Then you received the call.","Đầu tiên bạn nghe thấy tiếng chuông báo động, sau đó bạn thấy sự náo động. Sau đó, bạn nhận được cuộc gọi."
+674767020169,Raise the issue with Earth. There's nothing more we can do.,Đặt vấn đề với Trái đất. Chúng ta không thể làm gì hơn.
+652662964048,all Colonists lose Morale,tất cả cư dân mất tinh thần
+976774577689,I will give out a speech blaming all other Colonies to appease the Colonists.,Tôi sẽ đưa ra một bài phát biểu đổ lỗi cho tất cả căn cứ khác để xoa dịu cư dân.
+489458315818,lose standing with all rivals,mất vị thế với tất cả đối thủ
 482511756624,"While <DisplayName> was not employed by a rival colony, they did send all info stolen to a third party intelligence gathering firm on Earth, which in turn most probably sold the information to anyone interested.
 
-A legal process on Earth will likely win us reparations from rivals who took advantage of the firm's services, but with <DisplayName> being a respected and senior colonist of ours, this can have devastating effects on our colony's morale.",
-451698696015,Sleeper Joe,
-180193550767,Today we learned that an upstanding member of our community has been a spy since the day they arrived on Mars.,
-726035812851,Apprehend the spy and send them to court.,
-713089915800,"receive <funding(reperations)>, <standing> Standing with all rivals, <morale penalty> Morale for all Colonists",
-817059878617,Limit all access they have to sensitive material and let them live out their days peacefully. ,
+A legal process on Earth will likely win us reparations from rivals who took advantage of the firm's services, but with <DisplayName> being a respected and senior colonist of ours, this can have devastating effects on our colony's morale.","Trong khi <DisplayName> không được sử dụng bởi căn cứ đối thủ, họ đã gửi tất cả thông tin bị đánh cắp cho một công ty thu thập thông tin tình báo của bên thứ ba trên Trái đất, do đó hầu hết có thể bán thông tin cho bất kỳ ai quan tâm.
+
+Một quy trình pháp lý trên Trái đất có thể sẽ giúp chúng ta được bồi thường từ đối thủ đã lợi dụng dịch vụ của công ty, nhưng với việc <DisplayName> là cư dân cấp cao và được kính trọng của chúng ta, điều này có thể gây ra những ảnh hưởng nghiêm trọng đến tinh thần của căn cứ của chúng ta."
+451698696015,Sleeper Joe,Joe ngủ nướng
+180193550767,Today we learned that an upstanding member of our community has been a spy since the day they arrived on Mars.,Hôm nay chúng ta được biết rằng một thành viên xuất sắc trong cộng đồng của chúng ta đã là một điệp viên kể từ ngày chúng đến sao Hỏa.
+726035812851,Apprehend the spy and send them to court.,Bắt giữ tên gián điệp và đưa chúng ra tòa.
+713089915800,"receive <funding(reperations)>, <standing> Standing with all rivals, <morale penalty> Morale for all Colonists","nhận <funding(reperations)>, <standing> Vị thế với tất cả đối thủ, <morale penalty> tinh thần cho tất cả cư dân"
+817059878617,Limit all access they have to sensitive material and let them live out their days peacefully. ,Hạn chế tất cả quyền truy cập của họ vào tài liệu nhạy cảm và để họ sống những ngày của họ một cách yên bình.
 192461475055,"The leaders of the other colonies have each contacted us with a request to grant them partial access to the Space Elevator.  
 
 Allowing them to use it will increase our influence on Mars while allowing other colonies to advance their own economies. 
 
-If we deny their request, it could become a point of friction.",
-693255391447,Elevated Access,
-229416520969,"Even though there are other colonies on Mars, our Space Elevator remains unique.",
-405348009566,"Of course, let our brothers and sisters on Mars benefit from our success.",
-569573903886,"gain standing with other colonies, boost their economy",
-313250499956,Fair enough. But business is business. Charge ‘em.,
-328126171952,"gain <funding(bonus_funding)>, boost their economy",
-606115540847,The Space Elevator is our achievement. Request denied!,
-733308245680,lose standing with other colonies,
+If we deny their request, it could become a point of friction.","Nhà lãnh đạo của căn cứ khác đã từng liên hệ với chúng ta với yêu cầu cấp cho họ quyền truy cập một phần vào Thang máy vũ trụ.
+
+Việc cho phép họ sử dụng nó sẽ làm tăng ảnh hưởng của chúng ta lên Sao Hỏa đồng thời cho phép căn cứ khác phát triển nền kinh tế của riêng họ.
+
+Nếu chúng ta từ chối yêu cầu của họ, nó có thể trở thành một điểm xích mích."
+693255391447,Elevated Access,Quyền truy cập nâng cao
+229416520969,"Even though there are other colonies on Mars, our Space Elevator remains unique.","Mặc dù có căn cứ khác trên sao Hỏa, Thang máy vũ trụ của chúng ta vẫn là duy nhất."
+405348009566,"Of course, let our brothers and sisters on Mars benefit from our success.","Tất nhiên, hãy để các anh chị em của chúng ta trên sao Hỏa được hưởng lợi từ thành công của chúng ta."
+569573903886,"gain standing with other colonies, boost their economy","giành được vị thế với căn cứ khác, thúc đẩy nền kinh tế của họ"
+313250499956,Fair enough. But business is business. Charge ‘em.,Đủ công bằng. Nhưng kinh doanh là kinh doanh. Tính tiền.
+328126171952,"gain <funding(bonus_funding)>, boost their economy","đạt được <funding(bonus_funding)>, thúc đẩy nền kinh tế của họ"
+606115540847,The Space Elevator is our achievement. Request denied!,Thang máy vũ trụ là thành tựu của chúng ta. Yêu cầu bị từ chối!
+733308245680,lose standing with other colonies,mất vị thế với căn cứ khác
 712871969168,"This presents us with a golden opportunity to infiltrate the colony of <DisplayName> and perform both espionage and sabotage tasks. 
 
-With the proper training, Trish Sanders can do both, however, we have to act fast.",
-714351397790,Spy Games,
-150827210528,"An applicant slated to come to our colony has been listed as a desired applicant by a Rival Colony as well, obviously by mistake.",
-200682516922,Send Sanders to training camp. We can't miss this opportunity.,
-425845952919,"After a hasty training and a trip to Mars, our agent has successfully infiltrated our rivals. Commence operation ""Spy Games"".",
+With the proper training, Trish Sanders can do both, however, we have to act fast.","Điều này cho chúng ta một cơ hội vàng để thâm nhập căn cứ của <DisplayName> và thực hiện cả nhiệm vụ gián điệp và phá hoại.
+
+Với sự đào tạo thích hợp, Trish Sanders có thể làm được cả hai, tuy nhiên, chúng ta phải hành động nhanh."
+714351397790,Spy Games,Trò chơi gián điệp
+150827210528,"An applicant slated to come to our colony has been listed as a desired applicant by a Rival Colony as well, obviously by mistake.","Một người nộp đơn dự kiến đến căn cứ của chúng ta cũng đã được liệt kê là người nộp đơn mong muốn bởi căn cứ đối thủ, rõ ràng là do nhầm lẫn."
+200682516922,Send Sanders to training camp. We can't miss this opportunity.,Gửi Sanders đến trại huấn luyện. Chúng ta không thể bỏ lỡ cơ hội này.
+425845952919,"After a hasty training and a trip to Mars, our agent has successfully infiltrated our rivals. Commence operation ""Spy Games"".","Sau một khóa đào tạo gấp rút và một chuyến đi đến sao Hỏa, đặc vụ của chúng ta đã thâm nhập thành công vào đối thủ của chúng ta. Bắt đầu hoạt động ""Trò chơi gián điệp""."
 272770950016,"Agent Sanders has established a communications channel with us. Initial plans are to steal any technology deemed of value.
 
-We are told to expect results within a few Sols.",
-906877286311,I don't want to antagonize our already strained relationship. Pass.,
-513936281590,We have no idea of Trish Sander's fate. We expect that these circumstances will sour the diplomatic relations with our rivals.,
-159168246228,Our agent has been caught!,
+We are told to expect results within a few Sols.","Đặc vụ Sanders đã thiết lập kênh liên lạc với chúng ta. Kế hoạch ban đầu là đánh cắp bất kỳ công nghệ nào được coi là có giá trị.
+
+Chúng ta được cho là mong đợi kết quả trong vòng vài Sol."
+906877286311,I don't want to antagonize our already strained relationship. Pass.,Tôi không muốn làm trái ý mối quan hệ vốn đã căng thẳng của chúng ta. Bỏ qua.
+513936281590,We have no idea of Trish Sander's fate. We expect that these circumstances will sour the diplomatic relations with our rivals.,Chúng ta không biết về số phận của Trish Sander. Chúng ta kỳ vọng rằng những tình huống này sẽ làm ảnh hưởng đến quan hệ ngoại giao với đối thủ của chúng ta.
+159168246228,Our agent has been caught!,Đặc vụ của chúng ta đã bị bắt!
 405539095942,"All Factories broke down at once. So did our energy producers.
 
 This looks like an act of purposeful sabotage, but there is no assailant to blame, just vague traces of malicious activity here and there.
  
 Commander, there is one other thing. Agent Sanders is nowhere to be found. Her room has been swept clean, her account emptied. 
 
-<effect>All Factories and Power Producers have malfunctioned.",
-152366516099,"Commander, the entire base is an state of emergency - just within a few minutes several disastrous events crippled our colony.",
-689410617689,"Trish Sanders, you played us all. ",
+<effect>All Factories and Power Producers have malfunctioned.","Tất cả nhà máy bị phá vỡ cùng một lúc. Nhà sản xuất năng lượng của chúng ta cũng vậy.
+
+Đây trông giống như một hành động phá hoại có mục đích, nhưng không có kẻ tấn công nào để đổ lỗi, chỉ là dấu vết mơ hồ của hoạt động phá hoại ở đây và ở đó.
+ 
+Chỉ huy, có một điều khác. Đặc vụ Sanders không được tìm thấy. Phòng của cô ấy đã được quét sạch, tài khoản của cô ấy trống rỗng.
+
+<effect>Tất cả nhà máy và nhà sản xuất điện đều bị trục trặc."
+152366516099,"Commander, the entire base is an state of emergency - just within a few minutes several disastrous events crippled our colony.","Chỉ huy, toàn bộ căn cứ đang trong tình trạng khẩn cấp - chỉ trong vòng vài phút, một vài sự kiện thảm khốc đã làm tê liệt căn cứ của chúng ta."
+689410617689,"Trish Sanders, you played us all. ","Trish Sanders, bạn đã chơi tất cả chúng ta."
 909758220259,Trish Sanders,
 254468784079,"A special Shuttle brought in by our sponsor picked up agent Sanders and she is now safely en route to our colony.
 
-<effect>Agent Sanders becomes a colonist.",
-347279823113,Our agent has reached the designated escape area and activated the beacon.,
+<effect>Agent Sanders becomes a colonist.","Một tàu con thoi đặc biệt do nhà tài trợ của chúng ta mang đến đã đón đặc vụ Sanders và cô ấy hiện đã an toàn trên đường đến căn cứ của chúng ta.
+
+<effect>Đặc vụ Sanders trở thành cư dân."
+347279823113,Our agent has reached the designated escape area and activated the beacon.,Đặc vụ của chúng ta đã đến khu vực thoát hiểm được chỉ định và kích hoạt đèn hiệu.
 133476740352,"Welcome to your new home, agent Sanders. You are a hero!","Chào mừng đến với ngôi nhà mới của bạn, đặc vụ Sanders. Bạn là một anh hùng!"
 439291374863,"Agent Trish Sanders evaluates she is well in the clear and hasn't attracted any suspicion.
 
@@ -17168,143 +17239,201 @@ Meanwhile, a new opportunity directly presented itself - two large cargo deliver
 
 Agent Sanders has gained access to their landing guidance software and can reroute one of the deliveries and make it look like a malfunction. Some preparation is required. The hastier the operation - the bigger the risk.
 
-<effect>You have discovered a new tech.",
-970857014154,Operation Spy Games has delivered its first results - a huge data package revealing a new tech to us has been sent by our agent.,
-975997046914,Act fast and secure the first cargo shipment.,
-706247254307,chance for stealing Supply Pods,
-728788851005,Take your time and make sure everything is perfect. Secure the second shipment.,
-678145937150,chance for stealing Supply Pods,
-226000737829,Getting caught will be disastrous. Extract the agent. Mission complete!,
-745327986961,terminate Spy Games and bring Trish Sanders back,
+<effect>You have discovered a new tech.","Đặc vụ Trish Sanders đánh giá cô ấy rất rõ ràng và không thu hút bất kỳ sự nghi ngờ nào.
+
+Trong khi đó, một cơ hội mới đã trực tiếp xuất hiện - hai chuyến giao hàng lớn được lên kế hoạch diễn ra vào tuần tới, với khoảng cách giữa chúng là 3 Sol.
+
+Đặc vụ Sanders đã có quyền truy cập vào phần mềm hướng dẫn hạ cánh của họ và có thể định tuyến lại một trong chuyến giao hàng và khiến nó giống như bị trục trặc. Cần phải có một số chuẩn bị. Hoạt động càng phức tạp - rủi ro càng lớn.
+
+<effect>Bạn đã khám phá ra một công nghệ mới."
+970857014154,Operation Spy Games has delivered its first results - a huge data package revealing a new tech to us has been sent by our agent.,Trò chơi gián điệp hoạt động đã mang lại kết quả đầu tiên - một gói dữ liệu khổng lồ tiết lộ một công nghệ mới cho chúng ta đã được gửi bởi đặc vụ của chúng ta.
+975997046914,Act fast and secure the first cargo shipment.,Hành động nhanh chóng và đảm bảo chuyến hàng đầu tiên.
+706247254307,chance for stealing Supply Pods,cơ hội để đánh cắp Pod tiếp tế
+728788851005,Take your time and make sure everything is perfect. Secure the second shipment.,Hãy dành thời gian của bạn và đảm bảo rằng mọi thứ đều hoàn hảo. Đảm bảo lô hàng thứ hai.
+678145937150,chance for stealing Supply Pods,cơ hội để đánh cắp Pod tiếp tế
+226000737829,Getting caught will be disastrous. Extract the agent. Mission complete!,Bị bắt sẽ là thảm họa. Chấm dứt đặc vụ. Nhiệm vụ hoàn thành!
+745327986961,terminate Spy Games and bring Trish Sanders back,chấm dứt Trò chơi gián điệp và đưa Trish Sanders trở lại
 105169603455,"This brazen act of theft has raised several flags, but our agent assesses she is still in the clear and in a good position to do real harm now.
 
 With enough information and network access, agent Sanders can perform contained or massive sabotage operations around <DisplayName>'s colony.
 
-Agent Sanders awaits further orders.",
-12252,Spy Games reaps more rewards. The Supply Pods are above our colony and fully under our control.,
-106921673076,Make sure to do as much damage as possible. Cripple them!,
-599121538469,this action may fail,
-747808639541,Make the sabotage targeted and contained. Don't take any unnecessary risks!,
-567746429694,"smaller chance of failure, less damage done",
-657799218123,Our agent has done enough. Extract her!,
-500111652849,terminate Spy Games and bring Trish Sanders back,
+Agent Sanders awaits further orders.","Hành động trộm cắp trơ trẽn này đã làm dấy lên một số dấu hiệu, nhưng đặc vụ của chúng ta đánh giá rằng cô ta vẫn còn rõ ràng và có một vị trí tốt để thực hiện hành vi gây hại thực sự.
+
+Với đủ thông tin và quyền truy cập mạng, đặc vụ Sanders có thể thực hiện hoạt động phá hoại lớn hoặc lớn xung quanh căn cứ của <DisplayName>.
+
+Đặc vụ Sanders đang chờ lệnh tiếp theo."
+12252,Spy Games reaps more rewards. The Supply Pods are above our colony and fully under our control.,Trò chơi gián điệp gặt hái nhiều phần thưởng hơn. Pod tiếp tế nằm trên căn cứ của chúng ta và hoàn toàn nằm trong tầm kiểm soát của chúng ta.
+106921673076,Make sure to do as much damage as possible. Cripple them!,Đảm bảo gây sát thương nhiều nhất có thể. Làm tê liệt chúng!
+599121538469,this action may fail,hành động này có thể thất bại
+747808639541,Make the sabotage targeted and contained. Don't take any unnecessary risks!,Làm cho kẻ phá hoại được nhắm mục tiêu và ngăn chặn. Đừng chấp nhận rủi ro không cần thiết!
+567746429694,"smaller chance of failure, less damage done","cơ hội thất bại nhỏ hơn, ít thiệt hại hơn"
+657799218123,Our agent has done enough. Extract her!,Đặc vụ của chúng ta đã làm đủ. Rút cô ấy!
+500111652849,terminate Spy Games and bring Trish Sanders back,chấm dứt Trò chơi gián điệp và đưa Trish Sanders trở lại
 521621736212,"By sabotaging factories, the electrical grid and also pipe ways all at once, our agent has seriously hindered <DisplayName>'s progress.
 
 Their entire colony is on heightened security alert and any further operations carry considerable risks.
 
-This being said, agent Sanders informs us of a very valuable breakthrough technology that <DisplayName> recently researched. Better yet, the technology is within our grasp. ",
-130431719999,Operation Spy Games continues to prove itself as an incredibly potent program.,
-318970363885,"We came this far, we will go just a bit further. Steal the breakthrough!",
-220220865357,this action may fail,
-580829695428,We should quit while we're ahead. Extract agent Sanders.,
-200132611789,terminate Spy Games program and bring Trish Sanders back,
+This being said, agent Sanders informs us of a very valuable breakthrough technology that <DisplayName> recently researched. Better yet, the technology is within our grasp. ","Bằng cách phá hoại nhà máy, lưới điện và đường ống cùng một lúc, đặc vụ của chúng ta đã cản trở nghiêm trọng đến tiến độ của <DisplayName>.
+
+Toàn bộ căn cứ của họ đang trong tình trạng cảnh báo an ninh cao độ và bất kỳ hoạt động nào tiếp theo đều mang lại rủi ro đáng kể.
+
+Điều này đang được nói, đặc vụ Sanders thông báo cho chúng ta về một công nghệ đột phá rất có giá trị mà <DisplayName> đã nghiên cứu gần đây. Tốt hơn nữa, công nghệ nằm trong tầm tay của chúng ta."
+130431719999,Operation Spy Games continues to prove itself as an incredibly potent program.,Trò chơi gián điệp hoạt động tiếp tục chứng tỏ mình là một chương trình cực kỳ mạnh mẽ.
+318970363885,"We came this far, we will go just a bit further. Steal the breakthrough!","Chúng ta đã đi xa đến mức này, chúng ta sẽ đi xa hơn một chút. Đánh cắp đột phá!"
+220220865357,this action may fail,hành động này có thể thất bại
+580829695428,We should quit while we're ahead. Extract agent Sanders.,Chúng ta nên bỏ cuộc khi đang ở phía trước. Rút đặc vụ Sanders.
+200132611789,terminate Spy Games program and bring Trish Sanders back,chấm dứt chương trình Trò chơi gián điệp và đưa Trish Sanders trở lại
 616179981975,"We have stolen a priceless technology and have extracted agent Sanders. She should be back home in no time.
 
-Mission complete!",
-236051816599,Operation Spy Games has accomplished all it could.,
-202037934054,"Welcome home, agent Sanders!",
-151236840313,Agent Sanders has joined the colony,
+Mission complete!","Chúng ta đã đánh cắp một công nghệ vô giá và đã khai thác đặc vụ Sanders. Cô ấy sẽ trở về nhà trong thời gian ngắn.
+
+Nhiệm vụ hoàn thành!"
+236051816599,Operation Spy Games has accomplished all it could.,Trò chơi gián điệp hoạt động đã hoàn thành tất cả những gì có thể.
+202037934054,"Welcome home, agent Sanders!","Chào mừng trở về nhà, đặc vụ Sanders!"
+151236840313,Agent Sanders has joined the colony,Đặc vụ Sanders đã gia nhập thuộc địa
 670302803987,Trish Sanders,
-386195495846,Agent Sanders has been in the field for too long.,
-710906074469,agent Sanders is denied entry in your colony and is sent back to Earth,
+386195495846,Agent Sanders has been in the field for too long.,Đặc vụ Sanders đã ở trong lĩnh vực này quá lâu.
+710906074469,agent Sanders is denied entry in your colony and is sent back to Earth,đặc vụ Sanders bị từ chối vào căn cứ của bạn và bị đưa trở lại Trái đất
 406536481059,"SpyTech, the name of the firm, offers to lease us cutting edge stealthy surveillance satellites for a single thorough scan of all other colonies. To be more precise - for as thorough a scan, as we pay for.
 
-The satellites in question are designed solely for data theft, so this may be an opportunity to get our hands on any technological advancement our rivals have discovered.",
+The satellites in question are designed solely for data theft, so this may be an opportunity to get our hands on any technological advancement our rivals have discovered.","SpyTech, tên của công ty, đề nghị cho chúng ta thuê vệ tinh giám sát tàng hình tiên tiến để quét toàn bộ căn cứ khác. Nói chính xác hơn - để quét kỹ lưỡng như chúng ta trả tiền.
+
+Vệ tinh được đề cập chỉ được thiết kế để đánh cắp dữ liệu, vì vậy đây có thể là cơ hội để chúng ta có được bất kỳ tiến bộ công nghệ nào mà đối thủ của chúng ta đã phát hiện ra."
 743904682860,SpyTech,
-430230841461,The rivalry between colonies on Mars has attracted the attention of a spy tech agency from Earth.,
-634079192400,We don't need this. Decline.,
-479793978567,Pay for Bronze package.,
-993013814814,SpyTech's swoop of Mars has ended up yielding nothing of value.,
+430230841461,The rivalry between colonies on Mars has attracted the attention of a spy tech agency from Earth.,Sự cạnh tranh giữa căn cứ trên sao Hỏa đã thu hút sự chú ý của một cơ quan công nghệ gián điệp từ Trái đất.
+634079192400,We don't need this. Decline.,Chúng ta không cần cái này. Từ chối.
+479793978567,Pay for Bronze package.,Thanh toán cho gói Đồng.
+993013814814,SpyTech's swoop of Mars has ended up yielding nothing of value.,Cuộc xâm lăng Sao Hỏa của SpyTech cuối cùng chẳng mang lại giá trị gì.
 271909334795,"We contacted them but they said the so called ""bronze package"" has no guarantees attached to it.
 
-Have we been played?",
-491693144020,Pay for Gold Package.,
-361124593273,SpyTech's services have proven useful.,
-433631270731,We have obtained research previously unknown to us.,
-871121802677,Pay for Platinum package.,
-972511457881,"At first, I thought going for the ""platinum package"" of SpyTech's offer was... unreasonable, to say the least. I have to admit, Commander, that it was a wise choice!",
-694681704225,A breakthrough has directly fallen into our possession because of SpyTech.,
-398716779961,Bring the matter to the authorities on Earth. SpyTech is dangerous for all of us.,
-143735479142,Gain 20 Standing with all Rival Colonies,
+Have we been played?","Chúng ta đã liên hệ với họ nhưng họ cho biết cái gọi là ""gói đồ đồng"" không có đảm bảo nào đi kèm với nó.
+
+Chúng ta đã được chơi chưa?"
+491693144020,Pay for Gold Package.,Thanh toán cho Gói vàng.
+361124593273,SpyTech's services have proven useful.,Dịch vụ của SpyTech đã được chứng minh là hữu ích.
+433631270731,We have obtained research previously unknown to us.,Chúng ta đã có được những nghiên cứu mà chúng ta chưa biết trước đây.
+871121802677,Pay for Platinum package.,Thanh toán cho gói Bạch kim.
+972511457881,"At first, I thought going for the ""platinum package"" of SpyTech's offer was... unreasonable, to say the least. I have to admit, Commander, that it was a wise choice!","Lúc đầu, tôi nghĩ rằng việc mua ""gói bạch kim"" trong lời đề nghị của SpyTech là... vô lý, ít nhất phải nói rằng. Tôi phải thừa nhận rằng, chỉ hủy, đó là một lựa chọn sáng suốt!"
+694681704225,A breakthrough has directly fallen into our possession because of SpyTech.,Một bước đột phá đã trực tiếp thuộc quyền sở hữu của chúng ta vì SpyTech.
+398716779961,Bring the matter to the authorities on Earth. SpyTech is dangerous for all of us.,Đưa vấn đề lên cơ quan có thẩm quyền trên Trái đất. SpyTech nguy hiểm cho tất cả chúng ta.
+143735479142,Gain 20 Standing with all Rival Colonies,Tăng 20 Vị thế với tất cả căn cứ đối thủ
 475173417604,"The damage done to <DisplayName>'s colony is extensive and many of their colonists have died from the various shortages of life support resources caused by the cold.
 
-Despite what our relationship with the rival in question might be, our colonists have begun signing en masse a petition demanding we send financial aid to help the colony get back on its feet.",
-216102390659,The Best In Us Petition,
-844439502656,A prolonged Cold Wave has devastated one of our rivals.,
-755931331346,We are ready to help.,
-742482962856,+<morale_small> Morale for all Colonists and +35 Standing with <DisplayName>.,
-568406100476,We shouldn't belittle ourselves with petty rivalries.,
-979056334272,+<morale_large> Morale for all Colonists and +55 Standing with <DisplayName>.,
-625871676103,We have our own woes and I doubt they would do the same for us.,
-252935427438,all Colonists lose Morale for several Sols,
+Despite what our relationship with the rival in question might be, our colonists have begun signing en masse a petition demanding we send financial aid to help the colony get back on its feet.","Thiệt hại đối với căn cứ của <DisplayName> là rất lớn và nhiều cư dân của họ đã chết vì thiếu hụt nguồn hỗ trợ sự sống khác nhau do giá lạnh gây ra.
+
+Bất chấp mối quan hệ của chúng ta với đối thủ được đề cập có thể như thế nào, cư dân của chúng ta đã bắt đầu ký hàng loạt một bản kiến nghị yêu cầu chúng ta gửi hỗ trợ tài chính để giúp căn cứ đứng vững trở lại."
+216102390659,The Best In Us Petition,Đơn thỉnh cầu tốt nhất trong chúng ta
+844439502656,A prolonged Cold Wave has devastated one of our rivals.,Sóng lạnh kéo dài đã tàn phá một trong những đối thủ của chúng ta.
+755931331346,We are ready to help.,Chúng ta sẵn sàng giúp đỡ.
+742482962856,+<morale_small> Morale for all Colonists and +35 Standing with <DisplayName>.,+<morale_small> tinh thần cho tất cả cư dân và +35 Vị thế với <DisplayName>.
+568406100476,We shouldn't belittle ourselves with petty rivalries.,Chúng ta không nên coi thường bản thân bằng những sự ganh đua vụn vặt.
+979056334272,+<morale_large> Morale for all Colonists and +55 Standing with <DisplayName>.,+<morale_large> tinh thần cho tất cả cư dân và +55 Vị thế với <DisplayName>.
+625871676103,We have our own woes and I doubt they would do the same for us.,Chúng ta có những tai ương của riêng mình và tôi nghi ngờ rằng chúng sẽ làm điều tương tự với chúng ta.
+252935427438,all Colonists lose Morale for several Sols,tất cả cư dân đều mất tinh thần trong vài Sol
 855810252905,"But they seem to be getting along quite fine with each other. To add insult to injury, there seems to be a science conference planned with ours being the only colony to not get invited.
 
-Every rival will boast with their most qualified experts at the conference. The security will be flawed, so this could be an excellent opportunity for us to kidnap said experts.",
-762095893960,The Conference,
-276516765008,"We don't get along with all other colonies on Mars, that's no secret.",
-660520205254,"A kidnapping, you say? Let's do this!",
-188371361793,kidnap some brilliant scientists and damage relations with all other colonies,
-495530614075,"A quick plan is mustered up, involving a shuttle, several well trained colonists and a quick trip across Mars to reach the conference.",
+Every rival will boast with their most qualified experts at the conference. The security will be flawed, so this could be an excellent opportunity for us to kidnap said experts.","Nhưng họ có vẻ khá hòa thuận với nhau. Để tăng thêm sự xúc phạm cho chấn thương, có vẻ như có một hội nghị khoa học được lên kế hoạch với chúng ta là căn cứ duy nhất không được mời.
+
+Mọi đối thủ sẽ tự hào với chuyên gia có trình độ cao nhất của họ tại hội nghị. An ninh sẽ có sai sót, vì vậy đây có thể là một cơ hội tuyệt vời để chúng ta bắt cóc chuyên gia nói trên."
+762095893960,The Conference,Hội nghị
+276516765008,"We don't get along with all other colonies on Mars, that's no secret.","Chúng ta không hòa hợp với tất cả căn cứ khác trên sao Hỏa, điều đó không có gì bí mật."
+660520205254,"A kidnapping, you say? Let's do this!","Một vụ bắt cóc, bạn nói? Làm thôi nào!"
+188371361793,kidnap some brilliant scientists and damage relations with all other colonies,bắt cóc một số nhà khoa học lỗi lạc và làm hỏng mối quan hệ với tất cả căn cứ khác
+495530614075,"A quick plan is mustered up, involving a shuttle, several well trained colonists and a quick trip across Mars to reach the conference.","Một kế hoạch nhanh chóng được tập hợp, bao gồm một tàu con thoi, một số cư dân được đào tạo bài bản và một chuyến đi nhanh chóng qua sao Hỏa để đến hội nghị."
 657174920052,"A few chaotic hours later you receive word that the operation was a success and they are on their way back with a few brilliant minds to add to your colony.
 
 The Scientists are not pleased with their new situation, but we are sure they will be integrated in our Colony eventually.
 
 Working it out with your pissed off rivals, however, is a whole other question. Let's face it, being on good terms with all of them hasn't been on the table for a while now.
 
-<effect>Obtained 5 Genius Scientists and severely damaged relations with all rivals.",
-791885706390,We will never stoop so low.,
+<effect>Obtained 5 Genius Scientists and severely damaged relations with all rivals.","Một vài giờ hỗn loạn sau đó, bạn nhận được tin rằng chiến dịch đã thành công và họ đang trên đường trở về với một vài bộ óc xuất chúng để thêm vào căn cứ của bạn.
+
+Nhà khoa học không hài lòng với tình hình mới của họ, nhưng chúng ta chắc chắn rằng cuối cùng họ sẽ được hòa nhập vào căn cứ của chúng ta.
+
+Tuy nhiên, việc giải quyết vấn đề này với đối thủ khó chịu của bạn lại là một câu hỏi hoàn toàn khác. Hãy đối mặt với nó, có mối quan hệ tốt với tất cả bọn họ đã không còn ở trên bàn trong một thời gian.
+
+<effect>Có được 5 nhà khoa học thiên tài và làm tổn hại nghiêm trọng mối quan hệ với tất cả đối thủ."
+791885706390,We will never stoop so low.,Chúng ta sẽ không bao giờ khom lưng thấp như vậy.
 814904853446,"When we got near the person, we noticed severe burn-like marks on their skin. They also seem to be deaf and numb because of some mysterious ailment.
 
-All in all, they seem to be in great pain and obviously abandoned by some other colony to die alone on Mars.",
-896831690494,The Patient,
-629676241174,"An unidentified individual has been spotted wandering the wastes near a wrecked Shuttle, wearing a space suit of an unfamiliar design.",
-764403459880,"Unidentified ailment? We can't put the colony at risk, leave them to their fate.",
-848467133749,Whoever ejected this person out to die is nothing like us. Bring them in for treatment.,
+All in all, they seem to be in great pain and obviously abandoned by some other colony to die alone on Mars.","Khi đến gần người đó, chúng ta nhận thấy những vết giống như bỏng nặng trên da của họ. Họ dường như cũng bị điếc và tê liệt vì một số căn bệnh bí ẩn.
+
+Nhìn chung, họ dường như đang rất đau đớn và rõ ràng là bị một số căn cứ khác bỏ rơi để chết một mình trên sao Hỏa."
+896831690494,The Patient,Bệnh nhân
+629676241174,"An unidentified individual has been spotted wandering the wastes near a wrecked Shuttle, wearing a space suit of an unfamiliar design.","Một cá nhân không xác định đã được phát hiện đi lang thang trên đống chất thải gần một tàu con thoi bị phá hủy, mặc một bộ đồ vũ trụ có thiết kế lạ."
+764403459880,"Unidentified ailment? We can't put the colony at risk, leave them to their fate.","Bệnh tật không xác định? Chúng ta không thể đặt căn cứ vào rủi ro, phó mặc cho số phận của họ."
+848467133749,Whoever ejected this person out to die is nothing like us. Bring them in for treatment.,Ai đẩy người này ra để chết thì chẳng khác gì chúng ta. Mang họ về để điều trị.
 471340766114,"Scans and blood samples reveal changes to their insides and DNA, changes never even theorized as a possibility before.
 
 A cutting edge pharmaceutical research facility on Earth has expressed willingness to take on the unknown condition and send experimental drug schematics to slow down the progression of the disease at <funding(bill)> initially.
 
-It may be worth studying the disease and aiding the stranger as long as we can in case we end up having to deal with it on a larger scale.",
-625133266905,We have accepted the mysterious person at an Infirmary. ,
-247207747179,"Ok, pay.",
-874221689856,We cannot afford this – quite regretfully. ,
+It may be worth studying the disease and aiding the stranger as long as we can in case we end up having to deal with it on a larger scale.","Việc quét và lấy mẫu máu cho thấy những thay đổi đối với bên trong và DNA của họ, những thay đổi thậm chí chưa từng được giả thuyết là có thể xảy ra trước đây.
+
+Một cơ sở nghiên cứu dược phẩm tiên tiến trên Trái đất đã bày tỏ sự sẵn lòng tiếp nhận tình trạng bệnh chưa rõ và gửi sơ đồ thuốc thử nghiệm để làm chậm sự tiến triển của căn bệnh với <funding(bill)> ban đầu.
+
+Có thể đáng để nghiên cứu về căn bệnh này và giúp đỡ người lạ miễn là chúng ta có thể trong trường hợp cuối cùng phải đối phó với nó trên quy mô lớn hơn."
+625133266905,We have accepted the mysterious person at an Infirmary. ,Chúng ta đã tiếp nhận người bí ẩn tại một bệnh xá.
+247207747179,"Ok, pay.","Ok, thanh toán."
+874221689856,We cannot afford this – quite regretfully. ,Chúng ta không thể mua nó được - rất tiếc.
 769110002081,"The first batch of the custom medications seems to have had quite the uplifting effect on them. Their condition was proven to be not contagious - they are now allowed to wander the Dome at will. 
 
 Despite still being able to see with one eye, what language the patient speaks is currently unknown - thus barring all outlets for communication short of gesturing.
 
 Still, our colonists seem to be reacting positively to this small solace afforded to the ailing stranger.
 
-For further research into the patient's condition the pharmaceutical lab will require another transaction of <funding(bill)> to be approved.",
-430086921524,Further research into the condition of the patient has been made.,
-914489966336,"Ok, pay.",
-242999113463,We cannot afford to pay for the treatment anymore. I am sorry.,
+For further research into the patient's condition the pharmaceutical lab will require another transaction of <funding(bill)> to be approved.","Lô thuốc tùy chỉnh đầu tiên dường như đã có tác dụng nâng cao tinh thần đối với họ. Tình trạng của họ đã được chứng minh là không lây nhiễm - giờ đây họ được phép đi lang thang trong mái vòm tùy ý.
+
+Mặc dù vẫn có thể nhìn bằng một mắt, nhưng ngôn ngữ bệnh nhân nói hiện tại vẫn chưa được xác định - do đó, tất cả đầu mối giao tiếp đều thiếu cử chỉ.
+
+Tuy nhiên, cư dân của chúng ta dường như đang phản ứng tích cực với niềm an ủi nhỏ nhoi này dành cho người lạ ốm yếu.
+
+Để nghiên cứu thêm về tình trạng của bệnh nhân, phòng thí nghiệm dược phẩm sẽ yêu cầu một giao dịch <funding(bill)> khác được chấp thuận."
+430086921524,Further research into the condition of the patient has been made.,Nghiên cứu sâu hơn về tình trạng của bệnh nhân đã được thực hiện.
+914489966336,"Ok, pay.","Ok, thanh toán."
+242999113463,We cannot afford to pay for the treatment anymore. I am sorry.,Chúng ta không có khả năng chi trả cho việc điều trị nữa. Tôi xin lỗi.
 103008919310,"So far the custom drugs seem to sustain the patient in a good enough condition for them to take short walks around the Dome and even indulge in brief, enjoyable activities.
 
 Although unable to communicate with anyone of us, there seems to be a positive aura around the patient which fills our colonists with a certain determination to become better versions of themselves.
 
-For further research into the patient's condition the pharmaceutical lab will require another transaction of <funding(bill)> to be approved.",
-978056889119,Further research has been made and a new drug to extend the life of the patient is available. ,
-499573315317,"Ok, pay.",
-823196961698,We cannot afford to pay for the treatment anymore. I am sorry.,
+For further research into the patient's condition the pharmaceutical lab will require another transaction of <funding(bill)> to be approved.","Cho đến nay, loại thuốc tùy chỉnh dường như duy trì bệnh nhân trong tình trạng đủ tốt để họ có thể đi bộ ngắn quanh mái vòm và thậm chí tận hưởng hoạt động thú vị, ngắn gọn.
+
+Mặc dù không thể giao tiếp với bất kỳ ai trong chúng ta, nhưng dường như có một luồng khí tích cực xung quanh bệnh nhân khiến cư dân của chúng ta quyết tâm trở thành phiên bản tốt hơn của chính họ.
+
+Để nghiên cứu thêm về tình trạng của bệnh nhân, phòng thí nghiệm dược phẩm sẽ yêu cầu một giao dịch <funding(bill)> khác được chấp thuận."
+978056889119,Further research has been made and a new drug to extend the life of the patient is available. ,Nghiên cứu sâu hơn đã được thực hiện và một loại thuốc mới để kéo dài sự sống của bệnh nhân đã có sẵn.
+499573315317,"Ok, pay.","Ok, thanh toán."
+823196961698,We cannot afford to pay for the treatment anymore. I am sorry.,Chúng ta không có khả năng chi trả cho việc điều trị nữa. Tôi xin lỗi.
 518805373884,"Who abandoned them here? Where did they come from? How did they get afflicted with their condition?
 
 Their health is deteriorating rapidly, yet they go around the Dome, giving a hand to random Colonists with mundane chores. We take it this is their way of giving thanks.
 
-Sickness and disease have more or less become a thing of the past for humanity. This is why people are reacting so strongly to the woes of this stranger and are ever more inspired by the willfulness shown despite their grim situation. ",
-848833039517,Further research has been made and a new drug to extend the life of the patient is available. ,
+Sickness and disease have more or less become a thing of the past for humanity. This is why people are reacting so strongly to the woes of this stranger and are ever more inspired by the willfulness shown despite their grim situation. ","Ai đã bỏ rơi họ ở đây? Họ đến từ đâu vậy? Làm thế nào mà họ bị ảnh hưởng bởi tình trạng của họ?
+
+Sức khỏe của họ đang suy giảm nhanh chóng, nhưng họ vẫn đi vòng quanh mái vòm, giúp đỡ cư dân ngẫu nhiên những công việc vặt vãnh. Chúng ta coi đó là cách họ cảm ơn.
+
+Đau ốm, bệnh tật ít nhiều đã trở thành dĩ vãng đối với nhân loại. Đây là lý do tại sao mọi người đang phản ứng rất mạnh mẽ với những tai ương của người lạ này và càng được truyền cảm hứng bởi sự kiên định thể hiện bất chấp hoàn cảnh nghiệt ngã của họ."
+848833039517,Further research has been made and a new drug to extend the life of the patient is available. ,Nghiên cứu sâu hơn đã được thực hiện và một loại thuốc mới để kéo dài sự sống của bệnh nhân đã có sẵn.
 234150185249,"It is becoming quite obvious that we are fighting a futile battle. We are far from understanding this condition and although we may prolong the life of the patient a bit more, a deeper understanding of the disease is still far from our reach and will remain so.
 
 The patient is still able to walk around the Dome but will soon be submitted to the Infirmary for one last treatment. 
 
 Despite the grand sum of money being spent on the patient to no avail, our Colonists seem to celebrate the effort done to help ease a stranger's life.
 
-Paying for further research will prolong the life of the patient a bit further but will have no value towards discovering a cure for the mystery sickness.",
-497956413017,Further research has been made and a new drug to extend the life of the patient is available. ,
-671437562157,"Ok, pay.",
-631028338415,We cannot afford to pay for the treatment anymore. I am sorry.,
+Paying for further research will prolong the life of the patient a bit further but will have no value towards discovering a cure for the mystery sickness.","Rõ ràng là chúng ta đang chiến đấu trong một trận chiến vô ích. Chúng ta còn lâu mới hiểu được tình trạng này và mặc dù chúng ta có thể kéo dài sự sống của bệnh nhân thêm một chút, nhưng hiểu biết sâu hơn về căn bệnh này vẫn còn xa tầm tay của chúng ta và sẽ vẫn như vậy.
+
+Bệnh nhân vẫn có thể đi lại trong Mái vòm nhưng sẽ sớm được chuyển đến Bệnh xá để điều trị lần cuối.
+
+Mặc dù số tiền lớn được chi cho bệnh nhân không có kết quả, những người tham gia chương trình cư dân của chúng ta dường như ăn mừng nỗ lực đã được thực hiện để giúp đỡ cuộc sống của một người lạ.
+
+Trả tiền cho nghiên cứu sâu hơn sẽ kéo dài tuổi thọ của bệnh nhân hơn một chút nhưng sẽ không có giá trị gì đối với việc khám phá ra phương pháp chữa trị căn bệnh bí ẩn."
+497956413017,Further research has been made and a new drug to extend the life of the patient is available. ,Nghiên cứu sâu hơn đã được thực hiện và một loại thuốc mới để kéo dài sự sống của bệnh nhân đã có sẵn.
+671437562157,"Ok, pay.","Ok, thanh toán."
+631028338415,We cannot afford to pay for the treatment anymore. I am sorry.,Chúng ta không có khả năng chi trả cho việc điều trị nữa. Tôi xin lỗi.
 253445895465,"It seems a bug has caused  the pods' navigational software to contact our colony instead of <DisplayName>'s.
 
-We can blatantly steal their cargo, but we certainly won't be able to feign ignorance to the fact that the Supply Pods were theirs.",
+We can blatantly steal their cargo, but we certainly won't be able to feign ignorance to the fact that the Supply Pods were theirs.","Có vẻ như một lỗi đã khiến phần mềm điều hướng của nhóm liên hệ với căn cứ của chúng ta thay vì của <DisplayName>.
+
+Chúng ta có thể ăn cắp hàng hóa của họ một cách trắng trợn, nhưng chắc chắn chúng ta sẽ không thể ngụy tạo sự thiếu hiểu biết về sự thật rằng Pod tiếp tế là của họ."
 693438628894,Wrong Address ,Sai địa chỉ
 126574385551,Several Supply Pods in orbit have signaled readiness to execute guided landing procedures. The Supply Pods are not our own though - they seem to belong to one of our rivals. ,Một số Pod tiếp tế trên quỹ đạo đã báo hiệu sự sẵn sàng để thực hiện quy trình hạ cánh có hướng dẫn. Tuy nhiên, Pod tiếp tế không phải của riêng chúng ta - chúng dường như thuộc về một trong những đối thủ của chúng ta.
 179828377847,"Finders, keepers! Get the goods!","Người tìm, người giữ! Nhận hàng!"
@@ -17424,7 +17553,7 @@ Tiến trình trò chơi cơ bản mỗi Sol<right><EstimatedDailyTotal>
 346450684177,Dog,Chó
 409677371105,Deer,Nai
 113950376714,Goat,Dê
-808881013020,Llama,
+808881013020,Llama,Lạc đà không bướu
 397432391921,Penguin,Chim cánh cụt
 176071455701,Pony,Ngựa con
 520473377733,Rabbit,Thỏ
@@ -17991,7 +18120,7 @@ Tiến trình trò chơi cơ bản mỗi Sol<right><EstimatedDailyTotal>
 718,Abort,Hủy
 11220,Cargo,Hàng hóa
 724,Cure trait <idx>,Chữa đặc điểm <idx>
-725,Learn trait <idx>,Tìm hiểu đặc điểm <idx>
+725,Learn trait <idx>,Học đặc điểm <idx>
 726,Neutralized Renegades,Nổi loạn vô hiệu
 727,Renegades in the Dome <right><number>,Nổi loạn trong mái vòm <right><number>
 7326,Not Working,Không làm việc
@@ -18132,21 +18261,21 @@ Dịch vụ: <em><list></em>"
 99,Machine Parts Cost,Trị giá linh kiện máy
 100,Rare Metals Cost,Trị giá kim loại hiếm
 101,Upgrade Time Cost,Trị giá thời gian nâng cấp
-102,Modifier Target 1,
-103,Modifier Label 1,
-104,Modified Property 1,
-105,Percent Modifier 1,
-106,Amount Modifier 1,
-107,Modifier Target 2,
-108,Modifier Label 2,
-109,Modified Property 2,
-110,Percent Modifier 2,
-111,Amount Modifier 2,
-112,Modifier Target 3,
-113,Modifier Label 3,
-114,Modified Property 3,
-115,Percent Modifier 3,
-116,Amount Modifier 3,
+102,Modifier Target 1,Sửa đổi mục tiêu 1
+103,Modifier Label 1,Sửa đổi nhãn 1
+104,Modified Property 1,Sửa đổi thuộc tính 1
+105,Percent Modifier 1,Phần trăm sửa đổi 1
+106,Amount Modifier 1,Số lượng sửa đổi 1
+107,Modifier Target 2,Sửa đổi mục tiêu 2
+108,Modifier Label 2,Sửa đổi nhãn 2
+109,Modified Property 2,Sửa đổi thuộc tính 2
+110,Percent Modifier 2,Phần trăm sửa đổi 2
+111,Amount Modifier 2,Số lượng sửa đổi 2
+112,Modifier Target 3,Sửa đổi mục tiêu 3
+113,Modifier Label 3,Sửa đổi nhãn 3
+114,Modified Property 3,Sửa đổi thuộc tính 3
+115,Percent Modifier 3,Phần trăm sửa đổi 3
+116,Amount Modifier 3,Số lượng sửa đổi 3
 7513,Locked by research.,Bị khóa bởi nghiên cứu.
 7514,Upgrade already constructed. Current status: <working>,Nâng cấp đã được xây. Tình trạng hiện tại: <working>
 7515,Upgrade is under construction.,Nâng cấp đang được xây.
@@ -18186,7 +18315,7 @@ Dịch vụ: <em><list></em>"
 7631,<clr>Upgrade <amount>% (<upgrade>)</color>,<clr>Nâng cấp <amount>% (<upgrade>)</color>
 7632,<clr>Upgrade <amount> (<upgrade>)</color>,<clr>Nâng cấp <amount> (<upgrade>)</color>
 7633,<clr>Mission sponsor <amount>%</color>,<clr>Nhà tài trợ sứ mệnh <amount>%</color>
-4310,<red>Seniors and children can't be assigned to work</red>,<red>Người cao niên và trẻ em không được giao việc</red>
+4310,<red>Seniors and children can't be assigned to work</red>,<red>Người lớn tuổi và trẻ em không được giao việc</red>
 8769,Required specialization mismatch,Chuyên môn bắt buộc không khớp
 4311,Current Workplace,Nơi làm việc hiện tại
 4308,<red>Out of reach</red>,<red>Ngoài tầm với</red>
@@ -18420,7 +18549,7 @@ Dịch vụ: <em><list></em>"
 880,<green>All Clear!</green>,<green>Tất cả rõ ràng!</green>
 8776,Passages,Hành lang
 883,Cables connect adjacent buildings to the power grid when constructed.,Cáp kết nối công trình lân cận với lưới điện khi thi công.
-884,Pipes transport Oxygen and Water and have to be connected to buildings on the spots indicated with a pipe connection icon.,Đường ống vận chuyển Oxy và Nước và phải được kết nối với công trình ở những vị trí được chỉ ra bằng biểu tượng kết nối đường ống.
+884,Pipes transport Oxygen and Water and have to be connected to buildings on the spots indicated with a pipe connection icon.,Đường ống vận chuyển ôxy và nước và phải được kết nối với công trình ở những vị trí được chỉ ra bằng biểu tượng kết nối đường ống.
 8777,Connect two domes by placing both ends of the Passage on empty hexes inside two nearby domes.,Kết nối hai mái vòm bằng cách đặt cả hai đầu của Hành lang trên ô trống bên trong hai mái vòm gần đó.
 885,Power Switch,Công tắc điện
 886,Pipe Valve,Van đường ống
@@ -19547,7 +19676,7 @@ Sẽ có những thách thức để vượt qua. Bạn đã sẵn sàng chưa? 
 10598,Yellow Mountain,Núi vàng
 10599,Blessed Wind,Gió ban phước
 10600,Shelters All,Nơi trú ẩn tất cả
-10601,Web of Life,
+10601,Web of Life,Địa điểm sống
 10602,Candle's Glow,Ngọn nến phát sáng
 10603,Cloudcrest,
 10604,Devoted Wisdom,Trí tuệ tận tâm
@@ -21547,7 +21676,7 @@ Sẽ có những thách thức để vượt qua. Bạn đã sẵn sàng chưa? 
 3697,Other register,Đăng ký khác
 3698,Base Class,Lớp cơ bản
 3696,Class,Lớp
-3699,Property,Tài sản
+3699,Property,Thuộc tính
 3701,Op,
 3702,A building label,Nhãn công trình
 3703,Trait: <display_name>,Đặc điểm: <display_name>
@@ -21991,7 +22120,7 @@ Mạng lớn hơn sẽ gặp trục trặc thường xuyên hơn."
 10923,Select a Challenge,Chọn thử thách
 4152,Select a Colony Site,Chọn vị trí căn cứ
 4153,<style LandingPosName><name></style>,<style LandingPosName><name></style>
-10414,Funding: $<funding> M<newline>,Tài trợ: <funding> M$<newline>
+10414,Funding: $<funding> M<newline>,Tài trợ: <funding>M $<newline>
 10062,Starting Rockets: <initial_rockets><newline>,Khởi động tên lửa: <initial_rockets><newline>
 10415,- ,- 
 4092,Custom coordinates,Tọa độ tùy chỉnh
@@ -22389,7 +22518,7 @@ Công trình hình chóp mới: <em><template_display_name></em> "
 
 <formatedbuildinginfo('ElectricitySwitch')>"
 8102,<formatedbuildinginfo('LifeSupportGridElement')>,
-3972,Transport Water and Oxygen.,Vận chuyển nước và oxy.
+3972,Transport Water and Oxygen.,Vận chuyển nước và ôxy.
 8103,"<description>
 
 <formatedbuildinginfo('LifesupportSwitch')>","<description>
@@ -22417,8 +22546,8 @@ Công trình hình chóp mới: <em><template_display_name></em> "
 8967,<graph_right>Stored Power</graph_right> <em>(<power>)</em>,<graph_right>Điện lưu trữ</graph_right> <em>(<power>)</em>
 11519,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Demanded</graph_right> <em>(<demand>)</em> Power (average per hour),<graph_left>Sản xuất</graph_left> <em>(<produced>)</em> và <graph_right>Nhu cầu</graph_right> <em>(<demand>)</em> Điện (trung bình mỗi giờ)
 682,Oxygen,Ôxy
-9645,"Show historical data for Oxygen - stored Oxygen, average production and demand per hour.","Hiển thị dữ liệu lịch sử cho Oxy - Oxy được lưu trữ, sản lượng và nhu cầu trung bình mỗi giờ."
-8971,<graph_right>Stored Oxygen</graph_right> <em>(<air>)</em>,<graph_right>Oxy được lưu trữ</graph_right> <em>(<air>)</em>
+9645,"Show historical data for Oxygen - stored Oxygen, average production and demand per hour.","Hiển thị dữ liệu lịch sử cho ôxy - ôxy được lưu trữ, sản lượng và nhu cầu trung bình mỗi giờ."
+8971,<graph_right>Stored Oxygen</graph_right> <em>(<air>)</em>,<graph_right>Ôxy được lưu trữ</graph_right> <em>(<air>)</em>
 11520,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Demanded</graph_right> <em>(<demand>)</em> Oxygen (average per hour),<graph_left>Sản xuất</graph_left> <em>(<produced>)</em> và <graph_right>Nhu cầu</graph_right> <em>(<demand>)</em> Ôxy (trung bình mỗi giờ)
 9646,"Show historical data for Water - stored Water, average production and demand per hour.","Hiển thị dữ liệu lịch sử về Nước - Nước lưu trữ, sản lượng và nhu cầu trung bình mỗi giờ."
 8973,<graph_right>Stored Water</graph_right> <em>(<water>)</em>,<graph_right>Nước lưu trữ</graph_right> <em>(<water>)</em>
@@ -23136,7 +23265,7 @@ Nghiên cứu hiện tại: <em><CurrentResearchName></em>
 738333831460,LIFE SUPPORT GRIDS,Lưới hỗ trợ sự sống
 359672804540,Stored Resources,Tài nguyên được lưu trữ
 12189,No objects to show.,Không có đối tượng để hiển thị.
-546174280281,"Total production, consumption and storage of Oxygen and Water in the grid.","Tổng sản lượng, tiêu thụ và lưu trữ Oxy và Nước trong lưới."
+546174280281,"Total production, consumption and storage of Oxygen and Water in the grid.","Tổng sản lượng, tiêu thụ và lưu trữ ôxy và nước trong lưới."
 81,Life Support,Hỗ trợ sự sống
 12110,<left_click><left_click> Show all buildings in the grid,<left_click><left_click> Hiển thị tất cả công trình trong lưới
 12111,<ButtonA> Show all buildings in the grid,<ButtonA> Hiển thị tất cả công trình trong lưới
@@ -24411,8 +24540,8 @@ Trạng thái: <on_off(IsResourceEnabled(res))>"
 4780,An adult Colonist,Cư dân người lớn
 4781,Middle Aged,Trung niên
 4782,Cư dân trung niên sắp nghỉ hưu,
-4783,Senior,Nghỉ hưu
-4784,A senior Colonist retired from active duty,Thành viên cao cấp đã nghỉ hưu từ chức vụ tại ngũ
+4783,Senior,Lớn tuổi
+4784,A senior Colonist retired from active duty,Cư dân lớn tuổi đã nghỉ hưu
 4785,<red>Low Building performance</red>,<red>Hiệu suất công trình thấp</red>
 4786,<red>Low Soil quality</red>,<red>Chất lượng đất thấp</red>
 4787,<green>High Soil quality</green>,<green>Chất lượng đất cao</green>
@@ -24500,165 +24629,165 @@ Trạng thái: <on_off(IsResourceEnabled(res))>"
 4759,Applicants pool starting size,Kích thước nhóm ứng viên bắt đầu
 337606533515,Threshold of accumulated stat points to trigger birth of a new Colonist,Ngưỡng chỉ số tích lũy để kích hoạt sự ra đời của cư dân mới
 691313621108,"Lock time to Workplace, Residence, Dome selected by user","Khóa thời gian đến nơi làm việc, nơi ở, mái vòm do người dùng lựa chọn"
-492281705322,ForcedByUserLockTimeout,Buộc bởi người dùng hết thời gian khóa
+492281705322,ForcedByUserLockTimeout,
 564503347383,Holiday rating is capped when health/sanity falls under this limit,Xếp hạng kỳ nghỉ được giới hạn khi sức khỏe/tỉnh táo giảm xuống dưới giới hạn này
-264619837062,HolidayCapThreshold,Ngưỡng giới hạn ngày lễ
+264619837062,HolidayCapThreshold,
 160194034081,Celebrity reward money multiplier,Nhân tiền thưởng cho người nổi tiếng
-438690655944,HolidayCelebrityMultiplier,Hệ số nhân ngày lễ nổi tiếng
+438690655944,HolidayCelebrityMultiplier,
 140277019655,Awarded research points for having a Genius Tourist,Được thưởng điểm nghiên cứu khi có một Khách du lịch thiên tài
 919049226879,HolidayGeniusResearchPoints,
-994544119070,Capped holiday rating for Renegades,
+994544119070,Capped holiday rating for Renegades,Xếp hạng kỳ nghỉ có giới hạn cho nổi loạn
 719524089927,HolidayRenegadeCapRating,
-543374091753,Multiplier for number of applicants,
+543374091753,Multiplier for number of applicants,Hệ số cho ứng viên
 495280127572,HolidaySaintMultiplier,
-151345915068,Capped holiday rating when stat is below the HolidayCapThreshold,
+151345915068,Capped holiday rating when stat is below the HolidayCapThreshold,Giới hạn xếp hạng kỳ nghỉ khi thống kê dưới Ngưỡng ngày lễ
 795976084512,HolidayStatCapRating,
-8805,Performance penalty for colonists working in another connected dome,
+8805,Performance penalty for colonists working in another connected dome,Hình phạt hiệu suất cho cư dân làm việc trong một mái vòm được kết nối khác
 8806,Connected dome performance penalty,
-4740,Performance penalty for non-Specialists assigned to a specialized work position,
-4741,Non-specialist performance penalty,
-4761,The chance to generate a Colonist with 'Other' sex,
-4762,'Other' sex chance,
-603743631388,Chance to get positive trait when Resting and ProjectMorpheus is active,
+4740,Performance penalty for non-Specialists assigned to a specialized work position,Hình thức phạt đối với những người không phải là chuyên gia được giao cho một vị trí công việc chuyên biệt
+4741,Non-specialist performance penalty,Hình phạt về hiệu suất không chuyên nghiệp
+4761,The chance to generate a Colonist with 'Other' sex,Cơ hội tạo ra một cư dân với giới tính 'Khác'
+4762,'Other' sex chance,Cơ hội giới tính 'Khác'
+603743631388,Chance to get positive trait when Resting and ProjectMorpheus is active,Cơ hội nhận được đặc điểm tích cực khi Nghỉ ngơi và Dự án Morpheus đang hoạt động
 580388115170,ProjectMorpheusPositiveTraitChance,
-4760,Time before starting to starve,
-237836219339,Multiplier to funding received from each tourist when returning to earth in percent,
+4760,Time before starting to starve,Thời gian trước khi bắt đầu chết đói
+237836219339,Multiplier to funding received from each tourist when returning to earth in percent,Hệ số nhân với kinh phí nhận được từ mỗi khách du lịch khi trở lại trái đất tính bằng phần trăm
 884220740845,TouristFundingMultiplier,
-464159782202,The maximum number of sols that tourists stay on Mars.,
+464159782202,The maximum number of sols that tourists stay on Mars.,Số sol tối đa mà khách du lịch ở trên sao Hỏa.
 365958818165,TouristSolsOnMarsMax,
-850859674012,The number of sols that tourists stay on Mars.,
+850859674012,The number of sols that tourists stay on Mars.,Số lượng khách du lịch lưu trú trên sao Hỏa.
 432745681792,TouristSolsOnMarsMin,
-4763,Comfort penalty when failing to satisfy a need via a visit,
-4748,Arrival chance (Botanist),
-4756,Cloning points at full performance per hour,
-4757,Cloning points,
-4752,"Food eaten per visit to building, Farm or stockpile",
-4753,Food used per visit,
-4745,Arrival chance (Engineer),
-4747,Arrival chance (Geologist),
-4749,Arrival chance (Medic),
-4754,Colonist's chance to get a Perk when grown if they’ve visited a playground as a child,
-4755,Chance to get a Perk,
-4744,Arrival chance (Scientist),
-4746,Arrival chance (Officer),
-4750,Multiplier for arrival chances of all Specialist types,
-4751,Specialist chance multiplier,
-4716,All building construction costs in Concrete will be modified by this percent,
-4717,Cost modifier (Concrete),
-4728,All Dome construction costs in in Concrete will be modified by this percent,
-4729,Dome cost modifier (Concrete),
-4720,All building construction costs in Electronics will be modified by this percent,
-4721,Cost modifier (Electronics),
-4732,All Dome construction costs in in Electronics will be modified by this percent,
-4733,Dome cost modifier (Electronics),
-4722,All building construction costs in Machine Parts will be modified by this percent,
-4723,Cost modifier (Machine Parts),
-4734,All Dome construction costs in in Machine Parts will be modified by this percent,
-4735,Dome cost modifier (Machine Parts),
-4714,All building construction costs in Metals will be modified by this percent,
-4715,Cost modifier (Metals),
-4726,All Dome construction costs in in Metals will be modified by this percent,
-4727,Dome cost modifier (Metals),
-357577730941,The number of polymers required to fix a single dome/passage fracture,
-805664154231,Fracture Repair Cost,
-4718,All building construction costs in Polymers will be modified by this percent,
-4719,Cost modifier (Polymers),
-4730,All Dome construction costs in in Polymers will be modified by this percent,
-4731,Dome cost modifier (Polymers),
-4724,All building construction costs in Rare Metals will be modified by this percent,
-4725,Cost modifier (Rare Metals),
-4736,All Dome construction costs in in Rare Metals will be modified by this percent,
-4737,Dome cost modifier (Rare Metals),
-744485829662,Rocket Price,
+4763,Comfort penalty when failing to satisfy a need via a visit,Hình phạt thoải mái khi không đáp ứng được nhu cầu thông qua chuyến thăm
+4748,Arrival chance (Botanist),Cơ hội đến (Nhà thực vật học)
+4756,Cloning points at full performance per hour,Nhân bản điểm ở hiệu suất đầy đủ mỗi giờ
+4757,Cloning points,Điểm nhân bản
+4752,"Food eaten per visit to building, Farm or stockpile","Thực phẩm ăn mỗi lần đến công trình, trang trại hoặc kho dự trữ"
+4753,Food used per visit,Thực phẩm được sử dụng mỗi lần ghé thăm
+4745,Arrival chance (Engineer),Cơ hội đến (Kỹ sư)
+4747,Arrival chance (Geologist),Cơ hội đến (Nhà địa chất)
+4749,Arrival chance (Medic),Cơ hội đến (Y khoa)
+4754,Colonist's chance to get a Perk when grown if they’ve visited a playground as a child,Cơ hội của cư dân để có được đặc quyền khi trưởng thành nếu họ đã đến thăm một sân chơi khi còn nhỏ
+4755,Chance to get a Perk,Cơ hội nhận được đặc quyền
+4744,Arrival chance (Scientist),Cơ hội đến (Nhà khoa học)
+4746,Arrival chance (Officer),Cơ hội đến (Sĩ quan)
+4750,Multiplier for arrival chances of all Specialist types,Hệ số cho cơ hội đến của tất cả loại Chuyên gia
+4751,Specialist chance multiplier,Chuyên gia cơ hội nhận
+4716,All building construction costs in Concrete will be modified by this percent,Tất cả chi phí xây dựng công trình bằng Bê tông sẽ được điều chỉnh theo phần trăm này
+4717,Cost modifier (Concrete),Công cụ điều chỉnh chi phí (Bê tông)
+4728,All Dome construction costs in in Concrete will be modified by this percent,Tất cả chi phí xây dựng Mái vòm bằng Bê tông sẽ được điều chỉnh theo phần trăm này
+4729,Dome cost modifier (Concrete),Công cụ sửa đổi chi phí mái vòm (Bê tông)
+4720,All building construction costs in Electronics will be modified by this percent,Tất cả chi phí xây dựng công trình bằng Thiết bị điện tử sẽ được sửa đổi theo phần trăm này
+4721,Cost modifier (Electronics),Công cụ điều chỉnh chi phí (Thiết bị điện tử)
+4732,All Dome construction costs in in Electronics will be modified by this percent,Tất cả chi phí xây dựng Mái vòm bằng Thiết bị điện tử sẽ được điều chỉnh theo phần trăm này
+4733,Dome cost modifier (Electronics),Công cụ sửa đổi chi phí mái vòm (Thiết bị điện tử)
+4722,All building construction costs in Machine Parts will be modified by this percent,Tất cả chi phí xây dựng công trình bằng linh kiện máy sẽ được sửa đổi theo phần trăm này
+4723,Cost modifier (Machine Parts),Công cụ sửa đổi chi phí (Linh kiện máy)
+4734,All Dome construction costs in in Machine Parts will be modified by this percent,Tất cả chi phí xây dựng mái vòm bằng linh kiện máy sẽ được sửa đổi theo phần trăm này
+4735,Dome cost modifier (Machine Parts),Công cụ sửa đổi chi phí mái vòm (Linh kiện máy)
+4714,All building construction costs in Metals will be modified by this percent,Tất cả chi phí xây dựng công trình bằng Kim loại sẽ được sửa đổi theo phần trăm này
+4715,Cost modifier (Metals),Công cụ sửa đổi chi phí (Kim loại)
+4726,All Dome construction costs in in Metals will be modified by this percent,Tất cả chi phí xây dựng Mái vòm tính bằng Kim loại sẽ được điều chỉnh theo phần trăm này
+4727,Dome cost modifier (Metals),Công cụ sửa đổi chi phí mái vòm (Kim loại)
+357577730941,The number of polymers required to fix a single dome/passage fracture,Số lượng polyme cần thiết để sửa chữa một vết nứt mái vòm/hành lang đơn
+805664154231,Fracture Repair Cost,Chi phí sửa nứt
+4718,All building construction costs in Polymers will be modified by this percent,Tất cả chi phí xây dựng công trình bằng Polyme sẽ được sửa đổi theo phần trăm này
+4719,Cost modifier (Polymers),Công cụ điều chỉnh chi phí (Polyme)
+4730,All Dome construction costs in in Polymers will be modified by this percent,Tất cả chi phí xây dựng Mái vòm bằng Polyme sẽ được điều chỉnh theo phần trăm này
+4731,Dome cost modifier (Polymers),Công cụ sửa đổi chi phí mái vòm (Polyme)
+4724,All building construction costs in Rare Metals will be modified by this percent,Tất cả chi phí xây dựng công trình bằng Kim loại hiếm sẽ được sửa đổi theo phần trăm này
+4725,Cost modifier (Rare Metals),Công cụ sửa đổi chi phí (Kim loại hiếm)
+4736,All Dome construction costs in in Rare Metals will be modified by this percent,Tất cả chi phí xây dựng Mái vòm bằng Kim loại hiếm sẽ được điều chỉnh theo phần trăm này
+4737,Dome cost modifier (Rare Metals),Công cụ sửa đổi chi phí mái vòm (Kim loại hiếm)
+744485829662,Rocket Price,Giá tên lửa
 4738,All building rebuild construction costs will be modified by this percent,Tất cả chi phí xây dựng lại công trình sẽ được sửa đổi theo phần trăm này
 4739,Rebuild cost modifier,Xây dựng lại công cụ sửa đổi chi phí
 4658,Biorobot construction time,Thời gian xây dựng Rô bốt sinh học
 4659,Biorobot construction time,Thời gian xây dựng Rô bốt sinh học
 4656,Price for constructing a Biorobot in a Drone Factory,Giá xây Rô bốt sinh học trong Nhà máy Drone
 4657,Biorobot Electronics cost,Chi phí Thiết bị điện tử Rô bốt sinh học
-4664,Drones generate this many Repair points (per second) when repairing a building,
-4665,Drone building Repair amount,
-4666,Battery usage when Drone is repairing a building (per second),
-4667,Drone building Repair battery usage,
-4682,Battery usage when Drone is moving and carrying a resource (per second),
-4683,Drone carry battery usage,
-4668,When cleaning a building Drones generate this many Clean points (per second),
-4669,Drone Clean amount,
-4660,Drones generate this many Construct points (per second) when constructing a building,
-4661,Drone Construct amount,
-4662,Battery usage when Drone is constructing a building (per second),
-4663,Drone construct battery usage,
-6978,Drone construction time using the Drone Hub,
-6979,Drone construction time,
-4672,Drones generate this many Destroy points (per second) when destroying a Black Cube,
-4673,Drone Destroy amount,
-4674,Battery usage when Drone is destroying a Black Cube (per second),
-4675,Drone Destroy battery usage,
-6976,Price for constructing a Drone using the Drone Hub,
-6977,Drone Electronics cost,
-4684,Drones will go to recharge when looking for work at twice this limit; They will drop what they're doing and go to recharge at this limit,
-4685,Drone emergency power,
-4686,Drones will load resources for this amount of time,
-4687,Drone gather resource work time,
-8468,How far away from the drone hub it would look for factories when ordering drone construction.,
-8469,Drone Hub order drone range,
-4654,Additional dust limit increase (in %) beyond which a dirty Drone will Malfunction,
-4655,Drone max dust bonus,
-4680,Battery usage when Drone is moving (without carrying resources) (per second),
-4681,Drone move battery usage,
-4644,The time it takes for a Drone to be fully recharged,
-4645,Drone recharge time,
-4650,Drone repair time is dictated by the number of repetitions of the Repair animation,
-4651,Drone repair anim repetitions,
-960116597482,The amount of time in seconds it takes a Drone to fix a supply leak,
-197593111647,Drone supply leak repair time,
-6980,Drone resource carry amount,
-388847875487,The time drones take to work on landscaping is modified by this value.,
-726969378565,Time To Work On Landscape Multiplier,
-4676,Drones generate 'transform_to_waste_rock' points (per second) when removing Waste Rock obstructions,
-4677,Drone transform Waste Rock obstruction to stockpile amount,
-4678,Battery usage when Drone is removing Waste Rock obstructions (per second),
-4679,Drone transform Waste Rock obstruction to stockpile battery use,
-4646,Drones will be cleaned of dust when being recharged if this value is bigger than 0,
-4647,Recharging cleans Drones,
-10139,How long it takes to generate a new Applicant in the Applicant Pool,
-10140,Applicant Generation Period,
-8466,Determines whether the applicant pool gains new entries.,
-8467,Applicant Generation Suspended,
-4597,Maximum payload (in kg) of a resupply Rocket,
-4598,Payload Capacity,
-992693275986,CrimeEvent -  the number of destroyed buildings from single crime event,
+4664,Drones generate this many Repair points (per second) when repairing a building,Drone tạo ra nhiều điểm Sửa chữa này (mỗi giây) khi sửa chữa một công trình
+4665,Drone building Repair amount,Số lượng sửa chữa công trình Drone
+4666,Battery usage when Drone is repairing a building (per second),Mức sử dụng pin khi Drone đang sửa chữa một công trình (mỗi giây)
+4667,Drone building Repair battery usage,Công trình Drone sửa chữa việc sử dụng pin
+4682,Battery usage when Drone is moving and carrying a resource (per second),Mức sử dụng pin khi Drone đang di chuyển và mang theo tài nguyên (mỗi giây)
+4683,Drone carry battery usage,Sử dụng pin mang theo Drone
+4668,When cleaning a building Drones generate this many Clean points (per second),Khi dọn dẹp một công trình, Drone tạo ra nhiều điểm Dọn dẹp này (mỗi giây)
+4669,Drone Clean amount,Số lượng drone dọn dẹp
+4660,Drones generate this many Construct points (per second) when constructing a building,Drone tạo ra nhiều điểm Xây dựng này (mỗi giây) khi xây dựng một công trình
+4661,Drone Construct amount,Số lượng drone xây dựng
+4662,Battery usage when Drone is constructing a building (per second),Mức sử dụng pin khi Drone đang xây dựng một công trình (mỗi giây)
+4663,Drone construct battery usage,Drone xây dựng sử dụng pin
+6978,Drone construction time using the Drone Hub,Thời gian chế tạo drone bằng cách sử dụng Trung tâm Drone
+6979,Drone construction time,Thời gian chế tạo Drone
+4672,Drones generate this many Destroy points (per second) when destroying a Black Cube,Drone tạo ra nhiều điểm Phá hủy này (mỗi giây) khi phá hủy Khối đen
+4673,Drone Destroy amount,Số lượng Drone phá hủy
+4674,Battery usage when Drone is destroying a Black Cube (per second),Mức sử dụng pin khi Drone phá hủy Khối đen (mỗi giây)
+4675,Drone Destroy battery usage,Drone phá hủy sử dụng pin
+6976,Price for constructing a Drone using the Drone Hub,Giá xây dựng Drone bằng Trung tâm Drone
+6977,Drone Electronics cost,Chi phí thiết bị điện tử Drone
+4684,Drones will go to recharge when looking for work at twice this limit; They will drop what they're doing and go to recharge at this limit,Drone sẽ sạc lại khi tìm việc ở mức gấp đôi giới hạn này; Chúng sẽ bỏ những gì chúng đang làm và đi nạp ở mức giới hạn này
+4685,Drone emergency power,Điện khẩn cấp drone
+4686,Drones will load resources for this amount of time,Drone sẽ tải tài nguyên trong khoảng thời gian này
+4687,Drone gather resource work time,Drone thu thập tài nguyên thời gian làm việc
+8468,How far away from the drone hub it would look for factories when ordering drone construction.,Bao xa từ trung tâm drone, nó sẽ tìm nhà máy khi đặt hàng chế tạo drone.
+8469,Drone Hub order drone range,Trung tâm Drone đặt hàng phạm vi drone
+4654,Additional dust limit increase (in %) beyond which a dirty Drone will Malfunction,Tăng giới hạn bụi bổ sung (tính theo%), vượt quá mức mà Drone bẩn sẽ hoạt động sai
+4655,Drone max dust bonus,Phần thưởng tối đa của drone
+4680,Battery usage when Drone is moving (without carrying resources) (per second),Mức sử dụng pin khi Drone đang di chuyển (không mang theo tài nguyên) (mỗi giây)
+4681,Drone move battery usage,Drone di chuyển sử dụng pin
+4644,The time it takes for a Drone to be fully recharged,Thời gian cần thiết để một Drone được sạc đầy
+4645,Drone recharge time,Thời gian sạc drone
+4650,Drone repair time is dictated by the number of repetitions of the Repair animation,Thời gian sửa chữa drone được quy định bởi số lần lặp lại hoạt ảnh Sửa chữa
+4651,Drone repair anim repetitions,Lặp lại hoạt ảnh sửa chữa drone
+960116597482,The amount of time in seconds it takes a Drone to fix a supply leak,Khoảng thời gian tính bằng giây cần một Drone để khắc phục sự cố rò rỉ nguồn cung cấp
+197593111647,Drone supply leak repair time,Thời gian sửa chữa rò rỉ nguồn drone
+6980,Drone resource carry amount,Số lượng tài nguyên drone mang theo
+388847875487,The time drones take to work on landscaping is modified by this value.,Thời gian drone cần để làm việc trên cảnh quan được sửa đổi bởi giá trị này.
+726969378565,Time To Work On Landscape Multiplier,Thời gian để làm việc trên hệ số theo chiều ngang
+4676,Drones generate 'transform_to_waste_rock' points (per second) when removing Waste Rock obstructions,Drone tạo ra điểm 'transform_to_waste_rock' (mỗi giây) khi loại bỏ vật cản đá thải
+4677,Drone transform Waste Rock obstruction to stockpile amount,Drone biến đổi chướng ngại vật đá thải thành lượng dự trữ
+4678,Battery usage when Drone is removing Waste Rock obstructions (per second),Mức sử dụng pin khi Drone đang loại bỏ vật cản của Đá thải (mỗi giây)
+4679,Drone transform Waste Rock obstruction to stockpile battery use,Drone biến đổi Rác thải chướng ngại vật để dự trữ pin sử dụng
+4646,Drones will be cleaned of dust when being recharged if this value is bigger than 0,Drone sẽ được làm sạch bụi khi được sạc lại nếu giá trị này lớn hơn 0
+4647,Recharging cleans Drones,Sạc lại làm sạch Drone
+10139,How long it takes to generate a new Applicant in the Applicant Pool,Mất bao lâu để tạo ra một Ứng viên mới trong Nhóm Ứng viên
+10140,Applicant Generation Period,Thời gian phát sinh ứng viên
+8466,Determines whether the applicant pool gains new entries.,Xác định xem nhóm ứng viên có nhận được mục nhập mới hay không.
+8467,Applicant Generation Suspended,Thế hệ ứng viên bị đình chỉ
+4597,Maximum payload (in kg) of a resupply Rocket,Trọng tải tối đa (tính bằng kg) của Tên lửa tiếp tế
+4598,Payload Capacity,Sức chứa tải trọng
+992693275986,CrimeEvent -  the number of destroyed buildings from single crime event,CrimeEvent - số lượng công trình bị phá hủy từ một sự kiện tội phạm duy nhất
 792834925451,CrimeEventDestroyedBuildingsCount,
-752761093718,CrimeEvent -  the number of sabotaged buildings from single crime event,
+752761093718,CrimeEvent -  the number of sabotaged buildings from single crime event,CrimeEvent - số lượng công trình bị phá hoại từ một sự kiện tội phạm duy nhất
 869176701600,CrimeEventSabotageBuildingsCount,
-4617,Deep scanning is available when this is not 0,
-4618,Can perform deep scan,
-4603,Amount of Funding (in millions) received by exporting one unit of Rare Metals,
-4604,Rare Metals Price (M),
-4615,The amount of Food (unscaled) supplied with each Colonist arrival,
-4616,Food per Rocket Passenger,
-4585,All Funding is multiplied by this percent,
-4586,Global Funding gains multiplier,
-524823774609,GameRule - RebelYell -  points to add to renegade generation.,
+4617,Deep scanning is available when this is not 0,Quét sâu khả dụng khi đây không phải là 0
+4618,Can perform deep scan,Có thể thực hiện quét sâu
+4603,Amount of Funding (in millions) received by exporting one unit of Rare Metals,Số tiền tài trợ (tính bằng triệu) nhận được khi xuất khẩu một đơn vị Kim loại hiếm
+4604,Rare Metals Price (M),Giá kim loại hiếm (M)
+4615,The amount of Food (unscaled) supplied with each Colonist arrival,Số lượng Thực phẩm (chưa chia tỷ lệ) được cung cấp cho mỗi lần cư dân đến
+4616,Food per Rocket Passenger,Thức ăn cho mỗi tên lửa hành khách
+4585,All Funding is multiplied by this percent,Tất cả tiền tài trợ được nhân với phần trăm này
+4586,Global Funding gains multiplier,Hệ số tài trợ toàn cầu tăng
+524823774609,GameRule - RebelYell -  points to add to renegade generation.,GameRule - RebelYell - điểm để thêm vào thế hệ nổi loạn.
 782696503433,GameRuleRebelYellProgress,
-4605,Cables are built instantly when this is not 0,
-4606,Instant Cables,
+4605,Cables are built instantly when this is not 0,Cáp được xây dựng ngay lập tức khi đây không phải là 0
+4606,Instant Cables,Cáp tức thì
 10464,Passages are built instantly and cost nothing when this is not 0,Hành lang được xây dựng ngay lập tức và không tốn phí khi nó không phải là 0
 10141,Instant Passages,Hành lang tức thì
-4607,Pipes are built instantly when this is not 0,
-4608,Instant Pipes,
-4609,Deep Metals deposits are exploitable when this is not 0,
-4610,Exploitable Deep Metals,
-4613,Deep Rare Metals deposits are exploitable when this is not 0,
-4614,Can exploit deep Rare Metals,
-4611,Deep Water deposits are exploitable when this is not 0,
-4612,Exploitable Deep Water,
-10142,Maximum number of Colonists that can arrive on Mars in a single Pod,
-10143,Colonists per Pod,
-4593,Maximum number of Colonists that can arrive on Mars in a single Rocket,
-4594,Colonists per Rocket,
-8027,Max Research Collaboration Loss (%),
-8464,Determines whether the player can buy research points via outsourcing.,
+4607,Pipes are built instantly when this is not 0,Đường ống được xây dựng ngay lập tức khi đây không phải là 0
+4608,Instant Pipes,Ống tức thì
+4609,Deep Metals deposits are exploitable when this is not 0,Trầm tích của kim loại sâu có thể khai thác được khi giá trị này không phải là 0
+4610,Exploitable Deep Metals,Kim loại sâu có thể khai thác
+4613,Deep Rare Metals deposits are exploitable when this is not 0,Có thể khai thác trầm tích kim loại hiếm sâu khi giá trị này không phải là 0
+4614,Can exploit deep Rare Metals,Có thể khai thác kim loại hiếm sâu
+4611,Deep Water deposits are exploitable when this is not 0,Trầm tích nước sâu có thể khai thác được khi đây không phải là 0
+4612,Exploitable Deep Water,Nước sâu có thể khai thác
+10142,Maximum number of Colonists that can arrive on Mars in a single Pod,Số lượng cư dân tối đa có thể đến sao Hỏa trong một Pod duy nhất
+10143,Colonists per Pod,Cư dân mỗi Pod
+4593,Maximum number of Colonists that can arrive on Mars in a single Rocket,Số lượng tối đa cư dân có thể đến sao Hỏa trong một tên lửa duy nhất
+4594,Colonists per Rocket,Cư dân mỗi tên lửa
+8027,Max Research Collaboration Loss (%),Tổn thất cộng tác trong nghiên cứu tối đa (%)
+8464,Determines whether the player can buy research points via outsourcing.,Xác định xem người chơi có thể mua điểm nghiên cứu thông qua gia công hay không.
 8465,Outsource Disabled,Gia công đã vô hiệu hóa
 970197122036,Maximum Outsource Orders,Đặt hàng gia công tối đa
 593431521691,Outsource Research Points,Điểm gia công nghiên cứu
@@ -24666,122 +24795,122 @@ Trạng thái: <on_off(IsResourceEnabled(res))>"
 940974210714,Outsource Research Duration,Thời gian gia công nghiên cứu
 136058990142,The number of Homless colonists that Overpopulated the dome.,Số lượng người vô gia cư đã làm cho mái vòm quá đông.
 290519601836,OverpopulatedDome,
-4599,Period (in Sols) of additional periodical Funding from mission sponsors,
-4600,Funding Interval (Sols),
-4601,Amount of additional Funding (in millions) received periodically from mission sponsor,
-4602,Additional Funding (M),
-750913549910,Number of sponsor goals,
-4581,Determines where supply missions are enabled,
-4582,Supply Missions Enabled,
-4589,Time it takes for a Rocket to travel from Earth to Mars,
-4590,Rocket Travel Time (Earth to Mars),
-4591,Time it takes for a Rocket to travel from Mars to Earth,
-4592,Rocket Travel Time (Mars to Earth),
-7665,WasteRock To Concrete Ratio,
-4621,Breakthrough tech cost modifier,
-4622,Breakthrough tech cost modifier,
-4625,Research point multiplier for Breakthrough Research (in %),
-4626,Breakthrough Research Speed Mod,
-4629,Excess electrical Power will be converted to research at the rate defined by this value.,
-4630,Electricity for Research,
-4623,Research point multiplier for Experimental Research (in %),
-4624,Experimental Research Speed Mod,
-4631,Research points generated per RC Commander,
-222544894200,Number of Breakthroughs reserved for Planetary Anomalies,
-4627,Sponsor Funding gained per Sol,
-4628,Sponsor Research per Sol,
-4634,Go To command will automatically cause unsiege if target is further than this distance,
-4635,RC Commander distance to provoke automatic unsiege,
-4642,The amount of battery drained from RC Commander when recharging a Drone.,
-4643,RC Commander Drone battery recharge cost,
-4632,Maximum Drones an RC Commander can control,
-4633,RC Commander max Drones,
-4636,RC Commander Anomaly scanning time (for each layer of depth),
-4637,RC Commander Anomaly scan time,
-4638,The time it takes for an RC Commander to transfer 1 resource to a Depot.,
-4639,RC Commander resource gather time,
-12811,How many waypoints a safari can have.,
-12812,RC Transport maximum waypoints,
-4640,The time it takes the RC Transport to gather 1 resource from a deposit,
-4641,RC Transport resource gather time,
-438538796804,Sanity damage from a Cold Wave (per hour),
-438538796803,Sanity damage from Dust Storms (per hour),
-8879,Renegade creation point when game rule Rebel Yell is activated,
-4550,Stats above this level are considered high,
-4551,High Stat Threshold,
-4556,"High Health, Sanity and Comfort increase the Colonist's morale by this much",
-4557,High Stat Morale Effect,
-4577,"Chance of getting a negative trait when Sanity reaches zero, in %",
-4578,Chance for getting a flaw when experiencing a Sanity breakdown,
-4575,"Chance of suicide when Sanity reaches zero, in %",
-4576,Chance of Suicide,
-4548,Stats below this level are considered low,
-4549,Low Stat Threshold,
-4552,"Low Health, Sanity and Comfort decreases a Colonist's morale by this amount",
-4553,Low Stat Morale Effect,
-8660,Colonist Sanity decreased when rest in malfunctioned Dome,
-8661,Malfunctioned Dome Sanity Penalty,
-7426,Decreases minimum Colonist Comfort for giving birth in a Dome Medical Building,
-4573,Penalty to Colonist Comfort for Birth from Medical Buildings,
-7563,Health damage from small meteor (one-time on impact),
-4579,Sanity damage from meteor (one-time on impact),
-7424,Minimum Colonist Comfort for Birth,
-7425,Minimum Colonist Comfort for Birth,
-4554,"Morale of new Colonists starts randomly in this range, centered around half of maximum Morale",
-4555,Initial Morale Range,
-6975,Sanity damage for Dreamers from Mirages (per hour),
-4558,Colonist Comfort decreases when homeless,
-4559,Homeless Comfort Penalty,
-8807,Service threshold penalty for colonists being serviced in another connected dome,
-8808,Connected dome service threshold penalty,
-4580,Comfort damage from eating raw food from piles,
-4572,Outside Workplace Sanity Penalty,
-4564,This is the time it takes for Colonists outside of Domes to start losing health,
-4565,Oxygen max outside time,
-359628595078,Max effect of worker performance on Service Quality,
-4574,Renegade creation point,
-148733063704,Tourists Satisfaction decreases when gaining a flaw,Satisfaction decreases when tourists gain a flaw
-774523705937,Satisfaction Gain Flaw,
-239825283062,Tourists Satisfaction increases when gaining a new perk,Satisfaction increases when tourists gain a new perk
-475061686876,Satisfaction Gain Perk,
-531204593106,Satisfaction bonus awarded when Comfort is above high threshold,
+4599,Period (in Sols) of additional periodical Funding from mission sponsors,Khoảng thời gian (tính bằng Sols) Tài trợ định kỳ bổ sung từ nhà tài trợ cho sứ mệnh
+4600,Funding Interval (Sols),Khoảng thời gian tài trợ (Sol)
+4601,Amount of additional Funding (in millions) received periodically from mission sponsor,Số tiền tài trợ bổ sung (tính bằng triệu) nhận được định kỳ từ nhà tài trợ sứ mệnh
+4602,Additional Funding (M),Tài trợ bổ sung (M)
+750913549910,Number of sponsor goals,Số điểm của nhà tài trợ
+4581,Determines where supply missions are enabled,Xác định nơi nhiệm vụ tiếp tế được kích hoạt
+4582,Supply Missions Enabled,Đã bật nhiệm vụ tiếp tế
+4589,Time it takes for a Rocket to travel from Earth to Mars,Thời gian cần thiết để Tên lửa đi từ Trái đất đến sao Hỏa
+4590,Rocket Travel Time (Earth to Mars),Thời gian du hành tên lửa (Trái đất đến sao Hỏa)
+4591,Time it takes for a Rocket to travel from Mars to Earth,Thời gian cần thiết để Tên lửa đi từ Sao Hỏa đến Trái đất
+4592,Rocket Travel Time (Mars to Earth),Thời gian di chuyển của tên lửa (Sao Hỏa đến Trái đất)
+7665,WasteRock To Concrete Ratio,Tỷ lệ đá thải so với bê tông
+4621,Breakthrough tech cost modifier,Công cụ sửa đổi chi phí công nghệ đột phá
+4622,Breakthrough tech cost modifier,Công cụ sửa đổi chi phí công nghệ đột phá
+4625,Research point multiplier for Breakthrough Research (in %),Hệ số điểm nghiên cứu cho Nghiên cứu đột phá (tính bằng %)
+4626,Breakthrough Research Speed Mod,Mod tốc độ nghiên cứu đột phá
+4629,Excess electrical Power will be converted to research at the rate defined by this value.,Công suất điện dư thừa sẽ được chuyển đổi sang nghiên cứu theo tỷ lệ được xác định bởi giá trị này.
+4630,Electricity for Research,Điện cho nghiên cứu
+4623,Research point multiplier for Experimental Research (in %),Hệ số điểm nghiên cứu cho Nghiên cứu thử nghiệm (tính bằng %)
+4624,Experimental Research Speed Mod,Mod tốc độ nghiên cứu thử nghiệm
+4631,Research points generated per RC Commander,Điểm nghiên cứu được tạo cho mỗi chỉ huy RC
+222544894200,Number of Breakthroughs reserved for Planetary Anomalies,Số lượng Đột phá dành riêng cho Dị thường Hành tinh
+4627,Sponsor Funding gained per Sol,Số tiền của nhà tài trợ đã đạt được mỗi Sol
+4628,Sponsor Research per Sol,Nghiên cứu của nhà tài trợ mỗi Sol
+4634,Go To command will automatically cause unsiege if target is further than this distance,Lệnh Go To sẽ tự động giải phóng nếu mục tiêu xa hơn khoảng cách này
+4635,RC Commander distance to provoke automatic unsiege,Khoảng cách chỉ huy RC để kích hoạt tự động giải phóng
+4642,The amount of battery drained from RC Commander when recharging a Drone.,Lượng pin tiêu hao từ chỉ huy RC khi sạc lại Drone.
+4643,RC Commander Drone battery recharge cost,Chi phí sạc lại pin chỉ huy RC Drone
+4632,Maximum Drones an RC Commander can control,Drone tối đa mà một Chỉ huy RC có thể điều khiển
+4633,RC Commander max Drones,Drone tối đa chỉ huy RC
+4636,RC Commander Anomaly scanning time (for each layer of depth),Thời gian quét chỉ huy RC dị thường (cho mỗi lớp độ sâu)
+4637,RC Commander Anomaly scan time,Thời gian quét dị thường chỉ huy RC
+4638,The time it takes for an RC Commander to transfer 1 resource to a Depot.,Thời gian cần thiết để một Chỉ huy RC chuyển 1 tài nguyên đến Kho.
+4639,RC Commander resource gather time,Thời gian thu thập tài nguyên chỉ huy RC
+12811,How many waypoints a safari can have.,Một safari có thể có bao nhiêu điểm tham chiếu.
+12812,RC Transport maximum waypoints,Điểm tham chiếu tối đa của Vận tải RC
+4640,The time it takes the RC Transport to gather 1 resource from a deposit,Thời gian cần đến vận tải RC để thu thập 1 tài nguyên từ trầm tích
+4641,RC Transport resource gather time,Thời gian thu thập tài nguyên vận tải RC
+438538796804,Sanity damage from a Cold Wave (per hour),Sát thương tỉnh táo do Sóng lạnh (mỗi giờ)
+438538796803,Sanity damage from Dust Storms (per hour),Sát thương tỉnh táo từ Bão bụi (mỗi giờ)
+8879,Renegade creation point when game rule Rebel Yell is activated,Nổi loạn điểm tạo khi kích hoạt luật chơi Rebel Yell
+4550,Stats above this level are considered high,Số liệu thống kê trên mức này được coi là cao
+4551,High Stat Threshold,Ngưỡng thống kê cao
+4556,"High Health, Sanity and Comfort increase the Colonist's morale by this much","Sức khỏe cao, tỉnh cáo và sự thoải mái giúp tăng tinh thần của cư dân lên rất nhiều"
+4557,High Stat Morale Effect,Hiệu ứng tinh thần chỉ số cao
+4577,"Chance of getting a negative trait when Sanity reaches zero, in %","Cơ hội nhận được một đặc điểm tiêu cực khi tỉnh táo đạt đến 0, tính bằng %"
+4578,Chance for getting a flaw when experiencing a Sanity breakdown,Cơ hội nhận được sai sót khi trải qua sự cố tỉnh táo
+4575,"Chance of suicide when Sanity reaches zero, in %","Cơ hội tự sát khi tỉnh táo đạt 0, tính bằng %"
+4576,Chance of Suicide,Cơ hội tự tử
+4548,Stats below this level are considered low,Số liệu thống kê dưới mức này được coi là thấp
+4549,Low Stat Threshold,Ngưỡng thống kê thấp
+4552,"Low Health, Sanity and Comfort decreases a Colonist's morale by this amount","Sức khỏe thấp, tỉnh táo và sự tinh thần làm giảm tinh thần của cư dân với lượng này"
+4553,Low Stat Morale Effect,Hiệu ứng tinh thần chỉ số thấp
+8660,Colonist Sanity decreased when rest in malfunctioned Dome,Cư dân tỉnh táo giảm khi nghỉ ngơi trong mái vòm bị trục trặc
+8661,Malfunctioned Dome Sanity Penalty,Hình phạt tỉnh táo mái vòm bị trục trặc
+7426,Decreases minimum Colonist Comfort for giving birth in a Dome Medical Building,Giảm sự thoải mái tối thiểu cho cư dân để sinh con trong một công trình mái vòm y tế
+4573,Penalty to Colonist Comfort for Birth from Medical Buildings,Hình phạt đối với thoải mái của người thực hiện hành vi sinh đẻ từ công trình y tế
+7563,Health damage from small meteor (one-time on impact),Thiệt hại về sức khỏe do sao băng nhỏ (một lần khi va chạm)
+4579,Sanity damage from meteor (one-time on impact),Sát thương tỉnh táo từ thiên thạch (một lần khi va chạm)
+7424,Minimum Colonist Comfort for Birth,Thoải mái tối thiểu cho cư dân trong sinh nở
+7425,Minimum Colonist Comfort for Birth,Thoải mái tối thiểu cho cư dân trong sinh nở
+4554,"Morale of new Colonists starts randomly in this range, centered around half of maximum Morale","Tinh thần của cư dân mới bắt đầu ngẫu nhiên trong phạm vi này, tập trung vào khoảng một nửa thoải mái tối đa"
+4555,Initial Morale Range,Phạm vi tinh thần ban đầu
+6975,Sanity damage for Dreamers from Mirages (per hour),Sát thương tỉnh táo cho Kẻ mộng mơ từ Mirages (mỗi giờ)
+4558,Colonist Comfort decreases when homeless,Cư dân thoải mái giảm khi vô gia cư
+4559,Homeless Comfort Penalty,Hình phạt thoải mái cho người vô gia cư
+8807,Service threshold penalty for colonists being serviced in another connected dome,Hình phạt ngưỡng dịch vụ đối với cư dân được phục vụ trong một mái vòm được kết nối khác
+8808,Connected dome service threshold penalty,Hình phạt ngưỡng dịch vụ mái vòm được kết nối
+4580,Comfort damage from eating raw food from piles,Thiệt hại thoải mái do ăn thức ăn sống từ đống
+4572,Outside Workplace Sanity Penalty,Hình phạt tỉnh táo bên ngoài nơi làm việc
+4564,This is the time it takes for Colonists outside of Domes to start losing health,Đây là thời gian cần thiết để cư dân bên ngoài mái vòm bắt đầu giảm sức khỏe
+4565,Oxygen max outside time,Ôxy tối đa thời gian bên ngoài
+359628595078,Max effect of worker performance on Service Quality,Ảnh hưởng tối đa của hiệu suất công nhân đến Chất lượng dịch vụ
+4574,Renegade creation point,Nổi loạn điểm tạo
+148733063704,Tourists Satisfaction decreases when gaining a flaw,Sự hài lòng giảm khi khách du lịch đạt được khuyết điểm
+774523705937,Satisfaction Gain Flaw,Sự hài lòng đạt được khuyết điểm
+239825283062,Tourists Satisfaction increases when gaining a new perk,Sự hài lòng tăng lên khi khách du lịch nhận được đặc quyền mới
+475061686876,Satisfaction Gain Perk,Sự hài lòng đạt được đặc quyền
+531204593106,Satisfaction bonus awarded when Comfort is above high threshold,Phần thưởng hài lòng được trao khi thoải mái trên ngưỡng cao
 146864420582,SatisfactionHighComfortBonus,
-419850181535,Satisfaction bonus awarded when stat is above high threshold,
+419850181535,Satisfaction bonus awarded when stat is above high threshold,Phần thưởng hài lòng được trao khi chỉ số trên ngưỡng cao
 624047905370,SatisfactionHighStatBonus,
-855475527391,Tourists Satisfaction increases when losing a flaw,Satisfaction increases when tourists lose a flaw
-456025041535,Satisfaction Lose Flaw,
-617017187748,Satisfaction loss when stat is below the low threshold,
+855475527391,Tourists Satisfaction increases when losing a flaw,Sự hài lòng tăng lên khi khách du lịch đánh mất một khuyết điểm
+456025041535,Satisfaction Lose Flaw,Sự hài lòng mất khuyết điểm
+617017187748,Satisfaction loss when stat is below the low threshold,Mất sự hài lòng khi chỉ số dưới ngưỡng thấp
 437220542891,SatisfactionLowStatPenalty,
-291494979377,Tourists Satisfaction decreases when having no residence,Satisfaction decreases when tourists have no residence
-848729758274,Satisfaction No Home Comfort,
-966554985041,Tourists Satisfaction decreases when staying longer than intended,Satisfaction decreases when tourists stay on Mars longer than intended
-935839574484,Satisfaction Overstay Penalty,
-406705807522,Satisfaction bonus awarded when Comfort is maxed out,
+291494979377,Tourists Satisfaction decreases when having no residence,Sự hài lòng giảm khi khách du lịch không có nơi cư trú
+848729758274,Satisfaction No Home Comfort,Sự hài lòng Không có nhà Thoải mái
+966554985041,Tourists Satisfaction decreases when staying longer than intended,Sự hài lòng giảm khi khách du lịch ở trên sao Hỏa lâu hơn dự định
+935839574484,Satisfaction Overstay Penalty,Hình phạt quá hạn cho sự hài lòng
+406705807522,Satisfaction bonus awarded when Comfort is maxed out,Phần thưởng về sự hài lòng được trao khi Mức độ thoải mái được tăng tối đa
 399989862229,SatisfactionPerfectComfortBonus,
-524875637641,Satisfaction bonus awarded when stat is maxed out,
+524875637641,Satisfaction bonus awarded when stat is maxed out,Phần thưởng hài lòng được trao khi chỉ số đạt đến mức tối đa
 161655565768,SatisfactionPerfectStatBonus,
-485525750330,Tourists Satisfaction decreases when having a breakdown,Satisfaction decreases when tourists have a breakdown
-855663642150,Satisfaction Sanity Breakdown,
-920809754131,Tourists Satisfaction decreases while in shock,
-210074917094,Satisfaction Shock Penalty,
-4560,Colonist Sanity decreases when a Colonist from the same Residence dies from non-natural causes,
-4561,Seeing Death,
-12338,This is the time it takes for Colonists outside of Domes to become dehydrated,
-12339,Water max outside time,
-4566,When working during dark hours Colonists will lose this much Sanity (per work shift),
-4567,Dark hours work Sanity decrease,
-8809,Workers in Workshop receive Comfort boost,
-8811,Workers in Workshop receive Morale boost,
-4570,Decreased Health from heavy workloads,
-4571,Heavy Workload Health Penalty,
-4568,Decreased Sanity from heavy workloads,
-4569,Heavy Workload Sanity Penalty,
-589776447693,Cooldown added to a category whenever a StoryBit from THAT category is activated,
-435983609557,Category Extra Cooldown,
-12317,Each StoryBit category is assigned a random cooldown between MinCooldown and MaxCooldown when a StoryBit triggers,
-12318,Max Cooldown,Thời gian hồi chiêu tối đa
-12319,Each StoryBit category is assigned a random cooldown between MinCooldown and MaxCooldown when a StoryBit triggers,Mỗi danh mục StoryBit được chỉ định một thời gian hồi chiêu ngẫu nhiên giữa Thời gian hồi chiêu tối thiểu và Thời gian hồi chiêu tối đa khi một StoryBit kích hoạt
-136932901153,Min Cooldown,Thời gian hồi chiêu tối thiểu
+485525750330,Tourists Satisfaction decreases when having a breakdown,Sự hài lòng giảm khi khách du lịch gặp sự cố
+855663642150,Satisfaction Sanity Breakdown,Sự hài lòng sự cố tỉnh táo
+920809754131,Tourists Satisfaction decreases while in shock,Sự hài lòng của khách du lịch giảm khi bị sốc
+210074917094,Satisfaction Shock Penalty,Hình phạt sốc cho sự hài lòng
+4560,Colonist Sanity decreases when a Colonist from the same Residence dies from non-natural causes,Cư dân tỉnh táo giảm khi một cư dân từ cùng một nơi cư trú chết vì những nguyên nhân không phải tự nhiên
+4561,Seeing Death,Nhìn thấy cái chết
+12338,This is the time it takes for Colonists outside of Domes to become dehydrated,Đây là thời gian cần thiết cho cư dân bên ngoài mái vòm bị mất nước
+12339,Water max outside time,Nước tối đa thời gian bên ngoài
+4566,When working during dark hours Colonists will lose this much Sanity (per work shift),Khi làm việc trong giờ tối, cư dân sẽ mất rất nhiều tỉnh táo (mỗi ca làm việc)
+4567,Dark hours work Sanity decrease,Giờ làm việc tối giảm tỉnh táo
+8809,Workers in Workshop receive Comfort boost,Công nhân trong xưởng được tăng thoải mái
+8811,Workers in Workshop receive Morale boost,Công nhân trong Xưởng được nâng cao tinh thần
+4570,Decreased Health from heavy workloads,Sức khỏe giảm sút do khối lượng công việc nặng
+4571,Heavy Workload Health Penalty,Hình phạt sức khỏe khối lượng công việc nặng
+4568,Decreased Sanity from heavy workloads,Giảm tỉnh táo do khối lượng công việc nặng
+4569,Heavy Workload Sanity Penalty,Hình phạt tỉnh táo do khối lượng công việc nặng
+589776447693,Cooldown added to a category whenever a StoryBit from THAT category is activated,Thời gian hồi được thêm vào một danh mục bất cứ khi nào một StoryBit từ danh mục ĐÓ được kích hoạt
+435983609557,Category Extra Cooldown,Thời gian hồi thêm của danh mục
+12317,Each StoryBit category is assigned a random cooldown between MinCooldown and MaxCooldown when a StoryBit triggers,Mỗi danh mục StoryBit được chỉ định một thời gian hồi ngẫu nhiên giữa MinCooldown và MaxCooldown khi một StoryBit kích hoạt
+12318,Max Cooldown,Thời gian hồi tối đa
+12319,Each StoryBit category is assigned a random cooldown between MinCooldown and MaxCooldown when a StoryBit triggers,Mỗi danh mục StoryBit được chỉ định một thời gian hồi ngẫu nhiên giữa Thời gian hồi tối thiểu và Thời gian hồi chiêu tối đa khi một StoryBit kích hoạt
+136932901153,Min Cooldown,Thời gian hồi tối thiểu
 10865,Time to wait for the player to click the StoryBit notification before the pop up is forced,Thời gian chờ người chơi nhấp vào thông báo StoryBit trước khi cửa sổ bật lên bị buộc
 262180053685,Notification Timeout,Thời gian chờ thông báo
 382207919709,Time duration between Tick triggers,Khoảng thời gian giữa lần kích hoạt đánh dấu
