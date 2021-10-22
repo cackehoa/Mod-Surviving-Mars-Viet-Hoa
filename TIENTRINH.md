@@ -131,3 +131,16 @@
 - Dịch về Chiến tranh doanh nghiệp
 - Dịch về Dịch bệnh
 - Dịch về Bán phá giá
+## Ngày 22/10/2021
+- Dịch về Nạn đói
+- Dịch về Giải đấu trò chơi
+- Dịch về Gián điệp công nghiệp
+- Dịch về Đấng cứu thế mới
+- Dịch về Tên lửa bí ẩn
+- Dịch về Những chàng trai mới
+- Dịch về Hoang tưởng
+- Dịch về Quyền truy cập nâng cao
+- Dịch về Trò chơi gián điệp
+- Dịch về SpyTech
+- Dịch về Hội nghị
+- Dịch về Bệnh nhân
