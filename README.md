@@ -5,8 +5,9 @@
 Mình là nông dân thích chơi trò chơi chỉ là trình độ tiếng Anh của mình khá kém. Mình cũng đã và đang cố học tiếng Anh nhưng quá già để có thể nhớ hết từ vựng. Vì vậy mình muốn dịch một tựa trò chơi để phục vụ cho bản thân mặt khác cũng có ý định share cho mọi người sử dụng. Nhưng thời gian mình có hạn nên sẽ cập nhật từ từ những lúc mình rãnh.
 
 Nếu có lỗi gì liên quan đến dịch thuật các bạn có thể liên hệ với mình để mình cập nhật bản mod này hoàn thiện hơn.
-## Tiến trình dịch
+## Tiến trình dịch 99%
 Xem tiến trình dịch và cập nhật mới nhất tại [TIENTRINH.md](TIENTRINH.md)
+
 ## Hướng dẫn
 ### Cài đặt trò chơi
 
