@@ -1,25 +1,23 @@
 # Mod Surviving Mars Việt Hóa
 Đây là mod Mod Surviving Mars Việt Hóa phiên bản 1001514
 
-## Lời nói đầu
-Mình là nông dân thích chơi trò chơi chỉ là trình độ tiếng Anh của mình khá kém. Mình cũng đã và đang cố học tiếng Anh nhưng quá già để có thể nhớ hết từ vựng. Vì vậy mình muốn dịch một tựa trò chơi để phục vụ cho bản thân mặt khác cũng có ý định share cho mọi người sử dụng. Nhưng thời gian mình có hạn nên sẽ cập nhật từ từ những lúc mình rãnh.
-
-Nếu có lỗi gì liên quan đến dịch thuật các bạn có thể liên hệ với mình để mình cập nhật bản mod này hoàn thiện hơn.
-## Tiến trình dịch 99%
+# Giới thiệu
+Surviving Mars là một công cụ xây dựng thành phố khoa học viễn tưởng xoay quanh việc thuộc địa hóa sao Hỏa và tồn tại trong quá trình này. Chọn một cơ quan vũ trụ để có tài nguyên và hỗ trợ tài chính trước khi xác định vị trí cho thuộc địa của bạn. Xây dựng mái vòm và cơ sở hạ tầng, nghiên cứu khả năng mới và sử dụng Drone để mở khóa cách phức tạp hơn để định hình và mở rộng khu định cư của bạn. Tự trồng thực phẩm, khai thác khoáng chất hoặc chỉ cần thư giãn bên quầy bar sau một ngày làm việc mệt mỏi. Tuy nhiên, điều quan trọng nhất là giữ cho cư dân của bạn sống sót. Không phải là một nhiệm vụ dễ dàng trên một hành tinh mới lạ.
+# Tiến trình dịch 99%
 Xem tiến trình dịch và cập nhật mới nhất tại [TIENTRINH.md](TIENTRINH.md)
 
-## Hướng dẫn
-### Cài đặt trò chơi
+# Hướng dẫn
+## Cài đặt trò chơi
 
 Cài đặt trò chơi Surviving Mars và chạy thử trước khi cài mod
 
 Đề nghị mua trò chơi để ủng hộ nhà sản xuất.
 
-### Phiên bản yêu cầu: v.1001514
+## Phiên bản yêu cầu: v.1001514
 
 Mình dịch trên phiên bản v.1001514 nên có thể không chạy hoặc có lỗi trên phiên bản khác
 
-### Cài đặt mod
+## Cài đặt mod
 
 - Tải tất cả thư mục [Vietnamese](Vietnamese/) trong này
 - Copy và dán vào thư mục **AppData\Roaming\Surviving Mars\Mods**
@@ -27,11 +25,11 @@ Mình dịch trên phiên bản v.1001514 nên có thể không chạy hoặc c�
 - Khởi động game vào **PARADOX MOD MANAGER** -> **Installed Mods**
 - Bật mod **Vietnamese**
 
-### Tìm thư mục AppData
+## Tìm thư mục AppData
 
 - Ấn phím window hoặc tổ hợp phím Ctrl + ESC
 - Nhập `%AppData%` rồi ấn phím Enter trên bàn phím
-### Hướng dẫn dịch
+## Hướng dẫn dịch
 
 Trong thư mục [Vietnamese](Vietnamese/) có 3 tập tin bạn chỉ cần quan tâm đến tập tin [Vietnamese.csv](Vietnamese/Vietnamese.csv)
 
@@ -65,11 +63,11 @@ với ```Chữ``` ở đây là dịch ```Text``` ra tiếng Việt
   + ```<em>``` và ```</em>```
   + ...
 
-### Công cụ dịch
+## Công cụ dịch
 
 Dùng Notepad, Notepad++
 
-### Một số thuật ngữ trong bản dịch
+## Một số thuật ngữ trong bản dịch
 
 + **Vườn ươm** (Nursery): Tại sao không phải nhà trẻ, mẫu giáo? Mình thích thuật ngữ vườn ươm sao khi nói về các thiên hà có sao mới sinh ra liên tục
 + **Trầm tích** (Deposit): Những gì tích tụ bên dưới mặt đất
@@ -77,11 +75,11 @@ Dùng Notepad, Notepad++
 + **Cư dân** (Colonist): tương tự như trên thì thực dân chỉ phù hợp với kẻ thống trị hơn là khai hoang
 + **Tạo hình** (Terraforming): Nếu dịch là địa hình không phù hợp, mà dịch tạo địa hình cũng không đúng lắm. Trong trò chơi này **Terraforming** được mô tả như hành động thay đổi không khí (tăng ôxy), nhiệt độ, tạo từ trường, trồng thực vật, phát tán vi khuẩn... nhằm biến đổi sao Hỏa thành môi trường thân thiện với con người nó không đơn giản là thay đổi địa hình (đào núi lấp biển)
 
-### Xem thêm hướng dẫn sử dụng github
+# Xem thêm hướng dẫn sử dụng github
 
 Nếu chưa biết cách sữ dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
 
-## Liên lạc và ủng hộ
+# Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
 
 Fanpage: [fb](https://www.facebook.com/cackehoa)
@@ -89,5 +87,5 @@ Fanpage: [fb](https://www.facebook.com/cackehoa)
 Discord: [Discord](https://discord.gg/Z5C98FG)
 
 Youtube: [Cắc kè hoa](https://www.youtube.com/c/Cắckèhoa)
-## Giấy phép
+# Giấy phép
 [MIT](LICENSE)
